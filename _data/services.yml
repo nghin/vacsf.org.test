@@ -1,4 +1,4 @@
 - menu_name: "Contact"
 - name: "Contact"
-  url: "/info/"
+  url: "{{ site.projectname }}/info/"
   title: "Contact"
