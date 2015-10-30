@@ -13,7 +13,7 @@ widget1:
   text: 'VACSF, <font face="Open Sans"><i>Hội Thánh Tin Lành Việt Nam</i></font>, in San Francisco, is a congregation of believers in Christ from all walks of life who assembles every Sunday to celebrate everlasting life afforded them through the Son of God who came to save the world. Please continue reading for contact, schedules, and other information.'
 widget2:
   title: "Bible Study"
-  url: '/bible-study/'
+  url: '/bible-topics/'
   text: 'Studies of various common topics, especially those that tend to be misunderstood and hence misapplied. Don&#39;t accept anything even from the best of teachers as Scriptures, but be like the Bereans to check whatever you hear or read. Check your own interpretation of a passage against all foundational truths you can possibly know, and you will know beyond any doubt its true meaning. In this section you will find the following studies:<br/>1. Galatians<br/>2. Romans<br/>3. Hot Potatoes Topics'
 widget3:
   title: "Church Events"
