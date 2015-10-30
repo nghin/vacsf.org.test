@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://nghin.github.io/vacsf.org/</id>
+	<id>http://localhost:4000/</id>
 	<title>The Whole Bible is About Jesus!</title>
-	<updated>2015-10-29T21:49:37-07:00</updated>
+	<updated>2015-10-29T22:39:12-07:00</updated>
 
 	<subtitle>Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life.</subtitle>
 
@@ -23,17 +23,17 @@
 		</author>
 	
 
-	<link href="http://nghin.github.io/vacsf.org/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://nghin.github.io/vacsf.org/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/40th-Anniversary/</id>
+			<id>http://localhost:4000/events/40th-Anniversary/</id>
 			<title>40th Anniversary Celebration</title>
-			<link href="http://nghin.github.io/vacsf.org/events/40th-Anniversary/" rel="alternate" type="text/html" title="40th Anniversary Celebration" />
+			<link href="http://localhost:4000/events/40th-Anniversary/" rel="alternate" type="text/html" title="40th Anniversary Celebration" />
 			<updated>2015-10-17T00:00:00-07:00</updated>
 
 			
@@ -51,7 +51,7 @@
 				</author>
 			
 			<summary>Vietnamese Alliance Church in San Francisco celebrated their 40th Anniversary of its founding in 1975. Over decades past, it has been a sanctuary for many; from the service in the sanctuary where hymns of praises were sung and sermons preached, to Sunday School where empowering and liberating truths were discovered and marvelled at, and fellowship over lunch was enjoyed by all.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/40th-Anniversary/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/40th-Anniversary/">&lt;!--more--&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
     &lt;p&gt;Here&#39;s the video that captured this special event. Enjoy.&lt;/p&gt;
     &lt;table border=&quot;1&quot; style=&quot;width: 100%; height: 323px;&quot;&gt;
@@ -141,9 +141,9 @@
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Coyote-Point-Picnic/</id>
+			<id>http://localhost:4000/events/Coyote-Point-Picnic/</id>
 			<title>Coyote Point Park Picnic</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Coyote-Point-Picnic/" rel="alternate" type="text/html" title="Coyote Point Park Picnic" />
+			<link href="http://localhost:4000/events/Coyote-Point-Picnic/" rel="alternate" type="text/html" title="Coyote Point Park Picnic" />
 			<updated>2015-09-20T00:00:00-07:00</updated>
 
 			
@@ -161,7 +161,7 @@
 				</author>
 			
 			<summary>Our church had a great picnic at Coyote Point Park last September, 2015. Enjoy this small collection of photos.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Coyote-Point-Picnic/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Coyote-Point-Picnic/">&lt;!--more--&gt;
 &lt;div align=&quot;center&quot; class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;http://rgb-scale.com/vacsfj336/index.php/photo-galleries/164-coyote-point-picnic-2015&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;div class=&quot;small-12&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
@@ -247,9 +247,9 @@
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Natural-Bridges-Picnic/</id>
+			<id>http://localhost:4000/events/Natural-Bridges-Picnic/</id>
 			<title>Natural Bridges State Beach</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Natural-Bridges-Picnic/" rel="alternate" type="text/html" title="Natural Bridges State Beach" />
+			<link href="http://localhost:4000/events/Natural-Bridges-Picnic/" rel="alternate" type="text/html" title="Natural Bridges State Beach" />
 			<updated>2015-08-04T00:00:00-07:00</updated>
 
 			
@@ -267,7 +267,7 @@
 				</author>
 			
 			<summary>Families with young children had a great picnic at the Natural Bridges State Beach of Santa Cruz last August, 2015. The pictures say it all about the beauty of this place. Enjoy this small collection of photos.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Natural-Bridges-Picnic/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Natural-Bridges-Picnic/">&lt;!--more--&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;http://rgb-scale.com/vacsfj336/index.php/photo-galleries/158-natural-bridges-state-beach-picnic-2    015-santa-cruz&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
@@ -303,9 +303,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/VAY-Bay-Area-Camp/</id>
+			<id>http://localhost:4000/events/VAY-Bay-Area-Camp/</id>
 			<title>VAY Bay Area Camp</title>
-			<link href="http://nghin.github.io/vacsf.org/events/VAY-Bay-Area-Camp/" rel="alternate" type="text/html" title="VAY Bay Area Camp" />
+			<link href="http://localhost:4000/events/VAY-Bay-Area-Camp/" rel="alternate" type="text/html" title="VAY Bay Area Camp" />
 			<updated>2015-07-02T00:00:00-07:00</updated>
 
 			
@@ -323,7 +323,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>In this Summer of 2015, the Vietnamese Youth Alliance organized a camp for the youth of San Francisco Bay Area at the Daybreak Camp in Felton, CA. Pastor David Huynh was the main speaker. Enjoy a small collection of photos and summaries of the sermons.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/VAY-Bay-Area-Camp/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/VAY-Bay-Area-Camp/">&lt;!--more--&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;I had the pleasure of attending the VAY Camp during the weekend of June 27-29, 2015. If it wasn&#39;t for one of my kids who insisted that I had to be there with her, I woudn&#39;t have been there. Not that I didn&#39;t want to, but I would have felt uninvited, like I was not supposed to be there. It was great, a nice little retreat during which I was able to complete my writings on all of &lt;a href=&quot;javascript:{}&quot; class=&quot;NETBibleTagged&quot;&gt;Romans 9&lt;/a&gt; for both English and Vietnamese, and a part of chapter 10.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Here is a little album of photos I took during this trip. I&#39;m sure someone at the VAY staff will post something at their website to document this event. I will be focusing on the sermons of the special guest speaker David Huynh.&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;http://vacsf.org/index.php/photo-galleries/167-vietnamese-alliance-youth-vay-camp-2015-slider&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -380,9 +380,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Tet-Nguyen-Dan/</id>
+			<id>http://localhost:4000/events/Tet-Nguyen-Dan/</id>
 			<title>Tết Nguyên Đán 2015</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Tet-Nguyen-Dan/" rel="alternate" type="text/html" title="Tết Nguyên Đán 2015" />
+			<link href="http://localhost:4000/events/Tet-Nguyen-Dan/" rel="alternate" type="text/html" title="Tết Nguyên Đán 2015" />
 			<updated>2015-02-18T00:00:00-08:00</updated>
 
 			
@@ -400,7 +400,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>Celebration of &lt;font face=&quot;Open Sans&quot;&gt;Tết Nguyên Đán&lt;/font&gt; (Lunar New Year) of 2015 at &lt;font face=&quot;Open Sans&quot;&gt;Hội Thánh Tin Lành Việt Nam&lt;/font&gt; in the city of San Francisco (VACSF). Enjoy this collection of photos.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Tet-Nguyen-Dan/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Tet-Nguyen-Dan/">&lt;!--more--&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;100%&quot; height=&quot;720&quot; src=&quot;http://rgb-scale.com/vacsfj336/index.php/photo-galleries/135-t-t-nguyen-dan-2015&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
     &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -486,9 +486,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/MLK-Retreat-Jackson-CA/</id>
+			<id>http://localhost:4000/events/MLK-Retreat-Jackson-CA/</id>
 			<title>MLK Retreat - Jackson, CA</title>
-			<link href="http://nghin.github.io/vacsf.org/events/MLK-Retreat-Jackson-CA/" rel="alternate" type="text/html" title="MLK Retreat - Jackson, CA" />
+			<link href="http://localhost:4000/events/MLK-Retreat-Jackson-CA/" rel="alternate" type="text/html" title="MLK Retreat - Jackson, CA" />
 			<updated>2015-01-18T00:00:00-08:00</updated>
 
 			
@@ -506,7 +506,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>To continue the tradition, our church&#39;s families with young children had a retreat this year in Jackson, CA, at a beautiful farm house overlooking gorgeous landscapes. Enjoy this collection of photos.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/MLK-Retreat-Jackson-CA/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/MLK-Retreat-Jackson-CA/">&lt;!--more--&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;100%&quot; height=&quot;720&quot; src=&quot;http://vacsf.org/index.php/photo-galleries/122-mlk-retreat-2015-jackson-ca&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
     &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -592,9 +592,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Christmas-VACSF/</id>
+			<id>http://localhost:4000/events/Christmas-VACSF/</id>
 			<title>Christmas 2014</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Christmas-VACSF/" rel="alternate" type="text/html" title="Christmas 2014" />
+			<link href="http://localhost:4000/events/Christmas-VACSF/" rel="alternate" type="text/html" title="Christmas 2014" />
 			<updated>2014-12-21T00:00:00-08:00</updated>
 
 			
@@ -612,7 +612,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>Christmas 2014 Celebration at Vietnamese Alliance Church in San Francisco. Enjoy the photo album.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Christmas-VACSF/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Christmas-VACSF/">&lt;!--more--&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;100%&quot; height=&quot;720&quot; src=&quot;http://vacsf.org/index.php/photo-galleries/118-christmas-2014-celebration-photo-album&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
     &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -698,9 +698,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Harvest-Festival/</id>
+			<id>http://localhost:4000/events/Harvest-Festival/</id>
 			<title>Harvest Festival 2014</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Harvest-Festival/" rel="alternate" type="text/html" title="Harvest Festival 2014" />
+			<link href="http://localhost:4000/events/Harvest-Festival/" rel="alternate" type="text/html" title="Harvest Festival 2014" />
 			<updated>2014-10-31T00:00:00-07:00</updated>
 
 			
@@ -718,7 +718,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>Mid-Autumn Harvest Festival 2014 Celebration at Vietnamese Alliance Church in San Francisco. Enjoy the slideshow.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Harvest-Festival/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Harvest-Festival/">&lt;!--more--&gt;
 &lt;div class=&quot;flex-video&quot;&gt; &lt;iframe width=&quot;100%&quot; height=&quot;720&quot; src=&quot;http://vacsf.org/index.php/photo-galleries/102-mid-autumn-harvest-festival&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
     &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -804,9 +804,9 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 	
 	    
 		<entry>
-			<id>http://nghin.github.io/vacsf.org/events/Baptism/</id>
+			<id>http://localhost:4000/events/Baptism/</id>
 			<title>Baptism 2012</title>
-			<link href="http://nghin.github.io/vacsf.org/events/Baptism/" rel="alternate" type="text/html" title="Baptism 2012" />
+			<link href="http://localhost:4000/events/Baptism/" rel="alternate" type="text/html" title="Baptism 2012" />
 			<updated>2012-12-02T00:00:00-08:00</updated>
 
 			
@@ -824,7 +824,7 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 				</author>
 			
 			<summary>First baptism at the new VACSF church on Vermont Street, Sans Francisco. Enjoy the photos.</summary>
-			<content type="html" xml:base="http://nghin.github.io/vacsf.org/events/Baptism/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/events/Baptism/">&lt;!--more--&gt;
 &lt;p&gt;This is the first baptism at our new church building on Vermont Street, San Francisco. During the renovation of this church, the men, as well as many others who contributed in different manners especially in the provision of food during the work hours, had a great time working together. The baptistry used in this event was one such project which provided a great opportunity for fellowship.&lt;/p&gt;
 &lt;p&gt;These are some photos taken during this baptism ceremony. Enjoy.&lt;/p&gt;
 &lt;div class=&quot;flex-video&quot;&gt;
