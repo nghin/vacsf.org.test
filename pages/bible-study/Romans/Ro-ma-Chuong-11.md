@@ -1,0 +1,65 @@
+---
+layout: page-fullwidth
+subheadline: "Học Kinh Thánh"
+title: "Rô-ma Chương 11"
+meta_teaser: "Bible Study on the eleventh chapter of Romans"
+teaser: "Một phần còn sót lại - tiêu chuẩn chọn lựa của Chúa. Cứu rỗi bởi ơn. Luật pháp trở nên cạm bẫy cho kẻ cậy vào nó."
+permalink: /hoc-kinh-thanh/sach-ro-ma/11/
+breadcrumb: true
+header: no
+---
+<!--more-->
+<div class="row">
+<div class="medium-8 columns" markdown="1">
+<!-- Anything above first paragraph goes here -->
+
+### Một phần còn sót lại - tiêu chuẩn chọn lựa của Chúa
+
+> <sup>1</sup>Vậy tôi nói: Ðức Chúa Trời có bỏ dân Ngài chăng? Chẳng hề như vậy; vì chính tôi là dân Y-sơ-ra-ên, dòng dõi Áp-ra-ham, về chi phái Bên-gia-min. <sup>2</sup>Ðức Chúa Trời chẳng từng bỏ dân Ngài đã biết trước. Anh em há chẳng biết Kinh Thánh chép về chuyện Ê-li sao? thể nào người kiện dân Y-sơ-ra-ên trước mặt Ðức Chúa Trời mà rằng: <sup>3</sup>Lạy Chúa, họ đã giết tiên tri Ngài, hủy phá bàn thờ Ngài; tôi còn lại một mình, và họ tìm giết tôi. <sup>4</sup>Nhưng Ðức Chúa Trời đáp lại thể nào? Ta đã để dành cho ta bảy ngàn người nam chẳng hề quì gối trước mặt Ba-anh. <sup>5</sup>Ngày nay cũng vậy, có một phần còn sót lại theo sự lựa chọn của ân điển. (Romans 11:1-5)
+
+<div>
+<p>
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<!-- First paragraph goes here -->
+Phao-lô nhắc lại thời tiên tri Ê-li khi ông tưởng rằng cả tuyển dân của Chúa chẳng một ai theo Ngài nữa, nhưng Chúa cho ông biết còn <span style="font-style: italic;">"một phần sót lại"</span> trong vòng họ vẫn tin Ngài. Ngày nay, khi Phao-lô viết thư này, cũng còn một số người <span style="font-style: italic;">"còn sót lại."</span> Trong thời Ê-li, Chúa chọn những người không quì trước thần Ba-anh, ngày nay Chúa theo tiêu chuẩn nào? Câu 5 cho chúng ta biết phần còn sót lại này <span style="font-style: italic;">"theo sự lựa chọn của ân điển."</span>
+</p>
+</div>
+<!-- Remaining text goes here -->
+
+Chúng ta có thể hiểu ý nghĩa của chữ <span style="font-style: italic;">"ân điển"</span> trong câu 5 về hai phương diện. Một là nói lên lòng thương xót của Chúa, và hai là nói lên cách Chúa chọn lựa khi Ngài đặt nền tảng trên đức tin chứ không phải bởi nỗ lực của xác thịt. Phao-lô trình bày cả hai khía cạnh này trong chương 10 và 11, điển hình là câu 10:20 khi ông nhắc lại lời tiên tri Ê-sai: <span style="font-style: italic;">"Những kẻ chẳng tìm kiếm ta thì đã gặp thấy ta, Ta đã tỏ mình ra cho kẻ chẳng hỏi han ta"</span> để nói về lòng thương xót và quyền tể trị của Ngài, còn về sự cứu rỗi bởi đức tin thì chúng ta sẽ thấy trong câu 11:6 mà chúng ta sẽ đọc dưới đây.
+
+Tuy nhiên nếu chúng ta cứ giữ từ tiết của các thư Phao-lô, kể cả sách Rô-ma mà chúng ta đang học ở đây, dù một phần nhỏ ông viết về quyền tể trị đi đôi với lòng thương xót của Chúa, một đặc tính hiển nhiên của Đấng Vô Sở Bất Năng, còn lại phần lớn ông viết về cách chọn lựa của Chúa: ân điển chứ không phải việc làm, hay nỗ lực của xác thịt. Do đó chúng ta có thể hiểu ý của câu 5: <span style="font-style: italic;">"Ngày nay cũng vậy, có một phần xót lại theo sự lựa chọn của ân điển,"</span> là phương cách Ngài chọn để cứu: những kẻ tin. Vì đức tin đi đôi với ân điển. Galatians 3:12 cũng viết rằng <span style="font-style: italic;">"Vả, luật pháp vốn không phải đồng một thứ với đức tin."</span>
+
+Do đó có một sự song song giữa cách Chúa chọn kẻ Ngài cứu trong thời Ê-li và ngày nay trong thời Phao-lô. Những kẻ không quì trước thần Ba-anh đi đôi với những kẻ cậy đức tin. Những kẻ thờ thần Ba-anh đi đôi với những kẻ cậy việc làm--vì khi họ cậy việc làm thì họ kể sự chết của Chúa là vô ích.
+
+### Cứu rỗi bởi ơn
+
+> <sup>6</sup>Nhưng nếu bởi ơn thì chẳng phải bởi việc làm nữa; bằng chẳng, thì ơn không còn phải là ơn. (Romans 11:6)
+
+Phao-lô làm sáng tỏ thêm ý nghĩa của câu 5 ở trên về ân điển là nền tảng sự cứu rỗi. Ông cho thấy sự đối nghịch giữa ân điển và việc làm, như ánh sáng và bóng tối. Nếu chúng ta cậy vào việc làm thì chúng ta kể như mình không cần ân điển Chúa. Hơn nữa, nếu chúng ta không thể cậy việc làm để được sự cứu rỗi, thì cũng không thể cậy việc làm để hầu việc Chúa, hoặc để sống đẹp lòng Ngài.
+
+### Luật pháp trở nên cạm bẫy cho kẻ cậy vào nó
+
+> <sup>7</sup>Vậy thì làm sao? Ấy là dân Y-sơ-ra-ên chẳng được điều mình tìm; song những kẻ được chọn thì đã được, những kẻ còn lại thì bị cứng lòng, <sup>8</sup>như có chép rằng: Ðức Chúa Trời đã cho họ mờ tối, con mắt chẳng thấy, lỗ tai chẳng nghe, cho đến ngày nay. <sup>9</sup>Lại, Ða vít có nói: Ước gì bàn tiệc của họ trở nên bẫy Lưới, nên dịp vấp chơn và sự phạt công bình cho họ; <sup>10</sup>Ước gì mắt họ mù không thấy được, Và lưng họ cứ khom luôn. (Romans 11:7-10)
+
+Điều Y-sơ-ra-ên tìm kiếm đó là sự công bình của Đức Chúa Trời, nhưng họ tìm không được vì như trong Romans 9:31 có viết: <span style="font-style: italic;">"còn như dân Y-sơ-ra-ên tìm luật pháp của sự công bình, thì không đạt đến luật pháp ấy."</span> Họ không tìm được vì <span style="font-style: italic;">"chẳng có một người nào bởi việc làm theo luật pháp mà sẽ được xưng công bình"</span> (Romans 3:20). Còn lại một thiểu số những người được được cứu thì theo như câu 5: <span style="font-style: italic;">"được lựa chọn theo ân điển."</span> Đây là thể hiện lời Chúa Giê-su phán trong ngụ ngôn tiệc cưới nhà vua trong Matthew 22:14: <span style="font-style: italic;">"vì có nhiều kẻ được gọi, mà ít người được chọn."</span> Dân Do-thái được kêu gọi làm dân sự Ngài nhưng chỉ có một thiểu số họ được chọn, đó là những người đặt niềm tin nơi Đấng Cứu Thế.
+
+Phao-lô nhắc lại lời của vua Đa-vít trong Thi-thiên, Psalm 69:22-23 tiên tri về sự dân Do-thái từ chối Chúa Giê-su: <span style="font-style: italic;">"<sup>22</sup>Nguyện bàn tiệc trước mặt chúng nó trở nên cái bẫy; Khi chúng nó được bình an, nguyện nó lại trở nên cái lưới. <sup>23</sup>Nguyện mắt chúng nó bị tối, không còn thấy, Và hãy làm cho lưng chúng nó hằng run."</span> Bàn tiệc của họ có lẽ là bàn thờ nơi họ dâng các của lễ, các thứ thịt và đồ uống, họ tưởng rằng những của lễ đó sẽ đem lại cho họ sự công bình, còn những điều lệ, những quy củ, mà họ trông cậy vào lại trở thành bản án cho họ, khiến sự chết của Đấng Christ trở nên vô hiệu cho họ. Mắt họ mù vì họ đã nghe những lời phán của các bậc tiên tri về Đấng Christ mà không hiểu. Và lưng họ khòm xuống vì luật lệ này chồng chất lên luật lệ kia.
+
+Isaiah 28:9-13 viết rằng: 
+<span style="font-style: italic;">"<sup>9</sup>Vậy người sẽ dạy khôn cho ai, và khiến ai hiểu sẽ dạy dỗ mình? Có phải là dạy cho những trẻ con thôi bú, mới lìa khỏi vú chăng? <sup>10</sup>Vì, với họ phải giềng mối thêm giềng mối, giềng mối thêm giềng mối; hàng thêm hàng, hàng thêm hàng; một chút chỗ nầy, một chút chỗ kia! ... <sup>13</sup>hầu cho họ bước tới, thì ngã nhào và giập nát, sập bẫy, và bị bắt!"</span>
+
+Hy vọng độc giả thấy sự song song giữa lời viết của tiên tri Ê-sai, Vua Đa-vít, và sứ đồ Phao-lô: Y-sơ-ra-ên vốn là dân cậy vào luật pháp để được sự công bình của Đức Chúa Trời thì không tìm được, chỉ ngoại trừ một phần còn sót lại cậy vào ân điển Chúa thì được cứu. Tiên tri Ê-sai mặc khải như một lời mỉa mai, kẻ cậy vào luật pháp thì dạy dỗ ai? Và ai sẽ dạy dỗ họ? Phải chăng là dạy cho kẻ còn ấu trĩ, vì chỉ những kẻ còn thơ mới cậy vào luật pháp, còn kẻ đã thành niên thì cậy đức tin. Còn khuynh hướng của luật pháp là như vậy: hàng thêm hàng, giềng mối thêm giềng mối (precepts upon precepts), vả trở nên bẫy lưới cho kẻ cậy vào đó.
+
+### Kết Luận
+
+Trong phần còn lại của chương 11, Phao-lô trình bày chương trình cứu rỗi của Chúa cho Ích-ra-ên, và nhắc nhở các tín hữu người ngoại luôn nhớ rằng ấy là vì ân điển mà họ được cứu, do đó chớ khoe mình.
+
+Chương 12 cho đến 16 chứa đựng những sự dạy dỗ về nếp sống tin kính mà tôi cảm thấy không cần thiết phải đứng vào vai trò dạy dỗ người đọc để nhận lãnh gì hơn điều đã viết trong Kinh thánh mà chính quí vị có thể đạt được dưới sự dạy dỗ trực tiếp của Thánh Linh.
+
+</div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
+</div><!-- /.row -->

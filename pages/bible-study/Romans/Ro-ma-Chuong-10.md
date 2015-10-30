@@ -1,0 +1,75 @@
+---
+layout: page-fullwidth
+subheadline: "Học Kinh Thánh"
+title: "Rô-ma Chương 10"
+meta_teaser: "Bible Study on the tenth chapter of Romans"
+teaser: "Đừng tìm sự công bình của riêng mình. Tìm sự công bình bởi luật pháp là điều không tưởng. Sự công bình bởi Đấng Christ thì rất gần. Lời Chúa, sự rao giảng, và đức tin. Niềm tin cứu rỗi chìm vào quên lãng."
+permalink: /hoc-kinh-thanh/sach-ro-ma/10/
+breadcrumb: true
+header: no
+---
+<!--more-->
+<div class="row">
+<div class="medium-8 columns" markdown="1">
+<!-- Anything above first paragraph goes here -->
+
+### Đừng tìm sự công bình của riêng mình
+
+> <sup>1</sup>Hỡi anh em, sự ước ao trong lòng tôi và lời tôi vì dân Y-sơ-ra-ên cầu nguyện cùng Ðức Chúa Trời, ấy là cho họ được cứu. <sup>2</sup>Vì tôi làm chứng cho họ rằng họ có lòng sốt sắng về Ðức Chúa Trời, nhưng lòng sốt sắng đó là không phải theo trí khôn. <sup>3</sup>Bởi họ không nhận biết sự công bình của Ðức Chúa Trời và tìm cách lập sự công bình riêng của mình, nên không chịu phục sự công bình của Ðức Chúa Trời; <sup>4</sup>vì Ðấng Christ là sự cuối cùng của luật pháp, đặng xưng mọi kẻ tin là công bình. (Romans 10:1-4)
+
+<div>
+<p>
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<!-- First paragraph goes here -->
+Phao-lô khởi đầu chương này với cùng một tình cảm như trong chương 9 về lòng khát khao của ông để được thấy dân sự Chúa nhận và hiểu ý nghĩa sự cứu rỗi mà ông đang tìm cách truyền đạt cho họ. Ông nhận thức rằng quả thực họ có lòng sốt sắng về Chúa, nhưng dường như chỉ là mê tín, thay vì dựa trên sự hiểu biết, với sự suy gẫm sâu xa về ý nghĩa và thực chất của điều họ đang làm trong mối liên hệ với Chúa.
+</p>
+</div>
+<!-- Remaining text goes here -->
+Lòng sốt sắng phải dưới sự hướng dẫn của trí khôn. Chúa Giê-su đã nói về sự quan trọng của sự suy gẫm và khôn ngoan trong đời sống tin kính. Chẳng hạn như trong Luke 14:28 và Luke 14:31, khi Chúa nói về người đang xây một tháp cao, hoặc một vua đang chuẩn bị ra trận cùng vua khác, thì người đó phải dự tính xem việc đó có thực hiện được hay không, có thắng được cuộc chiến đó hay không. Do đó người cậy vào sự sốt sắng của mình để làm theo những điều luật pháp đòi hỏi, nên dùng <span style="font-style: italic;">"trí khôn"</span> để suy gẫm xem có nhờ đó mà đạt được sự công bình của Đức Chúa Trời hay không. Câu trả lời hiển nhiên là không, thế nhưng trăm người như một, sống đời sống tin kính như người sống trong sự mê tín.
+
+Các tín hữu Rô-ma tìm cách đạt được sự công bình của riêng mình khi họ ỷ lại vào xác thịt để làm theo những điều luật pháp đòi hỏi. Nhưng sự công bình đến từ Đấng Christ thì chỉ mình Ngài làm được mà thôi.
+
+### Tìm sự công bình bởi luật pháp là điều không tưởng
+
+> <sup>5</sup>Ấy Vả, Môi-se luận sự công bình đến bởi luật pháp cách nầy: Hễ ai làm theo điều đó thì nhờ đó mà sống. (Romans 10:5)
+
+Trong đoạn này Phao-lô cho thấy sự tìm kiếm công bình bởi luật pháp là điều không thể thực hiện được. Lời Phao-lô tóm tắt luật pháp Môi-se nghe dường như là một lời khuyên, nhưng thực ra là một lời cảnh cáo: Hễ ai làm theo luật pháp Môi-se, thì sống hay chết là tùy theo các sự làm đó. Vì thế James 2:10 cho biết nếu ỷ vào luật pháp Môi-se thì mọi người đều chết: <span style="font-style: italic;">"Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy."</span> 
+
+### Sự công bình bởi Đấng Christ thì rất gần
+
+> <sup>6</sup>Nhưng sự công bình đến bởi đức tin, thì nói như vầy: Chớ nói trong lòng ngươi rằng: Ai sẽ lên trời? ấy là để đem Ðấng Christ xuống; <sup>7</sup>hay là: Ai sẽ xuống vực sâu? ấy là để đem Ðấng Christ từ trong kẻ chết lại lên. <sup>8</sup>Nhưng nói làm sao? Ðạo ở gần ngươi, ở trong miệng và trong lòng ngươi. Ấy là đạo đức tin và chúng ta giảng dạy. <sup>9</sup>Vậy nếu miệng ngươi xưng Ðức Chúa Jêsus ra và lòng ngươi tin rằng Ðức Chúa Trời đã khiến Ngài từ kẻ chết sống lại, thì ngươi sẽ được cứu; <sup>10</sup>vì tin bởi trong lòng mà được sự công bình, còn bởi miệng làm chứng mà được sự cứu rỗi. <sup>11</sup>Vả, Kinh-Thánh nói rằng: Kẻ nào tin Ngài sẽ chẳng bị hổ thẹn. <sup>12</sup>Trong người Giu-đa và người Gờ-réc không có sự phân biệt gì hết, vì họ có chung một Chúa, giàu ơn đối với mọi kẻ kêu xin Ngài. <sup>13</sup>Vì ai kêu cầu danh Chúa thì sẽ được cứu. (Romans 10:6-13)
+
+Ngược lại với sự vô vọng của sự công bình qua luật pháp Môi-se, sự công bình đến bởi đức tin trong Đấng Christ thì không xa xôi đến nỗi phải lên trời đem Đấng Christ xuống, hoặc xuống âm phủ đưa Ngài lên, để cứu chúng ta. Đạo, hoặc sự cứu rỗi, hoặc sự được xưng công bình, hoặc sự được trở nên con cái Đức Chúa Trời, thì thật gần chúng ta, như lời Phao lô viết rằng gần đến nỗi ở ngay trong miệng và trong lòng, và là đạo mà Phao-lô đang giảng dạy qua thư này.
+
+Lời ví von của Phao-lô về việc lên trời hoặc xuống vực sâu để tìm tới một vị cứu tinh là lẽ đạo thường tình của con người. Nhiều con cái Chúa cũng bị vướng vào lối suy nghĩ này khi họ bôn ba đi tìm một cứu cánh cho một nan đề nào đó trong cuộc sống. Ở nơi đây hoặc nơi đó có người có ơn cầu nguyện chữa bệnh. Chỗ nọ có người giảng đạo có ơn. Nhưng đạo Chúa, và cả chính Đấng mà họ đang tìm cầu <span style="font-style: italic;">"ở gần ngươi, ở trong miệng và trong lòng ngươi."</span> Chúa không gần ai hơn chính kẻ đang tìm cầu Ngài trong lúc khẩn trương.
+
+ Còn <span style="font-style: italic;">"Bởi miệng làm chứng"</span> là nhìn nhận sự yếu đuối và hư mất của mình và chỉ mình Ngài là Cứu Chúa. Nhiều người tin rằng sự làm chứng đây là trước công chúng về niềm tin, nhưng điều này không phù hợp với chân lý căn bản về sự cứu rỗi chỉ nhờ ân điển và bởi đức tin. Chính Chúa Giê-su cũng không tin lời chứng của thế nhân về Ngài như có lời viết trong John 2:23-25 rằng: <span style="font-style: italic;">"<sup>23</sup>Ðương lúc Ngài ở thành Giê-ru-sa-lem để giữ lễ Vượt Qua, có nhiều người thấy phép lạ Ngài làm, thì tin danh Ngài. <sup>24</sup>Nhưng Ðức Chúa Jêsus chẳng phó thác mình cho họ, vì Ngài nhận biết mọi người, <sup>25</sup>và không cần ai làm chứng về người nào, bởi Ngài tự thấu mọi điều trong lòng người ta."</span> Một điều mâu thuẫn nữa là Chúa đến để cứu những người yếu đuối, khốn cùng, hèn nhát cũng giống các môn đệ Ngài, thì tại sao Ngài lại đòi hỏi họ làm một điều mà chỉ kẻ mạnh mẽ và can đảm làm được? Theo từ tiết, hoặc văn mạch, của những đoạn Kinh thánh mà trong đó Chúa Giê-su hoặc Phao-lô nói đến sự công khai nhìn nhận Đấng Christ, đối tượng luôn luôn là những người không dám xưng danh Chúa không phải vì bị đối diện trước gươm đạn, nhưng trước sự phải từ bỏ những điều họ sở hữu như tiền của, danh vọng, địa vị, chẳng hạn như những người lãnh đạo tôn giáo thời Chúa Giê-su và Phao-lô. Đối với họ, sự chọn lựa là giữa sự <span style="font-style: italic;">"được cả thiên hạ"</span> hoặc cứu được <span style="font-style: italic;">"linh hồn."</span>
+
+Đạo Chúa thực ở gần, ngay ở trong lòng với những tình cảm không thổ lộ được với ai nhưng Thánh Linh hiểu được và than thở thay cho, làm chứng thay cho. Đạo Chúa thực ở gần, ngay ở khóe môi khi thốt lên lời kêu cầu trong lúc khốn cùng. Sự cứu rỗi gần như vậy đó. Gần miệng và lòng người Giu-đa cũng như người không thuộc gốc Do-thái. Bất cứ ai tìm cầu thì được cứu.
+
+### Lời Chúa, sự rao giảng, và đức tin
+
+> <sup>14</sup>Nhưng họ chưa tin Ngài thì kêu cầu sao được? Chưa nghe nói về Ngài thì làm thể nào mà tin? Nếu chẳng ai rao giảng, thì nghe làm sao? <sup>15</sup>Lại nếu chẳng ai được sai đi, thì rao giảng thể nào? như có chép rằng: Những bàn chơn kẻ rao truyền tin Lành là tốt đẹp biết bao! <sup>16</sup>Nhưng chẳng phải mọi người đều nghe theo tin lành đâu; vì Ê-sai có nói rằng: Lạy Chúa, ai tin lời chúng tôi rao giảng? <sup>17</sup>Như vậy, đức tin đến bởi sự người ta nghe, mà người ta nghe, là khi lời của Ðấng Christ được rao giảng. (Romans 10:14-17)
+
+Tin mừng cứu rỗi được rao truyền bởi những người Chúa sai đi, hầu cho người nghe lời rao giảng được cơ hội đến với niềm tin mà kêu cầu cùng Chúa. Nhưng như đã được trích lời tiên tri của Ê-sai rằng không phải mọi kẻ nghe đều tin.
+
+Matthew 28:16-20 thường được dùng để khuyến khích tín hữu ra đi rao truyền tin mừng cứu rỗi: <span style="font-style: italic;">"dạy họ giữ tất cả mọi điều mà ta đã truyền cho các ngươi."</span> Nhưng lắm khi mọi điều Chúa đã truyền chỉ còn giữ lại một điều là ... rao truyền. Cũng giống như những người làm nghề bán hàng lưu động ra đi chiêu mộ một số người khác để cũng đi bán hàng lưu động, và cứ thể tiếp tục. Mệnh lệnh duy nhất họ cần làm theo là: chiêu mộ, chiêu mộ, và chiêu mộ. Món hàng họ bán cho người khác họ không hề dùng tới, và nhiều khi cũng chẳng biết nó là gì. Lắm khi chúng ta áp dụng Matthew 28:20 cũng y như vậy. Người ra đi không biết rõ điều mình đang nói, hoặc nếu có biết thì chỉ là lý thuyết nhằm mục đich đưa người vào đạo Chúa. Món hàng duy nhất mà họ cần bán đó là sự cứu rỗi, nhưng điều đáng buồn là hầu hết không nắm vững về điều đó cho chính mình.
+
+Lời của Đấng Christ không phải là mệnh lệnh Chúa truyền cho các môn đệ trong Matthew 28:20, nhưng lời đó là: chính Ngôi Lời, chính Ngài, chính Đấng mà Đức Chúa Trời đã sai xuống để làm của lễ chuộc tội một lần đủ cả cho những ai đặt niềm tin nơi Ngài. Lời đó nói rằng nhân loại hãy so sánh đời mình với luật pháp Đức Chúa Trời để nhận thức tình trạng tội lỗi của mình mà nhận lấy sự tha tội ban cho cách nhưng không. Lời Chúa Giê-su rao giảng không phải là mười điều răn hoặc luật pháp Môi-se, vì luật pháp dẫn đến sự chết (Romans 7:10), nhưng đức tin nơi Đấng Christ dẫn đến sự sống đời đời. Hãy nắm vững chân lý cứu rỗi này rồi Đấng sai đi sẽ chọn người, và thời gian, để truyền bá danh Ngài. 
+
+### Niềm tin cứu rỗi chìm vào quên lãng
+
+> <sup>18</sup>Nhưng tôi hỏi: Có phải là họ chưa nghe chăng? Trái lại, Tiếng của các sứ giả đã vang khắp đất, Và lời của sứ giả đã đạt đến cùng thế gian. <sup>19</sup>Tôi lại hỏi: Thế mà dân Y-sơ-ra-ên chẳng biết chi hết sao? Môi-se đã nói rằng: Ta sẽ giục lòng ganh tị các ngươi bởi kẻ chẳng phải là dân; Ta sẽ chọc giận các ngươi bởi một dân ngu dốt. <sup>20</sup>Lại Ê-sai nói cách bạo dạn rằng: Những kẻ chẳng tìm kiếm ta thì đã gặp thấy ta, Ta đã tỏ mình ra cho kẻ chẳng hỏi han ta. <sup>21</sup>Song về dân Y-sơ-ra-ên, thì rằng: Ta đã giơ tay ra cả ngày hướng về dân bội nghịch và hay nói trái. (Romans 10:18-21)
+
+Trong đoạn này chúng ta thấy rõ hơn là thơ Phao-lô viết đặc biệt cho các tín hữu Rô-ma với quá trình sâu xa trong đời sống tín ngưỡng của Do-thái giáo. Ông hỏi họ một cách thách thức: có thật quí vị chưa bao giờ nghe nói về tin mừng cứu rỗi? Quí vị không biết gì về điều chúng tôi đang rao giảng? Chúng ta hãy thử suy gẫm, đây là hội thánh Rô-ma mà Phao-lô đang thuyết giảng, một hội thánh chẳng khác gì chúng ta ngày nay. Điều gì khiến họ từ sự nóng cháy của hội thánh đầu tiên trong trong Công Vụ các Sứ Đồ đến trạng thái ngày hôm nay? 
+
+Theo từ tiết của thơ Phao-lô thì hội thánh Rô-ma có vẻ như chưa từng nghe nói đến tin lành cứu rỗi, hoặc nếu có từng nghe thì không hiểu gì về điều mình đã nghe. Hội thánh ngày nay có hơn gì Rô-ma thuở xưa? Chắc còn xa hơn nữa vì ít nhất trong hội thánh Rô-ma, nhiều người đã từng được chứng khiến dấu kỳ phép lạ mà Chúa Giê-su đã làm vẫn còn sống khi Phao-lô viết thư này.
+
+Các giảng sư, các giáo viên Trường Chúa Nhật, của hội thánh Rô-ma, quí vị đã giảng dạy gì cho con cái Chúa ở đó mà họ không biết gì hết về tin mừng cứu rỗi? Các sinh hoạt, các chương trình, các cuộc huấn luyện, không phải là dấu hiệu của sự sống thật, vì như có lời viết trong sách Khải Huyền, Revelation 3:1, về những hội thánh có tiếng là sống nhưng thực ra là chết. Trọng tâm của các bài giảng từ Rô-ma chắc chỉ đặt trọng tâm vào những đạo đức và luân lý đời này, còn sự cứu rỗi cách nhưng không bởi dòng huyết quý của Chiên Con thì có lẽ họ chỉ được nghe trong những buổi truyền giảng, còn trong ngày Chúa Nhật, chắc có lẽ chỉ nghe được nhiều điều tựa như luật pháp, để đến nỗi giờ đây Phao-lô phải hỏi: <span style="font-style: italic;">"Có phải là họ chưa nghe chăng? Trái lại, Tiếng của các sứ giả đã vang khắp đất, Và lời của sứ giả đã đạt đến cùng thế gian. Tôi lại hỏi: Thế mà dân Y-sơ-ra-ên chẳng biết chi hết sao?"</span> Bây giờ quí vị có biết tại sao ít người trả lời được họ sẽ ở đâu nếu phải ra mắt Chúa đêm nay?
+
+</div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
