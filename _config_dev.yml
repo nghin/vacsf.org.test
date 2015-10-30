@@ -7,6 +7,7 @@
 
 url: 'http://localhost:4000'
 baseurl: ''
+projectname: ''
 urlimg: 'http://localhost:4000/images/'
 
 sass:
