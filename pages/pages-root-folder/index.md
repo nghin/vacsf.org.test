@@ -14,7 +14,7 @@ widget1:
 widget2:
   title: "Bible Study"
   url: '/bible-topics/'
-  text: 'Studies of various common topics, especially those that tend to be misunderstood and hence misapplied. Don&#39;t accept anything even from the best of teachers as Scriptures, but be like the Bereans to check whatever you hear or read. Check your own interpretation of a passage against all foundational truths you can possibly know, and you will know beyond any doubt its true meaning. In this section you will find the following studies:<br/>1. Galatians<br/>2. Romans<br/>3. Hot Potatoes Topics'
+  text: 'Studies of various common topics, especially those that tend to be misunderstood and hence misapplied. Don&#39;t accept anything even from the best of teachers as Scriptures, but be like the Bereans to check whatever you hear or read. Check your own interpretation of a passage against all foundational truths you can possibly know, and you will know beyond any doubt its true meaning. In this section you will find the following studies:<br/>1. Galatians<br/>2. Romans<br/>3. The Parables of Jesus, and<br />4. Meditations (thoughts on various topics), and many topics to follow.'
 widget3:
   title: "Church Events"
   url: '/blog/'
