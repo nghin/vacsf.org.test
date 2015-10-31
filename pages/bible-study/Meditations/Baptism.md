@@ -11,7 +11,7 @@ header: no
 <!--more-->
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
+<h2 style="margin: 0px">Baptism</h2>
         {% include bible-study/baptism %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
