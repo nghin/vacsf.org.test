@@ -1,7 +1,12 @@
-<ul class="side-nav">
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">History</a><p style="font-weight: normal;">The History of Baptism</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Purpose</a><p style="font-weight: normal;">Baptizing for Different Purposes</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/salvation/">Salvation</a><p style="font-weight: normal;">Is Water Baptism Essential to Salvation</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/in-the-name/">In the Name ...</a><p style="font-weight: normal;">Baptizing in One Name or All Three</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Summary</a><p style="font-weight: normal;">Baptism deserves serious consideration</p></li>
+<ul style="padding-top: 10px;">
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">History</a> - The History of Baptism</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Purpose</a> - Baptizing for Different Purposes</li>
+<ul style="margin-bottom: 0px;">
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/john/">John's Baptism</a> - John Identified the Messiah to Israel</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/jesus/">Jesus's Baptism</a> - John Identified the Messiah to Israel</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/apostle/">The Apostle's Baptism</a> - John Identified the Messiah to Israel</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/paul/">Paul's Baptism</a> - John Identified the Messiah to Israel</li></ul>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/salvation/">Salvation</a> - Is Water Baptism Essential to Salvation</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/in-whose-name/">In Whose Name ...</a> - Baptizing in One Name or All Three?</li>
+      <li style="border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Summary</a> - Baptism deserves serious consideration</li>
 </ul>

@@ -1,4 +1,4 @@
-<ul class="side-nav">
+<ul class="side-nav" style="padding-top: 10px">
       <li><a href="{{ site.projectname }}/bible-topics/meditations/rewards/">Rewards</a><p style="font-weight: normal;">Are there degrees of rewards in heaven?</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/christ-in-me/">Christ in me: the hope of glory</a><p style="font-weight: normal;">Find rest in the Redeemer</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/true-spirituality/">True Spirituality</a><p style="font-weight: normal;">Book report</p></li>
