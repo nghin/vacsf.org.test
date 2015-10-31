@@ -12,11 +12,11 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
-      <li><a href="{{ site.projectname }}/bible-topics/parables/sower/">Parable of the sower - Matthew 13:1-23</a>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/sower/">Parable of the sower - <cite>Matthew 13:1-23</cite></a>
       <p>A proper understanding of this parable will relieve the believers of the confusion of which type of soil they belong to. Conventional interpretation of this parable leaves many to wonder if they're saved at all, let alone being fruitful.</>
       </li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/talents/">Parable of the talents - Matthew 25:14-30</a><p style="font-weight: normal;">Do you know exactly where you stand in terms of meeting the talent production quota? This writing will show you exactly how you can meet your quota.</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/evil-steward/">Parable of the evil steward - Luke 16:1-8</a><p style="font-weight: normal;">This parable is not about money, but it is a mockery of those who think they can buy God's kingdom with their wealth.</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/the-net/">Parable of the net - Luke 16:1-8</a><p style="font-weight: normal;">This parable is about the ushering in of a new era: the new covenant between God and Man.</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/talents/">Parable of the talents - <cite>Matthew 25:14-30</cite></a><p style="font-weight: normal;">Do you know exactly where you stand in terms of meeting the talent production quota? This writing will show you exactly how you can meet your quota.</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/evil-steward/">Parable of the evil steward - <cite>Luke 16:1-8</cite></a><p style="font-weight: normal;">This parable is not about money, but it is a mockery of those who think they can buy God's kingdom with their wealth.</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/the-net/">Parable of the net - <cite>Luke 16:1-8</cite></a><p style="font-weight: normal;">This parable is about the ushering in of a new era: the new covenant between God and Man.</p></li>
 </ul>
 </div>

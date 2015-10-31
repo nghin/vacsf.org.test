@@ -1,0 +1,7 @@
+<ul class="side-nav">
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">History</a><p style="font-weight: normal;">The History of Baptism</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Purpose</a><p style="font-weight: normal;">Baptizing for Different Purposes</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/salvation/">Salvation</a><p style="font-weight: normal;">Is Water Baptism Essential to Salvation</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/in-the-name/">In the Name ...</a><p style="font-weight: normal;">Baptizing in One Name or All Three</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Summary</a><p style="font-weight: normal;">Baptism deserves serious consideration</p></li>
+</ul>

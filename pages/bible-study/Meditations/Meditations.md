@@ -12,11 +12,16 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/">Baptism</a><p style="font-weight: normal;">
+
+A more complete picture of baptism. This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives.
+
+</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/rewards/">Rewards</a><p style="font-weight: normal;">
 
 Are there degrees of rewards in heaven? This article will show that the very idea is a worldly one, but it is at the core of work-based religion.
 
-<p style="font-weight: normal;"></p></li>
+</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/christ-in-me/">The Hope of Glory</a><p style="font-weight: normal;">
 
 The 10 commandments, the law, works, grace ... how are we to live? Perhaps this article doesn't even need to be written. All the answers are found in the studies of Romans and Galatians.
