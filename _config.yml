@@ -24,9 +24,10 @@ author: nghin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://nghin.github.io/vacsf.org'
+url: 'http://vacsf.org'
 baseurl: ''
-projectname: '/vacsf.org'
+# projectname /vacsf.org is needed if nghin.github.io is accessed directly
+projectname: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
