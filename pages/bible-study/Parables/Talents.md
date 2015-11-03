@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/ta-lang/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Parables</h2>
@@ -16,7 +17,12 @@ header: no
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+<div>
+<p>
+<img alt src="http://rgb-scale.com/vacsfj336/images/talents.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In this writing, I'm attempting to prove that the conventional interpretation of it is a misinterpretation, and is exactly what Jesus had said about why He uses parables: so that the hearer may hear and not understand, may see and not perceive. When you use your flesh to understand Jesus' parables, or to carry out God's will, you won't understand it, because it is a mystery (Mat 13:10-11). But if we look beyond the mere superficial meaning, we will really understand what Jesus had in mind when he told this parable. A mis-interpretation, or mis-application of it will cause a believer to try to produce fruit for death (Rom 7:5), fruit that were initiated from the flesh which is aroused by the law. Which one of you reader knows exactly how many talents they were given and how many you think you can produce? Don't guess, because either you do, or you don't. If you don't guess about what it it takes for you to go to heaven, don't guess about your talent production quota either. What have you done with your talents?
+</p>
+</div>
 
 > <sup>14</sup>"For it is like a man going on a journey, who summoned his slaves and entrusted his property to them. <sup>14</sup>To one he gave five talents, to another two, and to another one, each according to his ability. Then he went on his journey. <sup>16</sup>The one who had received five talents went off right away and put his money to work and gained five more. <sup>17</sup>In the same way, the one who had two gained two more. <sup>18</sup>But the one who had received one talent went out and dug a hole in the ground and hid his master's money in it. <sup>19</sup>After a long time, the master of those slaves came and settled his accounts with them. ... <sup>30</sup>And throw that worthless slave (the one that buried his talent) into the outer darkness, where there will be weeping and gnashing of teeth.' (Matthew 25:14-30—NET Bible).
 

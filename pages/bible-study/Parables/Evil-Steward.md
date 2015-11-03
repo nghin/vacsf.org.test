@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/quan-gia/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Parables</h2>
@@ -16,7 +17,12 @@ header: no
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+<div>
+<p>
+<img alt src="/images/dishonest-steward.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Contrary to what you might find with a search on the internet, radio, or books, or virtually all sermons you've ever heard, this parable is not about money, talents, or how you use your possessions toward God's kingdom. Let's go through this parable again, as if you've never read it before, never having heard it preached before, while only keeping in mind that you should not try to understand this parable by itself without placing it in context of the entire salvation foundation of the Bible.
+</p>
+</div>
 
 #### <strong>Worldly Wisdom</strong>
 

@@ -3,12 +3,13 @@ layout: page-fullwidth
 subheadline: "Bible Study"
 title: "The Parables of Jesus"
 meta_teaser: "Bible Study on the parables of Jesus"
-teaser: "<sup>10</sup>When he was alone, those around him with the twelve asked him about the parables. <sup>11</sup>He said to them, \"The secret of the kingdom of God has been given to you. But to those outside, everything is in parables, <sup>12</sup>so that although they look they may look but not see, and although they hear they may hear but not understand, so they may not repent and be forgiven.\""
+teaser: "<sup>10</sup>When he was alone, those around him with the twelve asked him about the parables. <sup>11</sup>He said to them, \"The secret of the kingdom of God has been given to you. But to those outside, everything is in parables, <sup>12</sup>so that although they look they may look but not see, and although they hear they may hear but not understand, so they may not repent and be forgiven (Mark 4:10-12).\""
 permalink: /bible-topics/parables/
 breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">

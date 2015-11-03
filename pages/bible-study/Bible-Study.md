@@ -9,6 +9,8 @@ header:
 ---
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+
 <ul class="side-nav">
       <li><a href="{{ site.projectname }}/bible-topics/book-of-romans/"><h4><strong>Book of Romans</strong></h4></a>
       <p style="font-weight: normal;">A thorough study of the book of Romans from chapter 1 through 11. Chapters 12-16 are left to readers to study for themselves. Martin Luther's preface to Romans:</p><p class="blockquote">This letter is truly the most important piece in the New Testament. It is purest Gospel. ... To begin with, we have to become familiar with the vocabulary of the letter and know what St. Paul means by the words law, sin, grace, faith, justice, flesh, spirit, etc. Otherwise there is no use in reading it. ... You must not understand the word law here in human fashion, i.e., a regulation about what sort of works must be done or must not be done.</p>

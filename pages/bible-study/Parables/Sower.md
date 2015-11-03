@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/gieo-giong/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Parables</h2>
@@ -16,7 +17,12 @@ header: no
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+<div>
+<p>
+<img alt src="http://rgb-scale.com/vacsfj336/images/sermonview/TheSower-200x150.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 I thank God for an opportunity to present a message to Pastor Robert Boston's congregation this coming Sunday December 28th, 2014. In this message, I hope to clarify, to help folks make sense of, the parable of the sower. A parable that puzzled me for decades since I became a Christian, and I wouldn't be surprise that it confounds the mind of most, if not all, Christians, too. Here's a set of slides I will use in the presentation.
+</p>
+</div>
 
 > Matthew 13:1-9<br /><sup>1</sup>That same day Jesus went out of the house and sat by the lake. <sup>2</sup>Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. <sup>3</sup>Then he told them many things in parables, saying:<br />"A farmer went out to sow his seed. <sup>4</sup>As he was scattering the seed, some fell along the path, and the birds came and ate it up.<br /><sup>5</sup>Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. <sup>6</sup>But when the sun came up, the plants were scorched, and they withered because they had no root.<br /><sup>7</sup>Other seed fell among thorns, which grew up and choked the plants.<br /><sup>8</sup>Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown.<br /><sup>9</sup>Whoever has ears, let them hear.
 
