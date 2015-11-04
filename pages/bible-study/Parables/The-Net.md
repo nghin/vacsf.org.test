@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/luoi-ca/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Parables</h2>
@@ -18,7 +19,11 @@ header: no
 
 > <sup>47</sup>“Again, the kingdom of heaven is like a net that was cast into the sea that caught all kinds of fish. <sup>48</sup>When it was full, they pulled it ashore, sat down, and put the good fish into containers and threw the bad away. <sup>49</sup>It will be this way at the end of the age. Angels will come and separate the evil from the righteous <sup>50</sup>and throw them into the fiery furnace, where there will be weeping and gnashing of teeth. <sup>51</sup>“Have you understood all these things?” They replied, “Yes.” <sup>52</sup>Then he said to them, “Therefore every expert in the law who has been trained for the kingdom of heaven is like the owner of a house who brings out of his treasure what is new and old.” <sup>53</sup>Now when Jesus finished these parables, he moved on from there. (Matthew 13:47-53)
 
+<div>
+<p>
+<img alt src="/images/Fishing-Net-small.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In this parable Jesus uses two examples with plain meaning and one with hidden meaning. In the first two examples we noticed a common point between them that there is a choice between two opposites, one is kept while the other is thrown away. In the first example, the good fish are kept in containers while the bad ones are thrown back into the sea. In the second example, the righteous is kept while the evil is thrown into the fiery furnace. Now what about the third example which I believe has a hidden meaning? If there is a choice to keep one and toss the other in the first two examples, then shouldn't there be a choice in the third example as well? I think this makes great sense. Therefore, if we continue with the flow of meaning in this parable, we must deduce that the new is kept while the old must be set aside.
+</p></div>
 
 There are many Scriptures about new and old things. Let us review some of them so we may understand what Jesus is trying to teach us in this parable.
 
