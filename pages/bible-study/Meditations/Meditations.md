@@ -17,7 +17,7 @@ header: no
 A more complete picture of baptism. This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives.
 
 </p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/rewards/">Rewards</a><p style="font-weight: normal;">
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/rewards/">Rewards - Phần Thưởng Trên Trời</a><p style="font-weight: normal;">
 
 Are there degrees of rewards in heaven? This article will show that the very idea is a worldly one, but it is at the core of work-based religion.
 

@@ -1,14 +1,15 @@
 ---
 layout: page-fullwidth
 subheadline: "Bible Study"
-title: "Are there degrees or rewards?"
-meta_teaser: "Are there degrees of rewards in heaven?"
+title: "Are There Degrees Of Rewards?"
+meta_teaser: "Are There degrees of rewards in heaven?"
 teaser: "This article will show that the very idea is a worldly one, but it is at the core of work-based religion."
 permalink: /bible-topics/meditations/rewards/
 breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/phan-thuong/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Meditations</h2>
@@ -18,7 +19,12 @@ header: no
 
 > The one who plants and the one who waters work as one, but each will receive his reward according to his work. (I Corinthians 3:8)
 
+<div>
+<p>
+<img alt src="/images/rewards-207x136.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 This passage is commonly understood as God reserves rewards in heaven for each person according to the good deeds they do while they're here on earth. However I believe that this thinking runs against at least one basic truth of the gospel of salvation that it is based on faith in Christ, on the principle of God's grace, not on works. Is it possible that this Bible verse does not speak of degrees of rewards, but of sowing and reaping (Galatians 6:7)?
+</p>
+</div>
 
 Let us survey some passages that may be related to works and rewards so we may establish a framework to interpret I Corinthians 3:8.
 
