@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/02/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
@@ -18,7 +19,12 @@ header: no
 
 <!-- main body text -->
 <blockquote><span style="color: #008000;"><sup>1</sup>Then after fourteen years I went up to Jerusalem again with Barnabas, taking Titus along too. <sup>2</sup>I went there because of a revelation and presented to them the gospel that I preach among the Gentiles. But I did so only in a <span style="text-decoration: underline; color: #ff0000;">private meeting</span> with the influential people, to make sure that I was not running—or had not <span style="text-decoration: underline; color: #ff0000;">run—in vain</span>.</span></blockquote></p>
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;">After fourteen years, since his conversion, Paul visited Jerusalem (also mentioned in Acts 15:1-4) at the same time when the church and apostles council met to decide that Gentile Christians didn’t need to be circumcised.</p>
+</p>
+</div>
 <p style="text-align: left;">The council’s decision did not go as far as to show that the Mosaic institution itself is at an end. The important point here is: The Galatians were Judaizing, not because the Jewish law was imposed by authority of the Church as necessary to Christianity, but because they thought it necessary to be observed by those who aspired to higher perfection (Jamieson, Fausset, and Brown).</p>
 <p style="text-align: left;">Paul came to Jerusalem to meet with the apostles to communicate with them the gospel he preached to the Gentiles. He wanted to make sure this gospel would not be perverted, by the imposing of Mosaic laws upon Gentile Christians, and that would have made all his effort to run about to preach the gospel of Jesus Christ become wasted, and <em><span style="color: #ff0000;">his toiling in vain</span></em>.</p>
 <p style="text-align: left;">So though the council made a decision to spare the Gentiles from Mosaic law, it did not achieve what was in Paul’s mind concerning the Jewish Christians; the decree did not at all disapprove of their view—that the Jewish law would bring them to a higher state of spiritual perfection (we talked about this "being made perfect" business in the last chapter). We modern Christians fall into a more subtle trap of this legalism, since we don't have clearly spelled out rules of conducts, we create vague laws that effectively undermine the all-sufficiency of the cross of Christ; or we simply reduce the assurance of salvation to the theoretical, academic realm.</p>

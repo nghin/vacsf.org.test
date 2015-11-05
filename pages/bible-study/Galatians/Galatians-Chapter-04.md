@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/04/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
@@ -19,7 +20,12 @@ header: no
 <!-- main body text -->
 > <sup>1</sup>Now I mean that the heir, as long as he is a minor, is <span style="text-decoration: underline; color: #ff0000;">no different from a slave</span>, though he is the owner of everything. <sup>2</sup>But he is under guardians and managers until the date set by his father.
 
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In Jewish culture, an heir to an inheritance, like us heir to salvation in Christ, as long as he is a child, is no more than a slave, and under someone else's authority.
+</p>
+</div>
 
 We all love I Corinthians 13, especially these verses where Paul refers to the child-man contrast.
 

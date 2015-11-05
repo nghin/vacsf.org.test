@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/01/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
@@ -16,7 +17,12 @@ header: no
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns">
 <p style="text-align: left;"><blockquote><span style="color: #008000;"><sup>1</sup>From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead) <sup>2</sup>and all the brothers with me, to the churches of Galatia. <sup>3</sup><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">Grace and peace</span></span> to you from God the Father and our Lord Jesus Christ,</span></blockquote></p>
-<p style="text-align: left;"><span style="line-height: 1.3em;">At this point in time, Jerusalem and Judaism were still prominent in the very young Christian church. Hence arose a question of Paul’s authority and apostleship. Much of Paul’s teaching in this letter has to do with steering them from the Old Covenant’s way of relating to God. Once again, Paul greeted them with the “<em><span style="color: #ff0000;">Grace and peace</span></em>” salutation. But grace didn’t mean much to a Jew. For thousands of years they related to Him through a system of law, and wherever there was law, there could be neither grace, nor peace.</span></p>
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+At this point in time, Jerusalem and Judaism were still prominent in the very young Christian church. Hence arose a question of Paul’s authority and apostleship. Much of Paul’s teaching in this letter has to do with steering them from the Old Covenant’s way of relating to God. Once again, Paul greeted them with the “<em><span style="color: #ff0000;">Grace and peace</span></em>” salutation. But grace didn’t mean much to a Jew. For thousands of years they related to Him through a system of law, and wherever there was law, there could be neither grace, nor peace.</span>
+</p>
+</div>
 <p style="text-align: left;"><span style="line-height: 1.3em;">What do grace and peace mean to us? Do we only pay lip service to them, or do we live our Christian lives in a relationship with God that is consistent with these characteristics that are supposed to be ours?</span></p>
 <p style="text-align: left;"><span style="line-height: 1.3em;">What makes us afraid of God? What system of theology that perpetuates a fear of God that He moved heaven and earth to dispel, including sending His own Son to the cross for us?</span></p>
 <p style="text-align: left;"><blockquote><span style="color: #008000;"><sup>4</sup>who gave himself for our sins to <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">rescue</span></span> us from this present evil age according to the will of our God and Father,</span></blockquote></p>

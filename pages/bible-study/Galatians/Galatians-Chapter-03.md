@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/03/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
@@ -18,6 +19,11 @@ header: no
 
 <!-- main body text -->
 <p style="text-align: left;"><blockquote><span style="color: #008000;"><sup>1</sup>You foolish Galatians! Who has cast a spell on you? Before your eyes Jesus Christ was<span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"> vividly portrayed as crucified!</span></span></span></blockquote></p>
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+</p>
+</div>
 <p style="text-align: left;">Paul wasn't concerned that they didn't acknowledge the fact of Jesus' crucifixion; he was frustrated that <em><span style="color: #ff0000;">they didn't see the full impact of this fact</span></em>. They heard with their ears Jesus died for them on the cross, yet they carried on as if it had no effect on the forgiveness of their sins and the sanctification of their souls. So they pushed on using their efforts and human means as if they can somehow add to what Christ had already done for them.</p>
 <p style="text-align: left;">Like Peter asked Jesus to wash his whole body, but Jesus said the cleaning of the feet was enough. Can we see the implication of this story? The washing of the feet was symbolic of a sanctification, a setting apart, for God's kingdom, but Jesus never meant to totally wash him in the physical sense; sinner he will still be until Christ comes again when he will put on the incorruptible, the body that is finally free from sin; but this body, forget it, it will be shed like an old garment. The Galatians committed the same error as Peter did when he asked Jesus to wash his fleshly body. They continued to work on this flesh, circumcision in their case, as if it will one day be allowed into the presence of God. Modern Christians do exactly the same thing though in different form to address the issues of their flesh. Christ died on the cross, sure, but I will have to do my part.</p>
 <p style="text-align: left;"><blockquote><span style="color: #008000;"><sup>2</sup><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">The only thing</span></span> I want to learn from you is this: Did you receive the Spirit by doing the works of the law or by believing what you heard?</span></blockquote></p>

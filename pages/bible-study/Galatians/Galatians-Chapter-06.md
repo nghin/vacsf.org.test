@@ -9,13 +9,13 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
         {% include bible-study/galatians-chapters %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
 <!-- main body text -->
 
 #### <strong>Gentleness toward a weak brother</strong>
@@ -26,7 +26,12 @@ This verse is self-explanatory.
 #### <strong>The burden of law observances</strong>
 > <sup>2</sup>Carry one another's <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">burdens</span></span>, and in this way you will <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">fulfill the law of Christ</span></span>.<span style="text-align: justify;">
 
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 From the very beginning of this epistle, Paul has been exhorting the Galatians to walk by faith and not using the law as the basis of their relationship with God. And then in one sentence earlier, verse 1, he talked about gentle restoration of someone who may be leading a sinful lifestyle. Now he's talking about carrying one another's burden. From the context we can deduce that it must be the burden of sin that he's talking about in this verse; the same meaning with the burden of observances of laws and statutes.
+</p>
+</div>
 
 Therefore Paul must not be talking about the physical burden of this life, of working to make a living, of child rearing, of financial matter, etc.
 

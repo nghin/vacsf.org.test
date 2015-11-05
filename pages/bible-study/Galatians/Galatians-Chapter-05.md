@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/05/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Galatians</h2>
@@ -19,7 +20,12 @@ header: no
 <!-- main body text -->
 > <sup>1</sup>For freedom Christ has set us free. <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">Stand firm</span></span>, then, and do not be subject again to <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">the yoke of slavery</span></span>.<span style="text-align: justify;">
 
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 This freedom in Christ has nothing to do with "freedom" to sin, but it's <em><span style="color: #ff0000;">freedom from the reserved punishment for sin</span></em>: "<span style="color: #008000;"><em>The soul that sins shall die. (Eze 18:20)</em></span>". It's the freedom from sin's crippling condemnation and a guilt laden conscience. So those who are worried that free Christians may be enticed to sin just need to ask God for an assurance that the Holy Spirit is powerful enough to not let the sinning party go scott-free; because if God is not afraid of this open-ended promise, why should they be? He will not only convict us of issues, but also give us creative power to change in the direction He knows best. God is not blind and can see through the hearts of man, and He who began a good work in us will finish it gloriously.
+</p>
+</div>
 
 And <em><span style="color: #ff0000;">the yoke of slavery</span></em>, in this context, has nothing to do with the sins common to man; and I'm 100% certain that this was what I heard and assumed to be true for as long as I was a Christian. But here's the true yoke of slavery: the burden&nbsp;of keeping of the law to meet God's righteous requirement. The Galatians' circumcision was but a little speck compared to the hazy mountain of do's and don'ts in the Gentile world.
 
