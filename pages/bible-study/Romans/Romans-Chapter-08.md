@@ -9,6 +9,7 @@ permalink: /bible-topics/book-of-romans/08/
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/08/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -17,9 +18,14 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns">
 
 <!-- MAIN TEXT -->
-<h4 abp="1953"><br /><strong>There is no more condemnation<br /></strong></h4>
+<h4 abp="1953"><strong>There is now no condemnation<br /></strong></h4>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>There is therefore now no condemnation for those who are in Christ Jesus. (Romans 8:1) </blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">The spiritual truths Paul presented in the preceding chapters lead to the conclusion that those who are in Christ are no longer condemned. There is no longer any threat to their relationship with God, because the only required condition is that they're in Christ, and we have established this fact based on preceding chapters: by faith, not by works, by being dead to the law through the body of Christ.</p>
+</p>
+</div>
 <p style="text-align: left;" abp="1968">Another fact worth mentioning is the King James version has an errorneous additional part at the end of verse 1 which goes like this: "<span style="color: #008000;"><em>There is therefore now no condemnation to them which are in Christ Jesus, <span style="text-decoration: underline;">who walk not after the flesh, but after the Spirit</span>.</em></span>" The addition of this part changes its meaning significantly, which gives the reader a sense that it's not enough just to be in Christ but they must also conduct their lives according to certain expectation. This can sow great doubt in the heart of believers as no one can objectively determine where the line can be drawn between flesh and spirit.<br /><br /></p>
 <h4 style="text-align: left;" abp="1996"><strong>The new law sets us free from the old law</strong></h4>
 <p style="text-align: left;" abp="1996"><blockquote><sup>2</sup>For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death. (Romans 8:2)</blockquote></p>

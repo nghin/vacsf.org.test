@@ -13,7 +13,7 @@ header: no
 
 <ul class="side-nav">
       <li><a href="/hoc-kinh-thanh/sach-ro-ma/01/">Chapter 1</a>
-      <p style="font-weight: normal;">Sự vâng phục của đức tin là sự đặt trọn niềm tin nơi Đấng Christ để nhận sự cứu rỗi. Bất cứ ai tin thì được cứu. Tin Lành của Đức Chúa Trời khởi đầu và kết cuộc trong đức tin. Mọi người đều phạm tội và thiếu mất sự vinh hiển của Đức Chúa Trời. Chương 1 gọi vũ trụ là chứng nhân của sự hiện hữu của Đức Chúa Trời, và điều này được lập lại trong chương 10: <span styhle="font-style: italic;">"Tiếng của các sứ giả đã vang khắp đất."</span> Các tầng trời là kẻ rao giảng về Đức Chúa Trời.</p>
+      <p style="font-weight: normal;">Sự vâng phục của đức tin là sự đặt trọn niềm tin nơi Đấng Christ để nhận sự cứu rỗi. Bất cứ ai tin thì được cứu. Tin Lành của Đức Chúa Trời khởi đầu và kết cuộc trong đức tin. Mọi người đều phạm tội và thiếu mất sự vinh hiển của Đức Chúa Trời. Chương 1 gọi vũ trụ là chứng nhân của sự hiện hữu của Đức Chúa Trời, và điều này được lập lại trong chương 10: <span style="font-style: italic;">"Tiếng của các sứ giả đã vang khắp đất."</span> Các tầng trời là kẻ rao giảng về Đức Chúa Trời.</p>
       </li>
       <li><a href="/hoc-kinh-thanh/sach-ro-ma/02/">Chapter 2</a>
       <p style="font-weight: normal;">Cả nhân loại ở dưới sự đoán xét. Những kẻ cậy luật pháp đều có khuynh hướng phê phán, và họ sẽ bị đoán xét bởi chính luật pháp mà họ trông cậy. Lòng nhân từ của Chúa dẫn chúng ta đến sự ăn năn. Ăn năn = nhận sự cứu rỗi qua Đấng Christ. Mọi người đều chịu sự xét đoán bởi luật pháp hoặc bởi ân điển. Mọi người (không phải Do-thái) sống dưới luật pháp của lương tâm đều bị rủa sả. Mọi người Do-thái dưới luật pháp Môi-se đều bị rủa sả.</p>

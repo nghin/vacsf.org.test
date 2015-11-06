@@ -9,6 +9,7 @@ header: no
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/09/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -17,9 +18,14 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns">
 
 <!-- MAIN TEXT -->
-<h4 abp="1953"><br /><strong>Israel, the chosen people</strong></h4>
+<h4 abp="1953"><strong>Israel, the chosen people</strong></h4>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>Tôi&nbsp;I am telling the truth in Christ (I am not lying!), for my conscience assures me in the Holy Spirit - &nbsp;<sup>2</sup>I have great sorrow and unceasing anguish in my heart. &nbsp;<sup>3</sup>For I could wish that I myself were accursed - cut off from Christ - for the sake of my people, my fellow countrymen, &nbsp;<sup>4</sup>who are Israelites. To them belong the adoption as sons, the glory, the covenants, the giving of the law, the temple worship, and the promises. &nbsp;<sup>5</sup>To them belong the patriarchs, and from them, by human descent, came the Christ, who is God over all, blessed forever! Amen. (Romans 9:1-5) </blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">Just like the pearl of great price in one of Jesus' parables as told in Matthew 13:45-46, which causes its finder to become so willing to let go of everything else in order to come into the possession of it. That pearl of great price must be the gospel of salvation that Paul found and is now trying to tell his own people. So strong is the desire that upon their unbelief, or that they believe but not to the point of fully understanding what they believe, Paul felt such pain and anguish that he wished he would be able to take their place of damnation so that they may be able to receive what he's been trying to convey to them. This was also the sentiment of Moses when he uttered the following words in Exodus 32:32: "But now, if you will forgive their sin..., but if not, wipe me out from your book that you have written." But of course, we should understand that this is just a way for Paul and Moses to express strongly their love for their countrymen, and more than such love is the treasure of what they knew were in store for the people but they rejected it nonetheless.</p>
+</p>
+</div>
 <p style="text-align: left;" abp="1968">The Jews were a people chosen by God from people of all the earth, to be an instrument through which He will show the plan of their salvation. They were given a covenant with God (Old Covenant), they were given the law of God through the 10 commandments and the law of Moses, they were shown a way to worship directly from God whom they worship (what other religions whose gods show their worshippers how to worship them?), they were given a promise concerning the coming Messiah. They're also descendants of the patriarchs whose God is not ashamed to call Himself the God of Abraham, Isaach, and Jacob. Concerning the flesh, Jesus Christ whose name is above all names, and is Almighty God, chose them to be the people from whom He came.<br /><br /></p>
 <h4 style="text-align: left;" abp="1996"><strong>Born of flesh / Born of promise</strong></h4>
 <p style="text-align: left;" abp="1996"><blockquote><sup>6</sup>It is not as though the word of God had failed. For not all those who are descended from Israel are truly Israel, &nbsp;<sup>7</sup>nor are all the children Abraham's true descendants; rather "through Isaac will your descendants be counted." &nbsp;<sup>8</sup>This means it is not the children of the flesh who are the children of God; rather, the children of promise are counted as descendants.&nbsp;(Romans 9:6-8)</blockquote></p>

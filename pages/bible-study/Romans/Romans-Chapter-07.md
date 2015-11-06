@@ -9,6 +9,7 @@ permalink: /bible-topics/book-of-romans/07/
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/07/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -17,9 +18,14 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns">
 
 <!-- MAIN TEXT -->
-<h4 abp="1953"><br /><strong>The master/slave relationship with the law</strong></h4>
+<h4 abp="1953"><strong>The master/slave relationship with the law</strong></h4>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>Or do you not know, brothers and sisters (for I am speaking to those who know the law), that the law is <span style="color: #ff0000;"><strong>lord over</strong></span> a person as long as he lives? (Romans 7:1) </blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">In Romans 6:14, Paul asserted that we're no longer under law, but under grace, and here in chapter 7, he began to show the reader the limitation of the law in a believer's life: the law continues to rule him, as long as, and only as long as, he lives. This also means that when that person dies, the law can no longer has power over him.</p>
+</p>
+</div>
 <p style="text-align: left;">Paul uses the term "lord over" to describe the relationship between believers and the law. He does not use terms such as guidance, encouragement, training, leading, etc., terms that are more fitting for the role of the Holy Spirit in their lives. Jesus also spoke of a new relationship with His followers, He no longer calls them slaves or servants, but friends, because now through the Holy Spirit they know God's will. (John 15:15).</p>
 <p style="text-align: left;">The word "dominion" implies coersion, obligation, without willingness or freedom of choice, punishment for failure to comply. The penalty is as severe as "The soul that sins it shall die" (Ezekiel 18:20). In short, the relationship between the law and a believer does not reflect the gospel, or good news.</p>
 <p style="text-align: left;">Therefore Paul must be using a very negative term, "lord over," to describe a relationship that is also negative between the law and the believer. The lordship of the law will present only one way out that is death, and as long as the one under the law still lives, there will be condemnation, threat, judgement, punishment, in a manner of no difference than that between a slave and his master. Paul wrote this with the intention of helping the believer realize they need to escape from the captivity under the law.</p>

@@ -9,6 +9,7 @@ header: no
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/05/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -19,7 +20,12 @@ breadcrumb: true
 <!-- MAIN TEXT -->
 <h4 style="text-align: left;"><strong>Faith: access to God's grace and peace</strong></h4><blockquote><sup>1</sup>Therefore, since we have been <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">declared righteous by faith</span></span>, we have <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">peace with God</span></span> through our Lord Jesus Christ, <sup>2</sup>through whom we have also obtained <span style="text-decoration: underline; color: #ff0000;">access by faith into this grace</span> in which we stand, and we rejoice in the hope of Godʼs glory. (Romans 5:1-2)
 </blockquote>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;"><span style="text-align: left;">Having the sin nature inherited from Adam and Eve, all of us had fallen short of God's glory, therefore we became separated from God, and hence His enemy. But God had provided a way for us to be restored to our former glory so we may be reconciled to Him. The way of salvation has been opened to us when Jesus died on the cross, became a payment to restore us to the position that we had lost. Through faith in the great price that Christ had paid we may be reconciled to God. Now we stand firm in such gracious gift. We stand firm in believing in God who is faithful, not in our limitted human strength. If there is any reason for us to rejoice, or to boast, it is because of the hope in eternal life, not in the blessings of this physical life.</span></p>
+</p>
+</div>
 <h4 style="text-align: left;"><strong>Rejoice in sufferings</strong></h4>
 
 <blockquote><sup>3</sup>Not only this, but we also <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">rejoice in sufferings</span></span>, knowing that suffering produces endurance, <sup>4</sup>and endurance, character, and character, hope.&nbsp;<sup>5</sup>And hope does not disappoint, because <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">the love of God has been poured out in our hearts through the Holy Spirit</span></span> who was given to us.&nbsp;<span style="text-align: left;">(Romans 5:3-5)</span></blockquote>

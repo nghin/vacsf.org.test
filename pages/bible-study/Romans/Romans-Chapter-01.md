@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/01/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -19,7 +20,12 @@ header: no
 <p style="text-align: left;">
 <blockquote><sup>1</sup>From Paul, a <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">slave</span> </span>of Christ Jesus, called to be an apostle, set apart for the gospel of God. <sup>2</sup>This gospel he promised beforehand through his prophets in the holy scriptures, <sup>3</sup>concerning his Son who was a descendant of David with reference to the flesh, <sup>4</sup>who was appointed the Son-of-God-in-power according to the Holy Spirit by the resurrection from the dead, Jesus Christ our Lord.<sup>5</sup>Through him we have received grace and our apostleship to bring about <span style="color: #000000;">the <span style="text-decoration: underline;">obedience of faith</span></span> among all the Gentiles on behalf of his name. <sup>6</sup>You also are among them, called to belong to Jesus Christ. <sup>7</sup>To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ! (Romans 1:1-7—NET Bible)</blockquote>
 </p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;">Paul's salutation to the church<span style="text-align: justify;">&nbsp;at Rome</span>. Note that Paul addresses himself to be a slave of Christ in this NET Bible translation of the epistle, other translations use the term "servant" instead. The word "slave," or bondservant, does not bear the connotation of a free individual serving another.&nbsp;<span style="text-align: justify;">In John 15:15, Jesus says that he no longer calls us slaves (or servants), but friends because He's made known to us, through the indwelling Spirit, what He learned from the Father.</span></p>
+</p>
+</div>
 <p style="text-align: left;">Perhaps Paul wants to contrast unwilling slavery to the law, &nbsp;a ruthless master who takes lives of its subjects, to a slave of Christ, a gracious Lord who gave up His life for His beloved. &nbsp;Later in chapter 7 Paul talked about us being released from the law so that we might serve in the newness of life (verse 6).</p>
 <p style="text-align: left;">However there might be a more critical reason why Paul used the term slave in verse 1. When he was a slave to sin, he was in the state described as "the things I want to do, I do not do, and the things I do not want to do, I do, woe is me, who can save me from this body of death..." (Romans 7:15). Then when he was saved, he became a slave to righteousness. This relationship can be translated as "the things that are good, I find myself compelled to do, and the things that used to cause me to stumble, now I felt a great desire to stay away from them." It seems like in both relationships, Paul was motivated from a power outside of him, one of sin, and one of God.</p>
 <p style="text-align: left;">Paul frequently talks about he is compelled by God to do the good things He wants him to do; 2 Corinthians 5:14 says: "For Christ's love compels us," Song of Solomon, Song 2:4 says: "Let him lead me to the banquet hall, and let his banner over me be love," Philippians 2:13 says: "For it is God who works in you to will and to act in order to fulfill his good purpose." This is a kind of slavery that is motivated by love, from without and not from within. This may sound contrary to conventional wisdom, but it is entirely biblical. When someone is motivated by his own volition, it may sound noble, but it is from his own flesh, so it is with motivation by another human being. This self-centered motivation will not make it to the kingdom of God. But the slavery Paul talks about is from without, specifically from God, not man.</p>

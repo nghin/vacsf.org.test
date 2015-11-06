@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/03/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -19,7 +20,12 @@ header: no
 <!-- MAIN TEXT -->
 <h4 style="text-align: left;"><strong>God's promise of salvation will forever hold true</strong></h4>
 <p><blockquote><sup>1</sup>Therefore what advantage does the Jew have, or what is the value of circumcision? <sup>2</sup>Actually, there are many advantages. First of all, the Jews were entrusted with the oracles of God.</blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;">At the end of the previous chapter, Paul showed that a true Jew is not one who is only circumcised outwardly in the flesh, but one whose heart is circumcised by the Spirit (which can only be by faith). On the other hand, a Gentile who is not circumcised, but fulfilled the law (hypothetically, as no one can fulfill the law), is a true Jew indeed. This raised the question: what then is the advantage of being Jewish? There is an advantage, if they do take it, that through them God revealed his plan of salvation, of the coming Messiah, through the prophets.</p>
+</p>
+</div>
 
 <p style="text-align: left;"><blockquote><sup style="text-align: left;">3</sup><span style="text-align: left;">What then? If some did not believe, does their unbelief nullify the faithfulness of God?&nbsp;<sup style="text-align: left;">4</sup>Absolutely not! Let God be proven true, and every human being shown up as a liar, just as it is written:" so that you will be justified in your words and will prevail when you are judged."</span></blockquote></p>
 

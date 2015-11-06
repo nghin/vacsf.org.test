@@ -9,6 +9,7 @@ permalink: /bible-topics/book-of-romans/10/
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/10/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -17,10 +18,15 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns">
 
 <!-- MAIN TEXT -->
-<h4 abp="1953"><br />
+<h4 abp="1953">
 <strong>Do not seek own righteousness</strong></h4>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>Brothers and sisters, my heart's desire and prayer to God on behalf of my fellow Israelites is for their salvation. &nbsp;<sup>2</sup>For I can testify that they are zealous for God, but their zeal is not in line with the truth. &nbsp;<sup>3</sup>For ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness, they did not submit to God's righteousness. &nbsp;<sup>4</sup>For Christ is the end of the law, with the result that there is righteousness for everyone who believes.&nbsp;(Romans 10:1-4) </blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">Paul starts out this chapter expressing the same emotion as in chapter 9 concerning his longing for his countrymen to accept and understand the gospel of salvation that he has been trying to convey to them. He observed that through they were truly zealous for God, their zeal is not based on the truth, with deep contemplation of the meaning and substance of what they're doing in their relationship with God.</p>
+</p>
+</div>
 <p style="text-align: left;" abp="1968">Their zeal must be in line with the truth, or knowledge based on the King James translation, or intellect based on the Vietnamese translation. Jesus spoke of the importance of wisdom, or knowledge, in the faith life. For example in Luke 14:28 and Luke 14:31 where He spoke of a man who embarked on the project of building a tower, or a king who is preparing to go to battle with another. He taught that these folks must excercise their mind, and use their wisdom, to make sure they have what it takes to accomplish the tasks, or to win the battle. Therefore a person who rely on zeal to do what is required by the law, should also use their mind to consider whether such endeavor will bring them the righteousness of God. The obvious answer is NO, but it almost never fails that the majority of Christians, including of course the Romans, attempt to live out their faith like those are superstitious.</p>
 <p style="text-align: left;" abp="1968">The Romans Christians attempted to establish their own righteousness when they rely on their fleshly strength to perform what is required by the law. But the righteousness of Christ can only be established by Christ alone.<br /><br /></p>
 <h4 style="text-align: left;" abp="1996"><strong>Seeking righteousness through the law is a vain pursuit</strong></h4>

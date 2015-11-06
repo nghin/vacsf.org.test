@@ -9,6 +9,7 @@ permalink: /bible-topics/book-of-romans/11/
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/11/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -17,10 +18,15 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns">
 
 <!-- MAIN TEXT -->
-<h4 abp="1953"><br />
+<h4 abp="1953">
 <strong>The remnant - God's way of selection</strong></h4>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup>1</sup>So I ask, God has not rejected his people, has he? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. <sup>2</sup>God has not rejected his people whom he foreknew! Do you not know what the scripture says about Elijah, how he pleads with God against Israel? &nbsp;<sup>3</sup>"Lord, they have killed your prophets, they have demolished your altars; I alone am left and they are seeking my life!" &nbsp;<sup>4</sup>But what was the divine response to him? "I have kept for myself seven thousand people who have not bent the knee to Baal." <sup>5</sup>So in the same way at the present time there is a remnant chosen by grace.&nbsp;(Romans 11:1-5) </blockquote></p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">Paul recalled the prophet Elijah when he thought that no one among God's people followed Him anymore, but God let him know that there is still a "remnant" among them who still believed in Him. Today, when Paul wrote this letter, there is still a remnant. In the time of Elijah, God chose those who did not kneel before Baal, today how does He make his choices? Verse 5 let us know that God chose the remnant according to grace.</p>
+</p>
+</div>
 <p style="text-align: left;" abp="1968">We may understand the meaning of "grace" according to two aspects. In one aspect, grace speaks of God's mercies, and in another, it is the foundation of salvation by grace through faith and not by the works of the flesh. Paul presented both of these aspects in chapters 10 and 11, especially in verse 10:20 when he recalled Elijah's words "<span style="color: #008000;"><em>I was found by those who did not seek me; I became well known to those who did not ask for me</em></span>" to describe God's mercies and His sovereignty, the aspect of salvation by grace through faith can be found in verse 11:6 which will soon follow.&nbsp;</p>
 <p style="text-align: left;" abp="1968">If we are careful to preserve the context of all Pauline letters, including this very book of Romans which we're studying here, though a certain amount of his writing is dedicated to God's sovereignty which goes together with His mercies, an inherent character of the Almighty, a much greater amount is dedicated to show how God choose who He will save: by grace through faith and not by works of the flesh. Therefore we can understand the true meaning of verse 5: "<span style="color: #008000;"><em>So in the same way at the present time there is a remnant chosen by grace,</em></span>" which is exactly how God makes His selection: those who will believe. Because faith walks hand in hand with grace. Galatians 3:12 also writes "<span style="color: #008000;"><em>... the law is not based on faith.</em></span>"</p>
 <p style="text-align: left;" abp="1968">Therefore there is a parallelism between how God choose those He saves in the time of Elijah and now in the time of Paul. Those who did not kneel before Baal and those who walked by faith. Those who kneeled before Baal and those who rely on the law--because when they rely on the law, they rendered Christ's death on the cross of no value for them.<br /><br /></p>

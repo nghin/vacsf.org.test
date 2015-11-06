@@ -9,6 +9,7 @@ permalink: /bible-topics/book-of-romans/04/
 breadcrumb: true
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/04/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Book of Romans</h2>
@@ -18,8 +19,13 @@ breadcrumb: true
 
 <!-- MAIN TEXT -->
 <h4 style="text-align: left;"><strong>The law and boasting — Faith is enough</strong></h4>
-<p style="text-align: left;"><blockquote><sup>1</sup>What then shall we say that Abraham, our ancestor according to the flesh, a has discovered regarding this matter? <sup>2</sup>For if Abraham was declared righteous by the works of the law, he has something to <span style="text-decoration: underline; color: #ff0000;">boast</span> about- but not before God. <sup>3</sup>For what does the scripture say? " Abraham believed God, and it was credited to him as righteousness." <sup>4</sup>Now to the one who works, his pay is not credited due to grace but due to obligation. <sup>5</sup>But to the one who <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">does not work, but believes</span></span> in the one who declares the ungodly righteous, his faith is credited as righteousness.(Romans 4:1-5)</blockquote>&nbsp;</p>
-<p style="text-align: left;">Once again, Paul associates the reliance on the law with boasting. This makes lots of sense, because when one operates under the requirement of the law, there is much to prove, there are obligations to fulfill. In order for the lawkeeper to measure his level of performance, he has to look to others, to see where he fits on the bell-shaped curve. Insecurity finds its breeding ground in a law-based environment. And then there is comparison, and then there is boasting.</p>
+<blockquote><sup>1</sup>What then shall we say that Abraham, our ancestor according to the flesh, a has discovered regarding this matter? <sup>2</sup>For if Abraham was declared righteous by the works of the law, he has something to <span style="text-decoration: underline; color: #ff0000;">boast</span> about- but not before God. <sup>3</sup>For what does the scripture say? " Abraham believed God, and it was credited to him as righteousness." <sup>4</sup>Now to the one who works, his pay is not credited due to grace but due to obligation. <sup>5</sup>But to the one who <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">does not work, but believes</span></span> in the one who declares the ungodly righteous, his faith is credited as righteousness.(Romans 4:1-5)</blockquote>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+Once again, Paul associates the reliance on the law with boasting. This makes lots of sense, because when one operates under the requirement of the law, there is much to prove, there are obligations to fulfill. In order for the lawkeeper to measure his level of performance, he has to look to others, to see where he fits on the bell-shaped curve. Insecurity finds its breeding ground in a law-based environment. And then there is comparison, and then there is boasting.
+</p>
+</div>
 <p style="text-align: left;">Paul quotes the scripture saying: "Abraham believed God, and it was credited to him as righteousness." The scripture says it, so it means God said it, not Paul. So the Lord virtually gives Abraham a blank check without any safeguard, condition, or warning. It's like Christ being so rich, as rich as he owns the entire universe, is getting married to his bride without a prenuptial agreement. The Lord knows whose faith is true, and he knows he can breath life into a man dead in trespasses. But time after time, we act as if we're afraid someone might cheat God and rob Him of the righteousness he doesn't deserve.</p>
 <p style="text-align: left;">Our job is not to find out whose faith is genuine—we often do this through our subtle communications to test the faith of others—, but only to lead them to Christ, and He will tell sheep from goat, or whether they stray from Him. Don't play God. If God says it is enough to believe, let it be so. Never put a leash on God's grace.</p>
 <p style="text-align: left;">What do you get from verse 4? Work is associated with obligation, and payment you will get, but what? Maybe some reward that this world can offer? But not righteousness which is not of this world. It's the believing, the faith, that gets you the only thing that matters: righteousness.</p>
