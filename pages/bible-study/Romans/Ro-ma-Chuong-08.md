@@ -1,0 +1,172 @@
+---
+layout: page-fullwidth
+subheadline: "Học Kinh Thánh"
+title: "Rô-ma Chương 8"
+meta_teaser: "Bible Study on the eighth chapter of Romans"
+teaser: "Không còn đoán phạt nữa. Luật mới giải phóng khỏi luật cũ. Ý nghĩa đúng của sự noi theo xác thịt. Trọng tâm của đức tin bạn đặt vào đâu? Ai sống theo xác thịt? Phần Thần Linh sống, còn xác thịt thì chết. Thánh Linh ban sự sống. Món nợ xác thịt đã được trả. Đừng dùng xác thịt để đạt sự công bình. Được ấn chứng bởi Thánh Linh.  Bình an trong Chúa. Chịu đau đớn với Chúa--ý nghĩa đúng. Mong đợi ngày giải cứu khỏi làm tôi sự hư nát. Đức Thánh Linh cầu thay. Những kẻ được Đức Chúa Trời kêu gọi. Tình yêu Chúa bất khả phân ly."
+permalink: /hoc-kinh-thanh/sach-ro-ma/08/
+breadcrumb: true
+header: no
+---
+<!--more-->
+<div class="row">
+<div class="bible-index medium-4 medium-push-8 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+### Không còn đoán phạt nữa
+
+> <sup>1</sup>Cho nên hiện nay chẳng còn có sự đoán phạt nào cho những kẻ ở trong Ðức Chúa Jêsus Christ (Romans 8:1)
+
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+Đúng ra câu Kinh thánh này nên được dịch bắt đầu với: <span style="font-style: italic;">"Vì thế cho nên,"</span> hoặc <span style="font-style: italic;">"Do đó,"</span> hoặc <span style="font-style: italic;">"Nhờ đó,"</span> mà chữ thông dụng nhất trong các bản tiếng Anh dịch là <span style="font-style: italic;">"Therefore."</span> Những chân lý Phao-lô trình bày trong các đoạn trước dẫn đến kết luận rằng những kẻ ở trong Đấng Christ sẽ chẳng còn bao giờ bị lên án nữa. Sẽ không còn sự đe dọa nào trong mối liên hệ với Đức Chúa Trời, chỉ bởi một điều kiện duy nhất: ở trong Đấng Christ, mà chúng ta đã thiết lập nền tảng trong các đoạn trước: bởi đức tin, không phải bời việc làm, bởi sự chết về luật pháp qua thân thể Đấng Christ mà được liên hiệp với Ngài, được ở trong Ngài.
+</p>
+</div>
+
+Một điều đáng ghi nhận nữa là bản King James có thêm một đoạn nữa thuộc về câu 1. Cả câu này trong bản KJV được viết như sau: <span style="font-style: italic;">"Cho nên hiện nay chẳng còn có sự đoán phạt nào cho những kẻ ở trong Ðức Chúa Jêsus Christ, là những kẻ chẳng noi theo xác thịt, nhưng noi theo Thánh Linh."</span> Sự thêm vào đoạn này trong bản KJV thay đổi ý nghĩa của toàn câu, khiến người đọc thấy ở trong Đức Chúa Giê-su Christ chưa đủ, nhưng phải thêm vào đó sự chăm vào Thánh Linh thay vì xác thịt. Điều này gây một sự nghi ngờ lớn trong lòng các tín hữu, vì không ai có thể khẳng định khuynh hướng của lòng mình một cách khách quan.
+
+### Luật mới giải phóng khỏi luật cũ
+
+> <sup>2</sup>Vì luật pháp của Thánh Linh sự sống đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi luật pháp của sự tội và sự chết. (Romans 8:2)
+
+Thông thường khi nói về luật pháp, chúng ta thường nghĩ ngay đến những lề luật, mệnh lệnh, phải làm hoặc không nên làm, để duy trì mối liên hệ với Đức Chúa Trời. Nhưng đoạn Kinh thánh này cho chúng ta thấy có hai thứ luật, luật của Thánh Linh sự sống, và luật của sự tội và sự chết. Đại đa số có thể được đọc hoặc nghe nói về luật của sự sống, nhưng dường như chỉ coi như là một giáo điều, một tín lý, dùng cho sách vở, để học và thi trong trường thần học, còn luật của sự chết lại được dùng làm kim chỉ nam, nhưng họ không thấy điều hiển nhiên nó dẫn mình đi đâu. Nhưng nếu người đọc suy gẫm kỹ thì thấy luật của Thánh Linh sự sống buông tha chúng ta khỏi sự cầm giữ của luật kia, mà Phao-lô gọi là luật của sự tội và sự chết. Có thể nào luật của sự tội và sự chết lại mang đến sự sống? 
+
+Một luật đưa đến sự sống, còn luật kia dẫn đến sự chết, nhưng tại sao đa số lại chọn sự chết? Phải chăng luật của sự tội và sự chết là đường rộng và nhiều người theo nhưng dẫn đến sự chết theo lời Chúa Giê-su nói trong Matthew 7:14? Tại sao rất ít bài giảng nhấn mạnh về tầm quan trọng của luật Thánh Linh sự sống?
+
+### Ý nghĩa đúng của sự noi theo xác thịt
+
+> <sup>3</sup>Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt,  <sup>4</sup>hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng noi theo xác thịt, nhưng noi theo Thánh Linh. (Romans 8:3-4)
+
+Luật pháp không làm nổi điều gì? Còn điều gì khác quan trọng hơn là đạt được sự công bình của Đức Chúa Trời, và sự sống? Như Phao-lô đã nói trong phần cuối của Romans 7, rằng xác thịt không thể nào làm được trọn những điều đòi hỏi của luật pháp, và vì thế Chúa đã ban Con Một của Ngài để thực hiện điều chúng ta không làm nổi, hoặc nói theo cách của Phao-lô, điều mà luật pháp không làm được qua xác thịt loài người.
+
+Thế nào là noi theo xác thịt? Còn noi theo Thánh Linh? Trước hết chúng ta nên định nghĩa chữ <span style="font-style: italic;">"noi theo."</span> Noi theo, hoặc <span style="font-style: italic;">"patterned after."</span> Cứ theo từ tiết của Rô-ma từ chương 1 đến đây, các sự so sánh giữa hai thái cực: xác thịt và Thánh Linh, mà liên hệ đến xác thịt gồm có luật pháp và việc làm, còn liên hệ đến Thánh Linh thì qua ân điển và đức tin. Nhưng mục đích chính của hai sự noi theo này là gì? Mọi tôn giáo, kể cả Christianity, hay Cơ-đốc giáo, đều nhằm mục đich đạt đến được lý tưởng cao nhất trong niềm tin. Đây cũng là mục đích của Phao-lô khi so sánh hai thái cực này trong khả năng đạt được mục tiêu đó: trong niềm tin của chúng ta, mục tiêu đó là đạt được sự công bình của Đức Chúa Trời. Do đó, sự noi theo xác thịt mà Phao-lô nói ở đây không phải là những cám dỗ thường tình, nhưng là sự sử dụng sức người, qua việc làm của xác thịt, để đạt được sự công bình của Đức Chúa Trời. Kết luận là luật pháp không thể nào bởi xác thịt hay chết mà khiến người theo đó đạt đến sự cứu rỗi. 
+
+### Trọng tâm của đức tin bạn đặt vào đâu?
+> <sup>5</sup>Thật thế, kẻ sống theo xác thịt thì chăm những sự thuộc về xác thịt; còn kẻ sống theo Thánh Linh thì chăm những sự thuộc về Thánh Linh.  <sup>6</sup>Vả, chăm về xác thịt sanh ra sự chết, còn chăm về Thánh Linh sanh ra sự sống và bình an;  <sup>7</sup>vì sự chăm về xác thịt nghịch với Ðức Chúa Trời, bởi nó không phục dưới luật pháp Ðức Chúa Trời, lại cũng không thể phục được.  <sup>8</sup>Vả, những kẻ sống theo xác thịt, thì không thể đẹp lòng Ðức Chúa Trời (Romans 8:5-8).
+
+Những ý Phao-lô viết trong đoạn này chỉ là để làm sáng tỏ thêm điều ông đã viết ở chương 7, mà ở đó ông đã thiết lập nền tảng hầu chúng ta có thể hiểu chương này cách đúng đắn.
+
+Tiếp tục theo ý của các câu trong Romans 8:3-4 ở trên, những kẻ cậy vào việc làm của xác thịt để thỏa những đòi hỏi của luật pháp, thì chắc chắn luôn luôn chú tâm đến những công đức, hoặc những vi phạm, của xác thịt, dù tiêu cực hoặc tích cực, xác thịt vẫn là trọng tâm của những người chăm về nó. Người Ga-la-ti biểu lộ sự chú tâm của họ về xác thịt khi họ đặt nặng nghi lễ cắt bì không những chỉ cho người Do-thái, mà cho cả các tín hữu người ngoại. Người Cơ-lô-se thì chú trọng đến các sự kiêng cử, giữ các ngày tháng, v.v...
+
+Ngược lại, thế nào là sống theo Thánh Linh? Một cách đơn giản chúng ta có thể nói rằng khi một người hoàn toàn trông cậy nơi Đức Thánh Linh để đạt được sự công bình của Đức Chúa Trời. Chúng ta đã làm điều này rồi khi khởi đầu đến nơi chân thập tự nhìn nhận sự bất lực để tự cứu lấy mình. Do đó rõ ràng bước đi theo Thánh Linh là đi trọn cuộc đời y như khi mới bắt đầu tin Chúa. Chúng ta thường khuyên nhủ lẫn nhau về sự đầu phục, nhường quyền làm chủ, cho Đức Thánh Linh, và Chúa Giê-su cũng đã cho chúng ta một công thức để thực hiện điều đó: AN NGHỈ, một sự an nghỉ tâm linh cũng giống như ngày Sa-bát về phần xác, sự an nghỉ được ban cho những kẻ tin vì Chúa Giê-su đã phán: mọi sự đã được trọn. Trong Galatians 3:3 Phao-lô đã mắng họ về sự dại dột khởi đầu bằng Thánh Linh rồi lại quay trở về dùng xác thịt để sống đời còn lại. Các độc giả bây giờ có thấy rõ ràng là bước đi theo xác thịt có nghĩa là dùng xác thịt để làm công việc Chúa?
+
+Sự chú tâm về xác thịt là trọng tâm của mọi tôn giáo trên đời, kể cả những người theo đạo Chúa nhưng tín lý đặt trọng tâm trên xác thịt, dù tích cực hoặc tiêu cực, dù với dụng ý khuyên bảo, dạy dỗ, nhưng nhắm vào sự kềm hãm hoặc sửa đổi xác thịt hay chết. Phao-lô kết luận đoạn này với lời cảnh cáo nghiêm trọng: niềm tin đặt trọng tâm trên xác thịt thì chẳng hề đẹp lòng Đức Chúa Trời.
+
+### Ai sống theo xác thịt?
+
+> <sup>9</sup>Về phần anh em, nếu thật quả Thánh Linh Ðức Chúa Trời ở trong mình, thì không sống theo xác thịt đâu, nhưng theo Thánh Linh; song nếu ai không có Thánh Linh của Ðấng Christ, thì người ấy chẳng thuộc về Ngài. (Romans 8:9)
+
+Nếu chúng ta thắc mắc không biết cách nào để định rằng mình đang sống theo xác thịt hoặc Thánh Linh, thì đoạn Kinh thánh này cho chúng ta mực thước theo tiêu chuẩn của Chúa để đo lường: AI CÓ THÁNH LINH THÌ KHÔNG SỐNG THEO XÁC THỊT. Nhưng có người sẽ hỏi: Làm sao để biết mình có Thánh Linh? Ephesians 1:12-14 viết rằng những người tin Đấng Christ thì được ấn chứng bằng Thánh Linh để làm bằng chứng cho đến ngày cứu rỗi. Do đó theo như lời viết trong câu Kinh thánh trên, kẻ được ấn chứng bằng Thánh Linh thì được KỂ NHƯ KHÔNG CÒN SỐNG THEO XÁC THỊT NỮA, được thoát khỏi luật pháp buộc mình vào thân xác hay chết (Romans 6:4; Romans 7).
+
+Đó là lý do tại sao một người vẫn còn sống trong thân xác tội lỗi mà lại được KỂ LÀ không sống theo xác thịt. Y theo cách người đó được KỂ LÀ VÔ TỘI, XƯNG LÀ CÔNG BÌNH, KỂ NHƯ ĐƯỢC ĐỒNG CHẾT VÀ CHÔN CÙNG ĐẤNG CHRIST, ĐƯỢC THÁNH HÓA, thì sự thoát khỏi xác thịt cũng là MỘT ĐỊA VỊ ĐƯỢC BAN CHO CÁCH NHƯNG KHÔNG.
+
+Trên thực tế, bản chất tội lỗi của người đó vẫn còn thừa khả năng phạm tội, lại còn phạm tội hằng ngày vì mọi việc, dù là việc làm lành, đều thiếu mất sự vinh hiển của Đức Chúa Trời, và do đó cũng kể là tội lỗi. Tiên tri Ê-sai cũng nói lên điều này trong Isaiah 64:6 rằng mọi việc công bình mà chúng ta làm thảy đều như tấm áo nhớp.
+
+### Phần Thần Linh sống, còn xác thịt thì chết
+
+> <sup>10</sup>Vậy nếu Ðấng Christ ở trong anh em, thì thân thể chết nhơn cớ tội lỗi, mà thần linh sống nhơn cớ sự công bình. (Romans 8:10)
+
+ Hi vọng từ tiết, hoặc văn mạch, của câu này làm sáng tỏ ý nghĩa của sự <span style="font-style: italic;">"sống theo xác thịt."</span> Câu này cho chúng ta thấy anh em, tức là mỗi người trong chúng ta, có hai phần, thân thể, và thần linh, mà thân thể <span style="font-style: italic;">"chết nhơn cớ tội lỗi"</span> là một điều hẳn nhiên, nghĩa là không thể tránh được, là thân thể tự nó là tội lỗi và ở trong sự chết. Tôi không cần giải thích nhiều về phần thần linh vì ít có những ứng dụng sai lầm về điều này.
+
+Hơn nữa, theo câu 10, một người dù được ở trong Đấng Christ, thân thể, hay xác thịt, vẫn chết vì tội lỗi. Do đó chúng ta có thể hiểu <span style="font-style: italic;">"không sống theo xác thịt,"</span> như được viết trong câu 9, tức là không còn đặt xác thịt, cùng những việc làm của nó dù lành hay dữ, làm sự định giá trong mối liên hệ với Chúa. Mọi giải thích khác đều mâu thuẫn những điều sứ đồ Phao-lô đang viết cho chúng ta.
+
+Còn phần tâm linh thì được sống nhờ sự được xưng công bình bởi dòng huyết của Đấng Christ.
+
+### Thánh Linh ban sự sống
+
+> <sup>11</sup>Lại nếu Thánh Linh của Ðấng làm cho Ðức Chúa Jêsus sống lại từ trong kẻ chết ở trong anh em, thì Ðấng làm cho Ðức Chúa Jêsus Christ sống lại từ trong kẻ chết cũng sẽ nhờ Thánh Linh Ngài ở trong anh em mà khiến thân thể hay chết của anh em lại sống. (Romans 8:11)
+
+Điều mỗi tín hữu cần không phải là một phương thức, trau giồi, luyện tập, hoặc bất cứ điều gì có thể làm, nhưng là SỰ SỐNG bởi chính Đấng làm Đấng Christ sống lại từ kẻ chết, như chính Ngài đã hà hơi ban sự sống cho A-đam. Nhưng thói thường, chúng ta thường hay lâm vào cạm bẫy của xác thịt, nghĩ rằng mình có thể làm được điều gì đó để duy trì đời sống tâm linh. Bằng chứng là giáo sư siêu đẳng về luật pháp của người Do-thái là Ni-cô-đem đã đến hỏi Chúa: <span style="font-style: italic;">"Người đã già thì sanh lại làm sao được? Có thể nào trở vào lòng mẹ và sanh lần thứ hai sao?"</span> (John 3:1-7) Chúa Giê-su nói về sự sanh lại từ nơi thiên thượng, còn Ni-cô-đem khi nghĩ quá thân thể phàm nhân; dường như ông đang ám chỉ thuyết luân hồi, rằng xác thịt có thể một ngày kia thành thần thánh. Quả thật nhiều tín hữu và lãnh đạo của họ cũng thường nghĩ như vậy: tôi phải làm gì? Nhưng đây là sự suy nghĩ đến từ xác thịt hư nát, từ lối suy nghĩ của đời này. Chúng ta không thể làm được điều gì cả, ngoại trừ nhìn Chúa Giê-su như dân Do-thái ngày xưa trong sa mạc nhìn con rắn bị treo lên để được cứu. Chúa Giê-su phán với Ni-cô-đem: ngươi phải được tái sinh. Bạn làm gì để được tái sinh? Xả thân trên giàn hỏa thiêu? Bố thí hết tài sản cho người nghèo? Giảng luận hùng hồn? Hiểu được hết mọi huyền nhiệm? Chẳng bởi năng quyền, nhưng bời Thần Chúa (Zechariah 4:6).
+
+Bạn có tin rằng chỉ cần tin vào Đấng Christ là đủ không? Hay là bạn phải làm gì thêm? Hãy học gương Ni-cô-đem.
+
+### Món nợ xác thịt đã được trả
+
+> <sup>12</sup>Vậy, hỡi anh em, chúng ta chẳng mắc nợ xác thịt đâu, đặng sống theo xác thịt. (Romans 8:12)
+
+Thật vậy, chúng ta quả đã nợ xác thịt về tội lỗi, nhưng Chúa đã trả hết nợ quá khứ, hiện tại, và tương lai. Lại nếu chúng ta được xóa nợ, thì luật đòi chúng ta phải trả nợ không còn hiệu lực nữa, xiềng trói chúng ta vào xác thịt hay chết bị phá tung. Từ đây mỗi ngày chúng ta được sống cách tự do, lòng được tẩy sạch khỏi lương tâm xấu, thân thể rửa bằng nước trong (Hebrews <sup>1</sup>0:22), không còn phải lo thanh toán nợ nần lập đi lập lại nữa, vì Chúa đã thanh toán món nợ này một lần đủ cả. Do đó bài cầu nguyện chung, câu "xin Cha tha nợ chúng con" là để cho những người chưa tin Chúa, nhất là những người Pha-ri-si, họ không xin được tha nợ vì họ vẫn thường trả bằng những của lễ thiêu; nhưng sự tha nợ nói lên chỉ một của lễ đẹp lòng Đức Chúa Trời được Ngài nhân: Giê-su Christ. Nếu không còn mắc nợ xác thịt nữa sao chúng ta lại sống như vẫn còn nợ?
+
+### Đừng dùng xác thịt để đạt sự công bình
+
+> <sup>13</sup>Thật thế, nếu anh em sống theo xác thịt thì phải chết; song nếu nhờ Thánh Linh, làm cho chết các việc của thân thể, thì anh em sẽ sống. (Romans 8:13)
+
+Đến đây, chúng ta có thể diễn ý câu Kinh thánh như thế này: Thật thế, nếu anh em dùng xác thịt để hòng được sự công bình của Đức Chúa Trời, thì lầm to, vì làm như vậy sẽ dẫn đến sự chết, nhưng nếu cậy vào quyền năng của Thánh Linh, tức là đặt niềm tin nơi Đấng mà nhờ Ngài chúng ta được đồng chết và chôn khiến luật pháp buộc chúng ta vào đời sống cũ trở nên mất hiệu lực, thì sẽ được sự sống.
+
+Nếu quí vị quên đoạn Kinh thánh nói về sự chết về luật pháp để được hiệp một với Đấng Christ thì xin đọc lại bài viết của chương 7. Các việc của thân thể là tội lỗi, mà tội lỗi chỉ có quyền lực khi luật pháp đòi hỏi chúng ta phải trả nợ còn hiệu lực. Do đó các việc của thân thể, hay tội lỗi, chỉ chết đi khi luật pháp ban quyền cho nó bị mất hiệu lực. Chúng ta được thoát khỏi luật pháp ràng buộc đó qua xác Chúa Giê-su.
+
+### Được ấn chứng bởi Thánh Linh
+
+> <sup>14</sup>Vì hết thảy kẻ nào được Thánh Linh của Ðức Chúa Trời dắt dẫn, đều là con của Ðức Chúa Trời. (Romans 8:14)
+
+Hết thảy kẻ nào được Thánh Linh của Đức Chúa Trời dắt dẫn. Và chúng ta cũng biết hễ người nào ở trong Đấng Christ thì được ban cho Thánh Linh làm ấn chứng (Ephesians 1:13) và là Đấng An Ủi, dẫn chúng ta vào mọi lẽ thật.
+
+Nhưng đây là cả một vấn đề rắc rối trong nhiều hệ phái của Tin Lành, về sự ai là người được Thánh Linh dắt dẫn. Một hôm người bạn, có lẽ không đồng ý về những điều tôi chia xẻ ở đây, hỏi tôi về 5 điểm trong giáo thuyết Calvin (5-point Calvinism). Tôi đọc qua và có nhận định rằng, đa số những điểm đều nhằm mục đích định nghĩa ai là Cơ-đốc Nhân qua những dấu hiệu, những bằng chứng. Tôi nhận xét rằng bàn luận về những điều này là vô ích, vì tốt hơn là chúng ta nên chỉ cho người ta con đường đến sự cứu rỗi, còn ai là Cơ-đốc Nhân thì Đức Chúa Trời là Đấng Vô Sở Bất Tri (All Knowing, Omniscient) chắc không mù mà phải nhờ quí vị Calvin vạch ra giùm kẻo Ngài bị lừa.
+
+Chúa Giê-su cũng nói về điều này khi các môn đệ Ngài tìm cách loại bỏ những người có thể có gian ý khi làm công việc Chúa; Ngài phán cứ để đó cho đến ngày sau rốt, e họ nhổ nhằm lúa mì thay vì cỏ lùng (Matthew 13:24-30). Lý thuyết Calvin, cũng như nhiều sách vở và giảng luận trong hội thánh, nhiều khi có chiều hướng muốn nhổ cỏ lùng, đến nỗi những con cái thật của Đức Chúa Trời nhiều khi nghi ngờ chính sự cứu rỗi của mình, vì nhiều năm tháng trôi qua, đức tin yếu đuối của họ bị gieo vào sự nghi ngờ của những nghi vấn, thay vì họ cứ được tưới vào lòng chân lý về lòng yêu thương, nhân từ, và bản tính thành tín của Đức Chúa Trời. Hãy cẩn thận, đừng để cơ hội quý báu Chúa cho để rao truyền về chiều cao, sâu, rộng của tình yêu Chúa trở thành cuộc nhổ cỏ lùng trái ý Chúa Giê-su. Nếu bạn muốn làm theo mọi điều Chúa Giê-su răn dạy, ít nhất hãy làm theo điều đó: đừng nhổ cỏ lùng nữa. Vì những kẻ đã thuộc về Thánh Linh, thế nào Ngài cũng dẫn dắt họ, còn những kẻ không thuộc về Ngài, bạn dạy họ với mục đích gì? Bạn đang quẳng ngọc trước mũi heo? (Matthew 7:6)
+
+### Bình an trong Chúa. Chứng bởi Thánh Linh
+
+> <sup>15</sup>Thật anh em đã chẳng nhận lấy thần trí của tôi mọi đặng còn ở trong sự sợ hãi; nhưng đã nhận lấy thần trí của sự làm con nuôi, và nhờ đó chúng ta kêu rằng: A-ba! Cha!  <sup>16</sup>Chính Ðức Thánh Linh làm chứng cho lòng chúng ta rằng chúng ta là con cái Ðức Chúa Trời. (Romans 8:15-16)
+
+ Nhờ đâu sự sợ hãi chẳng còn nữa trong mối liên hệ giữa chúng ta và Chúa? Phao-lô nêu lên vấn đề sợ hãi ở đây cũng không phải là không có lý do. Trong mối liên hệ với Chúa qua luật pháp, chắc chắn sự sợ hãi là điều không tránh khỏi, vì trong luật pháp phải có sự lên án, và sự trừng phạt cho những kẻ không hội đủ điều kiện, tiếng Anh gọi là missing the mark. Tội lỗi là missing the mark.
+
+<span style="font-style: italic;">"Thần trí của sự làm con nuôi,"</span> là địa vị mới mà chúng ta có nhờ ở trong Đấng Christ. Trước kia chúng ta mang thần trí, hoặc sống trong địa vị, của người nô lệ dưới tội lỗi. Chúa muốn chúng ta sống trong tâm trạng mới, liên hệ với Ngài qua cách khác, qua sự trọn vẹn của Đấng Christ thay vì sự bất toàn của bản chất tội lỗi. Chúng ta sống trong thần trí của người nô lệ khi vấn đề tội lỗi còn là chủ yếu trong đời sống, với người Do-thái là những nghi lễ, những của lễ thiêu để đền trừ cho những vi phạm.
+
+Người tranh tài trượt băng nghệ thuật ở những thế vận hội mùa Đông chắc chắn có những lúc bị những trận té đau đớn, mất nhiều điểm. Người đó có thể chọn hoặc mang thần trí của sự té ngã, cứ xoay vần trong tâm trí những lần vấp ngã, hoặc mang thần trí của kẻ thắng hơn, kể như mỗi bước, mỗi lần phóng mình lên không trung, là bước đầu tiên của nhà vô địch. Người theo Chúa Giê-su cũng vậy, chú tâm vào đâu: thất bại của mình hay thắng hơn của Chúa, tội lỗi của mình hay sự toàn thiện của Đấng Cứu Thế?
+
+Chúa lại ban cho chúng ta Đức Thánh Linh để làm bằng chứng về sự chúng ta thuộc về Đức Chúa Trời. Nhưng sự làm chứng này không phải là một điều để chúng ta cảm thấy trong lòng, nhưng như là một lời hứa, một chân lý hầu chúng ta hiểu và vững lòng tin. Vì điều cảm nhận trong lòng có thể thay đổi tùy theo hoàn cảnh trong cuộc sống, nhưng lời hứa và chân lý thì không dời đổi. Sự làm chứng này không phải là điều mà mắt thường có thể nhận thấy (Luke 17:20), nhưng là điều mà chúng ta nhận lấy bởi đức tin.
+
+### Chịu đau đớn với Chúa--ý nghĩa đúng
+
+> <sup>17</sup>Lại nếu chúng ta là con cái, thì cũng là kẻ kế tự: kẻ kế tự Ðức Chúa Trời và là kẻ đồng kế tự với Ðấng Christ, miễn chúng ta đều chịu đau đớn với Ngài, hầu cho cũng được vinh hiển với Ngài. <sup>18</sup>Vả, tôi tưởng rằng những sự đau đớn bây giờ chẳng đáng so sánh với sự vinh hiển hầu đến, là sự sẽ được bày ra trong chúng ta. (Romans 8:17-18)
+
+Thế nào là <span style="font-style: italic;">"chịu đau đớn với Ngài?"</span> Chúa đã chịu sự đau đớn về phương diện nào? Của khổ hình trên thập giá để cứu chuộc nhân loại? Của tội lỗi nhân loại chồng chất trên Ngài? Của đau khổ mà nhân loại ai cũng phải trải qua? 
+
+Nếu là sự đau đớn liên hệ đến tội lỗi nhân loại thì chắc chắn không phải là điều mà chúng ta có thể đồng chịu với Chúa, vì để trả giá cho tội lỗi nhân loại Chúa phải mang hình thể con người nhưng chẳng hề phạm tội, và không một người nào sanh bởi thịt và huyết xứng đáng để dự phần vào việc đó.
+
+Nếu là sự đau đớn về sự chồng chất của tội lỗi toàn thế gian trên Chúa khi Ngài chịu đóng đinh đến nỗi Đức Chúa Trời phải tạm lìa bỏ Con Ngài, thì một lần nữa, không ai ngoài Chúa có thể gánh vác điều đó.
+
+Lại chắc chắn không phải là đau đớn thường tình trong thế gian về tật bệnh, chiến tranh, nghèo đói, bất công, bạo hành, v.v..., thì chỉ là kết quả của tội lỗi khiến loài người phải lìa bỏ Vườn Địa Đàng.
+
+Chỉ còn lại một sự đau đớn mà có lẽ Phao-lô nói đến trong thư này đó là sự thống khổ của những tín hữu bị bắt bớ vì danh Chúa. Nhà giảng sư nổi tiếng Charles Spurgeon nói rằng sự đau đớn này là một phần của gia sản mà con cái Chúa nhận lãnh khi đồng kế tự với Đấng Christ, nhưng sự đau đớn này đóng vai trò gì trong nước hầu đến? Đây không thể là một luật chung cho mọi tín hữu; vì có nhiều mức độ của sự bắt bớ cũng như hàng muôn vàn cá tính khác nhau của các tín hữu, người thì can đảm không biết sợ là gì, còn người thì tính tình nhút nhát, tùy theo tâm tính Chúa ban cho họ.
+
+Thêm một vấn đề nan giải nữa là Phao-lô viết về sự đau đớn này như một điều kiện để được làm kẻ đồng kế tự với Đấng Christ, thì điều này trái nghịch với nhiều đoạn Kinh thánh khác về sự được cứu bởi ân điển qua đức tin, và trong Colossians 2:23 khi chính Phao-lô viết rằng những sự đày đọa thân thể cách nghiêm khắc không ích gì cho sự nên thánh.
+
+Vậy chúng ta kết luận như thế nào, hoặc tìm được ứng dụng gì về sự chịu khổ trong đoạn Kinh thánh này? Tôi tin Đức Thánh Linh sẽ hướng dẫn mỗi cá nhân theo ý và quyền năng Ngài để vừa muốn vừa làm theo ý muốn của Đức Chúa Trời.
+
+### Mong đợi ngày được giải cứu khỏi làm tôi sự hư nát
+
+> <sup>19</sup>Thật thế, muôn vật ước ao, nóng nảy mà trông đợi con cái Ðức Chúa Trời được tỏ ra.  <sup>20</sup>Vì muôn vật đã bị bắt phục sự hư không, chẳng phải tự ý mình, bèn là bởi cớ Ðấng bắt phục.  <sup>21</sup>Muôn vật mong rằng mình cũng sẽ được giải cứu khỏi làm tôi sự hư nát, đặng dự phần trong sự tự do vinh hiển của con cái Ðức Chúa Trời.  <sup>22</sup>Vì chúng ta biết rằng muôn vật đều than thở và chịu khó nhọc cho đến ngày nay;  <sup>23</sup>không những muôn vật thôi, lại chúng ta, là kẻ có trái đầu mùa của Ðức Thánh Linh, cũng than thở trong lòng đang khi trông đợi sự làm con nuôi, tức là sự cứu chuộc thân thể chúng ta vậy.  <sup>24</sup>Vì chúng ta được cứu trong sự trông cậy, nhưng khi người ta đã thấy điều mình trông cậy rồi, ấy không phải là trông nữa: mình thấy rồi, sao còn trông làm chi?  <sup>25</sup>Song nếu chúng ta trông điều mình không thấy, ấy là chúng ta chờ đợi điều đó cách nhịn nhục. (Romans 8:19-25)
+
+Từ đầu thơ Rô-ma đến đoạn này, Phao-lô giúp chúng ta sống đời Cơ-đốc Nhân trong địa vị của kẻ thắng hơn nhờ Đấng Christ, đã được thoát khỏi sự kềm tỏa của luật pháp buộc chúng ta vào địa vị tội lỗi. Quí vị có để ý thấy tôi dùng chữ <span style="font-style: italic;">"địa vị"</span> được lập đi lập lại để nói lên tầm quan trọng của nó. Những điều chúng ta có, được đồng chết và chôn với Đấng Christ, được thoát khỏi luật pháp lên án chúng ta vì những sự vi phạm, được biệt riêng ra làm kẻ đồng kế tự với Đấng Christ, được xưng công bình, v.v, hoàn toàn là sự ban cho nhờ ân điển Chúa. Mặc dầu những sự ban cho này được đặt trên nền tảng là lời hứa của Đức Chúa Trời thành tín, trong hiện tại con cái Chúa vẫn phải <span style="font-style: italic;">"làm tôi sự hư nát."</span>
+
+Về một phương diện, trong địa vị, chúng ta được kể là không còn ở trong tội lỗi nữa, nhưng về một phương diện khác, vì còn sống trong xác thịt, chúng ta vẫn phải làm tôi của sự hư nát. Do đó người tín hữu có hai sự lựa chọn, Chúa đã chịu đóng đinh để chúng ta được chuyển sang địa vị làm con cái Đức Chúa Trời, hay vẫn ở trong địa vị tội nhân, ngày đêm lo chiến đấu với tội lỗi.
+
+Nhiều tín hữu, kể cả các vĩ nhân trong đức tin hiện đại, như Charles Spurgeon, M.L. Jones, tin rằng Chúa tiếp tục làm việc trong đời sống tín hữu để đến mức toàn thiện trong ngày cứu rỗi. Nhưng họ đặt giáo lý này trên căn bản nào? Trong Romans 7:20,25;8:10 Phao-lô cho chúng ta thấy hai phần trong đời sống Cơ-đốc Nhân: xác thịt và tâm trí, hoặc tâm linh. Về phần tâm linh đã được Thánh Linh Chúa ban cho như khi Ngài hà hơi vào A-đam để ban ông sự sống, thì phần này bất toàn chỗ nào mà cần được làm cho toàn thiện? Chắc hẳn họ cũng đồng ý với tôi rằng phần tâm linh đến từ Chúa thì tự nó toàn hảo. Còn phần xác thịt, sẽ bị phá hủy như bình da cũ, không được hưởng sự không hay hư nát, thì cải thiện chỗ nào, và để làm gì nếu không vào được nước Trời?
+
+ Tôi biết nhiều tín hữu và các mục vụ đều nhắm vào sự cải thiện phần xác thịt bị rủa sả làm tôi của sự hư nát. Họ không hiểu điều Chúa phán cùng Ni-cô-đem rằng xác thịt chỉ sanh ra xác thịt, còn sự tái sinh đến từ Thánh Linh thì chẳng hề cần làm cho toàn hảo, vì tự nó là toàn hảo
+
+### Đức Thánh Linh cầu thay
+
+> <sup>26</sup>Cũng một lẽ ấy, Ðức Thánh Linh giúp cho sự yếu đuối chúng ta. Vì chúng ta chẳng biết sự mình phải xin đặng cầu nguyện cho xứng đáng; nhưng chính Ðức Thánh Linh lấy sự thở than không thể nói ra được mà cầu khẩn thay cho chúng ta. <sup>27</sup>Ðấng dò xét lòng người hiểu biết ý tưởng của Thánh Linh là thể nào, vì ấy là theo ý Ðức Chúa Trời mà Ngài cầu thế cho các thánh đồ vậy.  (Romans 8:26-27)
+
+Còn điều gì mà Chúa không làm thay cho chúng ta? Từ giá phải trả để đền bù cho tội lỗi, sự xưng công bình, sự được trở nên con cái Đức Chúa Trời từ trạng thái hư nát, và bây giờ ngay cả sự thông công với Đức Chúa Trời qua lời cầu nguyện. Sự yếu đuối này nói lên chúng ta không có khả năng biết ý Đức Chúa Trời và điều gì để cầu xin với Ngài. Thế mà có biết bao sách vở viết về sự cầu nguyện; phải chăng các tác giả này không yếu đuối? biết dò xét lòng người và hiểu biết ý tưởng của Thánh Linh? Có lẽ sách viết về sự cầu nguyện phải có tựa như thế này: Không biết phải cầu nguyện làm sao? Và nội dung chỉ cần một câu: Thực vậy, vì là người yếu đuối, không một ai trong chúng ta biết cầu nguyện. Hãy cứ tin cậy vì Thánh Linh đang cầu thay.
+
+### Những kẻ được Đức Chúa Trời kêu gọi
+
+> <sup>28</sup>Vả, chúng ta biết rằng mọi sự hiệp lại làm ích cho kẻ yêu mến Ðức Chúa Trời, tức là cho kẻ được gọi theo ý muốn Ngài đã định. <sup>29</sup>Vì Ngài cũng đã định sẵn để nên giống như hình bóng Con Ngài, hầu cho Con nầy được làm Con cả ở giữa nhiều anh em; <sup>30</sup>còn những kẻ Ngài đã định sẵn, thì Ngài cũng đã gọi, những kẻ Ngài đã gọi, thì Ngài cũng đã xưng là công bình, và những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển. (Romans 8:28-30)
+
+Đa số chúng ta đều biết mệnh lệnh của Chúa Giê-su về sự yêu thương, nhưng lắm khi chúng ta không biết phải yêu thương Chúa như thế nào, và bao nhiêu là đủ. Cũng như câu Kinh thánh bên trên nói về sự cầu nguyện, nếu yếu đuối đến độ không biết phải cầu nguyện như thế nào, không hiểu biết ý tưởng của Thánh Linh, thì làm sao yêu mến được Đấng mình không thấy. À thế nhưng có lời giải đáp trong câu 28: nếu bạn được Đức Chúa Trời kêu gọi, thì bạn là người yêu mến Chúa. Ngay cả sự yêu thương cũng được đặt vào lòng chúng ta như ý muốn Chúa đã định. Chúa định và gọi, Chúa xưng công bình, Chúa làm vinh hiển.
+
+### Tình yêu Chúa bất khả phân ly
+
+> <sup>31</sup>Vả, Ðã vậy thì chúng ta sẽ nói làm sao? Nếu Ðức Chúa Trời vùa giúp chúng ta, thì còn ai nghịch với chúng ta? <sup>32</sup>Ngài đã không tiếc chính Con mình, nhưng vì chúng ta hết thảy mà phó Con ấy cho, thì Ngài há chẳng cũng sẽ ban mọi sự luôn với Con ấy cho chúng ta sao? <sup>33</sup>Ai sẽ kiện kẻ lựa chọn của Ðức Chúa Trời: Ðức Chúa Trời là Ðấng xưng công bình những kẻ ấy. <sup>34</sup>Ai sẽ lên án họ ư? Ðức Chúa Jêsus Christ là Ðấng đã chết, và cũng đã sống lại nữa. Ngài đang ngự bên hữu Ðức Chúa Trời, cầu nguyện thế cho chúng ta. <sup>35</sup>Ai sẽ phân rẽ chúng ta khỏi sự yêu thương của Ðấng Christ? có phải hoạn nạn, khốn cùng, bắt bớ, đói khát, trần truồng, nguy hiểm, hay là gươm giáo chăng? <sup>36</sup>Như có chép rằng: Vì cớ Ngài, chúng tôi bị giết cả ngày; Họ coi chúng tôi như chiên định đem đến hàng làm thịt. <sup>37</sup>Trái lại, trong mọi sự đó, chúng ta nhờ Ðấng yêu thương mình mà thắng hơn bội phần. <sup>38</sup>Vì tôi chắc rằng bất kỳ sự chết, sự sống, các thiên sứ, các kẻ cầm quyền, việc bây giờ, việc hầu đến, quyền phép, <sup>39</sup>bề cao, hay là bề sâu, hoặc một vật nào, chẳng có thể phân rẽ chúng ta khỏi sự yêu thương mà Ðức Chúa Trời đã chứng cho chúng ta trong Ðức Chúa Jêsus Christ, là Chúa chúng ta. (Romans 8:31-39)
+
+Đây không phải chỉ là lời hứa về sự gìn giữ của Chúa cho chúng ta về đời này, vì Chúa đã xả thân trên thập tự chẳng phải để đem đến cho chúng ta những phước lành trong đời hiện tại, nhưng để xưng công bình hầu chúng ta được đứng vững trong ngày sau rốt. Những lời hứa này hướng về sự bảo đảm về sự cứu rỗi, về sự được trở nên con cái Đức Chúa Trời.
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

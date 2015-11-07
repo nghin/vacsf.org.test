@@ -11,12 +11,22 @@ header:
 
 <ul class="side-nav">
       <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/"><h4><strong>Sách Rô-ma</strong></h4></a>
-      <p style="font-weight: normal;">Một loạt bài chi tiết về sách Rô-ma từ chương 1 đén chương 11. Độc giả có thể tự đọc các chương 12 đến 16. Lời giới thiệu của Martin Luther về sách Rô-ma:</p><p class="blockquote">Thơ này quả thật là phần quan trọng nhất trong Tân Ước. Nó chính là Tin Lành trong dạng tinh khiết nhất. ... Để khởi đầu, chúng ta phải trở nên quen thuộc với các từ ngữ dùng trong thơ và biết ý của sứ đồ Phao-lô khi ông dùng những từ như luật pháp, tội lỗi, ân điển, đức tin, sự công bình, xác thịt, thần linh, vân vân. Vì nếu không thì có đọc cũng vô ích. ... Bạn chớ hiểu chữ luật pháp ở đây theo cách thường của loài người, chẳng hạn như điều lệ về một việc gì đó phải làm hoặc không nên làm.</p>
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+      <p style="font-weight: normal;">Một loạt bài chi tiết về sách Rô-ma từ chương 1 đén chương 11. Độc giả có thể tự đọc các chương 12 đến 16. Lời giới thiệu của Martin Luther về sách Rô-ma:<span style="font-style: italic;">Thơ này quả thật là phần quan trọng nhất trong Tân Ước. Nó chính là Tin Lành trong dạng tinh khiết nhất. ... Để khởi đầu, chúng ta phải trở nên quen thuộc với các từ ngữ dùng trong thơ và biết ý của sứ đồ Phao-lô khi ông dùng những từ như luật pháp, tội lỗi, ân điển, đức tin, sự công bình, xác thịt, thần linh, vân vân. Vì nếu không thì có đọc cũng vô ích. ... Bạn chớ hiểu chữ luật pháp ở đây theo cách thường của loài người, chẳng hạn như điều lệ về một việc gì đó phải làm hoặc không nên làm.</span></p>
+</p>
+</div>
       <p>Những bài viết này đã được ghi lại mà không dựa vào những lời bình của Martin Luther, chỉ ngoại trừ lời giới thiệu được ghi lại ở trên. Kinh Thánh được dùng để tự làm lời bình.</p>
       </li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/"><h4><strong>Sách Ga-la-ti</strong></h4></a><p style="font-weight: normal;">
-      Martin Luther nói, <em>"Lá thơ Ga-la-ti bé bỏng này là thơ cho chính tôi; tôi đã đính hôn với thơ ấy; nó chính là vợ của tôi."</em>. Cũng đồng một cách với cách viết bài trong sách Rô-ma, các bài viết này chẳng dựa vào tài liệu nào khác ngoại trừ chính Kinh Thánh như lời bình của chính nó.
-      </p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/"><h4><strong>Sách Ga-la-ti</strong></h4></a>
+<div>
+<p>
+<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+      Martin Luther nói, <em>"Lá thơ Ga-la-ti bé bỏng này là thơ cho chính tôi; tôi đã đính hôn với thơ ấy; nó chính là vợ của tôi."</em>. Cũng đồng một cách với cách viết bài trong sách Rô-ma, các bài viết này chẳng dựa vào tài liệu nào khác ngoại trừ chính Kinh Thánh như lời bình của chính nó.<br /><br /><br /><br /><br />
+</p>
+</div>
+      </li>
       <li><a href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/"><h4><strong>Ngụ Ngôn</strong></h4></a><p style="font-weight: normal;">
       Cảm nghĩ về một số những ngụ ngôn của Chúa Giê-su thường bị độc giả hiểu lầm.
       </p></li>

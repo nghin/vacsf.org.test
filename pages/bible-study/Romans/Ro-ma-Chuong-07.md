@@ -1,0 +1,122 @@
+---
+layout: page-fullwidth
+subheadline: "Học Kinh Thánh"
+title: "Rô-ma Chương 7"
+meta_teaser: "Bible Study on the seventh chapter of Romans"
+teaser: "Mối liên hệ chủ/nô với luật pháp. Được buông tha để kết hợp với chủ khác. Để kết quả cho Chúa: chết về luật pháp. Luật-pháp/sự-chết và Thần-linh/sự-sống. Luật pháp vạch trần tội lỗi. Luật pháp mang đến sự chết thay vì sự sống. Sự khốn cùng của nhân loại. Chúng ta không cần CÁCH-NÀO, nhưng cần ĐẤNG-NÀO."
+permalink: /hoc-kinh-thanh/sach-ro-ma/07/
+breadcrumb: true
+header: no
+---
+<!--more-->
+<div class="row">
+<div class="bible-index medium-4 medium-push-8 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+### Mối liên hệ chủ/nô với luật pháp
+
+> <sup>1</sup>Hỡi anh em (vì tôi nói với những kẻ biết luật pháp), vậy anh em há chẳng biết rằng luật pháp chỉ cai trị người ta khi còn sống hay sao? (Romans 7:1)
+
+<div>
+<p>
+<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+Trong Romans 6:14, Phao-lô khẳng định rằng chúng ta không còn ở dưới sự cai trị của luật pháp nữa, nhưng ở dưới ân điển, và ở đây trong chương 7, ông bắt đầu cho người đọc thấy giới hạn của luật pháp trong đời sống một người: ngày nào họ còn sống, thì còn dưới sự cai trị đó (các bản tiếng Anh dùng từ <span style="font-style: italic;">"as long as"</span>). Cũng có nghĩa là, nếu người đó chết đi thì luật pháp sẽ không còn hiệu lực nữa.
+</p>
+</div>
+
+Phao-lô dùng chữ cai trị để diễn tả mối liên hệ giữa tín hữu và luật pháp. Ông không dùng từ như hướng dẫn, khuyên bảo, huấn luyện, dẫn dắt, v.v, những chữ thường được dùng để diễn tả vai trò Thánh Linh trong đời sống người tin Chúa. Chúa Giê-su cũng nói về một mối liên hệ mới với tín hữu, Ngài không gọi chúng ta là kẻ tôi tớ, hoặc nô lệ nữa, nhưng Ngài gọi chúng ta là bạn hữu, vì giờ đây chúng ta biết ý Ngài nhờ Thánh Linh  (John 15:15).
+
+Chữ cai trị, hoặc dominion trong tiếng Anh, hàm ý: bắt buộc, ép uổng, không có sự chọn lựa hay tự nguyện, kẻ vi phạm sẽ bị trừng phạt. Mức độ của sự trừng phạt có thể nghiêm trọng đến độ: <span style="font-style: italic;">"Linh hồn nào phạm tội linh hồn đó phải chết (Ezekiel  18:20)."</span> Tóm lại, mối liên hệ giữa luật pháp và tín hữu này không phản ảnh <span style="font-style: italic;">"Tin Lành,"</span> hay <span style="font-style: italic;">"Good News."</span>
+
+Do đó chắc chắn Phao-lô đang dùng một từ ngữ mang tính cách tiêu cực <span style="font-style: italic;">"cai trị,"</span> để diễn tả một mối liên hệ cũng tiêu cực giữa tín hữu và luật pháp. Và sự cai trị của luật pháp sẽ chỉ cho một con đường thoát duy nhất là sự chết, và ngày nào người thuộc về luật pháp còn sống, thì ngày đó còn sự răn đe, dọa nạt, lên án, trách phạt, chẳng khác gì mối liên hệ giữa người chủ và người nô lệ. Phao-lô viết lên điều này với mục đích giúp người tín hữu thấy họ cần thoát khỏi sự cầm giữ của luật pháp.
+
+### Được buông tha để kết hợp với chủ khác
+
+> <sup>2</sup>Cho nên, đờn bà có chồng, hễ chồng còn sống bao lâu, thì luật pháp buộc phải theo chồng bấy lâu; nhưng nếu chồng chết, thì người vợ được thoát khỏi luật pháp đã buộc mình với chồng.  <sup>3</sup>Vậy nếu đương lúc chồng còn sống, mà vợ đi lấy người khác, thì phải bị kêu là đờn bà ngoại tình; nhưng nếu chồng chết, thì vợ được buông tha khỏi luật pháp, dầu lấy người khác cũng chẳng phải là đờn bà ngoại tình vậy. (Romans 7:2-3)
+
+Phao-lô dùng một thí dụ trong hôn nhân dựa trên truyền thống của người Do-thái, cho phép người vợ được tái hôn với người khác mà không phạm tội ngoại tình. Đó là khi chồng qua đời thì được lấy chồng khác. Ở đây chúng ta nên để ý đến ba từ ngữ quan trọng: 1) <span style="font-style: italic;">"luật pháp,"</span> là luật trói buộc người vợ vào chồng mình, 2) <span style="font-style: italic;">"chồng"</span> là người gắn bó với bà như hai thân làm một, và cuối cùng 3) là <span style="font-style: italic;">"thoát,"</span> hoặc là <span style="font-style: italic;">"được buông tha."</span>
+
+### Để có  kết quả cho Chúa:  hãy chết về luật pháp
+
+> <sup>4</sup>Hỡi anh em ta, anh em cũng như vậy, bởi thân thể của Ðấng Christ, anh em đã chết về luật pháp, đặng thuộc về người khác, tức là người đã từ kẻ chết sống lại, hầu cho chúng ta được kết quả cho Ðức Chúa Trời. (Romans 7:4)
+
+Sau khi dùng thí dụ về hôn nhân để thiết lập một nền tảng mà trên đó một người vợ được lấy chồng khác mà không phạm tội ngoại tình, đó là khi chồng chết. Phao-lô nay chỉ cho chúng ta làm sao có thể trở nên <span style="font-style: italic;">"vợ,"</span> hoặc <span style="font-style: italic;">"nàng dâu"</span> của Đấng Christ.
+
+Trong thí dụ của Phao-lô, người vợ được thoát khỏi luật ràng buộc với chồng khi người đó qua đời, nhưng trong câu 4 ở trên, Phao-lô viết rằng người vợ, cũng như chúng ta là tín hữu, đã chết về luật pháp. Dường như Phao-lô ám chỉ sự chết của một trong hai người là đủ để làm mất hiệu lực luật trói buộc họ vào nhau. Nhưng làm sao có thể được khi chúng ta vẫn còn sống mà lại được kể là chết về luật pháp? Trong câu 4 Phao-lô cho biết đó là qua thân thể của Đấng Christ. Sự chết của Ngài trên thập tự giá được kể là giá trả cho tội lỗi của chúng ta. Đây là phương cách Đức Chúa Trời ban sự cứu rỗi cho chúng ta. Đây là huyền nhiệm của ân điển khiến nước mắt tràn tuôn: <span style="font-style: italic;">"Sao có thể được, vì Ngài Thượng Đế lại chết vì tôi."</span>
+
+Nào bây giờ chúng ta nói về <span style="font-style: italic;">"kết quả cho Đức Chúa Trời."</span> Nhìn trở về bốn sách phúc âm, nhất là Giăng 15:5, khi Chúa Giê-su phán: <span style="font-style: italic;">"Ta là gốc nho, các ngươi là nhánh. Ai ở trong Ta, và Ta ở trong người đó, thì sanh lắm trái."</span> Trong nhiều thập niên qua, đọc nhiều sách vở và nghe nhiều bài giảng, tôi đã nhận lấy niềm tin rằng <span style="font-style: italic;">"ở trong Chúa"</span> là sự tiếp tục làm những điều mà tín đồ nên làm. Nhưng nếu quí vị kiên nhẫn cùng tôi theo dõi loạt bài học trong sách Rô-ma này, theo những giảng luận dài giòng nhưng cẩn trọng của Phao-lô đến đây, quí vị hẳn phải đến cùng một kết luận rằng ở trong Chúa chỉ có thể mang ý nghĩa rằng chúng ta phải chết về luật pháp. Hãy đọc lại câu 4 một lần nữa: <span style="font-style: italic;">"Hỡi anh em ta, anh em cũng như vậy, bởi thân thể của Ðấng Christ, anh em đã chết về luật pháp, đặng thuộc về người khác, tức là người đã từ kẻ chết sống lại, hầu cho chúng ta được kết quả cho Ðức Chúa Trời."</span> Anh em đã chết ... đặng ... Nếu chưa bước đầu tiên, thì không thể tiếp đến bước thứ nhì. Nếu chưa chết về luật pháp, không thể thuộc về Chúa. Nhưng khi bạn đã thuộc về Chúa, Ngài sẽ sanh bông trái trong đời sống bạn như là kết quả hiển nhiên trong mối liên hệ với Ngài.
+
+Dầu vậy cũng có thêm một chi tiết đáng chú ý trước khi chúng ta kết thúc phần này của đoạn Kinh thánh. Chúa Giê-su đã chết thay hầu chúng ta được thoát khỏi luật pháp ràng buộc chúng ta vào người chồng cũ, tức là xác thịt hay chết. Nhưng nếu có người giống như một số người Ga-la-ti trở về với luật pháp, tức là trở về với chồng cũ? Thì chẳng phải đây là một biểu tượng rõ rệt của sự ngoại tình thuộc linh sao? Của sự hâm hẩm? Làm tôi hai chủ? Chớ nên làm như vậy, hãy chọn một và đừng nhìn lại phía sau.
+
+### Luật-pháp/sự-chết và Thần-linh/sự-sống
+
+> <sup>5</sup>Vì khi chúng ta còn sống theo xác thịt, thì các tình dục xấu xa bị luật pháp xui khiến, hành động trong chi thể chúng ta và kết quả cho sự chết.  <sup>6</sup>Nhưng bây giờ chúng ta đã chết về luật pháp, là điều bắt buộc mình, thì được buông tha khỏi luật pháp đặng hầu việc Ðức Chúa Trời theo cách mới của Thánh Linh, chớ không theo cách cũ của văn tự. (Romans 7:5-6)
+
+Sống theo xác thịt nghĩa là gì? Tôi quả quyết đại đa số tin rằng sống theo xác thịt nghĩa là vẫn còn bị lôi cuốn bởi những cám dỗ của xác thịt.  Trước khi đi sâu vào đoạn kinh thánh này để hiểu rõ ý nghĩa của nó, chúng ta hãy tiếp tục phân tích ý nghĩa của nguyên đoạn này.
+
+Trong câu 5, Phao-lô nói KHI chúng ta còn SỐNG THEO XÁC THỊT, rồi tiếp theo đó trong câu 6 ông nói NHƯNG BÂY GIỜ chúng ta ĐÃ CHẾT VỀ LUẬT PHÁP. Chúng ta có thể diễn tả chân lý này qua vài cách khác nhau:
+
+- Khi (trước) chúng ta còn sống theo xác thịt, vì chúng ta vẫn còn ở dưới sự cai trị của luật pháp
+- Vì chúng ta đã được giải thoát khỏi luật pháp, chúng ta không còn ở dưới ách thống trị của tội lỗi nữa
+
+Nói chung, sống theo xác thịt, đồng nghĩa với sống dưới luật pháp, hoặc ngược lại, chết về xác thịt cũng là chết về luật pháp. Đây là một chân lý lạ lùng mà nhiều tín hữu, từ hàng ngàn năm qua, thường có một cái nhìn về luật pháp không phản ảnh với Kinh Thánh.
+
+Chẳng hạn như ảnh hưởng của luật pháp trên tội lỗi, điều Kinh thánh viết rằng <span style="font-style: italic;">"các tình dục xấu xa bị luật pháp xui khiến,"</span> (<span style="font-style: italic;">"the sinful desires aroused by the law"</span> -- NET version) đi ngược với sự suy nghĩ thông thường, rằng luật pháp kềm hãm giúp người ta bớt phạm tội. Nếu quả thật vậy, tại sao Chúa lại ban thêm luật pháp cho loài người, ngoài điều họ đã biết trong lương tâm? Thực ra luật pháp được ban cho để không còn ai chối cãi, và mọi người nhìn thấy tình trạng tội lỗi của mình mà tin nhận Đấng Christ.
+
+<span style="font-style: italic;">"Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Đức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta; Ngài đã đoán phạt tội lỗi trên thân thể của Con Ngài. (Romans 8:3)"</span>
+
+Tóm lại, dựa vào luật pháp để sống đời sống tin kính sẽ thất bại, và những kết quả đến bởi xác thịt được kích thích bời luật pháp sẽ chỉ là bông trái chết.
+
+Trong câu 6 viết: <span style="font-style: italic;">"được buông tha khỏi luật pháp đặng hầu việc Đức Chúa Trời,"</span> cho chúng ta thấy một phương cách trái ngược với nhiều sự giảng dạy, nhưng sẽ đem đến kết quả chắc chắn, vì là phương cách chính bởi lời Kinh thánh. Một người muốn hầu việc Đức Chúa Trời không thể cậy vào luật pháp để soi đường. <span style="font-style: italic;">"Lời Ngài là đèn soi chân con mỗi bước,"</span> không thể nào là luật pháp, hoặc các điều răn, mà là lời phán từ thiên thượng như đanh đóng cột rằng: <span style="font-style: italic;">"Người công bình sẽ sống bởi đức tin."</span>  Lời Ngài không phải là điều răn viết trên giấy, ngay cả lời viết trên hai bảng đá, vì <span style="font-style: italic;">"chữ làm cho chết"</span> (2 Corinthians 3:6), mà là chính Ngôi Lời, là <span style="font-style: italic;">"Đấng Christ ở trong anh em, là sự trông cậy về vinh hiển"</span> (Colossians 1:27).
+
+Mà hầu việc Đức Chúa Trời bằng cách nào? Theo cách mới của Thánh Linh, chứ không theo cách cũ của văn tự. Cách mới, và cách cũ, tân ước và cựu ước. Nếu cách cũ có hiệu quả thì đâu cần cách mới. Nếu Cựu Ước có thể dẫn đến sự cứu rỗi thì Đấng Christ đã không phải hi sinh trên thập tự giá. Cách mới của Thánh Linh đó là qua một đường duy nhất thẳng và hẹp: đức tin. Vì nếu bởi quyền năng của Thánh Linh thì không cần đến "thịt và huyết" chỉ sanh ra bông trái của sự chết (John 3:6).
+
+Đây là một trong những đoạn Kinh thánh sâu nhiệm nhất về đời sống đức tin. Đến đây chúng ta phải hiểu rằng "ở trong xác thịt" không có nghĩa là vẫn còn cứ vấp vào những tội lỗi dễ vấn vương, hoặc ngược lại chết về tội lỗi không có nghĩa là cố gắng để loại trừ khả năng phạm tội, hoặc đạt được mục tiêu chiến thắng được mọi cám dỗ, vì đây là điều không thể đạt tới được với người phàm xác thịt, vì cả nhân loại đều mang bản chất tội lỗi.
+
+Chết về xác thịt nghĩa là không còn đứng trên cương vị của một người luôn chiến đấu cùng thịt và huyết, hoặc đo lường mối tương quan với Đức Chúa Trời dựa trên tội lỗi, nhưng trên sự nhận thức rằng tội lỗi không còn quyền lực lên án họ nữa. Trên phương diện cuộc sống hằng ngày, họ vẫn và còn khả năng phạm tội, vì họ phạm tội ngay khi họ làm điều mà họ cho là công bình nhất, nhưng bây giờ họ đứng trong cương vị của một người tinh bạch hơn tuyết trắng.
+
+Người Hê-bơ-rơ thuở xưa chỉ chú nhìn vào người dềnh dàng đến độ họ lìa bỏ đất hứa trở về và bỏ thây trong sa mạc. Phải chăng chúng ta cũng mang thái độ đó ngày hôm nay? Bạn vẫn đang chiến đấu cùng tội lỗi hay đang đứng trong cương vị của một người được thắng hơn nhờ Đấng Christ? Bạn đang hướng về những sự ở trên trời, hay đang nhìn xuống và chìm xuống như Phi-e-rơ? Đó là sự khác biệt giữa cách cũ của văn tự, hay luật pháp, và cách mới của Thánh Linh, đó là bởi ân điển và qua đức tin.
+
+### Luật pháp vạch trần tội lỗi
+
+> <sup>7</sup>Vậy chúng ta sẽ nói làm sao? Luật pháp há là tội lỗi sao? Chẳng hề như vậy! Nhưng tôi chỉ bởi luật pháp mà biết tội lỗi; vì nếu luật pháp không nói: Người chớ tham lam, thì tôi đã không biết sự tham lam. (Romans 7:7)
+
+Có lẽ để ngừa trường hợp có kẻ xuyên tạc ý của Phao-lô viết trong câu 5, rằng "các tình dục xấu xa bị xui khiến bởi luật pháp," ông giải thích thêm rằng dù đó là ảnh hưởng không ai ngờ giữa luật pháp và tội lỗi, luật pháp không mang chung bản chất với tội lỗi. Luật pháp cho thấy mặt thật của tội lỗi; cũng như tia quang tuyến X chiếu vào thân thể để tìm ra những tật bệnh cần sự chữa trị, nhưng quang tuyến đó không chữa được bệnh, và quang tuyến đó cũng không phải là tật bệnh mà nó tỏ ra.
+
+### Luật pháp mang đến sự chết thay vì sự sống
+
+> <sup>8</sup>Ấy là tội lỗi đã nhơn dịp, bởi điều răn mà sanh ra mọi thứ ham muốn trong lòng tôi: vì không có luật pháp thì tội lỗi chết đi.  <sup>9</sup>Ngày xưa tôi không có luật pháp mà tôi sống; như khi điều răn đến, thì tội lỗi lại sống,  <sup>10</sup>còn tôi thì chết; vậy thì té ra điều răn vốn nên làm cho tôi sống, đã dắt tôi đến sự chết.  <sup>11</sup>Vì tội lỗi đã nhơn dịp, dùng điều răn dỗ dành tôi và nhơn đó làm cho tôi chết. (Romans 7:8-11)
+
+Trong khi luật pháp có thể ngăn ngừa sự phạm pháp và đem đến một giải pháp tạm thời, trên thực tế nó kích thích dục vọng thêm lên. Luật pháp có thể giúp một người tránh phải chịu hậu quả tạm thời của tội lỗi, nhưng vì sự nó gia tăng quyền lực của tội lỗi, nó xua đuổi loài người càng xa Chúa, cũng giống như sự biết điều thiện và ác đã khiến thủy tổ của loài người xa lánh Đức Chúa Trời.
+
+Vào thuở nào khi Phao-lô, cũng như mọi người trong chúng ta, sống ngoài sự bảo hộ của luật pháp? Có lẽ khi còn ấu thơ lúc ý thức về thiện ác chưa phát hiện. Nhưng giai đoạn thơ ngây đó đã chóng lìa chúng ta khi bắt đầu lớn lên, và các điều răn, hay lương tâm của mỗi người dù là Do-thái hay người ngoại, khiến tội lỗi sống dậy và kết quả là mọi người đều chết về phần tâm linh.
+
+Chẳng phải đây là điều đã xảy ra cho A-đam và Ê-va (tượng trưng cho nhân loại, còn A-đam là hình bóng của Chúa Giê-su, là A-đam thứ hai) sau khi họ ăn trái của cây biết điều thiện và ác? Trong Sáng Thế Ký 2:17 (Romans 2:17), Đức Chúa Trời phán: <span style="font-style: italic;">"Nhưng về cây biết điều thiện và điều ác thì chớ hề ăn đến; vì một mai ngươi ăn chắc sẽ chết."</span>
+
+Vì sao mà <span style="font-style: italic;">"điều răn vốn nên làm cho tôi sống, đã dắt tôi đến sự chết"</span>? Những điều răn như <span style="font-style: italic;">"Chớ thèm muốn của người khác," "Thảo kính cha mẹ,"</span> và các điều răn khác nữa, làm sao lại đem đến sự chết? Quả thực điều đó có thể xảy ra, vì một lý do đơn giản, cũng như tổ mẫu Ê-va, vì loài người đã mất khả năng để đạt được những mực thước cao quý của Đức Chúa Trời. Khi họ còn đồng đi với Ngài trong vườn Ê-đen, họ chẳng có một thần khác nào ngoài Chúa, cho đến khi họ mời thần đó vào trong tâm trí dưới hình ảnh của sự biết điều thiện và điều ác. Khuôn mẫu cao quý bây giờ cho họ thấy sự vinh hiển lúc ban đầu bây giờ chỉ còn là bóng mờ xa xăm; nó cho thấy họ đã thiếu mất sự vinh hiển của Đức Chúa Trời biết bao.
+
+Trong sự hư mất hiện tại, thà họ đừng có luật pháp là hơn, nhưng đã quá trễ rồi, vì luật pháp đã trở nên kẻ cầm tù họ từ khi họ ăn trái cấm trong vườn Ê-đen.
+
+Luật pháp đã đem đến cơ hội nào cho tội lỗi? Bằng cách nào tội lỗi đã dùng luật pháp để dối gạt con người? Có lẽ nó đã gạt gẫm họ chẳng khác gì con rắn đã gạt gẫm Ê-va, như được viết trong Genesis 3:4-5,  <span style="font-style: italic;">"4Rắn bèn nói với người nữ rằng: Hai ngươi chẳng chết đâu;  5nhưng Ðức Chúa Trời biết rằng hễ ngày nào hai ngươi ăn trái cây đó, mắt mình mở ra, sẽ như Ðức Chúa Trời, biết điều thiện và điều ác."</span>. Sự biết điều thiện và điều ác này là luật pháp của lương tâm mà Phao lô nói đến trong Romans 2:14. Trải qua nhiều thời đại, loài người đã bị gạt gẫm đi vào trong sự suy tưởng rằng họ có thể đạt đến sự giải thoát qua sự giữ các lề luật nào đó. Nhưng theo câu 10 ở trên, luật pháp chỉ mang đến sự chết thay vì sự sống; nó mang đến sự chết qua sự tỏ ra tình trạng tội lỗi, và theo đó là sự rủa xả đến từ những sự bị vạch ra. Nhiều Cơ-đốc Nhân cũng bị dối gạt tương tự như vậy; luật pháp dù đã đóng vai trò kẻ dẫn họ đến Đấng Christ, bây giờ họ tôn trọng nó như một thần khác.
+
+### Sự bất lực của loài người
+
+> <sup>13</sup>Vậy thì điều lành trở làm cớ cho tôi chết sao? Chẳng hề như vậy! Nhưng ấy là tội lỗi đã làm cho tôi chết, hầu khi nó nhơn điều lành làm chết tôi, tự bày ra nói là tội lỗi; đến nỗi tội lỗi nhơn điều răn trở nên cực ác.  <sup>14</sup>Vả, chúng ta biết luật pháp là thiêng liêng; nhưng tôi là tánh xác thịt đã bị bán cho tội lỗi.  <sup>15</sup>Vì tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét.  <sup>16</sup>Song nếu tôi làm điều mình chẳng muốn, thì bởi đó nhận biết luật pháp là tốt lành.  <sup>17</sup>Bấy giờ chẳng phải tôi làm điều đó nữa, nhưng ấy là tội lỗi ở trong tôi.  <sup>18</sup>Vả, tôi biết điều lành chẳng ở trong tôi đâu, nghĩa là trong xác thịt tôi, bởi tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn;  <sup>19</sup>vì tôi không làm điều lành mình muốn, nhưng làm điều dữ mình không muốn.  <sup>20</sup>Ví bằng tôi làm điều mình không muốn, ấy chẳng phải là tôi làm điều đó nữa, nhưng là tội lỗi ở trong tôi vậy. (Romans 7:13-20)
+
+Những câu Kinh thánh này lại khẳng định thêm về điều Phao-lô đã viết trong câu 10 ở trên, rằng các điều răn chỉ mang lại sự chết thay vì sự sống. Chúng đem đến sự chết vì loài người đã mất khả năng làm điều lành họ nên làm, trái lại gia tăng thêm khuynh hướng về những điều họ biết rằng không nên làm.
+
+Trong câu 18, Phao-lô quả quyết rằng “điều lành chẳng ở trong tôi đâu.” Nếu thực điều Phao-lô tuyên bố là đúng, thì làm sao có sự gì tốt ra từ một người chẳng có sự lành gì ở trong người đó? Vậy những lời thúc giục, dạy dỗ, bẻ trách, huấn luyện, có thể bằng cách nào sinh ra ánh sáng từ bóng tối đêm dày đặc? Sự sống đến từ sự chết? Xác thịt sinh ra sự không hư nát? Sự bất tử đến từ loài tử vong (I Corinthians 15:50)? Điều này hẳn phải dẫn chúng ta đến sự nhận thức rằng phương cách thông thường của các mục vụ dựa trên sự giảng dạy nhằm mục đích tu chỉnh hành vi chỉ cuối cùng dẫn đến sự thất bại trong nếp sống Cơ-đốc. Sao lại cứ giảng cho xác chết? Sao không dẫn họ đến với Đấng duy nhất có thể ban cho họ sự sống, rồi Ngài sẽ ban thêm cho họ mọi điều khác nữa (Matthew 6:33)
+
+### Chúng ta không cần CÁCH-NÀO, nhưng cần ĐẤNG-NÀO
+
+> <sup>21</sup>Vậy tôi thấy có luật nầy trong tôi: khi tôi muốn làm điều lành, thì điều dữ dính dấp theo tôi.  <sup>22</sup>Vì theo người bề trong, tôi vẫn lấy luật pháp Ðức Chúa Trời làm đẹp lòng;  <sup>23</sup>nhưng tôi cảm biết trong chi thể mình có một luật khác giao chiến với luật trong trí mình, bắt mình phải làm phu tù cho luật của tội lỗi, tức là luật ở trong chi thể tôi vậy.  <sup>24</sup>Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy?  <sup>25</sup>Cảm tạ Ðức Chúa Trời, nhờ Ðức Chúa Jêsus Christ, là Chúa chúng ta! Như vậy, thì chính mình tôi lấy trí khôn phục luật pháp của Ðức Chúa Trời, nhưng lấy xác thịt phục luật pháp của tội lỗi. (Romans 7:21-25)
+
+Luật pháp mà Phao-lô nói đến trong câu 21 là một lời tuyên bố về một chân lý không thể phủ nhận được rằng khuynh hướng tội lỗi trong ông luôn luôn tồn tại khi ông còn sống trong đời này. Con người ông có hai phần, một phần xác thịt là nô lệ dưới tội lỗi, và phần khác trong tâm trí ông thì mong muốn phục sự Chúa. Đó là cuộc chiến không ngừng giữa xác thịt và tâm linh khiến ông phải thốt lên: i<span style="font-style: italic;">"Khốn nạn cho tôi!"</span> Điều này đạp đổ mọi sự suy tưởng rằng sứ đồ Phao-lô đã tìm được sự vượt thắng dựa trên những dạy dỗ thông thường.
+
+Nhưng phần sau của câu hỏi mà ông thốt lên cho chúng ta câu trả lời làm sao mỗi người trong chúng ta có thể thoát được nan đề đó: Ai là người sẽ cứu tôi thoát khỏi thân xác hay chết này? Câu hỏi này không có nghĩa là bằng CÁCH nào ông sẽ thoát khỏi cuộc tranh chiến, nhưng là AI sẽ cứu ông. Một lần nữa, e rằng tôi cứ nói đi nói lại về lời than phiền này, rằng dù sau khi Chúa Giê-su đến để chỉ cho chúng ta AI sẽ CỨU, các giáo sư cứ tiếp tục dạy CÁCH cho XÁC CHẾT cư xử như con cái sáng láng của nước Trời. 
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
