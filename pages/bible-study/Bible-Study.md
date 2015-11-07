@@ -27,7 +27,7 @@ header:
 <img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
       <p style="font-weight: normal;">
       Martin Luther said, <em>"the little book of Galatians is my letter; I have betrothed myself to it; it is my wife."</em>. In the same manner with the writing of the study notes on Romans, these notes were written using nothing but the Bible itself to be its own commentary.
-      </p><br /><br />
+      </p><br /><br /><br />
 </p>
 </div>
       </li>
