@@ -9,7 +9,8 @@ categories:
     - events
 ---
 <!--more-->
-<div class="flex-video"> <iframe width="1280" height="720" src="http://rgb-scale.com/vacsfj336/index.php/photo-galleries/158-natural-bridges-state-beach-picnic-2    015-santa-cruz" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="small-12 columns" style="padding: 0px; border-bottom: none;">
+<iframe width="100%" height="1400" src="http://rgb-scale.com/vacsfj336/index.php/photo-galleries/158-natural-bridges-state-beach-picnic-2015-santa-cruz" frameborder="0" allowfullscreen=""></iframe></div>
 <p>&nbsp;</p>
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 <p>
@@ -17,13 +18,4 @@ A small photo gallery of snapshots from the picnic (Click on the image above or 
 </p>
 </div>
 <br/>
-<table border="1" style="width: 100%; border-color: #cccccc; border-width: 1px; margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td>
-<div class="flex-video"> <iframe width="1280" height="720" src="//www.youtube.com/embed/uv0hxZ3h9VI" frameborder="0" allowfullscreen=""></iframe></div>
-</td>
-</tr>
-</tbody>
-</table>
 {% include next-previous-post-in-category %}
