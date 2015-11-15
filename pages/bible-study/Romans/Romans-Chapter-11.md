@@ -47,5 +47,6 @@ breadcrumb: true
 <p style="text-align: left;" abp="2002"><span style="color: #999999;" abp="2003"><em abp="2004"><span style="font-size: 10pt;" abp="2005">Nghi Nguyen</span></em></span></p>
 
 <div class="alert-box text radius "><p><em abp="2000" style="color: #999999;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</em></p></div>
+<font face="Alice_5">rk]tdy90v’</font>
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
