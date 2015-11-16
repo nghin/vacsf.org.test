@@ -9,6 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Baptism</h2>

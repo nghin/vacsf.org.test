@@ -42,8 +42,6 @@ In each of these passages –in Acts and in Matthew 28– the people who heard t
 
 Whether these Jews said His name alone or as part of the Trinity, it didn't matter. By being baptized in the name of "the Christ Jesus", they were confessing (agreeing) that Jesus was the Messiah –equal with the Father –God among them in human form. In so doing, they were making it their last ceremonial washing because they were renouncing their own legalistic efforts and accept His final and complete washing!
 
-Next:  Baptism Conclusions
-
 <a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Next: Baptism Conclusion</a>
 
 {% include bible-study/bible-study-footer %}

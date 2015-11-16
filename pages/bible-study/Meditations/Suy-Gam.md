@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Bible Study"
-title: "Meditations"
+subheadline: "Học Kinh Thánh"
+title: "Suy Gẫm"
 meta_teaser: "Meditations on the Bible and Christianity"
-teaser: "Thoughts on various topics related to biblical interpretation and Christian living."
-permalink: /bible-topics/meditations/
+teaser: "Về những đề tài liên hệ đến sự dẫn giải lời Chúa và đời sống tin kính."
+permalink: /hoc-kinh-thanh/suy-gam/
 breadcrumb: true
 header: no
 ---
@@ -12,14 +12,14 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/">Baptism</a><p style="font-weight: normal;">
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">Phép Báp-têm</a><p style="font-weight: normal;">
 
-A more complete picture of baptism. This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives.
+Bài viết này tìm cách trình bày một chân dung toàn diện hơn về phép báp-têm. Vạch ra những nguồn gốc lịch sử; suy gẫm về những đối tượng mà các sứ giả được sai đến; và nhận diện đỉểm nào phép báp-têm được thể hiện trong đời sống người Cơ-đốc Nhân.
 
 </p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/rewards/">Rewards - Phần Thưởng Trên Trời</a><p style="font-weight: normal;">
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/phan-thuong/">Rewards - Phần Thưởng Trên Trời</a><p style="font-weight: normal;">
 
-Are there degrees of rewards in heaven? This article will show that the very idea is a worldly one, but it is at the core of work-based religion <span style="font-style: italic; color: #ff0000;">(bài này có tiếng Việt)</span>
+Có những mức độ về phần thưởng khác nhau trên thiên đàng hay không? Bài viết này cho thấy ý tưởng đó là thuộc về thế gian, là cơ bản của mọi tôn giáo trên đời này cậy trên việc làm.
 
 </p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/christ-in-me/">The Hope of Glory</a><p style="font-weight: normal;">

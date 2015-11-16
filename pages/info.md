@@ -10,7 +10,7 @@ header:
 
 ## Statement of Faith
 
-... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitunary death as a payment for his own sin will have eternal life.*
+... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only God/Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitunary death as a payment for his sin nature will have eternal life.*
 
 <div class="row">
 <div class="medium-8 columns" markdown="1">
@@ -229,6 +229,16 @@ Spiritual revival camp in Northern California from August 19-21, 2016 at <a href
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>NOV</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">13</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Nhóm Thiếu Niên</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">15</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Họp Ban Chấp Hành</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">22</td>
 <td class="title-padding-even" style="background-color: #cccccc;">Lễ Tạ Ơn</td>
 </tr>
