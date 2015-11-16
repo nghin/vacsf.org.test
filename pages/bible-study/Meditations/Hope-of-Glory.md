@@ -20,14 +20,13 @@ In this letter, I'm going to present another argument trying to convince the rea
 
 > <sup>1</sup> Now the main point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, <sup>2</sup> and who serves in the sanctuary, the true tabernacle set up by the Lord, not by a mere human being.
 <sup>3</sup> Every high priest is appointed to offer both gifts and sacrifices, and so it was necessary for this one also to have something to offer. <sup>4</sup> If he were on earth, he would not be a priest, for there are already priests who offer the gifts prescribed by the law. <sup>5</sup> They serve at a sanctuary that is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”[a] <sup>6</sup> But in fact the ministry Jesus has received is as superior to theirs as the covenant of which he is mediator is superior to the old one, since the new covenant is established on better promises.
-<sup>7</sup> For if there had been nothing wrong with that first covenant, no place would have been sought for another. <sup>8</sup> But God found fault with the people and said[b]:
-“The days are coming, declares the Lord, when I will make a new covenant with the people of Israel   and with the people of Judah.
-<sup>9</sup> It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they did not remain faithful to my covenant, and I turned away from them, declares the Lord.
-<sup>10</sup> This is the covenant I will establish with the people of Israel after that time, declares the Lord. I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people.
-<sup>11</sup> No longer will they teach their neighbor, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest. 
-
+<u><sup>7</sup> For if there had been nothing wrong with that first covenant, no place would have been sought for another.</u> <sup>8</sup> But God found fault with the people and said[b]:
+“The days are coming, declares the Lord, when I will make a <u>new covenant</u> with the people of Israel   and with the people of Judah.
+<u><sup>9</sup> It will not be like the covenant I made with their ancestors</u> when I took them by the hand to lead them out of Egypt, because they did not remain faithful to my covenant, and I turned away from them, declares the Lord.
+<u><sup>10</sup> This is the covenant</u> I will establish with the people of Israel after that time, declares the Lord. <u>I will put my laws in their minds and write them on their hearts</u>. I will be their God, and they will be my people.
+<u><sup>11</sup> No longer will they teach their neighbor, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest.</u>
 <sup>12 </sup>For I will forgive their wickedness and will remember their sins no more.”[c]
-<sup>13 </sup>By calling this covenant “new,” he has made the first one obsolete; and what is obsolete and outdated will soon disappear.
+<sup>13 </sup>By calling this covenant “new,” <u>he has made the first one obsolete</u>; and what is obsolete and outdated will soon disappear.
  
 Let's walk slowly through these verses as they contain all the ingredients I need for my argument. Verses 1 through 7 sets the stage for the need of a new covenant. Verse 9 emphatically says that it will be DIFFERENT from the old covenant. And the difference is in this way: God will DIRECTLY writes his laws in the hearts and minds of the people (verse 10), and they DO NOT need anyone to remind them that they should know, or love, the Lord, because by His authoritative word: they all shall know Him (verse 11).
 
