@@ -14,45 +14,45 @@ header: no
 
 <p class="blockquote">A dear friend, Doug Olsen of <a href="http://myredeemer.org">myredeemer.org</a>, gave me permission to post here a great study on the important topic of baptism.</p>
 
-Almost every denomination emphasizes baptism. So isn't it essential for salvation?
+Hầu như mỗi hệ phái Tin Lành đều nhấn mạnh về tầm quan trọng của lễ báp-têm. Do đó chắc phép báp-têm phải là một điều trọng yếu trong sự cứu rỗi chứ?
 
-### Yes! But which Baptism is Required: Spirit or Water?
+### Thật Vây! Như Báp-têm Nào: Thánh Linh Hoặc Nước?
 
-The Bible says that there is one body, Spirit, hope, Lord, faith, God and likewise, <u>there is only one baptism!</u>
+Kinh Thánh chép rằng có một thân thể, một Thánh Linh, một niềm hy vọng, một Chúa, một đức tin, một Đức Chúa Trời, và tương tự như thế, <u>chỉ có một phép báp-têm</u>!
 
-> Therefore I, the prisoner of the Lord, implore you to walk in a manner worthy of the calling with which you have been called, with all humility and gentleness, with patience, showing tolerance for one another in love, being diligent to preserve the unity of the Spirit in the bond of peace. There is one body and one Spirit, just as also you were called in one hope of your calling; one Lord, one faith, <u>one baptism</u>, one God and Father of all who is over all and through all and in all. (Ephesians 4:1-6)
+> <sup>1</sup> Vậy, tôi là kẻ tù trong Chúa, khuyên anh em phải ăn ở một cách xứng đáng với chức phận mà Chúa đã gọi anh em, <sup>2</sup> phải khiêm nhường đến điều, mềm mại đến điều, phải nhịn nhục, lấy lòng thương yêu mà chìu nhau, <sup>3</sup> dùng dây hòa bình mà giữ gìn sự hiệp một của Thánh Linh. <sup>4</sup> Chỉ có một thân thể, một Thánh Linh, như anh em bởi chức phận mình đã được gọi đến một sự trông cậy mà thôi; <sup>5</sup> chỉ có một Chúa, một đức tin, <u>một phép báp tem</u>; <sup>6</sup> chỉ có một Ðức Chúa Trời và một Cha của mọi người, Ngài là trên cả mọi người, giữa mọi người và ở trong mọi người. (Ephesians 4:1-6)
 
-### Don't You Have to be Born of the Water and the Spirit?
+### Chúng Ta Chẳng Phải Cần Được Sanh Bởi Nước Và Thánh Linh Sao?
 
-Yes! But that's not about sprinkling or dipping in water. It's about being born physically (flesh gives birth to flesh) and then being born spiritually (the Spirit gives birth to spirit –born again).
+Phải! Nhưng đó không phải là về sự rảy hoặc dầm trong nước. Đó là nói về sự sanh về phương diện thể chất (xác thịt sanh bởi xác thịt) hoặc sanh trong phương diện tâm linh (hễ chi sinh bởi Thánh Linh là thần -sự tái sinh)
 
-> Jesus answered and said to him, <u>"Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."</u> Nicodemus said to Him, "How can a man be born when he is old? He cannot enter a second time into his mother's womb and be born, can he?" Jesus answered, <u>"Truly, truly, I say to you, unless one is born of water and the Spirit he cannot enter into the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.</u> (John 3:3-6)
+> <sup>3</sup> Ðức Chúa Jêsus cất tiếng đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại, thì không thể thấy được nước Ðức Chúa Trời.</u> <sup>4</sup> Ni-cô-đem thưa rằng: Người đã gà thì sanh lại làm sao được? Có thể nào trở vào lòng mẹ và sanh lần thứ hai sao? <sup>5</sup> Ðức Chúa Jêsus đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng nhờ nước và Thánh Linh mà sanh, thì không được vào nước Ðức Chúa Trời. <sup>6</sup> Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.</u> (John 3:3-6)
 
-### Weren't Some Saved Before Being Baptized?
+### Thế Còn Những Người Được Cứu Trước Khi Nhận Phép Báp-têm?
 
-Some Gentiles received the Spirit and were recognized to have been saved –and then they were baptized after the fact!
+Có nhiều người ngoại được nhận Thánh Linh và được nhìn nhận là được sự cứu rỗi -rồi sau đó họ nhận phép báp-têm sau khi được cứu!
 
-> Of Him all the prophets bear witness that through His name <u>everyone who believes in Him receives forgiveness of sins." While Peter was still speaking these words, the Holy Spirit fell upon all those who were listening to the message</u>. All the circumcised believers who came with Peter were amazed, because the gift of the Holy Spirit had been poured out on the Gentiles also. For they were hearing them speaking with tongues and exalting God. <u>Then Peter answered, "Surely no one can refuse the water for these to be baptized who have received the Holy Spirit just as we did, can he?"</u> And he ordered them to be baptized in the name of Jesus Christ. Then they asked him to stay on for a few days. (Acts 10:43-48)
+> <sup>43</sup> hết thảy các đấng tiên tri đều làm chứng nầy về Ngài rằng <u>hễ ai tin Ngài thì được sự tha tội vì danh Ngài. <sup>44</sup> Khi Phi -e-rơ đương nói, thì Ðức Thánh Linh giáng trên mọi người nghe đạo.</u> <sup>45</sup> Các tín đồ đã chịu phép cắt bì, là người kẻ đồng đến với Phi -e-rơ, đều lấy làm lạ, vì thấy sự ban cho Ðức Thánh Linh cũng đổ ra trên người ngoại nữa. <sup>46</sup> Vì các tín đồ nghe họ nói tiếng ngoại quốc và khen ngợi Ðức Chúa Trời. <sup>47</sup> <u>Bấy giờ Phi -e-rơ lại cất tiếng nói rằng: Người ta có thể từ chối nước về phép báp-tem cho những kẻ đã nhận lấy Ðức Thánh Linh cũng như chúng ta chăng?</u> <sup>48</sup> Người lại truyền làm phép báp-tem cho họ nhơn danh Ðức Chúa Jêsus Christ. Họ bèn nài người ở lại với mình một vài ngày. (Acts 10:43-48)
 
-### Baptism Demonstrates Our Identity
+### Phép Báp-têm Bày Tỏ Danh Tính Mới Của Chúng Ta
 
-What happens to white cloth that is immersed in purple dye? It emerges with a brand new new identity: Purple Cloth! The white cloth is gone.
+Điều gì xảy ra cho tấm vải trắng dầm trong thuốc nhuộm tím? Nó được rút lên khỏi thuốc nhuộm với một danh tính mới: Vải Tím! Tầm vải trắng cũ không còn nữa.
 
-> <u>Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come.</u> (2 Corinthians 5:17)
+> <u>Vậy, nếu ai ở trong Ðấng Christ, thì nấy là người dựng nên mới; những sự cũ đã qua đi, nầy mọi sự đều trở nên mới.</u> (2 Corinthians 5:17)
 <br /><br />
-For <u>He rescued us from the domain of darkness, and transferred us to the kingdom of His beloved Son</u>, in whom we have redemption, the forgiveness of sins. (Colossians 1:13-14)
+<sup>13</sup> Ngài <u>đã giải thoát chúng ta khỏi quyền của sự tối tăm, làm cho chúng ta dời qua nước của Con rất yêu dấu Ngài,</u> <sup>14</sup> trong Con đó chúng ta có sự cứu chuộc, là sự tha tội. (Colossians 1:13-14)
 
-We were baptized (united together) to form one body. No more Jews or Gentiles –just One Body and Jesus is the Head!
+Chúng ta được báp-têm vào trong một thân thể. Không còn phân biệt người Do-thái hoặc người ngoại -chỉ một Thân Thể mà Chúa Giê-su là Đầu!
 
-> For even as the body is one and yet has many members, and all the members of the body, though they are many, are one body, so also is Christ. <u>For by one Spirit we were all baptized into one body</u>, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit. (1 Corinthians 12:12-13)
+> <sup>12</sup> Vả, như thân là một, mà có nhiều chi thể, và như các chi thể của thân dầu có nhiều, cũng chỉ hiệp thành một thân mà thôi, Ðấng Christ khác nào như vậy. <sup>13</sup> Vì chưng chúng ta hoặc người Giu-đa, hoặc người Gờ-réc, hoặc tôi mọi, hoặc tự chủ, <u>đều đã chịu phép báp-tem chung một Thánh Linh để hiệp làm một thân</u>; và chúng tôi đều đã chịu uống chung một Thánh Linh nữa. (1 Corinthians 12:12-13)
 
-### But Doesn't the Bible Say that Water Saves?
+### Thế Còn Đoạn Kinh Thánh Nói Chúng Ta Được Cứu Bởi Nước?
 
-There is a passage in First Peter about water baptism. But it says that the water baptism is only good for cleansing the conscience. It allows us to set a date and time that we have been saved and then rest in our salvation –not questioning it again. It's a symbolic event of the real baptism that saves. Being baptized by the Spirit is the Real Thing!
+Có một đoạn trong Phi-e-rơ thứ nhất về báp-têm băng nước. Nhưng đoạn này nói rằng báp-têm bằng nước chỉ là để rửa sạch lương tâm khỏi mặc cảm tội lỗi. Nó cho chúng ta cơ hội đánh dấu một thời điểm mà chúng ta nhận một danh tính mới và rồi an nghỉ trong sự cứu rỗi -không còn nghi vấn nữa. Đó là một biến cố để biểu tượng cho một phép báp-têm thật đem đến sự cứu rỗi. Đựoc báp-têm bằng Thánh Linh chính là báp-têm thật!
 
-> <u>For Christ also died for sins once for all, the just for the unjust, so that He might bring us to God</u>, having been put to death in the flesh, but made alive in the spirit; in which also He went and made proclamation to the spirits now in prison, who once were disobedient, when the patience of God kept waiting in the days of Noah, during the construction of the ark, in which a few, that is, eight persons, were brought safely through the water. <u>Corresponding to that, baptism now saves you—not the removal of dirt from the flesh, but an appeal to God for a good conscience—through the resurrection of Jesus Chris</u>, who is at the right hand of God, having gone into heaven, after angels and authorities and powers had been subjected to Him. (1 Peter 3:18-22)
+> <u><sup>18</sup> Vả, Ðấng Christ cũng vì tội lỗi chịu chết một lần, là Ðấng công bình thay cho kẻ không công bình, để dẫn chúng ta đến cùng Ðức Chúa Trời</u>; về phần xác thịt thì Ngài đã chịu chết, nhưng về phần linh hồn thì được sống. <sup>19</sup> Ấy bởi đồng một linh hồn đó, Ngài đi giảng cho các linh hồn bị tù, <sup>20</sup> tức là kẻ bội nghịch thuở trước, về thời kỳ Nô-ê, khi Ðức Chúa Trời nhịn nhục chờ đợi, chiếc tàu đóng nên, trong đó có ít người được cứu bởi nước, là chỉ có tám người. <sup>21</sup> Phép báp-tem bây giờ bèn là ảnh tượng của sự ấy để cứu anh em, <u>phép ấy chẳng phải sự làm sạch ô uế của thân thể, nhưng một sự liên lạc lương tâm tốt với Ðức Chúa Trời, bởi sự sống lại của Ðức Chúa Jêsus Christ</u>, <sup>22</sup> là Ðấng đã được lên trời, nay ngự bên hữu Ðức Chúa Trời, các thiên sứ, các vương hầu, các quyền thế thảy đều phục Ngài. (1 Peter 3:18-22)
 
-There is only one baptism that saves –and that is with the Holy Spirit!
+Chỉ có một báp-têm ban sự cứu rỗi -và đó là báp-têm bởi Thánh Linh!
 
 <a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/bap-tem/trong-danh/">Bài kế: Trong Danh Ai?</a>
 
