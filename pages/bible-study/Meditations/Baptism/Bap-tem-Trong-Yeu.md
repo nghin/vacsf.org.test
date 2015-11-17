@@ -12,7 +12,7 @@ header: no
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<p class="blockquote">A dear friend, Doug Olsen of <a href="http://myredeemer.org">myredeemer.org</a>, gave me permission to post here a great study on the important topic of baptism.</p>
+<p class="blockquote">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</p>
 
 Hầu như mỗi hệ phái Tin Lành đều nhấn mạnh về tầm quan trọng của lễ báp-têm. Do đó chắc phép báp-têm phải là một điều trọng yếu trong sự cứu rỗi chứ?
 
@@ -59,7 +59,7 @@ Chỉ có một báp-têm ban sự cứu rỗi -và đó là báp-têm bởi Th�
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 <div class="bible-index medium-4 columns">
-<h2 style="margin: 0px">Baptism</h2>
+<h2 style="margin: 0px">Phép Báp-têm</h2>
         {% include bible-study/bap-tem %}
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

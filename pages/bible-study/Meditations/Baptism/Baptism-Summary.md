@@ -40,7 +40,7 @@ Absolutely! It's not that water baptism is required in any way –but it can ser
 
 When confronted by the enemy in times of weakness or doubt, with confidence he can say: "Flee from me Satan, I'm a child of God; a brother of Christ; an heir to the kingdom! And I remember the day it happened!"
 
-> <u>having been buried with Him in baptism, in which you were also raised up with Him</u> through faith in the working of God, who raised Him from the dead. When you were dead in your transgressions and the <>uncircumcision of your flesh, He made you alive together with Him, having forgiven us all our transgressions</u>, having canceled out the certificate of debt consisting of decrees against us, which was hostile to us; and He has taken it out of the way, having nailed it to the cross. (Colossians 2:12-14)
+> <u>having been buried with Him in baptism, in which you were also raised up with Him</u> through faith in the working of God, who raised Him from the dead. When you were dead in your transgressions and the <u>uncircumcision of your flesh, He made you alive together with Him, having forgiven us all our transgressions</u>, having canceled out the certificate of debt consisting of decrees against us, which was hostile to us; and He has taken it out of the way, having nailed it to the cross. (Colossians 2:12-14)
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
