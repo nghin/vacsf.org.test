@@ -5,6 +5,8 @@ title: "A More Complete Picture of Baptism"
 meta_teaser: "Vietnamese Alliance Church San Francisco Baptism"
 teaser: "This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives."
 header: no
+image:
+    thumb: "/thumbs/openbible.jpg"
 categories:
     - latest
 ---

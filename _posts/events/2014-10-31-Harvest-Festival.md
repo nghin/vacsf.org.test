@@ -5,6 +5,8 @@ title: "Harvest Festival 2014"
 meta_teaser: "Mid-Autumn Harvest Festival 2014 Celebration at Vietnamese Alliance Church in San Francisco"
 teaser: "Mid-Autumn Harvest Festival 2014 Celebration at Vietnamese Alliance Church in San Francisco. Enjoy the slideshow."
 header: no
+image:
+    thumb: "/thumbs/MAHF-2014.jpg"
 categories:
     - events
 ---

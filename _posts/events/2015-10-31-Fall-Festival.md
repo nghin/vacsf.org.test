@@ -5,6 +5,8 @@ title: "Fall Festival 2015"
 meta_teaser: "Vietnamese Alliance Church San Francisco"
 teaser: "Some snapshots from Fall Festival 2015"
 header: no
+image:
+    thumb: "/thumbs/Fall-Festival-2015-thumb.jpg"
 categories:
     - events
 ---

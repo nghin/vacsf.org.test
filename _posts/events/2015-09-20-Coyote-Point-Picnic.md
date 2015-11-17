@@ -5,6 +5,8 @@ title: "Coyote Point Park Picnic"
 meta_teaser: "Our church had a great picnic at Coyote Point Park last September, 2015. Enjoy this small collection of photos."
 teaser: "Our church had a great picnic at Coyote Point Park last September, 2015. Enjoy this small collection of photos."
 header: no
+image:
+    thumb: "/thumbs/Coyote-Point-Picnic-2015.jpg"
 categories:
     - events
 ---

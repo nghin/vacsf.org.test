@@ -5,6 +5,8 @@ title: "MLK Retreat - Jackson, CA"
 meta_teaser: "Family Retreat at Jackson, CA"
 teaser: "To continue the tradition, our church's families with young children had a retreat this year in Jackson, CA, at a beautiful farm house overlooking gorgeous landscapes. Enjoy this collection of photos."
 header: no
+image:
+    thumb: "/thumbs/MLK-Jackson-Retreat-2015.jpg"
 categories:
     - events
 ---

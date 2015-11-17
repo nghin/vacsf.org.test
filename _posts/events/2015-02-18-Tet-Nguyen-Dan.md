@@ -5,6 +5,8 @@ title: "Tết Nguyên Đán 2015"
 meta_teaser: "Tet Nguyen Đan 2015 at VACSF"
 teaser: 'Celebration of <font face="Open Sans">Tết Nguyên Đán</font> (Lunar New Year) of 2015 at <font face="Open Sans">Hội Thánh Tin Lành Việt Nam</font> in the city of San Francisco (VACSF). Enjoy this collection of photos.'
 header: no
+image:
+    thumb: "/thumbs/Tet-Nguyen-Dan-2015.jpg"
 categories:
     - events
 ---

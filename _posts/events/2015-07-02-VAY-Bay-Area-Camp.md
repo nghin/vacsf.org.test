@@ -5,6 +5,8 @@ title: "VAY Bay Area Camp"
 meta_teaser: "Summer Camp of the Vietnamese Alliance Youth of San Francisco Bay Area"
 teaser: "In this Summer of 2015, the Vietnamese Youth Alliance organized a camp for the youth of San Francisco Bay Area at the Daybreak Camp in Felton, CA. Pastor David Huynh was the main speaker. Enjoy a small collection of photos and summaries of the sermons."
 header: no
+image:
+    thumb: "/thumbs/VAY-Camp-2015.jpg"
 categories:
     - events
 ---

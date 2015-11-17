@@ -5,6 +5,8 @@ title: "Natural Bridges State Beach"
 meta_teaser: "Picnic at the Natural Bridges State Beach of Santa Cruz."
 teaser: "Families with young children had a great picnic at the Natural Bridges State Beach of Santa Cruz last August, 2015. The pictures say it all about the beauty of this place. Enjoy this small collection of photos."
 header: no
+image:
+    thumb: "/thumbs/Natural-Bridges-State-Beach-Picnic-2015.jpg"
 categories:
     - events
 ---

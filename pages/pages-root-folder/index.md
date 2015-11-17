@@ -21,10 +21,3 @@ widget3:
   text: 'This section documents some special events in the life of our church. Baptism, picnic, camping, retreats, Vacation Bible School, and many others. But like many things that can be captured on camera, they only show superficially the lives of the individuals; their struggles, the unique events in their lives that God uses to build their relationship with Him remain unpsoken. But perhaps these documentaries may serve as landmarks for them in their walk with God.'
 permalink: /index.html
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

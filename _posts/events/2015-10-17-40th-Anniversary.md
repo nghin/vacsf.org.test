@@ -5,6 +5,8 @@ title: "40th Anniversary Celebration"
 meta_teaser: "Hội Thánh Tin Lành Việt Nam ở San Francisco (VACSF) celebrated their 40th anniversary."
 teaser: "Vietnamese Alliance Church in San Francisco celebrated their 40th Anniversary of its founding in 1975. Over decades past, it has been a sanctuary for many; from the service in the sanctuary where hymns of praises were sung and sermons preached, to Sunday School where empowering and liberating truths were discovered and marvelled at, and fellowship over lunch was enjoyed by all."
 header: no
+image:
+    thumb: "/thumbs/40th-Anniversary.jpg"
 categories:
     - events
 ---

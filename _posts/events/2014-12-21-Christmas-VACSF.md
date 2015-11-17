@@ -5,6 +5,8 @@ title: "Christmas 2014"
 meta_teaser: "Christmas 2014 Celebration at Vietnamese Alliance Church in San Francisco"
 teaser: "Christmas 2014 Celebration at Vietnamese Alliance Church in San Francisco. Enjoy the photo album."
 header: no
+image:
+    thumb: "/thumbs/Christmas-2014.jpg"
 categories:
     - events
 ---
