@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Baptism</h2>
-        {% include bible-study/baptism %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 <p class="blockquote">A dear friend, Doug Olsen of <a href="http://myredeemer.org">myredeemer.org</a>, gave me permission to post here a great study on the important topic of baptism.</p>
 
@@ -57,4 +53,8 @@ For a Christian to lead a healthy spiritual life, he must be grounded on solid c
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Baptism</h2>
+        {% include bible-study/baptism %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

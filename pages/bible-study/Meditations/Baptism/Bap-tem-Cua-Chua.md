@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Phép Báp-têm</h2>
-        {% include bible-study/bap-tem %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 <p class="blockquote">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</p>
 
@@ -39,4 +35,8 @@ Câu hỏi thường được nêu lên là: "Chẳng phải Chúa Giê-su đã 
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Phép Báp-têm</h2>
+        {% include bible-study/bap-tem %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
