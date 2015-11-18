@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Ga-la-ti</h2>
-        {% include bible-study/ga-la-ti %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > <sup>1</sup>Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đương còn thơ ấu, thì chẳng khác chi kẻ tôi mọi; <sup>2</sup>phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến kỳ người cha đã định.
 
@@ -106,4 +102,8 @@ Hãy đuổi người nữ tôi mọi và con trai nó. Bạn có cậy một đ
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Ga-la-ti</h2>
+        {% include bible-study/ga-la-ti %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

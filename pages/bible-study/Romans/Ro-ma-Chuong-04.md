@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Luật pháp và sự khoe mình — Chỉ cần đức tin
 
@@ -86,4 +82,8 @@ Phải chăng mục đích của luật pháp là để đem lại sự bình an
 Sau đó Phao-lô tiếp tục phần còn lại của chương này đễ suy gẫm về mọi khía cạnh của sự xưng công bình cho Áp-ra-ham bởi đức tin, và cũng như thế cho chúng ta là dòng dõi ông, chẳng phải bởi huyết thống, nhưng bởi sự chúng ta cũng được ở trong gia đình Chúa như ông vậy.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

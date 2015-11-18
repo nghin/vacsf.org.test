@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/luoi-ca/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Parables</h2>
-        {% include bible-study/parables %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > <sup>47</sup>“Again, the kingdom of heaven is like a net that was cast into the sea that caught all kinds of fish. <sup>48</sup>When it was full, they pulled it ashore, sat down, and put the good fish into containers and threw the bad away. <sup>49</sup>It will be this way at the end of the age. Angels will come and separate the evil from the righteous <sup>50</sup>and throw them into the fiery furnace, where there will be weeping and gnashing of teeth. <sup>51</sup>“Have you understood all these things?” They replied, “Yes.” <sup>52</sup>Then he said to them, “Therefore every expert in the law who has been trained for the kingdom of heaven is like the owner of a house who brings out of his treasure what is new and old.” <sup>53</sup>Now when Jesus finished these parables, he moved on from there. (Matthew 13:47-53)
 
@@ -73,4 +69,8 @@ Now how about us, who are scribes like them, are we well trained in the kingdom 
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Parables</h2>
+        {% include bible-study/parables %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

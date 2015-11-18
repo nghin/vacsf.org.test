@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Mối liên hệ chủ/nô với luật pháp
 
@@ -119,4 +115,8 @@ Luật pháp mà Phao-lô nói đến trong câu 21 là một lời tuyên bố 
 Nhưng phần sau của câu hỏi mà ông thốt lên cho chúng ta câu trả lời làm sao mỗi người trong chúng ta có thể thoát được nan đề đó: Ai là người sẽ cứu tôi thoát khỏi thân xác hay chết này? Câu hỏi này không có nghĩa là bằng CÁCH nào ông sẽ thoát khỏi cuộc tranh chiến, nhưng là AI sẽ cứu ông. Một lần nữa, e rằng tôi cứ nói đi nói lại về lời than phiền này, rằng dù sau khi Chúa Giê-su đến để chỉ cho chúng ta AI sẽ CỨU, các giáo sư cứ tiếp tục dạy CÁCH cho XÁC CHẾT cư xử như con cái sáng láng của nước Trời. 
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

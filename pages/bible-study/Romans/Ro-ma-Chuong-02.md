@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Cả nhân loại ở dưới sự đoán xét.
 
@@ -60,4 +56,8 @@ Phao-lô quả quyết rằng phép cắt bì bề ngoài của người Do-thá
 Đến đây, Phao-lô đang sắp đặt một nền tảng về luật pháp và sự phán xét của Đức Chúa Trời, nguyên nhân và hậu quả, phần thưởng và án phạt tùy theo khả năng của mỗi người làm theo luật pháp Đức Chúa Trời. Ông không nói gì về việc có ai trong vòng họ làm được theo luật pháp Đức Chúa Trời hay không. Thực ra, ông đang tuyên bố về tình trạng tuyệt vọng của họ, nhất là những kẻ dùng luật pháp để đoán xét kẻ khác còn mình thì không làm chi hết.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

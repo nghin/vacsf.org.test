@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Ga-la-ti</h2>
-        {% include bible-study/ga-la-ti %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > <sup>1</sup>Phao-lô, làm sứ đồ, chẳng phải bởi loài người, cũng không nhờ một người nào, bèn là bởi Đức Chúa Jêsus Christ và Đức Chúa Trời, tức là Cha, Đấng đã khiến Ngài từ kẻ chết sống lại, <sup>2</sup>cùng hết thảy anh em ở với tôi, gởi cho các Hội thánh ở xứ Ga-la-ti: <sup>3</sup>nguyền xin anh em được ân điển và sự bình an ban cho bởi Đức Chúa Jêsus Christ, là Chúa chúng ta,
 
@@ -135,4 +131,8 @@ Chúa gọi Phao-lô để chỉ cho thế gian thấy Con Một của Ngài, nh
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Ga-la-ti</h2>
+        {% include bible-study/ga-la-ti %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

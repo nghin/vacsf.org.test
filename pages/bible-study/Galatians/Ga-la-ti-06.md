@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Ga-la-ti</h2>
-        {% include bible-study/ga-la-ti %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > <sup>1</sup>Anh em, vì bằng có người nào tình cờ phạm lỗi gì, anh em là kẻ có Đức Chúa Trời, hãy lấy lòng mềm mại mà sửa họ lại; chính mình anh em lại phải giữ, e cũng bị dỗ dành chăng.
 
@@ -142,4 +138,8 @@ Nhưng nếu bạn công nhận tình trạng hoàn toàn bất lực của mìn
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Ga-la-ti</h2>
+        {% include bible-study/ga-la-ti %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

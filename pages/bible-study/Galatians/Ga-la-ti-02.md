@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Ga-la-ti</h2>
-        {% include bible-study/ga-la-ti %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 
 ### Phao-lô được các sứ đồ công nhận tại thành Giê-ru-sa-lem
@@ -87,4 +83,8 @@ Nếu tôi chỉ mưu tìm được dù chỉ là một chút xíu sự công bi
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Ga-la-ti</h2>
+        {% include bible-study/ga-la-ti %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

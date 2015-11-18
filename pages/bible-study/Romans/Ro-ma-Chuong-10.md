@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 <!-- Anything above first paragraph goes here -->
 
 ### Đừng tìm sự công bình của riêng mình
@@ -72,4 +68,8 @@ Theo từ tiết của thơ Phao-lô thì hội thánh Rô-ma có vẻ như chư
 Các giảng sư, các giáo viên Trường Chúa Nhật, của hội thánh Rô-ma, quí vị đã giảng dạy gì cho con cái Chúa ở đó mà họ không biết gì hết về tin mừng cứu rỗi? Các sinh hoạt, các chương trình, các cuộc huấn luyện, không phải là dấu hiệu của sự sống thật, vì như có lời viết trong sách Khải Huyền, Revelation 3:1, về những hội thánh có tiếng là sống nhưng thực ra là chết. Trọng tâm của các bài giảng từ Rô-ma chắc chỉ đặt trọng tâm vào những đạo đức và luân lý đời này, còn sự cứu rỗi cách nhưng không bởi dòng huyết quý của Chiên Con thì có lẽ họ chỉ được nghe trong những buổi truyền giảng, còn trong ngày Chúa Nhật, chắc có lẽ chỉ nghe được nhiều điều tựa như luật pháp, để đến nỗi giờ đây Phao-lô phải hỏi: <span style="font-style: italic;">"Có phải là họ chưa nghe chăng? Trái lại, Tiếng của các sứ giả đã vang khắp đất, Và lời của sứ giả đã đạt đến cùng thế gian. Tôi lại hỏi: Thế mà dân Y-sơ-ra-ên chẳng biết chi hết sao?"</span> Bây giờ quí vị có biết tại sao ít người trả lời được họ sẽ ở đâu nếu phải ra mắt Chúa đêm nay?
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

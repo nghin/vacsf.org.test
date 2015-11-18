@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/quan-gia/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Parables</h2>
-        {% include bible-study/parables %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 <div>
 <p>
@@ -60,4 +56,8 @@ Being faithful in keeping this faith that was once delivered to the saints. Bein
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Parables</h2>
+        {% include bible-study/parables %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

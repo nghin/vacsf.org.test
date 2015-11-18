@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/01/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Romans</h2>
-        {% include bible-study/romans-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 <h4 style="text-align: left;"><strong>The Obedience of faith</strong></h4>
 <p style="text-align: left;">
 <blockquote><sup>1</sup>From Paul, a <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">slave</span> </span>of Christ Jesus, called to be an apostle, set apart for the gospel of God. <sup>2</sup>This gospel he promised beforehand through his prophets in the holy scriptures, <sup>3</sup>concerning his Son who was a descendant of David with reference to the flesh, <sup>4</sup>who was appointed the Son-of-God-in-power according to the Holy Spirit by the resurrection from the dead, Jesus Christ our Lord.<sup>5</sup>Through him we have received grace and our apostleship to bring about <span style="color: #000000;">the <span style="text-decoration: underline;">obedience of faith</span></span> among all the Gentiles on behalf of his name. <sup>6</sup>You also are among them, called to belong to Jesus Christ. <sup>7</sup>To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ! (Romans 1:1-7—NET Bible)</blockquote>
@@ -51,4 +47,8 @@ header: no
 <p abp="1999" style="text-align: left;"><em abp="2000" style="color: #888888;"><span abp="2001" style="font-size: 10pt; line-height: 1.2em;">Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.</span></em></p>
 <div class="alert-box text radius" ><P><em abp="2000" style="color: #888888;"><span abp="2001" style="font-size: 10pt; line-height: 1.2em;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</span></em></p></div>
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Romans</h2>
+        {% include bible-study/romans-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

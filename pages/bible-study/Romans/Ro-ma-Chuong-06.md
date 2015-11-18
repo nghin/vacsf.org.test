@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Chúng ta đã chết về tội lỗi
 
@@ -102,4 +98,8 @@ Một điều trọng yếu nữa về đoạn Kinh thánh này là ý nghĩa c�
 Có một kẻ nô lệ nào dám bảo chủ mình phải làm việc nọ, việc kia? Hoặc bảo chủ mình đây là điều tôi muốn, hoặc không muốn? Chẳng hề như vậy bao giờ, vì Chúa phán: hãy tin cậy nơi Ta và đừng nương cậy nơi sự thông sáng của con (Proverbs 3:5). Hãy làm nô lệ cho sự công bình. Hãy trông đợi nơi Đức Giê-hô-va (Isaiah 30:18).
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

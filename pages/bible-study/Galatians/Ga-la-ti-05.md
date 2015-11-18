@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Ga-la-ti</h2>
-        {% include bible-study/ga-la-ti %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > <sup>1</sup>Đấng Christ đã buông tha chúng ta cho được tự do; vậy hãy đứng vững, chớ lại để mình dưới ách tôi mọi nữa.
 
@@ -107,4 +103,8 @@ Bước đi theo Thánh Linh là cách duy nhất chúng ta có thể thực s�
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Ga-la-ti</h2>
+        {% include bible-study/ga-la-ti %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

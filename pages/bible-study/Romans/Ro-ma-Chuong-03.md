@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Lời Phán Của Đức Chúa Trời Về Sự Cứu Rỗi
 
@@ -110,4 +106,8 @@ Phao-lô đã động đến một vấn đề đối chọi với niềm tin c�
 Ai là kẻ nói rằng những người nói nhiều về sự cứu rỗi bởi ân điển qua đức tin thì cố tìm cách loại bỏ luật pháp? Chẳng hề như vậy! Chính là vì luật pháp mà Chúa Giê-su đã phải chết trên cây thập tự. Luật pháp sẽ còn lên tiếng mãi hầu cho mọi miệng phải ngậm lại, và mọi người phải thấy họ thiếu mất sự vinh hiển của Chúa là dường nào.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

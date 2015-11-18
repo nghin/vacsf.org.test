@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 <!-- Anything above first paragraph goes here -->
 
 ### Một phần còn sót lại - tiêu chuẩn chọn lựa của Chúa
@@ -62,4 +58,8 @@ Trong phần còn lại của chương 11, Phao-lô trình bày chương trình 
 Chương 12 cho đến 16 chứa đựng những sự dạy dỗ về nếp sống tin kính mà tôi cảm thấy không cần thiết phải đứng vào vai trò dạy dỗ người đọc để nhận lãnh gì hơn điều đã viết trong Kinh thánh mà chính quí vị có thể đạt được dưới sự dạy dỗ trực tiếp của Thánh Linh.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

@@ -11,11 +11,7 @@ breadcrumb: true
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/06/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Romans</h2>
-        {% include bible-study/romans-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 <!-- MAIN TEXT -->
 <p abp="1953"><h4 style="text-align: left;" abp="1960"><strong>We already died to sin</strong></h4></p>
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>What shall we say then? Are we to <span style="text-decoration: underline;" abp="1962"><span style="color: #ff0000; text-decoration: underline;" abp="1963">remain in sin</span></span> so that grace may increase? <sup abp="1964">2</sup>Absolutely not! <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">How can <span abp="1965">we who died to sin</span> still live in it?</span></span> <sup abp="1966">3</sup>Or <span style="text-decoration: underline; color: #ff0000;">do you not know</span> that as many as were baptized into Christ Jesus were baptized into his death? <sup abp="1967">4</sup>Therefore <span style="text-decoration: underline; color: #ff0000;">we have been buried with him through baptism into death</span><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">, in order that</span></span> just as Christ was raised from the dead through the glory of the Father, so we too may live a new life. (Romans 6:1-4) </blockquote></p>
@@ -68,4 +64,8 @@ breadcrumb: true
 
 <div class="alert-box text radius "><p><em abp="2000" style="color: #999999;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</em></p></div>
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Romans</h2>
+        {% include bible-study/romans-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

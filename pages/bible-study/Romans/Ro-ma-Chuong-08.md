@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Không còn đoán phạt nữa
 
@@ -169,4 +165,8 @@ Còn điều gì mà Chúa không làm thay cho chúng ta? Từ giá phải tr�
 Đây không phải chỉ là lời hứa về sự gìn giữ của Chúa cho chúng ta về đời này, vì Chúa đã xả thân trên thập tự chẳng phải để đem đến cho chúng ta những phước lành trong đời hiện tại, nhưng để xưng công bình hầu chúng ta được đứng vững trong ngày sau rốt. Những lời hứa này hướng về sự bảo đảm về sự cứu rỗi, về sự được trở nên con cái Đức Chúa Trời.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

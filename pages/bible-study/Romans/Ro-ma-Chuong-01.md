@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ## Sự Vâng Phục Qua Đức Tin
 
@@ -66,4 +62,8 @@ Rồi Phao-lô tiếp tục với lời tuyên bố <span style="font-style: ita
 Từ các câu 18 đến 32 (Rô-ma, Romans 1:18-32), Phao-lô tuyên bố sự lên án những kẻ không công bình, đó là toàn thể nhân loại, vì mọi người đều phạm tội và thiếu sự vinh hiển của Đức Chúa Trời (Rô-ma, Romans 3:23). Trong chương này, Phao-lô cũng cho thấy vũ trụ là nhân chứng của sự vinh hiển của Đức Chúa Trời, rồi ông nhắc lại trong chương 10: <span style="font-style: italic;">"Tiếng của các sứ giả đã vang khắp đất."</span> Đó là tiếng của đất trời đang rao giảng.
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

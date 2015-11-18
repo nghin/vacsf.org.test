@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/03/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Galatians</h2>
-        {% include bible-study/galatians-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 
 <!-- main body text -->
 <p style="text-align: left;"><blockquote><span style="color: #008000;"><sup>1</sup>You foolish Galatians! Who has cast a spell on you? Before your eyes Jesus Christ was<span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"> vividly portrayed as crucified!</span></span></span></blockquote></p>
@@ -79,4 +75,8 @@ header: no
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Galatians</h2>
+        {% include bible-study/galatians-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

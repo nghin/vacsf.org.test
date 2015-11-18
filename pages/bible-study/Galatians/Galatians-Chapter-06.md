@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Galatians</h2>
-        {% include bible-study/galatians-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 <!-- main body text -->
 
 #### <strong>Gentleness toward a weak brother</strong>
@@ -131,4 +127,8 @@ It's time to grow up and eat solid food of the gospel, and don't depend on rudim
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Galatians</h2>
+        {% include bible-study/galatians-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

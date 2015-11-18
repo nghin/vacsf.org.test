@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/02/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Romans</h2>
-        {% include bible-study/romans-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 <p style="text-align: left;">This sub-section of Romans 2, from verses 1 through 16 is long, so you want to hover your cursor here: Romans 2:1-16, to view the whole passage at once.</p>
 <h4 style="text-align: left;"><strong>All men are under judgement</strong></h4>
 <p style="text-align: left;"><blockquote><sup>1</sup>Therefore <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">you are without excuse</span></span>, whoever you are, when you judge someone else. For on whatever grounds you judge another, you condemn yourself, because you who judge practice the same things. <sup>2</sup>Now we know that Godʼs judgment is in accordance with truth against those who practice such things. <sup>3</sup>And do you think, <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">whoever you are</span></span>, when you judge those who practice such things and yet do them yourself, that you will escape Godʼs judgment?</blockquote></p>
@@ -50,4 +46,8 @@ header: no
 <p style="text-align: left;"><span style="color: #999999;"><em><span style="font-size: 10pt;">Nghi Nguyen</span></em></span></p>
 <div class="alert-box text radius "><p><em abp="2000" style="color: #999999;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</em></p></div>
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Romans</h2>
+        {% include bible-study/romans-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

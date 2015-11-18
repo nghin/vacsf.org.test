@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 ### Đức tin: đường dẫn đến ân điển và sự bình an của Chúa
 
@@ -72,4 +68,8 @@ Mọi người đều chết chỉ vì sự vi phạm của một người, như
 Tội lỗi gia tăng khi luật pháp đến và bắt đầu ghi vào sổ sách, và luật pháp loại bỏ những gì mơ hồ về ý nghĩa của tội lỗi (Romans 7:7). Nó giúp những người tự xưng mình là công bình thấy tình trạng hư hoại của mình và nhận biết họ cần ân điển và lòng thương xót của Chúa; do đó ân điển gia tăng là như vậy. Mọi kẻ ở ngoài Đấng Christ, là ở dưới tội lỗi và chết phần tâm linh; trong lãnh vực này, tội lỗi thống trị. Nhưng những kẻ ở dưới sự cai trị của ân điển, tội lỗi không có quyền lực trên họ. Trong lãnh vực của những người được sống động về phần tâm linh, ân điển cai trị. Tôi có cần nói gì thêm về vai trò của luật pháp ở đây không?
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

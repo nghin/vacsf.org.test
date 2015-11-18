@@ -11,11 +11,7 @@ breadcrumb: true
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/05/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Romans</h2>
-        {% include bible-study/romans-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 
 <!-- MAIN TEXT -->
 <h4 style="text-align: left;"><strong>Faith: access to God's grace and peace</strong></h4><blockquote><sup>1</sup>Therefore, since we have been <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">declared righteous by faith</span></span>, we have <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">peace with God</span></span> through our Lord Jesus Christ, <sup>2</sup>through whom we have also obtained <span style="text-decoration: underline; color: #ff0000;">access by faith into this grace</span> in which we stand, and we rejoice in the hope of Godʼs glory. (Romans 5:1-2)
@@ -53,4 +49,8 @@ breadcrumb: true
 
 <div class="alert-box text radius "><p><em abp="2000" style="color: #999999;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</em></p></div>
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Romans</h2>
+        {% include bible-study/romans-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

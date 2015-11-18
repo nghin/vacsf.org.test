@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Sách Rô-ma</h2>
-        {% include bible-study/ro-ma %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 <!-- Anything above first paragraph goes here -->
 
 ### Dân Y-sơ-ra-ên, kẻ được chọn
@@ -93,4 +89,8 @@ Yếu tố duy nhất càn ngăn người Do-thái là sự họ ỷ lại vào 
 Do đó hòn đá ngăn trở tại Si-ôn chính là Đấng Christ. Sự Ngài xuống thế gian đem đến cho họ một quyết định quan trọng, lhoặc cứ tiếp tục dùng sức mình để thỏa những sự đòi hỏi của luật pháp, hoặc chỉ đặt niềm tin nơi Đấng duy nhật có thể đạt được những điều đó trên thập tự giá. Chúa trở nên hòn đá ngăn trở cho họ. Của lễ toàn hảo dâng lên bởi chính Con Đức Chúa Trời làm vô hiệu hóa mọi của lễ thiêu mà họ thường cậy trông (Hebrews 10:26).
 
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Sách Rô-ma</h2>
+        {% include bible-study/ro-ma %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

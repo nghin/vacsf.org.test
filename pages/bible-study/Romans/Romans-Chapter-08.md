@@ -11,11 +11,7 @@ breadcrumb: true
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/08/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Book of Romans</h2>
-        {% include bible-study/romans-chapters %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns">
+<div class="medium-8 columns">
 
 <!-- MAIN TEXT -->
 <h4 abp="1953"><strong>There is now no condemnation<br /></strong></h4>
@@ -105,4 +101,8 @@ breadcrumb: true
 <p style="text-align: left;" abp="2002"><span style="color: #999999;" abp="2003"><em abp="2004"><span style="font-size: 10pt;" abp="2005">Nghi Nguyen</span></em></span></p>
 <div class="alert-box text radius "><p><em abp="2000" style="color: #999999;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</em></p></div>
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Book of Romans</h2>
+        {% include bible-study/romans-chapters %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
