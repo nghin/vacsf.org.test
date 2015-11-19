@@ -12,6 +12,11 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/grieving-holy-spirit/">Grieving the Holy Spirit <em>(work in progress... please come back later)</em></a><p style="font-weight: normal;">
+
+Will the Holy Spirit leave you if you grieve Him? Will you lose your salvation?
+
+</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/">Baptism</a><p style="font-weight: normal;">
 
 A more complete picture of baptism. This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives.
