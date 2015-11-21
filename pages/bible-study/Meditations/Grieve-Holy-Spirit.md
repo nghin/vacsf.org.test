@@ -59,7 +59,7 @@ Therefore the giving of the Holy Spirit as a seal of redemption is not condition
 
 In human relationship, one party grieves another is just a fact of life. Even the apostle Paul admits that the good things he wanted to do, he didn't, but instead he did the bad things that he didn't want to do. Do we expect to do better with the Holy Spirit?
 
-Jesus assuaged His disciples in the verse above by showing them the extent of God's forgiveness. If he expected Peter to forgive seventy times seven, wouldn't He be able to forgive 7 hundred million times seven? That was exactly what He did, ahead of time for all the sins of mankind since the beginning of time and to the end of the ages.
+Jesus assuaged His disciples in the verse above by showing them the extent of God's forgiveness. If he expected Peter to forgive seventy times seven, wouldn't He be able to forgive seven hundred million times seven? That was exactly what He did, ahead of time for all the sins of mankind since the beginning of time and to the end of the ages.
 
 And if he did so for the entire human race, how about me? Will he be able to forgive me for grieving His heart? Of course, because if I don't believe so I must be saying Jesus lied. But God cannot lie, and His promise will forever be true.
 
@@ -69,9 +69,9 @@ And if he did so for the entire human race, how about me? Will he be able to for
 
 Every sin can be forgiven, except one: blaspheming, or slandering, the Holy Spirit. We can see clearly that all manner of sins great and small are NOT of the unforgivable one above. All sins grieve the Holy Spirit, but there is only one that in unforgivable. What do you think this sin is? Murder? Adultary? Lustful thoughts? Remaining angry past sunset? Not keeping the Sabbath? Greed? No, none of the above, because Jesus said that <u>every sin</u> is forgivable, except of course the ONLY one. It's eternally important that we know what this unforgivable sin is.
 
-Here's excerpt from the HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "switches" right for wrong (wrong for right), i.e. calls what God disapproves, "right" which "exchanges the truth of God for a lie" (Ro 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
+Here's an excerpt from the HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "switches" right for wrong (wrong for right), i.e. calls what God disapproves, "right" which "exchanges the truth of God for a lie" (Ro 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
 
-We must keep in mind that blasphemy itself is not unforgivable -read verse 31 above, but blasphemy against the Holy Spirit is. The NIV's translation uses the word <u>slander</u> in place of blasphemy which may give a more accurate contextual meaning. The HELPS Word-studies gives us "<u>switches right for wrong, or conversely wrong for right</u>." All in relation to the Holy Spirit. There is something the Holy Spirit says or does which gets slandered, distorted, its meaning turned upside down, most likely with the intention of rendering it void.
+We must keep in mind that blasphemy in itself is not unforgivable -read verse 31 above, but blasphemy against the Holy Spirit is. The NIV's translation uses the word <u>slander</u> in place of blasphemy which may give a more accurate contextual meaning. The HELPS Word-studies gives us "<u>switches right for wrong, or conversely wrong for right</u>." All in relation to the Holy Spirit. There is something the Holy Spirit says or does which gets slandered, distorted, its meaning turned upside down, most likely with the intention of rendering it void.
 
 ### What is the principal role of the Holy Spirit?
 
@@ -89,13 +89,13 @@ Why is this the truth about sin? Not only men cannot stop sinning, they cannot s
 
 ### Concerning righteousness
 
-The Bible defines sin as a state of falling short of God's righteousness. We all are in need of this righteousness so our relationship with Him can be restored. Here is where the world, including a large percentage of Christianity, is wrong about how we get that righteousness. In Paul's major epistles he tried to steer the believers from the mistaken notion that they could get that righteousness by the works of the law.
+The Bible defines sin as a state of falling short of God's righteousness. We all are in need of this righteousness so our relationship with Him can be restored. Here is where the world, including a large percentage of Christianity, is wrong about how we get that righteousness. Paul wrote his major epistles to steer the believers from the mistaken notion that they could get that righteousness by the works of the law.
 
 Jesus pointed out the second objective of the Holy Spirit is to correct another wrong idea about how we can get right (righteousness) with God: <u>We get right with God becaused Jesus went to the Father as our Attorney at Law to plead for us that all payment had been paid for</u>. Whatever relationship He has with the Father -and we know it is a Trinity relationship where Jesus and the Father are one- we also inherit that because we are in Christ.
 
 ### Concerning judgment
 
-All of mankind awaits the day of reckoning when they must meed the Creator. This is why we came to the foot of the cross in order to face that day not as condemned sinners, but as children of God. And God has provided for us a way out by giving His own Son as a payment for our sin.
+All of mankind awaits the day of reckoning when they must meet the Creator. This is why we came to the foot of the cross in order to face that day not as condemned sinners, but as children of God. And God has provided for us a way out by giving His own Son as a payment for our sin.
 
 Jesus pointed out the third objective of the Holy Spirit is to show us that the dreadful judgement is reserved only for the "ruler of this world," and of course those who belong to him. And we all know that we belong to Christ, therefore <u>judgement is never intended for us</u>.
 
@@ -106,8 +106,8 @@ Jesus pointed out the third objective of the Holy Spirit is to show us that the 
 The goal of the Holy Spirit when He comes is -He's already come in the hearts of all who are in Christ- to make sure we understand:
 
 - Sin is: <u>not believing in Jesus</u>
-- Righteousness is ours because Jesus is pleading for us at the right hand of God
-- Judgment is not for believers, but for the prince of this world and those who belong to him
+- <u>Righteousness is our</u>s: because Jesus is pleading for us at the right hand of God
+- <u>Judgment is not for believers</u>, but for the prince of this world and those who belong to him
 
 Those who blaspheme, or slander, the Holy Spirit are those who distort the Holy Spirit's main objective, or minimize the effectiveness of His message. Those are folks who commit the unpardonable sin.
 
@@ -121,7 +121,7 @@ It logically follows that those who live by the law, will break the entire law a
 
 What a dreadful way to relate to God!
 
-To live under grace is the only way to secure our salvation. It is the only way to live for a child of God. To think that there is anything that can render void the power of the cross of Christ is to live in unbelief.
+To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. To think that there is anything that can render void the power of the cross of Christ is to live in unbelief.
 
 > “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary.<br />...<br /><sup>29</sup>How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace? 
 (Hebrews 10:17-18; Hebrews 10:29)
