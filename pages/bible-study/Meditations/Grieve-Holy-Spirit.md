@@ -120,7 +120,7 @@ Those who hold such belief may in fact still live under the law, and the law say
 
 It logically follows that those who live by the law, will break the entire law all the time, because as long as you still live in the flesh, you will break some law some time, and based on James 2:10, you are a continual lawbreaker, and you are a Spirit griever all the time.
 
-What a dreadful to relate to God!
+What a dreadful way to relate to God!
 
 To live under grace is the only way to secure our salvation. It is the only way to live for a child of God.To think that there is anything that can render void the power of the cross of Christ is to live in unbelief.
 
