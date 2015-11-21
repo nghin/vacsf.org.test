@@ -121,7 +121,7 @@ It logically follows that those who live by the law, will break the entire law a
 
 What a dreadful way to relate to God!
 
-To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. To think that there is anything that can render void the power of the cross of Christ is to live in unbelief.
+To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. <u>To think that there is anything that can render void the power of the cross of Christ is to live in unbelief, and that is sin</u>.
 
 > “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary.<br />...<br /><sup>29</sup>How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace? 
 (Hebrews 10:17-18; Hebrews 10:29)
