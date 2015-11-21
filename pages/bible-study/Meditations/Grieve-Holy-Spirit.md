@@ -39,8 +39,7 @@ This verse might be paraphrased for better clarity as follows:
 
 ### Our relationship with God as "Abba"
 
-> <sup>6</sup>And because you are sons, God sent the Spirit of his Son into our hearts, who calls <u>“Abba! Father!”</u> <sup>7</sup>So <u>you are no longer a slave but a son</u>, and if you are a son, then you are also an heir through God.
-(Ephesians 4:6-7)
+> <sup>6</sup>And because you are sons, God sent the Spirit of his Son into our hearts, who calls <u>“Abba! Father!”</u> <sup>7</sup>So <u>you are no longer a slave but a son</u>, and if you are a son, then you are also an heir through God. (Galatians 4:6-7)
 
 These verses preceeded the "grieving the Holy Spirit" verse which shows the kind of relationship we have with God: Father and Son. We are <u>"NO LONGER"</u> slaves but sons. This truth further sets the foundation upon which we can determine that the role of the Holy Spirit as a seal of our redemption is <u>"once for all."</u> It's a done deal.
 
