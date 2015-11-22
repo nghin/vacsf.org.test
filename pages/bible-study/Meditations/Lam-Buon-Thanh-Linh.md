@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Mất sự sống đời nếu làm buồn Thánh Linh?"
-title: "Đức Thánh Linh sẽ lìa bỏ nếu chúng ta làm buồn lòng Ngài?"
+subheadline: "Bị Ngài lìa bỏ? Mất sự sống đời?"
+title: "Làm Buồn Lòng Thánh Linh?"
 meta_teaser: "Grieving Holy Spirit Lose Salvation"
 teaser: "Một câu Kinh Thánh quen thuộc nhưng rất thường khi bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ảnh hưởng đến đời sống tâm linh như thế nào? Có phù hợp với những chân lý căn bản khác trong Kinh Thánh Không? Chúng ta hãy cùng nhau nghiên cứu."
 permalink: /hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/
@@ -64,10 +64,11 @@ Và quả thực nếu Chúa đã tha thứ toàn thể nhân loại, còn tôi 
 ### Tội Thực Sự Phạm Đến Thánh Linh
 
 > <sup>31</sup> Ấy vậy, ta phán cùng các ngươi, các tội lỗi và lời phạm thượng của người ta đều sẽ được tha; song lời phạm thượng đến Ðức Thánh Linh thì sẽ chẳng được tha đâu. <sup>32</sup> Nếu ai nói phạm đến Con người, thì sẽ được tha; song nếu ai nói phạm đến Ðức Thánh Linh, thì dầu đời nầy hay đời sau cũng sẽ chẳng được tha. (Matthew 12:31-32 - NET Bible)
-  `
+  
 Mọi tội lỗi đều được tha, chỉ ngoại trừ: tội phạm đến Thánh Linh. Chúng ta có thể thấy rõ ràng rằng mọi thứ tội trên thế gian, hoặc lớn hoặc nhỏ, đều không thuộc loại không thể tha thứ được. Mọi tội đều làm buồn lòng Thánh Linh, nhưng chỉ có một tội "phạm" đến Ngài và không thể được tha thứ. Bạn nghĩ tội này là tội gì? Giết người? Tà dâm? Ngoại tình trong tư tưởng? Giận quá mặt trời lặn? Không giữ ngày Chúa Nhật? Tham lam? Không, không một tội nào trong những tội đó, vì chính Chúa Giê-su nói <u>mọi tội</u> đều được thứ tha, chỉ ngoại trừ một tội. Nhận biết tội này là tội gì là một điều tối quan trọng liên hệ đến sự sống đời đời.
 
 Đây là một đoạn trích ra từ HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "đổi" phải thành trái (trái thành phải), chẳng hạn như: gọi điều Chúa cấm là điều "phải" và vì thế "đã đổi lẽ thật Ðức Chúa Trời lấy sự dối trá" (Romans 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
+
 Chúng ta phải ghi nhận rằng chính tội xuyên tạc tự nó không phải là không tha thứ được -đọc lại câu 31 ở trên, nhưng xuyên tạc Đức Thánh Linh mới là tội đáng sợ. Bản dịch NIV dùng từ "slander" nghĩa là xuyên tạc thì sát nghĩa hơn từ "phạm" dịch trong tiếng Việt. Chữ phạm trong tiếng Việt có thể là phạm thượng, hỗn láo, dùng ngôn từ không lễ độ, v.v. Bản HELPS Word-studies cho chúng ta rõ ý nghĩa hơn, gần với từ "xuyên tạc," bóp méo mục tiêu và phận sự của Đức Thánh Linh trong chương trình cứu rỗi.
 
 Vì quả thật nếu "phạm" là phạm thượng hay thiếu lễ độ, thì làm buồn lòng Đức Thánh Linh nhưng không ảnh hưởng đến ai khác ngoại trừ chính người đó, nhưng nếu "phạm" là xuyên tạc thì có thể gây tổn hại đến đức tin của người khác. Đó chắc chắn là lý do tội đó không tha thứ được.
@@ -80,52 +81,49 @@ Trong câu 7 ở trên, Đấng Yên Ủi chính là Thánh Linh. Chúa Giê-su 
 
 ### Về Vấn Đề Tội Lỗi
 
-Thế gian sai lầm như thế nào về vấn đề tội lỗi? Quí vị đương đầu với vấn đề tội lỗi như thế nào?Nói một cách tổng quát, Cơ-đốc Nhân cũng như người không tin Chúa, nỗ lực của chúng ta là cố gắng đừng phạm tội, đừng làm điều mình không nên làm, và làm điều mình nên làm. Khi thất bại, chúng ta trả giá bằng một sự hi sinh nào đó, xưng tội, dâng hiến, tỏ vẻ ăn năn, v.v. Nhưng Chúa Giê-su nói đây không phải là cách đương đầu với tội lôi, vì đó là một vòng tròn luẩn quẩn của những thất bại và ăn năn để rồi lại tái diễn như bao lần đã qua.
+Thế gian sai lầm như thế nào về vấn đề tội lỗi? Quí vị đương đầu với vấn đề tội lỗi như thế nào? Nói một cách tổng quát, Cơ-đốc Nhân cũng như người không tin Chúa, nỗ lực của chúng ta là cố gắng đừng phạm tội, đừng làm điều mình không nên làm, và làm điều mình nên làm. Khi thất bại, chúng ta trả giá bằng một sự hi sinh nào đó, xưng tội, dâng hiến, tỏ vẻ ăn năn, v.v. Nhưng Chúa Giê-su nói đây không phải là cách đương đầu với tội lôi, vì đó là một vòng tròn luẩn quẩn của những thất bại và ăn năn để rồi lại tái diễn như bao lần đã qua.
 
-Chúa Giê-su chỉ cho chúng ta thấy một trong những công việc chính của Thánh Linh là tỏ cho nhân loại thấy tội lỗi thực sự là gì: là tội không tin nơi Chúa Giê-su</u>.
+Chúa Giê-su chỉ cho chúng ta thấy một trong những công việc chính của Thánh Linh là tỏ cho nhân loại thấy <u>tội lỗi thực sự là gì: là tội không tin nơi Chúa Giê-su</u>.
 
-Jesus pointed out that one of the principal thing the Holy Spirit does is He shows mankind <u>the true definition of sin: not believing in Jesus.</u>
+Tại sao đây lại là ý nghĩa thực của tội lỗi? Vì không những nhân loại không thể ngừng phạm tội, họ không thể thoát khỏi được địa vị tội nhân. Ví bằng chúng ta có làm cách nào đó để không phạm vào những tội nhân loại thường phạm, chúng ta vẫn là tội nhân, nhưng nếu chúng ta tin lời Chúa Giê-su phán về công việc của Thánh Linh mà tin vào Ngài, thì tội lỗi không còn làm chủ chúng ta nữa.
 
-Why is this the truth about sin? Not only men cannot stop sinning, they cannot stop being sinful. Even if they manage to not committing any sin known to man, they cannot rid themselves of their sin nature. If we continue to deal with the problem of sin the way the world does, we'd remain in sin, but if we believe what Jesus said about the Holy Spirit and simply believe in Him, sin will no longer be our master.
+### Luận Về Sự Công Bình
 
-### Concerning righteousness
+Kinh Thánh định nghĩa tội lỗi là một tình trạng thiếu sự công bình của Đức Chúa Trời. Tất cả chúng ta đều cần sự công bình đó để được phục hồi mối liên hệ với Đức Chúa Trời. Đây là điểm mà thế gian, và ngay cả nhiều người trong đạo Tin Lành, sai lầm về cách nào họ đạt được sự công bình của Đức Chúa Trời. Phao lô đã viết những thư quan trọng để giúp họ chuyển hướng khỏi quan niệm sai lầm rằng họ có thể đạt được sự công bình bởi việc làm.
 
-The Bible defines sin as a state of falling short of God's righteousness. We all are in need of this righteousness so our relationship with Him can be restored. Here is where the world, including a large percentage of Christianity, is wrong about how we get that righteousness. In Paul's major epistles he tried to steer the believers from the mistaken notion that they could get that righteousness by the works of the law.
+Chúa Giê-su cho thấy mục tiêu thứ hai của Đức Thánh Linh là sửa thêm một quan niệm sai lầm về sự giảng hòa với Đức Chúa Trời: <u>Chúng ta được làm hòa với Ngài vì Chúa Giê-su đã đến bên hữu Đức Chúa Cha với tư cách là Trạng Sư biện hộ cho chúng ta rằng mọi món nợ đã được hoàn trả</u>. Đức Chúa Con liên hệ với Cha thể nào thì chúng ta cũng được liên hệ với Ngài thể ấy -vì chúng ta hiện ở trong Ngài.
 
-Jesus pointed out the second objective of the Holy Spirit is to correct another wrong idea about how we can get right (righteousness) with God: <u>We get right with God becaused Jesus went to the Father as our Attorney at Law to plead for us that all payment had been paid for</u>. Whatever relationship He has with the Father -and we know it is a Trinity relationship where Jesus and the Father are one- we also inherit that because we are in Christ.
+### Luận Về Sự Phán Xét
 
-### Concerning judgment
+Toàn thể nhân loại đợi ngày phán xét khi họ phải đối diện với Đấng Tạo Hóa. Đây là lý do tại sao chúng ta đến chân thập tự hầu có thể đứng trong ngày đó không dưới địa vị tội nhân, nhưng là con cái Đức Chúa Trời. Và Ngài đã ban cho chúng ta một lối thoát bằng cách ban Con Một của Ngài làm giá chuộc cho tội lỗi chúng ta.
 
-All of mankind awaits the day of reckoning when they must meed the Creator. This is why we came to the foot of the cross in order to face that day not as condemned sinners, but as children of God. And God has provided for us a way out by giving His own Son as a payment for our sin.
+Chúa Giê-su cho thấy mục tiêu thứ ba của Đức Thánh Linh là cho chúng ta biết sự phán xét là dành cho "vua chúa của thế gian," và dĩ nhiên là cho những kẻ thuộc về vua chúa đó. Còn chúng ta biết chắc rằng minh thuộc về Đấng Christ, do đó <u>chúng ta sẽ chẳng còn ở dưới sự đoán xét</u>.
 
-Jesus pointed out the third objective of the Holy Spirit is to show us that the dreadful judgement is reserved only for the "ruler of this world," and of course those who belong to him. And we all know that we belong to Christ, therefore <u>judgement is never intended for us</u>.
+<p class="blockquote"> <sup>1</sup> Cho nên <u>hiện nay chẳng còn có sự đoán phạt nào</u> cho những kẻ ở trong Ðức Chúa Jêsus Christ; <sup>2</sup> vì luật pháp của Thánh Linh sự sống đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi luật pháp của sự tội và sự chết. <sup>3</sup> Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt, <sup>4</sup> hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng noi theo xác thịt, nhưng noi theo Thánh Linh. (Romans 8:1-4)</p>
 
-<p class="blockquote"> <sup>1</sup> There is therefore now <u>no condemnation</u> for those who are in Christ Jesus. <sup>2</sup> For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death. <sup>3</sup> For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh, <sup>4</sup> so that the <u>righteous requirement of the law may be fulfilled in us</u>, who do not walk according to the flesh but according to the Spirit. (Romans 8:1-4)</p> 
+### Kết Luận
 
-### Conclusion
+Mục đích của Đức Thánh Linh khi Ngài đến -Ngài đã đến rồi trong lòng những kẻ thuộc về Đấng Christ- là để bảo đảm chúng ta nhận biết:
 
-The goal of the Holy Spirit when He comes is -He's already come in the hearts of all who are in Christ- to make sure we understand:
+- Tội lỗi là: <u>vì chẳng tin nơi Chúa Giê-su</u>
+- <u>Sự công bình thuộc về chúng ta</u> vì Chúa Giê-su đang biện hộ cho chúng ta bên hữu Đức Chúa Trời
+- <u>Sự phán xét không dành cho những kẻ tin</u>, nhưng dành cho vua chúa thế gian và những kẻ thuộc về nó
 
-- Sin is: <u>not believing in Jesus</u>
-- Righteousness is ours because Jesus is pleading for us at the right hand of God
-- Judgment is not for believers, but for the prince of this world and those who belong to him
+Những kẻ nói phạm, hoặc xuyên tạc, Đức Thánh Linh là những kẻ bóp méo mục đích chính của Đức Thánh Linh, hoặc làm suy giảm sự hữu hiệu của sứ điệp Ngài. Đó là những người phạm tội không thể thứ tha được.
 
-Those who blaspheme, or slander, the Holy Spirit are those who distort the Holy Spirit's main objective, or minimize the effectiveness of His message. Those are folks who commit the unpardonable sin.
+Tín lý rằng sự làm buồn lòng Thánh Linh là tội đánh mất sự cứu rỗi không có trong Thánh Kinh, và đi ngược lại tất cả các chân lý nền tảng rải rác trong Kinh Thánh. Như chúng ta đã thảo luận trước đây, nếu sự làm buồn lòng Chúa quả thực dẫn đến sự hư mất đời đời, thì chẳng ai được cứu.
 
-The belief that the grieving of the Holy Spirit is an unforgivable sin is not found in the Bible, and goes against all foundational truths scatered throughout Scriptures. As we have already discussed earlier, if grieving God is truly unforgivable, no one will be saved.
+Những người giữ niềm tin đó rất có thể vẫn còn sống dưới luật pháp, và luật pháp dạy rằng "linh hồn nào phạm tội thì phải chết" (Ezekiel 18:20). Còn dành cho những kẻ sống dưới luật phàp, Gia-cơ 2:10 viết:
 
-Those who hold such belief may in fact still live under the law, and the law says that "the soul that sins [grieve the Holy Spirit] shall die" (Ezekiel 18:20). And for those who still want to keep the law, James 2:10 says this:
+<p clas="blockquote">Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy. (James 2:10)</p>
 
-<p class="blockquote">For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it.</p>
+Do đó nói một cách hợp lý, những kẻ sống dưới luật pháp sẽ phạm luật pháp không ngừng, vì khi còn sống trong xác thịt thì thế nào cũng có lúc phạm luật, và dựa vào James 2:10 thì người đó sẽ là một người phạm luật thường xuyên, và là một người thường làm buồn lòng Thánh Linh.
 
-It logically follows that those who live by the law, will break the entire law all the time, because as long as you still live in the flesh, you will break some law some time, and based on James 2:10, you are a continual lawbreaker, and you are a Spirit griever all the time.
+Thật là một mối liên hệ đáng sợ với Đức Chúa Trời!
 
-What a dreadful way to relate to God!
+Sống dưới ân điển là cách duy nhất để bảo đảm sự cứu rỗi, và bước đi cho đến ngày vào nước Chúa. Đó là cách duy nhất để sống của con cái Chúa. Nếu còn suy nghĩ rằng có một điều gì đó có thể khiến thập giá của Chúa mất hiệu lực, là còn sống trong sự vô tín.
 
-To live under grace is the only way to secure our salvation. It is the only way to live for a child of God. To think that there is anything that can render void the power of the cross of Christ is to live in unbelief.
-
-> “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary.<br />...<br /><sup>29</sup>How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace? 
-(Hebrews 10:17-18; Hebrews 10:29)
+> <sup>17</sup> Lại phán: Ta sẽ chẳng còn nhớ đến tội lỗi gian ác của chúng nó nữa. <sup>18</sup> Bởi hễ có sự tha thứ thì không cần dâng của lễ vì tội lỗi nữa. (Hebrews 10:17-18)
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->

@@ -12,6 +12,8 @@ header: no
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
+<em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+
 ### Where is this verse which states such theology?
 
 <div>
@@ -125,8 +127,7 @@ What a dreadful way to relate to God!
 
 To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. <u>To think that there is anything that can render void the power of the cross of Christ is to live in unbelief, and that is sin</u>.
 
-> “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary.<br />...<br /><sup>29</sup>How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace? 
-(Hebrews 10:17-18; Hebrews 10:29)
+> “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary. (Hebrews 10:17-18; Hebrews 10:29)
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
