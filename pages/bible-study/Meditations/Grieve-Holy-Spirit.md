@@ -39,6 +39,8 @@ This verse might be paraphrased for better clarity as follows:
 
 <p class="blockquote">Since God has given you the great seal of the Holy Spirit to guarantee your entry into God's Kingdom, do not grieve Him.</p>
 
+Let us check this point of theology against other foundational truths to see if it will stand up against the test of sound biblical exegesis -a study of the Bible in context.
+
 ### Our relationship with God as "Abba"
 
 > <sup>6</sup>And because you are sons, God sent the Spirit of his Son into our hearts, who calls <u>“Abba! Father!”</u> <sup>7</sup>So <u>you are no longer a slave but a son</u>, and if you are a son, then you are also an heir through God. (Galatians 4:6-7)
