@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
-        {% include bible-study/meditations %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 <span class="green-letter">2 Timothy 2:15 says: "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth."</span>  I believe this verse in the King James version is probably the most accurate, at least in the English language.
 
@@ -93,4 +89,8 @@ Everything that I write, came from my deepest desire to experience the rest that
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Meditations</h2>
+        {% include bible-study/meditations %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

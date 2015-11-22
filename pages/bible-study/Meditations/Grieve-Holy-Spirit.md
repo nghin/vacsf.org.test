@@ -61,7 +61,7 @@ In human relationship, one party grieves another is just a fact of life. Even th
 
 Jesus assuaged His disciples in the verse above by showing them the extent of God's forgiveness. If he expected Peter to forgive seventy times seven, wouldn't He be able to forgive seven hundred million times seven? That was exactly what He did, ahead of time for all the sins of mankind since the beginning of time and to the end of the ages.
 
-And if he did so for the entire human race, how about me? Will he be able to forgive me for grieving His heart? Of course, because if I don't believe so I must be saying Jesus lied. But God cannot lie, and His promise will forever be true.
+And if he did so for the entire human race, how about me? Will He be able to forgive me for grieving His heart? Of course He will, because if I don't believe so I must be saying Jesus lied. But God cannot lie, and His promise will forever be true.
 
 ### The real offense against the Holy Spirit
 
@@ -72,6 +72,8 @@ Every sin can be forgiven, except one: blaspheming, or slandering, the Holy Spir
 Here's an excerpt from the HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "switches" right for wrong (wrong for right), i.e. calls what God disapproves, "right" which "exchanges the truth of God for a lie" (Ro 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
 
 We must keep in mind that blasphemy in itself is not unforgivable -read verse 31 above, but blasphemy against the Holy Spirit is. The NIV's translation uses the word <u>slander</u> in place of blasphemy which may give a more accurate contextual meaning. The HELPS Word-studies gives us "<u>switches right for wrong, or conversely wrong for right</u>." All in relation to the Holy Spirit. There is something the Holy Spirit says or does which gets slandered, distorted, its meaning turned upside down, most likely with the intention of rendering it void.
+
+If blasphemy is simply irreverance, calling names, disrespect, or foul language, it surely will grieve the Holy Spirit but affect no one else except the trespasser. But if blasphemy is a slander, a distortion of the Holy Spirit's message of salvation, it may have eternal consequences on others.
 
 ### What is the principal role of the Holy Spirit?
 

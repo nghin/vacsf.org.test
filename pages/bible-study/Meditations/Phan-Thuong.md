@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
-        {% include bible-study/meditations %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > Người trồng, kẻ tưới, đều bằng nhau; ai nấy sẽ nhận phần thưởng tùy theo việc mình đã làm. (I Corinthians 3:8)
 
@@ -110,4 +106,8 @@ Chẳng có một điểm nào trong đời sống tin kính mà việc làm đ�
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Meditations</h2>
+        {% include bible-study/meditations %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

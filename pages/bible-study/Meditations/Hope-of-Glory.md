@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
-        {% include bible-study/meditations %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 In this letter, I'm going to present another argument trying to convince the readers that the only way that works, and pleases God, is the way of grace. I was so thrilled to have stumbled upon Hebrews 8, which seems to help me nail once for all in its coffin, obedience to the Law as a way of life. I hope you will, at least this time ignore all my previous writings, but follow this thesis with an open mind.  I promise to be gentle, and will not deviate from the theme. Let's read this passage, and please focus on the underlined text:
 
@@ -70,4 +66,8 @@ May God's grace give you the courage to leave the Law as your guide, and simply 
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Meditations</h2>
+        {% include bible-study/meditations %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

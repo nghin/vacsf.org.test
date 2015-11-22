@@ -10,11 +10,7 @@ header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
-        {% include bible-study/meditations %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > “To the angel of the church in Laodicea write:
 <sup>14</sup> These are the words of the Amen, the faithful and true witness, the ruler of God’s creation. <sup>15</sup> I know your deeds, that you are neither cold nor hot. I wish you were either one or the other! <sup>16</sup> So, because you are lukewarm—neither hot nor cold—I am about to spit you out of my mouth. <sup>17</sup> You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But you do not realize that you are wretched, pitiful, poor, blind and naked. <sup>18</sup> I counsel you to buy from me gold refined in the fire, so you can become rich; and white clothes to wear, so you can cover your shameful nakedness; and salve to put on your eyes, so you can see.
@@ -72,4 +68,8 @@ So read commentaries, but thoroughly check them agaist Scriptures, lots of Scrip
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Meditations</h2>
+        {% include bible-study/meditations %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->

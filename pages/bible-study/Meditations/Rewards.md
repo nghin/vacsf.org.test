@@ -11,11 +11,7 @@ header: no
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/phan-thuong/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">Meditations</h2>
-        {% include bible-study/meditations %}
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 columns" markdown="1">
 
 > The one who plants and the one who waters work as one, but each will receive his reward according to his work. (I Corinthians 3:8)
 
@@ -122,4 +118,8 @@ There is no point in a life of faith that work is ever accepted by God, because 
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Meditations</h2>
+        {% include bible-study/meditations %}
+</div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
