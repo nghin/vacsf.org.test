@@ -106,7 +106,7 @@ Những kẻ nói phạm, hoặc xuyên tạc, Đức Thánh Linh là những k�
 
 Tín lý rằng sự làm buồn lòng Thánh Linh là tội đánh mất sự cứu rỗi không có trong Thánh Kinh, và đi ngược lại tất cả các chân lý nền tảng rải rác trong Kinh Thánh. Như chúng ta đã thảo luận trước đây, nếu sự làm buồn lòng Chúa quả thực dẫn đến sự hư mất đời đời, thì chẳng ai được cứu.
 
-Những người giữ niềm tin đó rất có thể vẫn còn sống dưới luật pháp, và luật pháp dạy rằng "linh hồn nào phạm tội thì phải chết" (Ezekiel 18:20). Còn dành cho những kẻ sống dưới luật phàp, Gia-cơ 2:10 viết:
+Những người giữ niềm tin đó rất có thể vẫn còn sống dưới luật pháp, và luật pháp dạy rằng "linh hồn nào phạm tội thì phải chết" (Ezekiel 18:20). Còn về phần những kẻ sống dưới luật phàp, Gia-cơ 2:10 viết:
 
 <p clas="blockquote">Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy. (James 2:10)</p>
 
