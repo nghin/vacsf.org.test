@@ -41,33 +41,26 @@ This verse might be paraphrased for better clarity as follows:
 
 Let us check this point of theology against other foundational truths to see if it will stand up against the test of sound biblical exegesis -a study of the Bible in context.
 
-### Our relationship with God as "Abba"
+- It's fairly easy to show that this verse doesn't say you will lose your salvation if you grieve the Holy Spirit
+- To take this further, the real unforgivable sin is the blaspheming, or slandering, of the Holy Spirit.
 
-> <sup>6</sup>And because you are sons, God sent the Spirit of his Son into our hearts, who calls <u>“Abba! Father!”</u> <sup>7</sup>So <u>you are no longer a slave but a son</u>, and if you are a son, then you are also an heir through God. (Galatians 4:6-7)
+### Grieving the Holy Spirit is not unforgivable
 
-These verses preceeded the "grieving the Holy Spirit" verse which shows the kind of relationship we have with God: Father and Son. We are <u>"NO LONGER"</u> slaves but sons. This truth further sets the foundation upon which we can determine that the role of the Holy Spirit as a seal of our redemption is <u>"once for all."</u> It's a done deal.
+Let us first define what grieves the Holy Spirit. We don't have to go much further to find out what grieves Him. The very following two verses give us clear hints of what they are:
 
-### Gleaning from human relationship
+> <sup>31</sup>Phải bỏ khỏi anh em những sự cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác. <sup>32</sup>Hãy ở với nhau cách nhơn từ, đầy dẫy lòng thương xót, tha thứ nhau như Ðức Chúa Trời đã tha thứ anh em trong Ðấng Christ vậy. (Ephesians 4:31-32)
 
-There is no loving human father who would tell his son "Don't grieve me or I'll disown you." The disobedient son may have to suffer the consequences of his action, either by the father or by society, but his relationship to his father doesn't change. The prodigal son grieved his father greatly, but disowning him was the furthest thing from the father's mind. On the contrary, he daily went to the gate looking longingly toward the horizon hoping to see the familiar figure appearing and running into his loving arms.
+These are sins we commit daily in the course of our lives. A sin is not simply the bad things we do, but also the good things we don't do. Jesus even shows sin for what really is: you don't need to actually commit adultary to sin against God, just the mere fact you have lustful thoughts, you already sinned (Matthew 5:28); you don't need to take somebody's life to sin against God, the fact that you hate that person already makes you a murderer (I John 3:15). And what about the things we should have done that we didn't? How many times we neglect to stop and help someone in need? I remember our church turned away a homeless man who wanted to take shelter in our church building. Did we try to be the good Samaritan every chance we could?
 
-God is infinitely more loving and and patient than anyone on earth. Contrary to human fathers who may be both selfish and insecure, God gives us the assurance of our sonship with Him without condition.
+James 2:10 writes <em>"For the one who obeys the whole law but fails in one point has become <u>guilty of all of it</u>."</em> So who among us is not guilty of all of the law? Who among us never sinned, even the most insignificant of sins? Wouldn't this make us all guilty of grieving the Holy Spirit all the time?
 
-> <sup>11</sup>“Which of you fathers, if your son asks for a fish, will give him a snake instead? <sup>12</sup>Or if he asks for an egg, will give him a scorpion? <sup>13</sup>If you then, though you are evil, know how to give good gifts to your children, <u>how much more will your Father in heaven give the Holy Spirit to those who ask him!</u>” (Luke 11:11-13)
+And if grieving the Holy Spirit leads to damnation, who among us can be saved? And if this is true, then did Jesus die in vain, because we all will end up in hell? No, Jesus didn't die in vain, because the belief that grieving the Holy Spirit is an unpardonable sin is a false doctrine.
 
-Therefore the giving of the Holy Spirit as a seal of redemption is not conditional upon the ability of the believers to not grieving Him -the fact is they all will grieve the Holy Spirit- but rather because they're given such great irrevocable gift they ought to conduct their lives accordingly.
+Realistically we don't have to work so hard to prove the fallacy of this belief. We only read the a small part of the verse where the phrase "grieve the Holy Spirit" jumps out and we automatically assumes it is unforgivable; and then the faulty assumption takes on a life of its own since the very beginning of Christendom. And no one dared to ask its authenticity.
 
-### Seventy times seven
+### The real unforgivable sin
 
-> <sup>21</sup>Then Peter came and said to Him, "Lord, how often shall my brother sin against me and I forgive him? Up to seven times?" <sup>22</sup>Jesus said to him, "I do not say to you, up to seven times, but up to seventy times seven. (Matthew 18:21-22)
-
-In human relationship, one party grieves another is just a fact of life. Even the apostle Paul admits that the good things he wanted to do, he didn't, but instead he did the bad things that he didn't want to do. Do we expect to do better with the Holy Spirit?
-
-Jesus assuaged His disciples in the verse above by showing them the extent of God's forgiveness. If he expected Peter to forgive seventy times seven, wouldn't He be able to forgive seven hundred million times seven? That was exactly what He did, ahead of time for all the sins of mankind since the beginning of time and to the end of the ages.
-
-And if he did so for the entire human race, how about me? Will He be able to forgive me for grieving His heart? Of course He will, because if I don't believe so I must be saying Jesus lied. But God cannot lie, and His promise will forever be true.
-
-### The real offense against the Holy Spirit
+Consider what Jesus said about the unforgivable sin:
 
 > <sup>31</sup> For this reason I tell you, people will be forgiven for <u>every sin</u> and <u>blasphemy (NIV: slander)</u>, but the <u>blasphemy against the Spirit</u> will not be forgiven. <sup>32</sup> Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come. (Matthew 12:31-32 - NET Bible)
 
