@@ -48,9 +48,9 @@ Let us check this point of theology against other foundational truths to see if 
 
 Let us first define what grieves the Holy Spirit. We don't have to go much further to find out what grieves Him. The very following two verses give us clear hints of what they are:
 
-> <sup>31</sup>Phải bỏ khỏi anh em những sự cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác. <sup>32</sup>Hãy ở với nhau cách nhơn từ, đầy dẫy lòng thương xót, tha thứ nhau như Ðức Chúa Trời đã tha thứ anh em trong Ðấng Christ vậy. (Ephesians 4:31-32)
+>  <sup>31</sup> You must put away every kind of bitterness, anger, wrath, quarreling, and evil, slanderous talk.  <sup>32</sup> Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you. (Ephesians 4:31-32)
 
-These are sins we commit daily in the course of our lives. A sin is not simply the bad things we do, but also the good things we don't do. Jesus even shows sin for what really is: you don't need to actually commit adultary to sin against God, just the mere fact you have lustful thoughts, you already sinned (Matthew 5:28); you don't need to take somebody's life to sin against God, the fact that you hate that person already makes you a murderer (I John 3:15). And what about the things we should have done that we didn't? How many times we neglect to stop and help someone in need? I remember our church turned away a homeless man who wanted to take shelter in our church building. Did we try to be the good Samaritan every chance we could?
+These are sins we commit daily in the course of our lives. A sin is not simply the bad things we do, but also the good things we don't do. Jesus shows us sin for what really is: you don't need to actually commit adultary to sin against God, just the mere fact you have lustful thoughts, you already sinned (Matthew 5:28); you don't need to take somebody's life to sin against God, the fact that you hate that person already makes you a murderer (I John 3:15). And what about the things we should have done that we didn't? How many times have we neglected to stop and help someone in need? I remember our church turned away a homeless man who wanted to take shelter in our church building. Did we try to be good Samaritans every chance we could?
 
 James 2:10 writes <em>"For the one who obeys the whole law but fails in one point has become <u>guilty of all of it</u>."</em> So who among us is not guilty of all of the law? Who among us never sinned, even the most insignificant of sins? Wouldn't this make us all guilty of grieving the Holy Spirit all the time?
 
@@ -110,7 +110,7 @@ The goal of the Holy Spirit when He comes is -He's already come in the hearts of
 
 Those who blaspheme, or slander, the Holy Spirit are those who distort the Holy Spirit's main objective, or minimize the effectiveness of His message. Those are folks who commit the unpardonable sin.
 
-The belief that the grieving of the Holy Spirit is an unforgivable sin is not found in the Bible, and goes against all foundational truths scatered throughout Scriptures. As we have already discussed earlier, if grieving God is truly unforgivable, no one will be saved.
+The belief that the grieving of the Holy Spirit is an unforgivable sin is not found in the Bible, and goes against all foundational truths scattered throughout Scriptures. As we have already discussed earlier, if grieving God is truly unforgivable, no one will be saved.
 
 Those who hold such belief may in fact still live under the law, and the law says that "the soul that sins [grieve the Holy Spirit] shall die" (Ezekiel 18:20). And for those who still want to keep the law, James 2:10 says this:
 
