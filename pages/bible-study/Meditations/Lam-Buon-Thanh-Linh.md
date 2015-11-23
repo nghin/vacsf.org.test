@@ -54,7 +54,7 @@ Lại nếu sự làm buồn lòng Thánh Linh dẫn đến sự hư mất, ai t
 
 Thực ra chúng ta không cần phải tốn nhiều hơi sức để chứng tỏ sự ngụy biện của tín lý đó. Đó là tại chúng ta chỉ đọc một câu ngắn "làm buồn Thánh Linh" và giả sử ngay rằng đó là một tội không được thứ tha; và rồi giả sử sai lầm đó biến thành một chân lý sống động từ thuở ban đầu của đạo Chúa. Và chẳng ai dám đặt câu hỏi về sự nó có thực là một chân lý hay không.
 
-### Tội Thực Sự Phạm Đến Thánh Linh
+### Tội Thực Sự Không Được Thứ Tha
 
 > <sup>31</sup> Ấy vậy, ta phán cùng các ngươi, các tội lỗi và lời phạm thượng của người ta đều sẽ được tha; song lời phạm thượng đến Ðức Thánh Linh thì sẽ chẳng được tha đâu. <sup>32</sup> Nếu ai nói phạm đến Con người, thì sẽ được tha; song nếu ai nói phạm đến Ðức Thánh Linh, thì dầu đời nầy hay đời sau cũng sẽ chẳng được tha. (Matthew 12:31-32 - NET Bible)
   
