@@ -44,7 +44,7 @@ Chúng ta hãy kiểm tra điểm thần học này với những chân lý nề
 
 Trước hết chúng ta hãy định nghĩa điều gì làm buồn lòng Thánh Linh. Chúng ta không cần phải tìm đâu xa để biết điều gì làm buồn lòng Ngài. Hai câu tiếp theo cho chúng ta dấu hiệu rõ ràng những điều đó là gì:
 
->  <sup>31</sup>You must put away every kind of bitterness, anger, wrath, quarreling, and evil, slanderous talk.  <sup>32</sup>Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you. (Ephesians 4:31-32)
+>  <sup>31</sup> Phải bỏ khỏi anh em những sự cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác. <sup>32</sup> Hãy ở với nhau cách nhơn từ, đầy dẫy lòng thương xót, tha thứ nhau như Ðức Chúa Trời đã tha thứ anh em trong Ðấng Christ vậy. (Ephesians 4:31-32)
 
 Đây là những sự vấp phạm chúng ta vướng vào hằng ngày trong cuộc sống. Tội lỗi chẳng phải đơn giản chỉ là những điều xấu chúng ta làm, nhưng cả những điều lành chúng ta không làm. Chúa Giê-su cho chúng ta biết rõ hơn tội là gì: tội ngoại tình bắt nguồn từ trong tư tưởng chứ không cần phải thực sự diễn ra trong thể chất (Matthew 5:28); tội sát nhân bắt nguồn từ khi chúng ta mang lòng oán hận người nào đó (1 John 3:15). Thế còn những điều chúng ta cần làm mà không làm? Đã bao lần chúng ta bỏ bê không giúp một người nào đang có nhu cầu? Tôi còn nhớ hội thánh chúng ta từ chối một kẻ vô gia cư xin được ở trong thánh đường. Chúng ta có tìm mọi cơ hội để làm người Sa-ma-ri nhân lành?
 
