@@ -12,9 +12,9 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/grieving-holy-spirit/">Grieving the Holy Spirit <em>(work in progress... please come back later)</em></a><p style="font-weight: normal;">
+      <li><a href="{{ site.projectname }}/bible-topics/meditations/grieving-holy-spirit/">Grieving the Holy Spirit </a><p style="font-weight: normal;">
 
-Will the Holy Spirit leave you if you grieve Him? Will you lose your salvation?
+Will the Holy Spirit leave you if you grieve Him? Will you lose your salvation? <span style="color: #cc0000; font-style: italic;">(Bài này có tiếng Việt)</span>
 
 </p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/baptism/">Baptism</a><p style="font-weight: normal;">
