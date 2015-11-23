@@ -56,7 +56,7 @@ James 2:10 writes <em>"For the one who obeys the whole law but fails in one poin
 
 And if grieving the Holy Spirit leads to damnation, who among us can be saved? And if this is true, then did Jesus die in vain, because we all will end up in hell? No, Jesus didn't die in vain, because the belief that grieving the Holy Spirit is an unpardonable sin is a false doctrine.
 
-Realistically we don't have to work so hard to prove the fallacy of this belief. We only read the a small part of the verse where the phrase "grieve the Holy Spirit" jumps out and we automatically assumes it is unforgivable; and then the faulty assumption takes on a life of its own since the very beginning of Christendom. And no one dared to ask its authenticity.
+Realistically we don't have to work so hard to prove the fallacy of this belief. The root of the problem is we only read the a small part of the verse where the phrase "grieve the Holy Spirit" jumps out and automatically assumes it is unforgivable; and then the faulty assumption takes on a life of its own since the very beginning of Christendom. And no one dared to ask its authenticity.
 
 ### The real unforgivable sin
 

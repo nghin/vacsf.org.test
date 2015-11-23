@@ -35,31 +35,24 @@ Chúng ta có thể diễn ý như sau để thấy ý nghĩa rõ ràng hơn:
 
 <p class="blockquote">Vì Chúa đã ban cho các ngươi ấn chứng quý giá của Thánh Linh để bảo đảm các ngươi được nhập cành nước Trời, do đó đừng làm buồn lòng Ngài.</p>
 
-### Mối Liên Hệ Của Chúng Ta Với "Cha"
+Chúng ta hãy kiểm tra điểm thần học này với những chân lý nền tảng khác để xem nó có đứng vững trước thử nghiệm của Thánh Kinh Chú Giải -một cách học một đoạn Kinh Thánh trong bối cảnh bao trùm đoạn đó.
 
->  <sup>6</sup> Lại vì anh em là con, nên Ðức Chúa Trời đã sai Thánh Linh của Con Ngài vào lòng chúng ta, kêu rằng: <u>A-ba! Cha!</u> <sup>7</sup> Dường ấy, <u>người không phải là tôi mọi nữa</u>, bèn là con; và nếu ngươi là con, thì cũng là kẻ kế tự bởi ơn của Ðức Chúa Trời. (Galatians 4:6-7)
+- Thật không khó khăn gì để chứng tỏ rằng câu này không nói rằng làm buồn lòng Thánh Linh sẽ mất sự sống đời đời
+- Tiến xa thêm một bước nữa, tội thực sự không được tha thứ là tội "nói phạm," có ý nghĩa bóp méo hay xuyên tạc Đức Thánh Linh.
 
-Các câu Kinh Thánh trên đi trước câu "chớ làm buồn cho Đức Thánh Linh" bày tỏ mối liên hệ giữa chúng ta và Chúa: Cha và con. Chúng ta <u>KHÔNG PHẢI</u> là tôi mọi nữa mà là con. Chân lý này làm vững bền hơn điều chúng ta quả quyết rằng vai trò của Đức Thánh Linh là ấn chứng về sự cứu rỗi của chúng ta là <u>một lần đủ cả.</u> Mọi sự đã được trọn.
+### Làm Buồn Lòng Thánh Linh Không Phải Là Một Tội Không Tha Thứ Được
 
-### Suy gẫm từ mối liên hệ loài người
+Trước hết chúng ta hãy định nghĩa điều gì làm buồn lòng Thánh Linh. Chúng ta không cần phải tìm đâu xa để biết điều gì làm buồn lòng Ngài. Hai câu tiếp theo cho chúng ta dấu hiệu rõ ràng những điều đó là gì:
 
-Không người cha dưới thế gian nào dạy con mình "Chớ làm cha buồn kẻo con sẽ không còn là con cha nữa." Người con không vâng lời này có thể sẽ phải chịu hậu quả bởi chính cha mình hoặc xã hội, nhưng mối liên hệ cha con không hề thay đổi. Người con trai hoang đàng trong chuyện ngụ ngôn của Chúa Giê-su cũng làm cha rất buồn, nhưng lòng ông không bao giờ nghĩ đến chuyện từ con. Trái lại, hằng ngày ông thường ra trước cổng ngóng nhìn về cõi xa xăm mong thấy bóng dáng quen thuộc hiện ra từ đàng xa chạy vào vòng tay yêu thương rộng mở.
+>  <sup>31</sup>You must put away every kind of bitterness, anger, wrath, quarreling, and evil, slanderous talk.  <sup>32</sup>Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you. (Ephesians 4:31-32)
 
-Chúa giàu lòng nhân ái và kiên nhẫn hơn bất cứ ai dưới trần thế. Khác với những người cha trần thế ích kỷ và bất an, Chúa ban cho chúng ta sự bảo đảm về mối liên hệ Cha con không điều kiện.
+Đây là những sự vấp phạm chúng ta vướng vào hằng ngày trong cuộc sống. Tội lỗi chẳng phải đơn giản chỉ là những điều xấu chúng ta làm, nhưng cả những điều lành chúng ta không làm. Chúa Giê-su cho chúng ta biết rõ hơn tội là gì: tội ngoại tình bắt nguồn từ trong tư tưởng chứ không cần phải thực sự diễn ra trong thể chất (Matthew 5:28); tội sát nhân bắt nguồn từ khi chúng ta mang lòng oán hận người nào đó (1 John 3:15). Thế còn những điều chúng ta cần làm mà không làm? Đã bao lần chúng ta bỏ bê không giúp một người nào đang có nhu cầu? Tôi còn nhớ hội thánh chúng ta từ chối một kẻ vô gia cư xin được ở trong thánh đường. Chúng ta có tìm mọi cơ hội để làm người Sa-ma-ri nhân lành?
 
->  <sup>11</sup> Trong các ngươi có ai làm cha, khi con mình xin bánh mà cho đá chăng? Hay là xin cá, mà cho rắn thay vì cá chăng? <sup>12</sup> Hay là xin trứng, mà cho bò cạp chăng? <sup>13</sup> Vậy nếu các ngươi là người xấu, còn biết cho con cái mình vật tốt thay, <u>huống chi Cha các ngươi ở trên trời lại chẳng ban Ðức Thánh Linh cho người xin Ngài!</u> (Luke 11:11-13)
+James 2:10 viết <em>"Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã <u>phạm hết thảy</u>."</em> Vậy ai trong vòng chúng ta tránh khỏi phạm toàn bộ luật pháp? Ai trong vòng chúng ta chẳng từng phạm tội, dù chỉ là một tội nhỏ bé nhất? Chẳng phải vì thế mỗi người trong chúng ta đều phạm tội làm buồn lòng Thánh Linh mãi sao?
 
-Theo câu Kinh Thánh trên, sự ban cho Đức Thánh Linh như một ấn chứng của sự cứu rỗi không lệ thuộc vào khả năng người tin không làm buồn Thánh Linh -sự thật là tất cả mọi người sẽ làm buồn Thánh Linh- nhưng vì sự họ đã được ban món quà vô giá mà họ nên sống sao cho đẹp lòng Chúa.
+Lại nếu sự làm buồn lòng Thánh Linh dẫn đến sự hư mất, ai trong chúng ta sẽ được cứu? Và nếu điều này là chân thực, thì phải chăng Chúa Giê-su đã chết cách vô ích, vì mọi người đều phải vào hỏa ngục đời đời? Không, Chúa Giê-su đã không chết cách vô ích, vì sự tin rằng làm buồn Thánh Linh là tội không thể tha thứ được là một giáo điều sai lạc.
 
-### Bảy Mươi Lần Bảy
-
-> <sup>21</sup> Phi -e-rơ bèn đến gần Ðức Chúa Jêsus mà hỏi rằng: Thưa Chúa, nếu anh em tôi phạm tội cùng tôi, thì sẽ tha cho họ mấy lần? Có phải đến bảy lần chăng? <sup>22</sup> Ngài đáp rằng: Ta không nói cùng ngươi rằng: đến bảy lần đâu, nhưng đến bảy mươi lần bảy. (Matthew 18:21-22)
-
-Trong mối liên hệ giữa con người với nhau, việc người này làm phiền lòng người kia là chuyện thường tình. Ngay cả sứ đồ Phao-lô cũng nhìn nhận rằng điều lành ông nên làm thì ông không làm, còn điều dữ ông không muốn làm thì lại làm. Chúng ta nghĩ mình có hơn sứ đồ Phao-lô trong mối liên hệ với Thánh Linh không?
-
-Chúa Giê-su khích lệ chúng ta bằng cách bày tỏ mức độ Ngài tha thứ một cách gián tiếp qua mẩu đối thoại trên. Nếu Ngài đòi Phi-e-rơ tha thứ người khác bảy mươi lần bảy, há Ngài chẳng làm hơn chúng ta bảy trăm triệu lần bảy sao? Quả thực đó là điều Chúa đã làm trước để tha thứ tội lỗi cho toàn thế gian từ thưở ban đầu cho đến cuối cùng các thời đại.
-
-Và quả thực nếu Chúa đã tha thứ toàn thể nhân loại, còn tôi thì sao? Liệu Chúa có tha thứ sự tôi làm buồn Chúa mỗi ngày không? Dĩ nhiên, vì nếu tôi chẳng tin Chúa làm được điều đó thì chẳng khác gì tôi cho rằng Chúa nói dối. Nhưng Đức Chúa Trời không thể nói dối, và lời hứa của Ngài muôn đời là chân thực.
+Thực ra chúng ta không cần phải tốn nhiều hơi sức để chứng tỏ sự ngụy biện của tín lý đó. Đó là tại chúng ta chỉ đọc một câu ngắn "làm buồn Thánh Linh" và giả sử ngay rằng đó là một tội không được thứ tha; và rồi giả sử sai lầm đó biến thành một chân lý sống động từ thuở ban đầu của đạo Chúa. Và chẳng ai dám đặt câu hỏi về sự nó có thực là một chân lý hay không.
 
 ### Tội Thực Sự Phạm Đến Thánh Linh
 
