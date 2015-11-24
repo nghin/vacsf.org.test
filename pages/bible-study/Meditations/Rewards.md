@@ -17,7 +17,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/rewards-207x136.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/rewards-207x136.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 This passage is commonly understood as God reserves rewards in heaven for each person according to the good deeds they do while they're here on earth. However I believe that this thinking runs against at least one basic truth of the gospel of salvation that it is based on faith in Christ, on the principle of God's grace, not on works. Is it possible that this Bible verse does not speak of degrees of rewards, but of sowing and reaping (Galatians 6:7)?
 </p>
 </div>

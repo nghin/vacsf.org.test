@@ -19,7 +19,7 @@ breadcrumb: true
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>Brothers and sisters, my heart's desire and prayer to God on behalf of my fellow Israelites is for their salvation. &nbsp;<sup>2</sup>For I can testify that they are zealous for God, but their zeal is not in line with the truth. &nbsp;<sup>3</sup>For ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness, they did not submit to God's righteousness. &nbsp;<sup>4</sup>For Christ is the end of the law, with the result that there is righteousness for everyone who believes.&nbsp;(Romans 10:1-4) </blockquote></p>
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">Paul starts out this chapter expressing the same emotion as in chapter 9 concerning his longing for his countrymen to accept and understand the gospel of salvation that he has been trying to convey to them. He observed that through they were truly zealous for God, their zeal is not based on the truth, with deep contemplation of the meaning and substance of what they're doing in their relationship with God.</p>
 </p>
 </div>

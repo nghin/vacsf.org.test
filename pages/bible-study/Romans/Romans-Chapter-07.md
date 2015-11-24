@@ -18,7 +18,7 @@ breadcrumb: true
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup abp="1961">1</sup>Or do you not know, brothers and sisters (for I am speaking to those who know the law), that the law is <span style="color: #ff0000;"><strong>lord over</strong></span> a person as long as he lives? (Romans 7:1) </blockquote></p>
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">In Romans 6:14, Paul asserted that we're no longer under law, but under grace, and here in chapter 7, he began to show the reader the limitation of the law in a believer's life: the law continues to rule him, as long as, and only as long as, he lives. This also means that when that person dies, the law can no longer has power over him.</p>
 </p>
 </div>

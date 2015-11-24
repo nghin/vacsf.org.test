@@ -14,7 +14,7 @@ header: no
 
 This article is inspired by James 2:24—or the almost universal misinterpretation of it: "You see that a person is considered righteous by what they do and not by faith alone." It's very likely that we embrace an understanding that aligns with the following illustration:
 
-<p style="text-align: center;"><img style="width: 400px; height: 349px;" src="http://rgb-scale.com/vacsfj336/images/stories/2014/Faith-Salvation-Works circle.png" alt="Faith-Salvation-Works Cycle" /></p>
+<p style="text-align: center;"><img style="width: 400px; height: 349px;" src="{{ site.baseurl }}/images/Faith-Salvation-Works circle.png" alt="Faith-Salvation-Works Cycle" /></p>
 
 By faith in Christ alone, we are saved. But true salvation will produce good works, and these good works are the evidence of our faith. Without works, the faith is not genuine. The only outcome of this ungenuine faith is salvation may be rescinded, withdrawn, voided, or canceled (it's incredible there are so many more synonyms for these words). This is a type of circular reasoning that puts doubts in the blessed assurance expressed in Hebrews 11:1: "Now faith is the substance of things hoped for, the evidence of things not seen. (KJV)"
 

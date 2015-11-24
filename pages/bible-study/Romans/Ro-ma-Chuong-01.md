@@ -20,7 +20,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Lời chào thăm của sứ đồ Phao-lô đến với hội thánh ở Rô-ma. Phao-lô tự gọi mình là tôi tớ (hoặc nô-lệ trong bản nguyên thủy tiếng Hy-lạp) của Đấng Christ. Chữ <span style="font-style: italic;">"nô-lệ"</span> không phản ảnh ý nghĩa của một người phục vụ người khác trong sự tự do. Trong Giăng, John 15:15, Chúa Giê-su nói rằng Ngài không còn gọi chúng ta là nô lệ, hoặc tôi tớ, nữa, nhưng gọi chúng ta là bạn hữu, vì Ngài đã bày tỏ cho chúng ta sự kín nhiệm mà Ngài đã nhận từ Cha, qua Thánh Linh. Có lẽ Phao-lô muốn cho thấy sự tương phản giữa sự nô lệ miễn cưỡng dưới luật pháp, là một người chủ khắc nghiệt đòi hỏi sinh mạng của kẻ dưới quyền, và sự nô lệ vui lòng dưới Đấng Christ, một người chủ giàu lòng thương xót, sẵn sàng hy sinh sanh mạng vì kẻ mình yêu. Sau đó trong chương 7 Phao-lô nói về sự được thoát khỏi luật pháp để có thể hầu việc Đức Chúa Trời trong sự sống mới (câu 6).
 </p>
 </div>

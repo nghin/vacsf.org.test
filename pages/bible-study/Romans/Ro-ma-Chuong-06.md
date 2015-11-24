@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Trước khi chúng ta đào sâu vào giáo lý, nhìn thoáng qua, "ở trong tội lỗi" thường được giải thích là vẫn còn phạm tội, vẫn rơi vào những cám dỗ, hoặc ngược lại "chết về tội lỗi" nghĩa là đã chiến thắng được tội lỗi, hoặc không còn bị ảnh hưởng bởi chúng nữa. Nhưng chúng ta ai cũng biết điều này không xảy ra trong thực tế. Vì bản chất tội lỗi, chúng ta vẫn là người tội cho dù chẳng hề phạm một điều lầm lỗi nào trong nhân gian. Và nếu "tội" là những điều chúng ta phạm phải, theo như cách giải thích này, thì cách duy nhất để chúng ta "chết về tội lỗi," thì thân xác này phải chết đi, nghĩa là còn sống thì còn phạm tội.
 </p>
 </div>

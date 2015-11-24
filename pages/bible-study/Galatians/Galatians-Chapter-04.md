@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In Jewish culture, an heir to an inheritance, like us heir to salvation in Christ, as long as he is a child, is no more than a slave, and under someone else's authority.
 </p>
 </div>

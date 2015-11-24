@@ -19,7 +19,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <!-- First paragraph goes here -->
 Phao-lô nhắc lại thời tiên tri Ê-li khi ông tưởng rằng cả tuyển dân của Chúa chẳng một ai theo Ngài nữa, nhưng Chúa cho ông biết còn <span style="font-style: italic;">"một phần sót lại"</span> trong vòng họ vẫn tin Ngài. Ngày nay, khi Phao-lô viết thư này, cũng còn một số người <span style="font-style: italic;">"còn sót lại."</span> Trong thời Ê-li, Chúa chọn những người không quì trước thần Ba-anh, ngày nay Chúa theo tiêu chuẩn nào? Câu 5 cho chúng ta biết phần còn sót lại này <span style="font-style: italic;">"theo sự lựa chọn của ân điển."</span>
 </p>

@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Đúng ra câu Kinh thánh này nên được dịch bắt đầu với: <span style="font-style: italic;">"Vì thế cho nên,"</span> hoặc <span style="font-style: italic;">"Do đó,"</span> hoặc <span style="font-style: italic;">"Nhờ đó,"</span> mà chữ thông dụng nhất trong các bản tiếng Anh dịch là <span style="font-style: italic;">"Therefore."</span> Những chân lý Phao-lô trình bày trong các đoạn trước dẫn đến kết luận rằng những kẻ ở trong Đấng Christ sẽ chẳng còn bao giờ bị lên án nữa. Sẽ không còn sự đe dọa nào trong mối liên hệ với Đức Chúa Trời, chỉ bởi một điều kiện duy nhất: ở trong Đấng Christ, mà chúng ta đã thiết lập nền tảng trong các đoạn trước: bởi đức tin, không phải bời việc làm, bởi sự chết về luật pháp qua thân thể Đấng Christ mà được liên hiệp với Ngài, được ở trong Ngài.
 </p>
 </div>

@@ -19,7 +19,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <!-- First paragraph goes here -->
 Giống như viên ngọc quý trong ngụ ngôn mà Chúa Giê-su đã kể trong Matthew 13:45-46, khiến người tìm thấy sẵn sàng bỏ mọi điều mình có để được viên ngọc đó. Viên ngọc quý đó hẳn phải là tin lành cứu rỗi mà Phao-lô đã tìm thấy và hiện đang tìm cách rao truyền cho dân quê hương mình. Đến nỗi khi thấy họ không tin, hoặc tin nhưng không hiểu, thì lòng ông xót xa đến nỗi đã thốt lên lời bày tỏ sự đau đớn, buồn bực trong lòng ông, đến nỗi ông ước gì thà chính mình bị mất nhưng dân sự Y-sơ-ra-ên được những điều ông đang muốn truyền đạt cho họ. Đây cũng là tâm trạng của Môi-se khi ông thốt lên những lời sau trong Xuất Ê-díp-tô, Exodus 32:32: <span style="font-style: italic;">"nhưng bây giờ xin Chúa tha tội cho họ! Bằng không, hãy xóa tên tôi khỏi sách Ngài đã chép đi."</span> Nhưng dĩ nhiên chúng ta hiểu đây chỉ là để bày tỏ cảm xúc của Phao-lô cũng như Môi-se chứ không phải sự trao đổi này có thể thực sự xảy ra.
 </p>

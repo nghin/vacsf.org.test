@@ -17,7 +17,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/Fishing-Net-small.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/Fishing-Net-small.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In this parable Jesus uses two examples with plain meaning and one with hidden meaning. In the first two examples we noticed a common point between them that there is a choice between two opposites, one is kept while the other is thrown away. In the first example, the good fish are kept in containers while the bad ones are thrown back into the sea. In the second example, the righteous is kept while the evil is thrown into the fiery furnace. Now what about the third example which I believe has a hidden meaning? If there is a choice to keep one and toss the other in the first two examples, then shouldn't there be a choice in the third example as well? I think this makes great sense. Therefore, if we continue with the flow of meaning in this parable, we must deduce that the new is kept while the old must be set aside.
 </p></div>
 

@@ -19,7 +19,7 @@ breadcrumb: true
 <p style="text-align: left;" abp="1960"><strong></strong><blockquote><sup>1</sup>So I ask, God has not rejected his people, has he? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. <sup>2</sup>God has not rejected his people whom he foreknew! Do you not know what the scripture says about Elijah, how he pleads with God against Israel? &nbsp;<sup>3</sup>"Lord, they have killed your prophets, they have demolished your altars; I alone am left and they are seeking my life!" &nbsp;<sup>4</sup>But what was the divine response to him? "I have kept for myself seven thousand people who have not bent the knee to Baal." <sup>5</sup>So in the same way at the present time there is a remnant chosen by grace.&nbsp;(Romans 11:1-5) </blockquote></p>
 <div>
 <p>
-<img alt src="/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 <p style="text-align: left;" abp="1968">Paul recalled the prophet Elijah when he thought that no one among God's people followed Him anymore, but God let him know that there is still a "remnant" among them who still believed in Him. Today, when Paul wrote this letter, there is still a remnant. In the time of Elijah, God chose those who did not kneel before Baal, today how does He make his choices? Verse 5 let us know that God chose the remnant according to grace.</p>
 </p>
 </div>

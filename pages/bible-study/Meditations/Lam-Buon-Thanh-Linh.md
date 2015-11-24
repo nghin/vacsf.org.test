@@ -16,7 +16,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Câu Kinh thánh này ở đâu, nếu quả thực có một câu như vậy: "Đức Thánh Linh sẽ lìa bỏ ngươi nếu làm Ngài buồn lòng," hoặc "Ngươi sẽ mất sự sống đời đời nếu làm buồn lòng Thánh Linh." Hay một điều nào đó tương tự. Nếu chúng ta không tìm được câu Kinh Thánh nào dạy thần học này thì phải chăng đây cũng giống như một ... tin lành khác? (Galatians 1:8)
 </p>
 </div>

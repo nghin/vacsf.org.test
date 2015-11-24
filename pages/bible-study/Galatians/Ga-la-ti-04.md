@@ -16,7 +16,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Trong truyền thống của người Do-thái, người kế tự của một cơ nghiệp, cũng như chúng ta là kẻ kế tự trong sự cứu rỗi của Đấng Christ, trong khi còn thơ ấu, thì chẳng hơn gì kẻ nô lệ, và ở dưới quyền một người bảo hộ.
 </p>
 </div>

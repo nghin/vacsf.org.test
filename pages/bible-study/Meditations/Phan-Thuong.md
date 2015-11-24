@@ -16,7 +16,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/rewards-207x136.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/rewards-207x136.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Đoạn Kinh thánh này thường được hiểu là Chúa sẽ ban thưởng cho mỗi người tùy theo những việc lành họ đã làm khi còn trong xác thịt. Nhưng sự suy nghĩ này đi ngược với ít nhất một chân lý căn bản về Tin Lành, về nền tảng của sự cứu rỗi, là bởi đức tin nơi Đấng Cứu Thế, bởi ân điển chứ không phải việc làm. Phải chăng câu Kinh thánh này không nói về mức độ của sự ban thưởng, nhưng nói rằng: ai gieo giống chi lại gặt giống ấy (Galatians 6:7).
 </p>
 </div>

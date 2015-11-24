@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Where is this verse, if there really is one, in the Bible: "The Holy Spirit will leave you if you grieve Him," or "You will lose your salvation if you grieve the Holy Spirit." Or something to that effect. What if you can't find it anywhere in the Bible? Then wouldn't it logically follow that whatever this belief is it is just ... another gospel?
 </p>
 </div>

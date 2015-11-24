@@ -20,7 +20,7 @@ categories:
             </tr>
         </tbody>
     </table>
-    <img style="border:1px solid #dddddd" width="970" src="https://github.com/nghin/vacsf.org/raw/gh-pages/images/40th-Anniversary.jpg" alt>
+    <img style="border:1px solid #dddddd" width="970" src="{{ site.baseurl }}/images/40th-Anniversary.jpg" alt>
     <p>&nbsp;</p>
     {% include next-previous-post-in-category %}
 </div>

@@ -15,7 +15,7 @@ header: no
 
 <div>
 <p>
-<img alt src="http://rgb-scale.com/vacsfj336/images/talents.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/talents.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 In this writing, I'm attempting to prove that the conventional interpretation of it is a misinterpretation, and is exactly what Jesus had said about why He uses parables: so that the hearer may hear and not understand, may see and not perceive. When you use your flesh to understand Jesus' parables, or to carry out God's will, you won't understand it, because it is a mystery (Mat 13:10-11). But if we look beyond the mere superficial meaning, we will really understand what Jesus had in mind when he told this parable. A mis-interpretation, or mis-application of it will cause a believer to try to produce fruit for death (Rom 7:5), fruit that were initiated from the flesh which is aroused by the law. Which one of you reader knows exactly how many talents they were given and how many you think you can produce? Don't guess, because either you do, or you don't. If you don't guess about what it it takes for you to go to heaven, don't guess about your talent production quota either. What have you done with your talents?
 </p>
 </div>

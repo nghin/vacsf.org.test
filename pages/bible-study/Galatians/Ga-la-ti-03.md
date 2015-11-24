@@ -19,7 +19,7 @@ Xin quí vị hãy đọc hai bản dịch nữa bằng tiếng Anh:
 
 <div>
 <p>
-<img alt src="/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 King James Version:  <em>O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?</em> và New English Translation: <em>You foolish Galatians! Who has cast a spell on you? Before your eyes Jesus Christ was vividly portrayed as crucified!</em>
 </p>
 </div>
