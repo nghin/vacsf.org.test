@@ -108,7 +108,7 @@ Tín lý rằng sự làm buồn lòng Thánh Linh là tội đánh mất sự c
 
 Những người giữ niềm tin đó rất có thể vẫn còn sống dưới luật pháp, và luật pháp dạy rằng "linh hồn nào phạm tội thì phải chết" (Ezekiel 18:20). Còn về phần những kẻ sống dưới luật phàp, Gia-cơ 2:10 viết:
 
-<p clas="blockquote">Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy. (James 2:10)</p>
+<p class="blockquote">Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy. (James 2:10)</p>
 
 Do đó nói một cách hợp lý, những kẻ sống dưới luật pháp sẽ phạm luật pháp không ngừng, vì khi còn sống trong xác thịt thì thế nào cũng có lúc phạm luật, và dựa vào James 2:10 thì người đó sẽ là một người phạm luật thường xuyên, và là một người thường làm buồn lòng Thánh Linh.
 
