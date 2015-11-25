@@ -15,7 +15,8 @@ categories:
 
 Where is this verse, if there really is one, in the Bible: "The Holy Spirit will leave you if you grieve Him," or "You will lose your salvation if you grieve the Holy Spirit." Or something to that effect. What if you can't find it anywhere in the Bible? Then wouldn't it logically follow that whatever this belief is it is just ... another gospel?
 
-Please click <a href="/bible-topics/meditations/grieving-holy-spirit/"><u><em>here: Grieving The Holy Spirit - Will you lose your salvation?</em></u></a> to read complete article.
+Please click <a href="/bible-topics/meditations/grieving-holy-spirit/"><u><em>here: Grieving The Holy Spirit - Will you lose your salvation?</em></u></a> to read complete article.<br />
+Xin bấm vào đây: <a href="/hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/"><u><em>Làm Buồn Thánh Linh - Mất Sự Sống Đời Đời?</em></u></a> để đọc bản dịch Việt Ngữ.
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
