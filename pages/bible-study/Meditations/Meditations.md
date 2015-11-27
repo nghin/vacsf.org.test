@@ -32,11 +32,6 @@ Are there degrees of rewards in heaven? This article will show that the very ide
 The 10 commandments, the law, works, grace ... how are we to live? Perhaps this article doesn't even need to be written. All the answers are found in the studies of Romans and Galatians.
 
 </p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/meditations/true-spirituality/">True Spirituality</a><p style="font-weight: normal;">
-
-Religions of the world provide various ways for followers to attain higher spirituality. In True Spirituality, Francis Schaeffer attempts to show what is true spirituality. Again, this article may not have been written had the studies of Romans and Galatians occured first.
-
-</p></li>
       <li><a href="{{ site.projectname }}/bible-topics/meditations/sanctification/">Sanctification</a><p style="font-weight: normal;">
 
 An overwhelming majority in Christendom believes that sanctification is a process. This article attempts to show that it is not a process, but a gift. This belief system satisfies the self-centered desire for self exaltation. The believers are not to focus on themselves but to fix their eyes on Christ.
