@@ -17,7 +17,7 @@ header: no
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Câu Kinh thánh này ở đâu, nếu quả thực có một câu như vậy: "Đức Thánh Linh sẽ lìa bỏ ngươi nếu làm Ngài buồn lòng," hoặc "Ngươi sẽ mất sự sống đời đời nếu làm buồn lòng Thánh Linh." Hay một điều nào đó tương tự. Nếu chúng ta không tìm được câu Kinh Thánh nào dạy thần học này thì phải chăng đây cũng giống như một ... tin lành khác? (Galatians 1:8)
+Câu Kinh thánh này ở đâu, nếu quả thực có một câu như vậy: "Đức Thánh Linh sẽ lìa bỏ ngươi nếu làm Ngài buồn lòng," hoặc "Ngươi sẽ mất sự sống đời đời nếu làm buồn lòng Thánh Linh." Hay một điều nào đó tương tự. Nếu chúng ta không tìm được câu Kinh Thánh nào dạy thần học này thì sao? Không, không có câu Kinh thánh nào mang ý nghĩa đó, thế mà mọi người đều giả sử đó là một lẽ đạo căn bản có ảnh hưởng sâu đậm trên đời sống phần nhiều tín hữu, khiến họ luôn lo lắng trong mối liên hệ với Chúa, vì không một ai trong vòng họ thoát khởi sự làm buồn lòng Thánh Linh.
 </p>
 </div>
 
@@ -40,7 +40,7 @@ Chúng ta hãy kiểm tra điểm thần học này với những chân lý nề
 - Thật không khó khăn gì để chứng tỏ rằng câu này không nói rằng làm buồn lòng Thánh Linh sẽ mất sự sống đời đời
 - Tiến xa thêm một bước nữa, tội thực sự không được tha thứ là tội "nói phạm," có ý nghĩa bóp méo hay xuyên tạc Đức Thánh Linh.
 
-### Làm Buồn Lòng Thánh Linh Không Phải Là Một Tội Không Tha Thứ Được
+### Làm Buồn Lòng Thánh Linh <u>KHÔNG</u>  Phải Là Một Tội Không Tha Thứ Được
 
 Trước hết chúng ta hãy định nghĩa điều gì làm buồn lòng Thánh Linh. Chúng ta không cần phải tìm đâu xa để biết điều gì làm buồn lòng Ngài. Hai câu tiếp theo cho chúng ta dấu hiệu rõ ràng những điều đó là gì:
 
@@ -54,11 +54,11 @@ Lại nếu sự làm buồn lòng Thánh Linh dẫn đến sự hư mất, ai t
 
 Thực ra chúng ta không cần phải tốn nhiều hơi sức để chứng tỏ sự ngụy biện của tín lý đó. Đó là tại chúng ta chỉ đọc một câu ngắn "làm buồn Thánh Linh" và giả sử ngay rằng đó là một tội không được thứ tha; và rồi giả sử sai lầm đó biến thành một chân lý sống động từ thuở ban đầu của đạo Chúa. Và chẳng ai dám đặt câu hỏi về sự nó có thực là một chân lý hay không.
 
-### Tội Thực Sự Không Được Thứ Tha
+### Tội <u>THỰC SỰ</u> Không Được Thứ Tha
 
 > <sup>31</sup> Ấy vậy, ta phán cùng các ngươi, các tội lỗi và lời phạm thượng của người ta đều sẽ được tha; song lời phạm thượng đến Ðức Thánh Linh thì sẽ chẳng được tha đâu. <sup>32</sup> Nếu ai nói phạm đến Con người, thì sẽ được tha; song nếu ai nói phạm đến Ðức Thánh Linh, thì dầu đời nầy hay đời sau cũng sẽ chẳng được tha. (Matthew 12:31-32 - NET Bible)
   
-Mọi tội lỗi đều được tha, chỉ ngoại trừ: tội phạm đến Thánh Linh. Chúng ta có thể thấy rõ ràng rằng mọi thứ tội trên thế gian, hoặc lớn hoặc nhỏ, đều không thuộc loại không thể tha thứ được. Mọi tội đều làm buồn lòng Thánh Linh, nhưng chỉ có một tội "phạm" đến Ngài và không thể được tha thứ. Bạn nghĩ tội này là tội gì? Giết người? Tà dâm? Ngoại tình trong tư tưởng? Giận quá mặt trời lặn? Không giữ ngày Chúa Nhật? Tham lam? Không, không một tội nào trong những tội đó, vì chính Chúa Giê-su nói <u>mọi tội</u> đều được thứ tha, chỉ ngoại trừ một tội. Nhận biết tội này là tội gì là một điều tối quan trọng liên hệ đến sự sống đời đời.
+Nếu làm buồn Thánh Linh là một tội không thể được tha thứ, thì MỌI TỘI đều không được tha thứ, vì MỌI TỘI đều làm buồn Thánh Linh. Nhưng theo Matthew 12:31-32 mọi tội đều được tha chỉ ngoại trừ một tội. Bạn nghĩ tội này là tội gì? Giết người? Tà dâm? Ngoại tình trong tư tưởng? Giận quá mặt trời lặn? Không giữ ngày Chúa Nhật? Tham lam? Không, không một tội nào trong những tội đó, vì chính Chúa Giê-su nói <u>mọi tội</u> đều được thứ tha, chỉ ngoại trừ một tội. Nhận biết tội này là tội gì là một điều tối quan trọng liên hệ đến sự sống đời đời.
 
 Đây là một đoạn trích ra từ HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "đổi" phải thành trái (trái thành phải), chẳng hạn như: gọi điều Chúa cấm là điều "phải" và vì thế "đã đổi lẽ thật Ðức Chúa Trời lấy sự dối trá" (Romans 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
 
@@ -66,7 +66,7 @@ Chúng ta phải ghi nhận rằng chính tội xuyên tạc tự nó không ph�
 
 Vì quả thật nếu "phạm" là phạm thượng hay thiếu lễ độ, thì làm buồn lòng Đức Thánh Linh nhưng không ảnh hưởng đến ai khác ngoại trừ chính người đó, nhưng nếu "phạm" là xuyên tạc thì có thể gây tổn hại đến đức tin của người khác. Đó chắc chắn là lý do tội đó không tha thứ được.
 
-### Vai Trò Chính Yếu Của Đức Thánh Linh Là Gì?
+### Mục Đích Chính Của Đức Thánh Linh Là Gì Khi Ngài Đến?
 
 > <sup>7</sup> Dầu vậy, ta nói thật cùng các ngươi: Ta đi là ích lợi cho các ngươi; vì nếu ta không đi, Ðấng Yên ủi sẽ không đến cùng các ngươi đâu; song nếu ta đi, thì ta sẽ sai Ngài đến. <sup>8</sup> Khi Ngài đến thì sẽ khiến thế gian tự cáo về tội lỗi, về sự công bình và về sự phán xét. <sup>9</sup> Về tội lỗi, vì họ không tin ta; <sup>10</sup> về sự công bình, vì ta đi đến cùng Cha và các ngươi chẳng thấy ta nữa; <sup>11</sup> về sự phán xét, vì vua chúa thế gian nầy đã bị đoán xét. (John 16:8-11)
 
@@ -79,6 +79,8 @@ Thế gian sai lầm như thế nào về vấn đề tội lỗi? Quí vị đ�
 Chúa Giê-su chỉ cho chúng ta thấy một trong những công việc chính của Thánh Linh là tỏ cho nhân loại thấy <u>tội lỗi thực sự là gì: là tội không tin nơi Chúa Giê-su</u>.
 
 Tại sao đây lại là ý nghĩa thực của tội lỗi? Vì không những nhân loại không thể ngừng phạm tội, họ không thể thoát khỏi được địa vị tội nhân. Ví bằng chúng ta có làm cách nào đó để không phạm vào những tội nhân loại thường phạm, chúng ta vẫn là tội nhân, nhưng nếu chúng ta tin lời Chúa Giê-su phán về công việc của Thánh Linh mà tin vào Ngài, thì tội lỗi không còn làm chủ chúng ta nữa.
+
+Chúng ta hãy ôn lại John 3:16: <em>"Hầu cho hễ ai <u>TIN</u> Con ấy sẽ không bị hư mất ..."</em> Chúa đã không nói rằng: hầu cho hễ ai không phạm tội nữa, hoặc hầu cho hễ ai không làm buồn Thánh Linh nữa, v.v., nhưng Ngài phán: hầu cho hễ ai TIN Con ấy. Đây là chỗ thế gian sai lầm về vấn đề tội lỗi. Đây là chỗ nhiều tín hữu sai lầm về vấn đề tội lỗi.
 
 ### Luận Về Sự Công Bình
 

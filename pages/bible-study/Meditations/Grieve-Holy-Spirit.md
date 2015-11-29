@@ -19,7 +19,7 @@ header: no
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Where is this verse, if there really is one, in the Bible: "The Holy Spirit will leave you if you grieve Him," or "You will lose your salvation if you grieve the Holy Spirit." Or something to that effect. What if you can't find it anywhere in the Bible? Then wouldn't it logically follow that whatever this belief is it is just ... another gospel?
+Where is this verse, if there really is one, in the Bible: "The Holy Spirit will leave you if you grieve Him," or "You will lose your salvation if you grieve the Holy Spirit." Or something to that effect. What if you can't find it anywhere in the Bible? No, it cannot be found anywhere in the Bible, and yet, it is automatically assumed to be a fundamental truth which profoundly affects the lives of many Christians, which always puts them on edge as they relate to God, because none among them ever ceases to grieve the Spirit of God.
 </p>
 </div>
 
@@ -44,7 +44,7 @@ Let us check this point of theology against other foundational truths to see if 
 - It's fairly easy to show that this verse doesn't say you will lose your salvation if you grieve the Holy Spirit
 - To take this further, the real unforgivable sin is the blaspheming, or slandering, of the Holy Spirit.
 
-### Grieving the Holy Spirit is not unforgivable
+### Grieving the Holy Spirit is <u>NOT</u> unforgivable
 
 Let us first define what grieves the Holy Spirit. We don't have to go much further to find out what grieves Him. The very following two verses give us clear hints of what they are:
 
@@ -58,13 +58,13 @@ And if grieving the Holy Spirit leads to damnation, who among us can be saved? A
 
 Realistically we don't have to work so hard to prove the fallacy of this belief. The root of the problem is we only read the a small part of the verse where the phrase "grieve the Holy Spirit" jumps out and automatically assumes it is unforgivable; and then the faulty assumption takes on a life of its own since the very beginning of Christendom. And no one dared to ask its authenticity.
 
-### The real unforgivable sin
+### The <u>REAL</u> Unforgivable Sin
 
 Consider what Jesus said about the unforgivable sin:
 
 > <sup>31</sup> For this reason I tell you, people will be forgiven for <u>every sin</u> and <u>blasphemy (NIV: slander)</u>, but the <u>blasphemy against the Spirit</u> will not be forgiven. <sup>32</sup> Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come. (Matthew 12:31-32 - NET Bible)
 
-Every sin can be forgiven, except one: blaspheming, or slandering, the Holy Spirit. We can see clearly that all manner of sins great and small are NOT of the unforgivable one above. All sins grieve the Holy Spirit, but there is only one that in unforgivable. What do you think this sin is? Murder? Adultary? Lustful thoughts? Remaining angry past sunset? Not keeping the Sabbath? Greed? No, none of the above, because Jesus said that <u>every sin</u> is forgivable, except of course the ONLY one. It's eternally important that we know what this unforgivable sin is.
+If grieving the Holy Spirit is unforgivable, then ALL sins are unforgivable, because all sins grieve the Holy Spirit.  But according to Matthew 12:31-32, all sins are forgivable except one. What do you think this sin is? Murder? Adultary? Lustful thoughts? Remaining angry past sunset? Not keeping the Sabbath? Greed? No, none of the above, because Jesus said that <u>every sin</u> is forgivable, except of course the ONLY one. It's eternally important that we know what this unforgivable sin is.
 
 Here's an excerpt from the HELPS Word-studies: <span style="color: #008000;">Blasphemy (988 /blasphēmía) "switches" right for wrong (wrong for right), i.e. calls what God disapproves, "right" which "exchanges the truth of God for a lie" (Ro 1:25)</span> (source: <a href="http://biblehub.com/greek/988.htm">Strong's Greek: 988. βλασφημία (blasphémia) -- slander</a>) 
 
@@ -72,7 +72,7 @@ We must keep in mind that blasphemy in itself is not unforgivable -read verse 31
 
 If blasphemy is simply irreverance, calling names, disrespect, or foul language, it surely will grieve the Holy Spirit but affect no one else except the trespasser. But if blasphemy is a slander, a distortion of the Holy Spirit's message of salvation, it may have eternal consequences on others.
 
-### What is the principal role of the Holy Spirit?
+### What Is The <u>PURPOSE</u> Of The Holy Spirit When He Comes?
 
 > <sup>7</sup> But I tell you the truth, it is to your advantage that I am going away. For if I do not go away, <u>the Advocate</u> will not come to you, but if I go, I will send him to you. <sup>8</sup> And when he comes, he will <u>prove the world wrong concerning sin and righteousness and judgment</u> - <sup>9</sup> <u>concerning sin, because they do not believe in me</u>; <sup>10</sup> concerning <u>righteousness</u>, because I am going to the Father and you will see me no longer; <sup>11</sup> and concerning <u>judgment</u>, because the ruler of this world has been condemned. (John 16:8-11)
 
@@ -86,17 +86,25 @@ Jesus pointed out that one of the principal thing the Holy Spirit does is He sho
 
 Why is this the truth about sin? Not only men cannot stop sinning, they cannot stop being sinful. Even if they manage to not committing any sin known to man, they cannot rid themselves of their sin nature. If we continue to deal with the problem of sin the way the world does, we'd remain in sin, but if we believe what Jesus said about the Holy Spirit and simply believe in Him, sin will no longer be our master.
 
+Let us look again at John 3:16: <em>"So that whoever <u>BELIEVES</u> in Him will not perish ..."</em> Note that it didn't say: so that whoever can stop sinning, or whoever can stop grieving the Spirit, etc., but it said: whoever BELIEVES in Him. This is where the world is wrong about sin. This is where so many in Christianity are wrong about sin.
+
 ### Concerning righteousness
 
-The Bible defines sin as a state of falling short of God's righteousness. We all are in need of this righteousness so our relationship with Him can be restored. Here is where the world, including a large percentage of Christianity, is wrong about how we get that righteousness. Paul wrote his major epistles to steer the believers from the mistaken notion that they could get that righteousness by the works of the law.
+The Bible defines sin as a state of lacking God's righteousness. We all are in need of this righteousness before we can be reconciled with God. 
 
 Jesus pointed out the second objective of the Holy Spirit is to correct another wrong idea about how we can get right (righteousness) with God: <u>We get right with God becaused Jesus went to the Father as our Attorney at Law to plead for us that all payment had been paid for</u>. Whatever relationship He has with the Father -and we know it is a Trinity relationship where Jesus and the Father are one- we also inherit that because we are in Christ.
+
+How is the world, including a large percentage of Christianity, wrong about righteousness? With the world, it's easy to spot that the foundation of their faith is the works of their flesh. Reincarnation reinforces this concept of work based righteousness.
+
+It is much more difficult in Christianity to identify and purge the Pharasaical yeast from the outworking of the faith that is otherwise pure. Paul wrote his major epistles to steer the believers from the mistaken notion that they could get that righteousness by the works of the law. We can see the manifestation of this yeast in many Bible based religions where they all proclaim the cross of Christ as means for men's redemption, but in the working out of this faith it's anything but. This is why many faithful churchgoers can recite the apostles' creed by heart, but when asked about their standing before God at any moment, they expressed an uncertainty because deep within their spirit they still try to attain this righteousness through their works -in the case of this article, they still feel their daily grieving of the Holy Spirit will prevent them from entering God's Kingdom.
 
 ### Concerning judgment
 
 All of mankind awaits the day of reckoning when they must meet the Creator. This is why we came to the foot of the cross in order to face that day not as condemned sinners, but as children of God. And God has provided for us a way out by giving His own Son as a payment for our sin.
 
-Jesus pointed out the third objective of the Holy Spirit is to show us that the dreadful judgement is reserved only for the "ruler of this world," and of course those who belong to him. And we all know that we belong to Christ, therefore <u>judgement is never intended for us</u>.
+Jesus pointed out the third objective of the Holy Spirit is to show us that the dreadful judgement is reserved only for the "ruler of this world," and of course for those who belong to him. And we all know that we belong to Christ, therefore <u>judgement is never intended for us</u>.
+
+This is where many of us are wrong concerning judgement. Dare we believe that judgement will never be applied to those who are in Christ no matter how imperfect they are? I venture to say that a huge majority of believers and handlers of Scriptures teach, and are taught, that there is a judgement reserved for them depending on the quality of their "works." Yet I believe there is a different kind of judgement whose criteria is not based on fleshly works, but on the purity of their faith which is the true work of God (John 6:29).
 
 <p class="blockquote"> <sup>1</sup> There is therefore now <u>no condemnation</u> for those who are in Christ Jesus. <sup>2</sup> For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death. <sup>3</sup> For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh, <sup>4</sup> so that the <u>righteous requirement of the law may be fulfilled in us</u>, who do not walk according to the flesh but according to the Spirit. (Romans 8:1-4)</p> 
 
