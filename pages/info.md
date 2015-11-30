@@ -31,7 +31,6 @@ Tel. 650-892-5270, Email: ongme1@yahoo.com
 
 ## Weekly Activities
 
-* Tuesday: College & Career Fellowship
 * Wednesday: Prayer Meeting (7:30-9:00 pm)
 * Friday: Youth Fellowship
 * Saturday: Church Renovation
@@ -230,32 +229,32 @@ Spiritual revival camp in Northern California from August 19-21, 2016 at <a href
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>NOV</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">13</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Nhóm Thiếu Niên</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Nhóm Thiếu Niên (Youth Fellowship)</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">15</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Họp Ban Chấp Hành</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Họp Ban Chấp Hành (Board Meeting)</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">22</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Lễ Tạ Ơn</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Lễ Tạ Ơn (Thanksgiving)</td>
 </tr>
 <tr>
 <td class="title-padding" style="background-color: #a9a9a9;"><strong>DEC</strong></td>
 <td class="title-padding" style="background-color: #a9a9a9;" align="left">6</td>
-<td class="title-padding" style="background-color: #a9a9a9;">Bầu cử Ban Chấp Hành</td>
+<td class="title-padding" style="background-color: #a9a9a9;">Bầu cử Ban Chấp Hành (Board Election)</td>
 </tr>
 <tr>
 <td class="title-padding" style="background-color: #a9a9a9;">&nbsp;</td>
 <td class="title-padding" style="background-color: #a9a9a9;" align="left">19</td>
-<td class="title-padding" style="background-color: #a9a9a9;">Lễ Giáng Sinh</td>
+<td class="title-padding" style="background-color: #a9a9a9;">Lễ Giáng Sinh (Christmas Celebration)</td>
 </tr>
 <tr>
 <td class="title-padding" style="background-color: #a9a9a9;">&nbsp;</td>
 <td class="title-padding" style="background-color: #a9a9a9;" align="left">27</td>
-<td class="title-padding" style="background-color: #a9a9a9;">Mục-sư vắng mặt (đoàn tụ gia đình)</td>
+<td class="title-padding" style="background-color: #a9a9a9;">Mục-sư vắng mặt (Pastor on vacation)</td>
 </tr>
 </tbody>
 </table>
