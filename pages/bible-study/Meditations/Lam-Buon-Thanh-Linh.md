@@ -84,15 +84,21 @@ Chúng ta hãy ôn lại John 3:16: <em>"Hầu cho hễ ai <u>TIN</u> Con ấy s
 
 ### Luận Về Sự Công Bình
 
-Kinh Thánh định nghĩa tội lỗi là một tình trạng thiếu sự công bình của Đức Chúa Trời. Tất cả chúng ta đều cần sự công bình đó để được phục hồi mối liên hệ với Đức Chúa Trời. Đây là điểm mà thế gian, và ngay cả nhiều người trong đạo Tin Lành, sai lầm về cách nào họ đạt được sự công bình của Đức Chúa Trời. Phao lô đã viết những thư quan trọng để giúp họ chuyển hướng khỏi quan niệm sai lầm rằng họ có thể đạt được sự công bình bởi việc làm.
+Kinh Thánh định nghĩa tội lỗi là một tình trạng thiếu sự công bình của Đức Chúa Trời. Tất cả chúng ta đều cần sự công bình đó để được phục hồi mối liên hệ với Đức Chúa Trời.
 
-Chúa Giê-su cho thấy mục tiêu thứ hai của Đức Thánh Linh là sửa thêm một quan niệm sai lầm về sự giảng hòa với Đức Chúa Trời: <u>Chúng ta được làm hòa với Ngài vì Chúa Giê-su đã đến bên hữu Đức Chúa Cha với tư cách là Trạng Sư biện hộ cho chúng ta rằng mọi món nợ đã được hoàn trả</u>. Đức Chúa Con liên hệ với Cha thể nào thì chúng ta cũng được liên hệ với Ngài thể ấy -vì chúng ta hiện ở trong Ngài.
+Chúa Giê-su cho thấy mục tiêu thứ hai của Đức Thánh Linh là sửa đổi một quan niệm sai lầm về sự giảng hòa với Đức Chúa Trời: <u>Chúng ta được làm hòa với Ngài vì Chúa Giê-su đã đến bên hữu Đức Chúa Cha với tư cách là Trạng Sư biện hộ cho chúng ta rằng mọi món nợ đã được hoàn trả</u>. Đức Chúa Con liên hệ với Cha thể nào thì chúng ta cũng được liên hệ với Ngài thể ấy -vì chúng ta hiện ở trong Ngài.
+
+Thế gian, và một phần lớn trong vòng những người tin Chúa, đã sai lầm như thế nào về sự công bình? Đối với thế gian, chúng ta thấy một cách dễ dàng nền tảng của đức tin họ đặt trên việc làm của xác thịt. Thuyết luân hồi hỗ trợ ý niệm về sự công bình đến bởi việc làm.
+
+Trong đạo Chúa, thật khó khăn hơn nhiều để nhận diện và tẩy trừ men của người Pha-ri-si khỏi việc làm đến bởi đức tin chính ra thực thanh khiết. Sứ đồ Phao-lô đã viết những thư quan trọng để chuyển hướng của các tín hữu khỏi ý niệm rằng họ có thể đạt được sự công bình của Đức Chúa Trời qua việc làm của xác thịt. Chúng ta có thể thấy sự thể hiện của men này trong nhiều tôn giáo đặt nền tảng trên Kinh Thánh mà họ thảy đều tuyên xưng thập giá của Đấng Christ là phương cách cứu rỗi của nhân loại, nhưng việc làm đến bởi đức tin của họ thì hoàn toàn trái ngược. Đây là lý do tại sao nhiều tín hữu có thể đọc thuộc lòng bài tín điều các sứ đồ, nhưng khi được hỏi về địa vị của họ trong Chúa bất cứ lúc nào, họ thảy đều bày tỏ sự bất an vì sâu trong đáy lòng họ vẫn tìm cách đạt được sự công bình của Chúa qua việc làm -như trong bối cảnh của bài viết này, họ vẫn linh cảm thấy những điều họ làm Chúa buồn hàng ngày là điều cản ngăn họ vào nước Trời.
 
 ### Luận Về Sự Phán Xét
 
-Toàn thể nhân loại đợi ngày phán xét khi họ phải đối diện với Đấng Tạo Hóa. Đây là lý do tại sao chúng ta đến chân thập tự hầu có thể đứng trong ngày đó không dưới địa vị tội nhân, nhưng là con cái Đức Chúa Trời. Và Ngài đã ban cho chúng ta một lối thoát bằng cách ban Con Một của Ngài làm giá chuộc cho tội lỗi chúng ta.
+Toàn thể nhân loại đợi ngày phán xét khi họ phải đối diện với Đấng Tạo Hóa. Đây là lý do tại sao chúng ta đến chân thập tự hầu có thể đứng trong ngày đó không dưới địa vị tội nhân, nhưng là con cái Đức Chúa Trời vì Ngài đã ban cho chúng ta một lối thoát qua Con Một của Ngài làm giá chuộc cho tội lỗi chúng ta.
 
 Chúa Giê-su cho thấy mục tiêu thứ ba của Đức Thánh Linh là cho chúng ta biết sự phán xét là dành cho "vua chúa của thế gian," và dĩ nhiên là cho những kẻ thuộc về vua chúa đó. Còn chúng ta biết chắc rằng minh thuộc về Đấng Christ, do đó <u>chúng ta sẽ chẳng còn ở dưới sự đoán xét</u>.
+
+Đây là điểm nhiều người sai lầm về sự phán xét. Chúng ta có dám tin rằng sự phán xét không còn hiệu lực trên những kẻ ở trong Đấng Christ bất kể họ có bất toàn đến đâu chăng nữa? Tôi quả quyết rằng đại đa số các tín hữu và những người có trọng trách rao truyền lời Chúa dạy, và được dạy, rằng có một sự phán xét cho mọi người bất kẻ mối liên hệ của họ với Đấng Christ. Nhưng tôi tin rằng nếu có một sự phán xét cho con cái Chúa, thì tiêu chuẩn không đặt trên việc làm, nhưng trên sự tính sạch của đức tin mà đức tin đó chính là công việc thực của Đức Chúa Trởi (John 6:29).
 
 <p class="blockquote"> <sup>1</sup> Cho nên <u>hiện nay chẳng còn có sự đoán phạt nào</u> cho những kẻ ở trong Ðức Chúa Jêsus Christ; <sup>2</sup> vì luật pháp của Thánh Linh sự sống đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi luật pháp của sự tội và sự chết. <sup>3</sup> Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt, <sup>4</sup> hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng noi theo xác thịt, nhưng noi theo Thánh Linh. (Romans 8:1-4)</p>
 
