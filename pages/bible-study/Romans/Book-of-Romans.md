@@ -3,14 +3,18 @@ layout: page-fullwidth
 subheadline: "Bible Study"
 title: "Book of Romans"
 meta_teaser: "Bible Study on the book of Romans"
-teaser: "Study Notes on the book of Romans."
+teaser: "Romans 3:20 says this: <em>&quot;Therefore, God will not justify any human being by means of the actions prescribed by the Law, for through the Law comes the full knowledge of sin (ISV).&quot;</em> This verse is representative of virtually the entire book of Romans which Paul wrote to show us the true purpose of the law, what role it plays in our relationship with God."
 permalink: /bible-topics/book-of-romans/
 breadcrumb: true
 header: no
 ---
 <!--more-->
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/">(Bấm vào đây để đọc tiếng Việt)</a></p>
-<div class="small-12 columns" style="padding: 0px; border-bottom: none;">
+<div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
+
+What Paul wrote in this book of Romans is frequently misunderstood, or regarded with suspicion, that it gives folks a license to sin. This is not what Romans 3:20 said. For all practical intents and purposes, it says you will not get any closer to God by doing good, or be driven further from God by doing bad, because the law is only meant to show how sinful you are. It's an x-ray into your heart to show its utter depravity. It does not heal you, or give you life.
+
+When a true Christian, one who relies on nothing but the cross of Christ, is motivated by the indwelling Spirit of God to do good, or to refrain from evil, he does so not because of any law that tells him of the do's and dont's. Christians have a choice that they must make: rely on the strength of the flesh to carry out what is required by the law, or walk by faith, by the simple trust, or rest, in Christ who has a plan for all his do's or dont's. Christian leaders must be careful not to use guilt -powered by the law- to stir up the flesh.
 
 <ul class="side-nav">
       <li><a href="{{ site.projectname }}/bible-topics/book-of-romans/01/">Chapter 1</a>
