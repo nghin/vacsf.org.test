@@ -1,3 +1,10 @@
 <aside>
-    <img class="b30" src="{{ site.url }}/images/sidebar.jpg" alt="">
+<ul class="side-nav" style="padding-top: 10px">
+      <li><h4>Chẳng Còn Đoán Phạt</h4>
+          <p style="font-weight: normal; font-style: italic;">
+Cho nên hiện nay <u>chẳng còn có sự đoán phạt nào cho những kẻ ở trong Ðức Chúa Jêsus Christ</u>; <sup>2</sup> vì luật pháp của Thánh Linh sự sống đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi luật pháp của sự tội và sự chết. <sup>3</sup> Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt, <sup>4</sup> hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng noi theo xác thịt, nhưng noi theo Thánh Linh <span style="color: #008080;">(noi theo xác thịt là dùng xác thịt làm tiêu chuẩn định giá trị trong mối tương giao với Đức Chúa Trời)</span>.
+Romans 8:1-4
+          </p>
+      </li>
+</ul>
 </aside>
