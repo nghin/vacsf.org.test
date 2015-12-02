@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "What gospel are you proclaiming?"
 title: "Nghi's Parable of the Ambassador"
 meta_teaser: "Vietnamese Alliance Church San Francisco Baptism"
-teaser: "A warning to Christ's Ambassadors: Don't change your Lord's message of reconciliation. The ambassador in this story, like many in our days, did just that: he changed the message. In doing so, he turned the gospel into religion."
+teaser: "A warning to Christ's Ambassadors: Don't change your Lord's message of reconciliation. The ambassador in this story, like many in this present day, did just that: he changed the message. In doing so, he turned the gospel into religion."
 header: no
 image:
     thumb: "/Ambassador-thumb.jpg"
