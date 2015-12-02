@@ -16,7 +16,7 @@ header: no
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/Ambassador.jpg" style="border: 1px solid #888888; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-One day a King sent forth an ambassador to a faraway country to extend a hand of peace to a lower kingdom that He deemed was ready to make peace with Him. But this kingdom had fallen so far, and had committed so many evil acts, that they felt that making peace with this King would eventually mean severe punishments for which they sorely deserved. They wanted to make peace, but they dreaded the punishments; because they remembered at least one law that said: “The soul that sinneth, it shall die” (Ezekiel 18:20).
+One day a King sent forth an ambassador to a faraway country to extend a hand of peace to a lower kingdom that He deemed was ready to make peace with Him. But this kingdom had fallen so far, and had committed so many evil acts, that they felt that making peace with this King would eventually mean severe punishments for which they sorely deserved. They wanted to make peace, but they dreaded the punishments; because they remembered at least one law that said: <em>“The soul that sinneth, it shall die” (Ezekiel 18:20)</em>.
 </p>
 </div>
 
@@ -46,7 +46,7 @@ After some period of poring over his treaty, He couldn’t believe that they wou
 
 To His great dismay … He found out the ambassador had altered his treaty …
 
-The ambassador attempted to achieve a transformation of these wretched sinners by himself … and at the wrong time. He should have let the Special Counselor, the Third Person in the Trinity –The Super Shrink– who alone can transform them; because flesh will give birth to flesh, only the Spirit will give life. The people of the condemned kingdom seemed to understand their wretched condition better than even the ambassador; thinking that the added clauses came from the King, they were honest enough to reject the treaty citing their inability to comply. The ambassador should have known this already, that asking them to do the things set forth in the added clauses is the same thing as asking them to be born again by going back into their mothers’ wombs (John 3:4).
+The ambassador attempted to achieve a transformation of these wretched sinners by himself … and at the wrong time. He should have let the Special Counselor, the Third Person in the Trinity who alone can transform them; because flesh will give birth to flesh, only the Spirit will give life. The people of the condemned kingdom seemed to understand their wretched condition better than even the ambassador; thinking that the added clauses came from the King, they were honest enough to reject the treaty citing their inability to comply. The ambassador should have known this already, that asking them to do the things set forth in the added clauses is the same thing as asking them to be born again by going back into their mothers’ wombs (John 3:4).
 
 God had announced a wonderful treaty to Man; and in overwhelming amount of communication in Scriptures, He showed them the height, depth, and breadth of His love, which will make fertile the ground of the hearts of believers so the Counselor can do His mighty work.
 
