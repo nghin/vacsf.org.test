@@ -48,7 +48,7 @@ Let us check this point of theology against other foundational truths to see if 
 
 Let us first define what grieves the Holy Spirit. We don't have to go much further to find out what grieves Him. The very following two verses give us clear hints of what they are:
 
->  <sup>31</sup> You must put away every kind of bitterness, anger, wrath, quarreling, and evil, slanderous talk.  <sup>32</sup> Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you. (Ephesians 4:31-32)
+>  <sup>31</sup> You must put away every kind of bitterness, anger, wrath, quarreling, and evil, slanderous talk.  <sup>32</sup> Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you. <cite>Ephesians 4:31-32</cite>
 
 These are sins we commit daily in the course of our lives. A sin is not simply the bad things we do, but also the good things we don't do. Jesus shows us sin for what really is: you don't need to actually commit adultary to sin against God, just the mere fact you have lustful thoughts, you already sinned (Matthew 5:28); you don't need to take somebody's life to sin against God, the fact that you hate that person already makes you a murderer (I John 3:15). And what about the things we should have done that we didn't? How many times have we neglected to stop and help someone in need? I remember our church turned away a homeless man who wanted to take shelter in our church building. Did we try to be good Samaritans every chance we could?
 
@@ -62,7 +62,7 @@ Realistically we don't have to work so hard to prove the fallacy of this belief.
 
 Consider what Jesus said about the unforgivable sin:
 
-> <sup>31</sup> For this reason I tell you, people will be forgiven for <u>every sin</u> and <u>blasphemy (NIV: slander)</u>, but the <u>blasphemy against the Spirit</u> will not be forgiven. <sup>32</sup> Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come. (Matthew 12:31-32 - NET Bible)
+> <sup>31</sup> For this reason I tell you, people will be forgiven for <u>every sin</u> and <u>blasphemy (NIV: slander)</u>, but the <u>blasphemy against the Spirit</u> will not be forgiven. <sup>32</sup> Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come. <cite>Matthew 12:31-32 - NET Bible</cite>
 
 If grieving the Holy Spirit is unforgivable, then ALL sins are unforgivable, because all sins grieve the Holy Spirit.  But according to Matthew 12:31-32, all sins are forgivable except one. What do you think this sin is? Murder? Adultary? Lustful thoughts? Remaining angry past sunset? Not keeping the Sabbath? Greed? No, none of the above, because Jesus said that <u>every sin</u> is forgivable, except of course the ONLY one. It's eternally important that we know what this unforgivable sin is.
 
@@ -74,9 +74,9 @@ If blasphemy is simply irreverance, calling names, disrespect, or foul language,
 
 ### What Is The <u>PURPOSE</u> Of The Holy Spirit When He Comes?
 
-> <sup>7</sup> But I tell you the truth, it is to your advantage that I am going away. For if I do not go away, <u>the Advocate</u> will not come to you, but if I go, I will send him to you. <sup>8</sup> And when he comes, he will <u>prove the world wrong concerning sin and righteousness and judgment</u> - <sup>9</sup> <u>concerning sin, because they do not believe in me</u>; <sup>10</sup> concerning <u>righteousness</u>, because I am going to the Father and you will see me no longer; <sup>11</sup> and concerning <u>judgment</u>, because the ruler of this world has been condemned. (John 16:8-11)
+> <sup>7</sup> But I tell you the truth, it is to your advantage that I am going away. For if I do not go away, <u>the Advocate</u> will not come to you, but if I go, I will send him to you. <sup>8</sup> And when he comes, he will <u>prove the world wrong concerning sin and righteousness and judgment</u> - <sup>9</sup> <u>concerning sin, because they do not believe in me</u>; <sup>10</sup> concerning <u>righteousness</u>, because I am going to the Father and you will see me no longer; <sup>11</sup> and concerning <u>judgment</u>, because the ruler of this world has been condemned. <cite>John 16:8-11</cite>
 
-The Advocate in verse 7 above is the Holy Spirit. Jesus explains what He does when He comes, that He will do 3 things, all of which may give us clue as to what action against his purpose may be considered an unforgivable sin.
+The Advocate in verse 7 above is the Holy Spirit. Jesus explains what He does when He comes, that He will do 3 things, all of which may give us clues as to what actions against his purpose may be considered an unforgivable sins.
 
 ### Concerning sin
 
@@ -90,7 +90,7 @@ Let us look again at John 3:16: <em>"So that whoever <u>BELIEVES</u> in Him will
 
 ### Concerning righteousness
 
-The Bible defines sin as a state of lacking God's righteousness. We all are in need of this righteousness before we can be reconciled with God. 
+The Bible defines sin as a state of lacking God's righteousness. We all are in need of this righteousness before we can be reconciled to God. 
 
 Jesus pointed out the second objective of the Holy Spirit is to correct another wrong idea about how we can get right (righteousness) with God: <u>We get right with God becaused Jesus went to the Father as our Attorney at Law to plead for us that all payment had been paid for</u>. Whatever relationship He has with the Father -and we know it is a Trinity relationship where Jesus and the Father are one- we also inherit that because we are in Christ.
 
@@ -106,7 +106,7 @@ Jesus pointed out the third objective of the Holy Spirit is to show us that the 
 
 This is where many of us are wrong concerning judgement. Dare we believe that judgement will never be applied to those who are in Christ no matter how imperfect they are? I venture to say that a huge majority of believers and handlers of Scriptures teach, and are taught, that there is a judgement reserved for them whether they're in Christ or not. And I believe if there is a judgement it's criteria is not based on fleshly works, but on the purity of their faith which is the true work of God (John 6:29).
 
-<p class="blockquote"> <sup>1</sup> There is therefore now <u>no condemnation</u> for those who are in Christ Jesus. <sup>2</sup> For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death. <sup>3</sup> For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh, <sup>4</sup> so that the <u>righteous requirement of the law may be fulfilled in us</u>, who do not walk according to the flesh but according to the Spirit. (Romans 8:1-4)</p> 
+> <sup>1</sup> There is therefore now <u>no condemnation</u> for those who are in Christ Jesus. <sup>2</sup> For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death. <sup>3</sup> For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh, <sup>4</sup> so that the <u>righteous requirement of the law may be fulfilled in us</u>, who do not walk according to the flesh but according to the Spirit. <cite>Romans 8:1-4</cite>
 
 ### Conclusion
 
@@ -120,17 +120,17 @@ Those who blaspheme, or slander, the Holy Spirit are those who distort the Holy 
 
 The belief that the grieving of the Holy Spirit is an unforgivable sin is not found in the Bible, and goes against all foundational truths scattered throughout Scriptures. As we have already discussed earlier, if grieving God is truly unforgivable, no one will be saved.
 
-Those who hold such belief may in fact still live under the law, and the law says that "the soul that sins [grieve the Holy Spirit] shall die" (Ezekiel 18:20). And for those who still want to keep the law, James 2:10 says this:
+Those who hold such belief may in fact still live under the law, while Galatians 5:4 says that those who rely on the law will have fallen from grace, and be disconnected from Christ:
 
-<p class="blockquote">For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it.</p>
+<p class="blockquote">You who are trying to be declared righteous by the law have been <u>alienated from Christ</u>; you have <u>fallen away from grace</u>!</p>
 
 It logically follows that those who live by the law, will break the entire law all the time, because as long as you still live in the flesh, you will break some law some time, and based on James 2:10, you are a continual lawbreaker, and you are a Spirit griever all the time.
 
 What a dreadful way to relate to God!
 
-To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. <u>To think that there is anything that can render void the power of the cross of Christ is to live in unbelief, and that is sin</u>.
+To live under grace is the only way to secure our salvation, the only way to move forward. It is the only way to live for a child of God. <u>To think that there is anything that can render useless the power of the cross of Christ is to live in unbelief, and that is sin</u>.
 
-> “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary. (Hebrews 10:17-18; Hebrews 10:29)
+> “<sup>17</sup>Their sins and lawless acts I will remember no more.” <sup>18</sup>And where these have been forgiven, sacrifice for sin is no longer necessary. <cite>Hebrews 10:17-18</cite>
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
