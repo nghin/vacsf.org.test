@@ -12,12 +12,17 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
-      <li><a href="{{ site.baseurl }}/bible-topics/meditations/ambassador/">Parable of the Ambassador</a><p style="font-weight: normal;">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/walk-according-to-flesh/">Walk According To The Flesh - Noi Theo Xác Thịt</a><p style="font-weight: normal;">
+
+Discover the true meaning of "walk according to the flesh" <cite>(Romans 8:4)</cite>. We must derive its meaning from the perspective of faith which is based on the firm foundation of the cross of Christ. If we view this verse from the perspective of religion, we will miss it completely. All wellknown commentaries such as Matthew Henry, Pulpit, Gill, JFB (Jamieson, Fausset, and Brown) have missed it.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
+
+</p></li>
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/ambassador/">Parable of the Ambassador - Ngụ Ngôn Quan Khâm Sai</a><p style="font-weight: normal;">
 
 This parable tells of an ambassador who made the fatal mistake of distorting the message of reconciliation he received from his king to an enemy he intends to bring back into the fold<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
 
 </p></li>
-      <li><a href="{{ site.baseurl }}/bible-topics/meditations/grieving-holy-spirit/">Grieving the Holy Spirit </a><p style="font-weight: normal;">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/grieving-holy-spirit/">Grieving the Holy Spirit - Làm Buồn Đức Thánh Linh</a><p style="font-weight: normal;">
 
 Will the Holy Spirit leave you if you grieve Him? Will you lose your salvation? <span style="color: #cc0000; font-style: italic;">(Bài này có tiếng Việt)</span>
 
