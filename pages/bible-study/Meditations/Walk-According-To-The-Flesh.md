@@ -111,9 +111,11 @@ This is because the Christian in question is walking according to the flesh. The
 
 On the contrary, walking according to the Spirit is simply this: rest in the fact that Christ had paid it all on the Cross. This rest is the work that is pleasing to God, and is the only work accepted by God.
 
-> Thus we must make every effort to enter that rest, so that no one may fall by following the same pattern of disobedience. <cite>Hebrews 4:11</cite>
+> Thus we must make every effort to enter that <u>rest</u>, so that no one may fall by following the same pattern of <u>disobedience</u>. <cite>Hebrews 4:11</cite>
 
-Where the true obedience is to trust in nothing else but the cross of Christ.
+Where the true obedience is to trust in nothing else but the cross of Christ, and rest we can enter because Christ's work is finished. That rest is the true Sabbath when the Christ can quit all toiling to get right with God.
+
+Can you see now Walk According to the Flesh is not about sins and transgressions, but about using the flesh in an exercise in futility to get right with God? That this flesh based attempt is a rebellion, the "pattern of disobedience" the author of Hebrews wrote about?
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
