@@ -113,9 +113,9 @@ On the contrary, walking according to the Spirit is simply this: rest in the fac
 
 > Thus we must make every effort to enter that <u>rest</u>, so that no one may fall by following the same pattern of <u>disobedience</u>. <cite>Hebrews 4:11</cite>
 
-Where the true obedience is to trust in nothing else but the cross of Christ, and rest we can enter because Christ's work is finished. That rest is the true Sabbath when the Christ can quit all toiling to get right with God.
+... where the true obedience is to trust in nothing else but the cross of Christ, and this rest we can enter because Christ's work is finished. This rest is the true Sabbath when the believer can quit all struggle in trying to get right with God and simply lay down at the foot of the old rugged cross.
 
-Can you see now Walk According to the Flesh is not about sins and transgressions, but about using the flesh in an exercise in futility to get right with God? That this flesh based attempt is a rebellion, the "pattern of disobedience" the author of Hebrews wrote about?
+Can you see now Walk According to the Flesh is not about sins and transgressions, but about using the flesh in an exercise in futility to get right with God? That this flesh based attempt is a rebellion, the "pattern of disobedience" that the author of Hebrews wrote about?
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
