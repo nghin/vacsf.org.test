@@ -6,3 +6,5 @@
 # start jekyll for local testing on nitrous:
 # jekyll serve --incremental --host 0.0.0.0 --config _config.yml,_config_nitrous.yml &
 # Preview in browser: http://jekyll-142416.nitrousapp.com:4000/
+# To prebuild using .nojekyll
+# jekyll build --config _config.yml,_config_site.yml
