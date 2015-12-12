@@ -8,3 +8,6 @@
 # Preview in browser: http://jekyll-142416.nitrousapp.com:4000/
 # To prebuild using .nojekyll
 # jekyll build --config _config.yml,_config_site.yml
+# Required for jekyll 3.0
+# sudo gem install jekyll-paginate
+# gem install jekyll-gist
