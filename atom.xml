@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://vacsf.org/</id>
 	<title>The Whole Bible is About Jesus!</title>
-	<updated>2016-01-30T11:24:38-08:00</updated>
+	<updated>2016-01-30T11:31:23-08:00</updated>
 
 	<subtitle>Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life.</subtitle>
 
@@ -28,8 +28,6 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
 
-	
-	    
 	
 	    
 	
@@ -262,6 +260,54 @@
 			
 
 			<published>2015-09-20T00:00:00-07:00</published>
+		</entry>
+	    
+	
+	    
+		<entry>
+			<id>http://vacsf.org/events/Natural-Bridges-Picnic/</id>
+			<title>Natural Bridges State Beach</title>
+			<link href="http://vacsf.org/events/Natural-Bridges-Picnic/" rel="alternate" type="text/html" title="Natural Bridges State Beach" />
+			<updated>2015-08-04T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Nghi Nguyen</name>
+					
+					
+						<email>contact@vacsf.org</email>
+					
+					
+						<uri>http://vacsf.org/</uri>
+					
+				</author>
+			
+			<summary>Families with young children had a great picnic at the Natural Bridges State Beach of Santa Cruz last August, 2015. The pictures say it all about the beauty of this place. Enjoy this small collection of photos.</summary>
+			<content type="html" xml:base="http://vacsf.org/events/Natural-Bridges-Picnic/">&lt;!--more--&gt;
+&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;1400&quot; src=&quot;http://rgb-scale.com/vacsfj336/index.php/photo-galleries/158-natural-bridges-state-beach-picnic-2015-santa-cruz&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
+&lt;p&gt;
+A small photo gallery of snapshots from the picnic (Click on the image above or the article&#39;s title to view gallery). Here&#39;s a little 58 second long video clip to help us remember the sight and sound of this beautiful beach (view in 720pHD mode for best quality).
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://vacsf.org/events/Coyote-Point-Picnic/&quot;&gt;Next Post in EVENTS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;button tiny radius&quot; href=&quot;http://vacsf.org/events/VAY-Bay-Area-Camp/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="events" />
+			
+			
+
+			<published>2015-08-04T00:00:00-07:00</published>
 		</entry>
 	    
 	
