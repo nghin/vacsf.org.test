@@ -9122,24 +9122,32 @@ p.blockquote {
 }
 
 /* line 10, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
+p.blockquote2 {
+  font-style: italic;
+  padding-left: 15px;
+  margin: 0 0 20px;
+  color: #888888;
+}
+
+/* line 16, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
 p.gray {
   color: #999999;
 }
 
-/* line 13, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
+/* line 19, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
 span.text-highlight {
   text-decoration: underline;
   font-style: italic;
   color: #ff0000;
 }
 
-/* line 18, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
+/* line 24, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
 span.red-letter {
   color: #ff0000;
   font-style: italic;
 }
 
-/* line 22, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
+/* line 28, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_custom.scss */
 span.green-letter {
   color: #008000;
   font-style: italic;
