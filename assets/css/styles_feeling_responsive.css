@@ -2214,13 +2214,13 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 /* line 223, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.secondary, .button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
@@ -2228,13 +2228,13 @@ button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button
 }
 /* line 224, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.success, .button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
@@ -2353,8 +2353,8 @@ button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[dis
 }
 /* line 241, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2362,7 +2362,7 @@ button.disabled.secondary, button[disabled].secondary, .button.disabled.secondar
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
@@ -2370,12 +2370,12 @@ button.disabled.secondary:hover, button.disabled.secondary:focus, button[disable
 }
 /* line 178, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #A1D044;
+  background-color: #C88A32;
 }
 /* line 242, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2383,7 +2383,7 @@ button.disabled.success, button[disabled].success, .button.disabled.success, .bu
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
@@ -2391,7 +2391,7 @@ button.disabled.success:hover, button.disabled.success:focus, button[disabled].s
 }
 /* line 178, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #A1D044;
+  background-color: #C88A32;
 }
 /* line 243, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
@@ -3109,11 +3109,11 @@ meta.foundation-mq-topbar {
 }
 /* line 277, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {
-  color: #A1D044;
+  color: #C88A32;
 }
 /* line 278, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a span::after {
-  box-shadow: 0 0 0 1px #A1D044, 0 7px 0 1px #A1D044, 0 14px 0 1px #A1D044;
+  box-shadow: 0 0 0 1px #C88A32, 0 7px 0 1px #C88A32, 0 14px 0 1px #C88A32;
 }
 
 /* line 291, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
@@ -3142,7 +3142,7 @@ meta.foundation-mq-topbar {
 }
 /* line 314, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li {
-  background: #A1D044;
+  background: #C88A32;
 }
 /* line 316, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a {
@@ -3175,13 +3175,13 @@ meta.foundation-mq-topbar {
 }
 /* line 333, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a.button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
@@ -3189,13 +3189,13 @@ meta.foundation-mq-topbar {
 }
 /* line 334, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a.button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
@@ -3248,13 +3248,13 @@ meta.foundation-mq-topbar {
 }
 /* line 345, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
@@ -3262,13 +3262,13 @@ meta.foundation-mq-topbar {
 }
 /* line 346, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #C88A32;
+  border-color: #a06e28;
   color: #FFFFFF;
 }
 /* line 161, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
-  background-color: #84b02c;
+  background-color: #a06e28;
 }
 /* line 167, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
@@ -3305,17 +3305,17 @@ meta.foundation-mq-topbar {
 /* line 352, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li:hover:not(.has-form) > a {
   background-color: #555555;
-  background: #A1D044;
+  background: #C88A32;
   color: #000;
 }
 /* line 361, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li.active > a {
-  background: #A1D044;
+  background: #C88A32;
   color: #000;
 }
 /* line 364, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li.active > a:hover {
-  background: #45B29D;
+  background: #E3D941;
   color: #000;
 }
 /* line 372, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
@@ -3416,7 +3416,7 @@ meta.foundation-mq-topbar {
   padding: 8px 1.04167rem 2px;
   margin-bottom: 0;
   text-transform: uppercase;
-  color: #45B29D;
+  color: #E3D941;
   font-weight: bold;
   font-size: 0.625rem;
 }
@@ -3496,7 +3496,7 @@ meta.foundation-mq-topbar {
   /* line 500, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.hover > a:not(.button) {
     background-color: #555555;
-    background: #A1D044;
+    background: #C88A32;
     color: #000;
   }
   /* line 509, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
@@ -3508,18 +3508,18 @@ meta.foundation-mq-topbar {
   /* line 513, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li:not(.has-form) a:not(.button):hover {
     background-color: #555555;
-    background: #A1D044;
+    background: #C88A32;
   }
   /* line 522, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button) {
     padding: 0 1.04167rem;
     line-height: 3.125rem;
     color: #000;
-    background: #A1D044;
+    background: #C88A32;
   }
   /* line 527, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button):hover {
-    background: #45B29D;
+    background: #E3D941;
     color: #000;
   }
   /* line 537, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
@@ -3593,18 +3593,18 @@ meta.foundation-mq-topbar {
     line-height: 3.125rem;
     white-space: nowrap;
     padding: 12px 1.04167rem;
-    background: #45B29D;
+    background: #E3D941;
   }
   /* line 594, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     color: #000;
-    background: #45B29D;
+    background: #E3D941;
   }
   /* line 599, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
     color: #000;
     background-color: #555555;
-    background: #A1D044;
+    background: #C88A32;
   }
   /* line 608, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li label {
@@ -3653,12 +3653,12 @@ meta.foundation-mq-topbar {
   /* line 661, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .no-js .top-bar-section ul li:hover > a {
     background-color: #555555;
-    background: #A1D044;
+    background: #C88A32;
     color: #000;
   }
   /* line 670, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
   .no-js .top-bar-section ul li:active > a {
-    background: #A1D044;
+    background: #C88A32;
     color: #000;
   }
   /* line 678, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_top-bar.scss */
@@ -3770,8 +3770,8 @@ meta.foundation-mq-topbar {
 }
 /* line 120, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_alert-boxes.scss */
 .alert-box.success {
-  background-color: #A1D044;
-  border-color: #8ebe30;
+  background-color: #C88A32;
+  border-color: #ac772b;
   color: #FFFFFF;
 }
 /* line 121, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_alert-boxes.scss */
@@ -3782,8 +3782,8 @@ meta.foundation-mq-topbar {
 }
 /* line 122, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_alert-boxes.scss */
 .alert-box.secondary {
-  background-color: #A1D044;
-  border-color: #8ebe30;
+  background-color: #C88A32;
+  border-color: #ac772b;
   color: #FFFFFF;
 }
 /* line 123, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_alert-boxes.scss */
@@ -6508,10 +6508,10 @@ code {
   font-family: "Lucida Console", Monaco, monospace;
   font-weight: normal;
   color: #333333;
-  background-color: #e3f1c7;
+  background-color: #efdcc1;
   border-width: 1px;
   border-style: solid;
-  border-color: #d1e8a4;
+  border-color: #e7c99e;
   padding: 0.125rem 0.3125rem 0.0625rem;
 }
 
@@ -7546,7 +7546,7 @@ pre {
   overflow: auto;
   margin-bottom: 1.25rem;
   padding: 5px;
-  background-color: #e3f1c7;
+  background-color: #efdcc1;
   border-radius: 3px;
 }
 
@@ -8447,7 +8447,7 @@ body.video cite {
 /* line 236, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_07_layout.scss */
 .meta-info a:hover {
   text-decoration: none;
-  color: #A1D044;
+  color: #C88A32;
 }
 
 /* Jump to top
@@ -8488,7 +8488,7 @@ body.video cite {
 
 /* line 276, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_07_layout.scss */
 #footer a {
-  color: #A1D044;
+  color: #C88A32;
 }
 
 /* line 279, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_07_layout.scss */
@@ -8731,7 +8731,7 @@ body.video cite {
 /* line 78, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_09_elements.scss */
 .alert-box.terminal::before {
   content: "$ ";
-  color: #A1D044;
+  color: #C88A32;
 }
 
 /* line 82, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_09_elements.scss */
