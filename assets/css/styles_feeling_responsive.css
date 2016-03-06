@@ -23,6 +23,7 @@
 ------------------------------------------------------------------- */
 /* Footer
 ------------------------------------------------------------------- */
+/* $footer-link-color: $ci-6; */
 /* Code
 ------------------------------------------------------------------- */
 /* TOC – Typography variables
@@ -8488,7 +8489,7 @@ body.video cite {
 
 /* line 276, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_07_layout.scss */
 #footer a {
-  color: #C88A32;
+  color: #FFF44D;
 }
 
 /* line 279, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/_07_layout.scss */
