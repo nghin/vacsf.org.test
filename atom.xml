@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://vacsf.org/</id>
 	<title>The Whole Bible is About Jesus!</title>
-	<updated>2016-03-08T17:32:46-07:00</updated>
+	<updated>2016-03-15T08:23:46-07:00</updated>
 
 	<subtitle>Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life.</subtitle>
 
@@ -44,11 +44,13 @@
 	    
 	
 	    
+	
+	    
 		<entry>
 			<id>http://vacsf.org/events/Fall-Festival/</id>
 			<title>Fall Festival 2015</title>
 			<link href="http://vacsf.org/events/Fall-Festival/" rel="alternate" type="text/html" title="Fall Festival 2015" />
-			<updated>2015-10-31T00:00:00-06:00</updated>
+			<updated>2015-10-31T00:00:00-07:00</updated>
 
 			
 				
@@ -92,7 +94,7 @@
 			
 			
 
-			<published>2015-10-31T00:00:00-06:00</published>
+			<published>2015-10-31T00:00:00-07:00</published>
 		</entry>
 	    
 	
@@ -101,7 +103,7 @@
 			<id>http://vacsf.org/events/Baptism-2015/</id>
 			<title>Baptism 2015</title>
 			<link href="http://vacsf.org/events/Baptism-2015/" rel="alternate" type="text/html" title="Baptism 2015" />
-			<updated>2015-10-25T00:00:00-06:00</updated>
+			<updated>2015-10-25T00:00:00-07:00</updated>
 
 			
 				
@@ -147,69 +149,7 @@
 			
 			
 
-			<published>2015-10-25T00:00:00-06:00</published>
-		</entry>
-	    
-	
-	    
-		<entry>
-			<id>http://vacsf.org/events/40th-Anniversary/</id>
-			<title>40th Anniversary Celebration</title>
-			<link href="http://vacsf.org/events/40th-Anniversary/" rel="alternate" type="text/html" title="40th Anniversary Celebration" />
-			<updated>2015-10-17T00:00:00-06:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Nghi Nguyen</name>
-					
-					
-						<email>contact@vacsf.org</email>
-					
-					
-						<uri>http://vacsf.org/</uri>
-					
-				</author>
-			
-			<summary>Vietnamese Alliance Church in San Francisco celebrated their 40th Anniversary of its founding in 1975. Over decades past, it has been a sanctuary for many; from the service in the sanctuary where hymns of praises were sung and sermons preached, to Sunday School where empowering and liberating truths were discovered and marvelled at, and fellowship over lunch was enjoyed by all.</summary>
-			<content type="html" xml:base="http://vacsf.org/events/40th-Anniversary/">&lt;!--more--&gt;
-&lt;div class=&quot;small-12 columns&quot; style=&quot;padding: 0px; border-bottom: none;&quot;&gt;
-    &lt;p&gt;Here&#39;s the video that captured this special event. Enjoy.&lt;/p&gt;
-    &lt;table border=&quot;1&quot; style=&quot;width: 100%; height: 323px;&quot;&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TOJTdb6BrMY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
-    &lt;img style=&quot;border:1px solid #dddddd&quot; width=&quot;970&quot; src=&quot;/images/40th-Anniversary.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-    
-
-
-
-
-
-
-
-
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://vacsf.org/events/Baptism-2015/&quot;&gt;Next Post in EVENTS&lt;/a&gt;
-
-
-&lt;a class=&quot;button tiny radius&quot; href=&quot;http://vacsf.org/events/Coyote-Point-Picnic/&quot;&gt;Previous Post in EVENTS&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;
-</content>
-
-			
-				<category term="events" />
-			
-			
-
-			<published>2015-10-17T00:00:00-06:00</published>
+			<published>2015-10-25T00:00:00-07:00</published>
 		</entry>
 	    
 	
