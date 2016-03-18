@@ -5937,7 +5937,7 @@ dialog[open] {
     background: #FFFFFF !important;
   }
 }
-/* line 114, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 115, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav {
   display: block;
   margin: 0;
@@ -5946,31 +5946,31 @@ dialog[open] {
   list-style-position: outside;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 70, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 71, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li {
   margin: 0 0 0 0;
   font-size: 1rem;
   font-weight: normal;
 }
-/* line 75, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 76, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button) {
   display: block;
-  color: #334D5C;
+  color: #ff0000;
   margin: 0;
   padding: 0.4375rem 0.875rem;
 }
-/* line 80, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 81, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
   background: rgba(0, 0, 0, 0.025);
   color: #1f2e37;
 }
-/* line 87, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 88, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.active > a:first-child:not(.button) {
   color: #1f2e37;
   font-weight: normal;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 93, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 94, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.divider {
   border-top: 1px solid;
   height: 0;
@@ -5978,9 +5978,9 @@ dialog[open] {
   list-style: none;
   border-top-color: #E4E4E4;
 }
-/* line 101, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
+/* line 102, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.heading {
-  color: #334D5C;
+  color: #ff0000;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
