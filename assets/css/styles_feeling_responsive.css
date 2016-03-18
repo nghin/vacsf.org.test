@@ -5955,7 +5955,7 @@ dialog[open] {
 /* line 76, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button) {
   display: block;
-  color: #ff0000;
+  color: #d30015;
   margin: 0;
   padding: 0.4375rem 0.875rem;
 }
@@ -5980,7 +5980,7 @@ dialog[open] {
 }
 /* line 102, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_side-nav.scss */
 .side-nav li.heading {
-  color: #ff0000;
+  color: #d30015;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
