@@ -28,7 +28,7 @@
   </noscript>
 NO GOOGLE FONTS -->
   
-  <meta name="google-site-verification" content="" />
+  <meta name="google-site-verification" content="raAW1dX3u8aKibVvvHhyP_wSzIW5LATk9MPMzLo3yyo" />
 	<meta name="msvalidate.01" content="" />
 	<meta name="description" content="Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life." />
 	
