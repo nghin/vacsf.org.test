@@ -6391,7 +6391,7 @@ a:hover, a:focus {
 }
 /* line 230, /home/nghin/Documents/Jekyll/vacsf.org.dev/_sass/foundation-components/_type.scss */
 a img {
-  border: none;
+  border: 1px solid #aaaaaa;
 }
 
 /* Default paragraph styles */
