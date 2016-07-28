@@ -428,7 +428,7 @@ NO GOOGLE FONTS -->
               by&nbsp;<a href="http://vacsf.org/">Nghi&nbsp;Nguyen</a>
               with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
               based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>&nbsp;-&nbsp;Thank&nbsp;You.<br />
-              <a href="https://www.searchenginegenie.com/google-rank-checker.html">Google Rank Checker</a> 
+              <a href="https://www.searchenginegenie.com/google-rank-checker.html" target="_blank">Google Rank Checker</a> 
             </p>
           </section>
 
