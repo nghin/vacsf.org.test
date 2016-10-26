@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/" rel="alternate" type="text/html" />
-  <updated>2016-10-26T16:18:02-07:00</updated>
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/</id>
+  <link href="https://vacsf.org/articles-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://vacsf.org/" rel="alternate" type="text/html" />
+  <updated>2016-10-26T16:31:39-07:00</updated>
+  <id>https://vacsf.org/</id>
 
   <title>Articles - VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>https://nghin.github.io/vacsf.org.mm.deploy/apple-touch-icon-precomposed.png</icon>
+  <icon>https://vacsf.org/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -32,15 +32,15 @@
   
     <entry>
   <title>Resist Unto Blood</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/" rel="alternate" type="text/html" title="Resist Unto Blood" />
+  <link href="https://vacsf.org/articles/Resist-unto-blood/" rel="alternate" type="text/html" title="Resist Unto Blood" />
   <published>2016-08-08T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/">
+  <id>https://vacsf.org/articles/Resist-unto-blood</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Resist-unto-blood/">
     
     &lt;!--more--&gt;
 
@@ -51,7 +51,7 @@
 &lt;p&gt;Hebrews 12:4. What is the meaning of &quot;You have not yet resisted unto blood, striving against sin&quot;? Is the goal of Christians to avoid sinning at all cost?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -72,32 +72,32 @@
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Chong-tra-toi-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Chong-tra-toi-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/resist-unto-blood.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/resist-unto-blood.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 The gospel sounds very attractive especially for those who have embarked on a treadmill of religion with no hope of salvation in sight. They heard of Jesus&#39; promise of water that satisfies forever, of rest for the weary, of peace that passes understanding, and how He died on the cross one time for all the sins of mankind, they thought there in this wonderful religion is their hope. But once they got into the fold, after an initial honeymoon of joy unspeakable, somehow they found themselves back on the treadmill. They&#39;re confused but couldn&#39;t quite put their fingers on what is going on. The messages they heard from pulpits for decades seemed different from what they heard when they were still in the dark. They used to hear of the forgiveness of sins, now they keep hearing stern warning of sins that they must &quot;resist unto blood.&quot; It seemed to them the Christians haven&#39;t solved their sin problem.
 &lt;/p&gt;
 
@@ -198,7 +198,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; rel=&quot;nofollow&quot;&gt;Resist Unto Blood&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; rel=&quot;nofollow&quot;&gt;Resist Unto Blood&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -209,7 +209,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -232,15 +232,15 @@ The gospel sounds very attractive especially for those who have embarked on a tr
   
     <entry>
   <title>The Art of Surrender</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/" rel="alternate" type="text/html" title="The Art of Surrender" />
+  <link href="https://vacsf.org/articles/Surrender/" rel="alternate" type="text/html" title="The Art of Surrender" />
   <published>2016-07-22T00:00:00-07:00</published>
 
   
     <updated>2016-07-22T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/">
+  <id>https://vacsf.org/articles/Surrender</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Surrender/">
     
     &lt;!--more--&gt;
 
@@ -249,7 +249,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 &lt;p&gt;Surrender. Rest. Peace. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-dilemma&quot; id=&quot;markdown-toc-the-dilemma&quot;&gt;The dilemma&lt;/a&gt;&lt;/li&gt;
@@ -268,26 +268,26 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Dau-Phuc-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Dau-Phuc-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-dilemma&quot;&gt;The dilemma&lt;/h2&gt;
 
@@ -334,7 +334,7 @@ All Christians experience to a varying degree great conflicts between their desi
   &lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;For those who live according to the flesh have their outlook shaped by the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.  &lt;sup&gt;6&lt;/sup&gt;For the outlook of the flesh is death, but the outlook of the Spirit is life and peace,  &lt;sup&gt;7&lt;/sup&gt;because the outlook of the flesh is hostile to God, for it &lt;u&gt;does not submit to the law of God, nor is it able to do so&lt;/u&gt; (Romans 8:5-7—NET).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Here we read that besides the fact that the flesh does not submit to the law of God, it’s unable to do so even if it does desire it. There is a very thorough discussion of the “outlook of the flesh” in the article &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;&lt;em&gt;“&lt;u&gt;Mortify the Deeds of the Flesh&lt;/u&gt;”&lt;/em&gt;&lt;/a&gt; which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.&lt;/p&gt;
+&lt;p&gt;Here we read that besides the fact that the flesh does not submit to the law of God, it’s unable to do so even if it does desire it. There is a very thorough discussion of the “outlook of the flesh” in the article &lt;a href=&quot;https://vacsf.org/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;&lt;em&gt;“&lt;u&gt;Mortify the Deeds of the Flesh&lt;/u&gt;”&lt;/em&gt;&lt;/a&gt; which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.&lt;/p&gt;
 
 &lt;h2 id=&quot;to-put-jesus-in-control&quot;&gt;To put Jesus in control?&lt;/h2&gt;
 
@@ -389,7 +389,7 @@ I yield to Thee.&lt;/p&gt;
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; rel=&quot;nofollow&quot;&gt;The Art of Surrender&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; rel=&quot;nofollow&quot;&gt;The Art of Surrender&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -400,7 +400,7 @@ I yield to Thee.&lt;/p&gt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -425,15 +425,15 @@ I yield to Thee.&lt;/p&gt;
   
     <entry>
   <title>Remaining In Sin</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/" rel="alternate" type="text/html" title="Remaining In Sin" />
+  <link href="https://vacsf.org/articles/Remain-in-Sin/" rel="alternate" type="text/html" title="Remaining In Sin" />
   <published>2016-04-20T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/">
+  <id>https://vacsf.org/articles/Remain-in-Sin</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Remain-in-Sin/">
     
     &lt;!--more--&gt;
 
@@ -442,7 +442,7 @@ I yield to Thee.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;What shall we say then? Are we to remain in sin so that grace may increase? Absolutely not! How can we who died to sin still live in it? (Romans_6:1—NET)&lt;/span&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -461,33 +461,33 @@ I yield to Thee.&lt;/p&gt;
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/O-Trong-Toi-Loi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/O-Trong-Toi-Loi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/remain-in-sin.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
-This article is a twin sibbling of the &quot;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;Mortify the deeds of the flesh&lt;/a&gt;&quot; article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, &quot;sin&quot; is perhaps the most important.
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/remain-in-sin.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+This article is a twin sibbling of the &quot;&lt;a href=&quot;https://vacsf.org/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;Mortify the deeds of the flesh&lt;/a&gt;&quot; article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, &quot;sin&quot; is perhaps the most important.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;!-- ##################### PLACEHOLDER ###################--&gt;
@@ -567,7 +567,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; rel=&quot;nofollow&quot;&gt;Remaining In Sin&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; rel=&quot;nofollow&quot;&gt;Remaining In Sin&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -578,7 +578,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -603,15 +603,15 @@ As far as the east is from the west, so far has he removed our transgressions fr
   
     <entry>
   <title>Can Man Love God?</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/" rel="alternate" type="text/html" title="Can Man Love God?" />
+  <link href="https://vacsf.org/articles/Loving-God/" rel="alternate" type="text/html" title="Can Man Love God?" />
   <published>2016-04-18T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/">
+  <id>https://vacsf.org/articles/Loving-God</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Loving-God/">
     
     &lt;!--more--&gt;
 
@@ -620,7 +620,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
 &lt;p&gt;&lt;em&gt;Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind (Luke_10:27)&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-love-commandment&quot; id=&quot;markdown-toc-the-love-commandment&quot;&gt;The Love Commandment&lt;/a&gt;&lt;/li&gt;
@@ -640,32 +640,32 @@ As far as the east is from the west, so far has he removed our transgressions fr
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Yeu-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Yeu-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-love-commandment&quot;&gt;The Love Commandment&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/loving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/loving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 The love command that Jesus uttered in Luke 10:27 has become a golden rule for virtually all variations of Bible based religions.  All other teachings from the Bible take a back seat to yield to this venerable command especially that it came from the lips of the Savior. 
 &lt;/p&gt;
 &lt;/div&gt;
@@ -738,7 +738,7 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; rel=&quot;nofollow&quot;&gt;Can Man Love God?&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; rel=&quot;nofollow&quot;&gt;Can Man Love God?&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -749,7 +749,7 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -774,22 +774,22 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
   
     <entry>
   <title>Serving God</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/" rel="alternate" type="text/html" title="Serving God" />
+  <link href="https://vacsf.org/articles/Serving-God/" rel="alternate" type="text/html" title="Serving God" />
   <published>2016-04-17T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/">
+  <id>https://vacsf.org/articles/Serving-God</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Serving-God/">
     
     &lt;!--more--&gt;
 
 &lt;!-- ##################### PLACEHOLDER ################### --&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -809,34 +809,34 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
 &lt;p&gt;Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they’re serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Hau-Viec-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Hau-Viec-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/serving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/serving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 So how do you serve God? Just the word &quot;serve&quot; itself implies something to do with spiritual things, or something in service of others, something that demands selfless devotion, that requires a certain level of personal sacrifice.
 When we talk about someone serving God, we imply that their act of service is something self initiated. It is initiated by self because it requires some personal sacrifice. Most biographies are about people who engaged in these noble acts of serving God at great personal cost. The implication also is these folks deserve some types of rewards for their sacrifices.
 &lt;/p&gt;
@@ -936,7 +936,7 @@ When we talk about someone serving God, we imply that their act of service is so
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; rel=&quot;nofollow&quot;&gt;Serving God&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; rel=&quot;nofollow&quot;&gt;Serving God&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -947,7 +947,7 @@ When we talk about someone serving God, we imply that their act of service is so
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -972,15 +972,15 @@ When we talk about someone serving God, we imply that their act of service is so
   
     <entry>
   <title>Abraham’s Prayer</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/" rel="alternate" type="text/html" title="Abraham&#39;s Prayer" />
+  <link href="https://vacsf.org/articles/Abrahams-Prayer/" rel="alternate" type="text/html" title="Abraham&#39;s Prayer" />
   <published>2016-04-16T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/">
+  <id>https://vacsf.org/articles/Abrahams-Prayer</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Abrahams-Prayer/">
     
     &lt;!--more--&gt;
 
@@ -989,7 +989,7 @@ When we talk about someone serving God, we imply that their act of service is so
 &lt;p&gt;&lt;em&gt;And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7)…&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -1010,34 +1010,34 @@ When we talk about someone serving God, we imply that their act of service is so
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
 &lt;p&gt;&lt;em&gt;“And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7). Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few (Ecclesiastes 5:2). Then the LORD answered Job out of the whirlwind and said, &quot;Who is this that darkens counsel by words without knowledge?&quot; (Job 38:1-2)”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Loi-Cau-Nguyen-cua-Abraham/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Loi-Cau-Nguyen-cua-Abraham/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/candle-prayer.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/candle-prayer.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 Though this article is about prayer, its goal is to take the eyes of the one who prays away from himself, from the objects of his prayer, or even the technicalities, the how-to&#39;s of the prayer itself, and focus them on the Person to whom he prays.
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1148,7 +1148,7 @@ Though this article is about prayer, its goal is to take the eyes of the one who
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; rel=&quot;nofollow&quot;&gt;Abraham&#39;s Prayer&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; rel=&quot;nofollow&quot;&gt;Abraham&#39;s Prayer&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1159,7 +1159,7 @@ Though this article is about prayer, its goal is to take the eyes of the one who
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -1180,15 +1180,15 @@ Though this article is about prayer, its goal is to take the eyes of the one who
   
     <entry>
   <title>Abusing God’s Grace</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/" rel="alternate" type="text/html" title="Abusing God&#39;s Grace" />
+  <link href="https://vacsf.org/articles/Abusing-Grace/" rel="alternate" type="text/html" title="Abusing God&#39;s Grace" />
   <published>2016-03-21T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/">
+  <id>https://vacsf.org/articles/Abusing-Grace</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Abusing-Grace/">
     
     &lt;!--more--&gt;
 
@@ -1197,7 +1197,7 @@ Though this article is about prayer, its goal is to take the eyes of the one who
 &lt;p&gt;Grace can be just a word to fill a part of a theology, or it can be something so precious that most are blind to it until when the eyes are opened to its wondrous life transforming power. A Christian whose root grows deep in the grace and knowledge of Christ (2 Peter 3:18) is still, and always has been, a rare breed, and yet here we’re talking about &quot;not abusing God’s grace.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -1217,32 +1217,32 @@ Though this article is about prayer, its goal is to take the eyes of the one who
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Lam-dung-an-dien/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Lam-dung-an-dien/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/break-the-chains.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/break-the-chains.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 There have been many sermons preached and books written on various subjects; but no matter what the titles are and however many angles from which they came, the underlying teaching is a focus on sins and the warnings against falling into them. More often than not, Romans 6:1 is used as the basis for such teaching: &lt;em&gt;&quot;What shall we say then? Are we to remain in sin so that grace may increase?&quot;&lt;/em&gt;
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1309,7 +1309,7 @@ There have been many sermons preached and books written on various subjects; but
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; rel=&quot;nofollow&quot;&gt;Abusing God&#39;s Grace&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; rel=&quot;nofollow&quot;&gt;Abusing God&#39;s Grace&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1320,7 +1320,7 @@ There have been many sermons preached and books written on various subjects; but
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -1341,15 +1341,15 @@ There have been many sermons preached and books written on various subjects; but
   
     <entry>
   <title>Missing God’s Grace</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/" rel="alternate" type="text/html" title="Missing God&#39;s Grace" />
+  <link href="https://vacsf.org/articles/Missing-Gods-Grace/" rel="alternate" type="text/html" title="Missing God&#39;s Grace" />
   <published>2016-03-06T00:00:00-08:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/">
+  <id>https://vacsf.org/articles/Missing-Gods-Grace</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Missing-Gods-Grace/">
     
     &lt;!--more--&gt;
 
@@ -1358,7 +1358,7 @@ There have been many sermons preached and books written on various subjects; but
 &lt;p&gt;Have you always lived the Christian life like walking a tightrope? One misstep and down you go. Though you might be blessed with a faith to believe that Jesus will not let you fall forever into your death, it is the constant fear of falling that makes for a very lethargic and powerless journey into eternity. Knowing the real cause of the falling from God’s grace will give you Jesus’ promised peace that passes understanding.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#common-interpretation&quot; id=&quot;markdown-toc-common-interpretation&quot;&gt;Common interpretation&lt;/a&gt;&lt;/li&gt;
@@ -1381,26 +1381,26 @@ There have been many sermons preached and books written on various subjects; but
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Trat-phan-an-dien/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Trat-phan-an-dien/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;You who are trying to be justified by the law have been alienated from Christ; you have &lt;strong&gt;fallen away from grace&lt;/strong&gt; (Galatians 5:4).&lt;/p&gt;
@@ -1410,7 +1410,7 @@ There have been many sermons preached and books written on various subjects; but
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/FallingFromGrace.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/FallingFromGrace.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 A quick Internet search returns the following excerpt of an article which shows a common conception of why someone might fall from grace: &lt;em&gt;&quot;Once one receives God’s grace and stands in His grace, &lt;u&gt;future unrepentant actions&lt;/u&gt; by that individual could cause him or her to fall short of being under grace. For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that wrong attitude or spirit and fall short of the grace of God.&quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -1531,7 +1531,7 @@ A quick Internet search returns the following excerpt of an article which shows 
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; rel=&quot;nofollow&quot;&gt;Missing God&#39;s Grace&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; rel=&quot;nofollow&quot;&gt;Missing God&#39;s Grace&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1542,7 +1542,7 @@ A quick Internet search returns the following excerpt of an article which shows 
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -1563,15 +1563,15 @@ A quick Internet search returns the following excerpt of an article which shows 
   
     <entry>
   <title>Suffering with Christ</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/" rel="alternate" type="text/html" title="Suffering with Christ" />
+  <link href="https://vacsf.org/articles/Suffer-with-Christ/" rel="alternate" type="text/html" title="Suffering with Christ" />
   <published>2016-02-28T00:00:00-08:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/">
+  <id>https://vacsf.org/articles/Suffer-with-Christ</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Suffer-with-Christ/">
     
     &lt;!--more--&gt;
 
@@ -1580,7 +1580,7 @@ A quick Internet search returns the following excerpt of an article which shows 
 &lt;p&gt;Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality. The virtue of self sacrifice is exalted in virtually all religions. Concerning Christianity, what does the Bible say about suffering? Let us take a close look at the suffering of Christ to see if our perception of suffering with, or for, Him is indeed what the apostle Paul had in mind when he wrote Romans 8:17.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#suffering-as-a-spiritual-discipline&quot; id=&quot;markdown-toc-suffering-as-a-spiritual-discipline&quot;&gt;Suffering as a spiritual discipline&lt;/a&gt;&lt;/li&gt;
@@ -1598,26 +1598,26 @@ A quick Internet search returns the following excerpt of an article which shows 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Chiu-kho-voi-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Chiu-kho-voi-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;sup&gt;16&lt;/sup&gt;The Spirit himself bears witness to our spirit that we are God’s children.  &lt;sup&gt;17&lt;/sup&gt;And if children, then heirs (namely, heirs of God and also fellow heirs with Christ) - &lt;u&gt;&lt;strong&gt;if indeed we suffer with him&lt;/strong&gt;&lt;/u&gt; so we may also be glorified with him (Romans 8:16-17).&lt;/p&gt;
@@ -1627,7 +1627,7 @@ A quick Internet search returns the following excerpt of an article which shows 
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/sufferingChrist.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/sufferingChrist.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 There is no need for one to be a Christian to possess the world view that there is great value in suffering. Suffering can be through the hands of others, sometimes it is self inflicted, sometimes it is in some form of deprivation of senses, pleasure, even needs. There are myriad expressions of suffering as necessary condition to higher spiritual attainment. The key verses we&#39;re studying here is the suffering of Christ, and we in turn are admonished to suffer with Him, therefore the question we must first ask is: Why did Christ have to suffer? What is the underlying motive for His suffering, and does it match with the objective of the world, at least of the Christian world, as it tries to suffer with Him?
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1703,7 +1703,7 @@ There is no need for one to be a Christian to possess the world view that there 
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; rel=&quot;nofollow&quot;&gt;Suffering with Christ&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; rel=&quot;nofollow&quot;&gt;Suffering with Christ&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1714,7 +1714,7 @@ There is no need for one to be a Christian to possess the world view that there 
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
@@ -1735,15 +1735,15 @@ There is no need for one to be a Christian to possess the world view that there 
   
     <entry>
   <title>Deliberate Sin</title>
-  <link href="https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/" rel="alternate" type="text/html" title="Deliberate Sin" />
+  <link href="https://vacsf.org/articles/Deliberate-Sin/" rel="alternate" type="text/html" title="Deliberate Sin" />
   <published>2016-02-15T00:00:00-08:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin</id>
-  <content type="html" xml:base="https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/">
+  <id>https://vacsf.org/articles/Deliberate-Sin</id>
+  <content type="html" xml:base="https://vacsf.org/articles/Deliberate-Sin/">
     
     &lt;!--more--&gt;
 
@@ -1752,7 +1752,7 @@ There is no need for one to be a Christian to possess the world view that there 
 &lt;p&gt;What sin is written about in Hebrews 10:26-27? The common transgressions that good Christians should avoid at all cost? Or something specific that warrants such stern warning? This writing proposes that the deliberate sinning addressed in this passage is not about sins in general, but about a specific sin that calls for God’s judgement, and a fury of fire, the sin that makes one an enemy of God.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#synopsis&quot; id=&quot;markdown-toc-synopsis&quot;&gt;Synopsis&lt;/a&gt;&lt;/li&gt;
@@ -1778,26 +1778,26 @@ There is no need for one to be a Christian to possess the world view that there 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/viet-studies/Co-y-pham-toi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/viet-studies/Co-y-pham-toi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;sup&gt;26&lt;/sup&gt;For if we &lt;u&gt;&lt;strong&gt;deliberately keep on sinning&lt;/strong&gt;&lt;/u&gt; after receiving the &lt;u&gt;&lt;strong&gt;knowledge of the truth&lt;/strong&gt;&lt;/u&gt;, &lt;u&gt;&lt;strong&gt;no further sacrifice&lt;/strong&gt;&lt;/u&gt; for sins is left for us, &lt;sup&gt;27&lt;/sup&gt;but only a certain fearful expectation of &lt;u&gt;&lt;strong&gt;judgment&lt;/strong&gt;&lt;/u&gt; and a fury of fire that will consume &lt;u&gt;&lt;strong&gt;God&#39;s enemies&lt;/strong&gt;&lt;/u&gt; &lt;cite&gt;Hebrews 10:26-27)&lt;/cite&gt;.&lt;/p&gt;
@@ -1807,7 +1807,7 @@ There is no need for one to be a Christian to possess the world view that there 
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://nghin.github.io/vacsf.org.mm.deploy/assets/images/deliberate-sinning.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://vacsf.org/assets/images/deliberate-sinning.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;&quot; /&gt;
 Contrary to common interpretation, the deliberate sinning here is not against the law of sin and death, but against the new law of the spirit of life. The target audience is most likely Christians who though profess Christ still deal with sins as though Christ&#39;s sacrifice is not enough, they still offer sacrifices for sins, but none is left. The arrival of Christ as a perfect sacrifice provided by God has obsoleted the previous sacrificial system. By relying on the old sacrifices of the blood of bulls and goats (Hebrews 10:4), they deliberately sinned by not placing their full trust on Christ, and in doing so they chose to live under the law, and by the law they will be judged (Galatians 3:12). In trusting in sacrifices other than Christ, they became God&#39;s enemies (Hebrews 10:29).
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1866,7 +1866,7 @@ Contrary to common interpretation, the deliberate sinning here is not against th
   &lt;p&gt;&lt;sup&gt;31&lt;/sup&gt;For this reason I tell you, people will be forgiven for every sin and blasphemy, but the blasphemy against the Spirit will not be forgiven.  &lt;sup&gt;32&lt;/sup&gt;Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Every sin can be forgiven except one. There is no further need to pit between camels and gnats. You can even blaspheme against God Himself and be forgiven, but you’re not allowed to change the message of the Holy Spirit: sin is the act of not believing in Christ. The original Greek word for “blasphemy” may also be translated to “slander,” to distort the ministry of the Holy Spirit (click &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/bible-topics/meditations/grieving-holy-spirit/#blasphemy&quot;&gt;here&lt;/a&gt; for further discussion on the word “blaspheme”).&lt;/p&gt;
+&lt;p&gt;Every sin can be forgiven except one. There is no further need to pit between camels and gnats. You can even blaspheme against God Himself and be forgiven, but you’re not allowed to change the message of the Holy Spirit: sin is the act of not believing in Christ. The original Greek word for “blasphemy” may also be translated to “slander,” to distort the ministry of the Holy Spirit (click &lt;a href=&quot;https://vacsf.org/bible-topics/meditations/grieving-holy-spirit/#blasphemy&quot;&gt;here&lt;/a&gt; for further discussion on the word “blaspheme”).&lt;/p&gt;
 
 &lt;p&gt;The slanderer of the Holy Spirit takes peoples eyes from the main and singular objective: Christ, and moves them to the myriad camels and gnats, and the intentional or unintentional, of sins. They move them from the position of the assurance of salvation to the confusing world of chasing endlessly one sin after another.&lt;/p&gt;
 
@@ -1994,7 +1994,7 @@ Contrary to common interpretation, the deliberate sinning here is not against th
 
     
 
-&lt;p&gt;&lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/articles/Deliberate-Sin/&quot; rel=&quot;nofollow&quot;&gt;Deliberate Sin&lt;/a&gt; was originally published by &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://nghin.github.io/vacsf.org.mm.deploy&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/articles/Deliberate-Sin/&quot; rel=&quot;nofollow&quot;&gt;Deliberate Sin&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -2005,7 +2005,7 @@ Contrary to common interpretation, the deliberate sinning here is not against th
       <name>Nghi Nguyen</name>
     
     
-    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+    <uri>https://vacsf.org/</uri>
   </author>
 
 
