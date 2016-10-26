@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+
+  <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+  <link href="https://nghin.github.io/vacsf.org.mm.deploy/mastering-paper-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://nghin.github.io/vacsf.org.mm.deploy/" rel="alternate" type="text/html" />
+  <updated>2016-10-26T16:18:02-07:00</updated>
+  <id>https://nghin.github.io/vacsf.org.mm.deploy/</id>
+
+  <title>Mastering Paper by FiftyThree - VIETNAMESE ALLIANCE CHURCH &amp;mdash; SAN FRANCISCO, CA</title>
+
+  
+    <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
+  
+
+  <icon>https://nghin.github.io/vacsf.org.mm.deploy/apple-touch-icon-precomposed.png</icon>
+
+
+  
+  <author>
+    
+      <name>Nghi Nguyen</name>
+    
+    
+    <uri>https://nghin.github.io/vacsf.org.mm.deploy/</uri>
+  </author>
+
+
+
+  
+
+</feed>

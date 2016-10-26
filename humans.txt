@@ -1,21 +1,18 @@
-/* TEAM */
+_  ________ ____   _  ______________  _________
+|\/||__||  \|___   |\/||[__  | |__||_/ |___[__
+|  ||  ||__/|___   |  ||___] | |  || \_|______]
 
-Name: Nghi Nguyen
-Site: http://vacsf.org/
+/* MADEMISTAKES.COM */
 
+  Designer:     Michael Rose
+  Twitter:      @mmistakes
+  Location:     Buffalo, New York USA
 
-/* THANKS */
-
-Name: Moritz »mo.« Sauer
-Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
-
-
-/* SITE */
-
-Last Updated: 2016/09/13
-Standards: HTML5, CSS3
-Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
-Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
+  Last updated: 2016-10-26 16:18:02 -0700
+  Language:     English
+  Built with:   Jekyll 3.1.6 <http://jekyllrb.com>
+                Sublime Text 3 <http://www.sublimetext.com>
+                Adobe Creative Suite
+                Gulp <http://gulpjs.com/>
+                SimpleIcon <http://www.flaticon.com>
+                Noun Project <https://thenounproject.com>

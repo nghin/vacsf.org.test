@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: http://vacsf.org/sitemap.xml
+Disallow: /cdn-cgi/
+Sitemap: https://nghin.github.io/vacsf.org.mm.deploy/sitemap.xml
