@@ -6,7 +6,7 @@
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
   <link href="http://vacsf.org/atom.xml" rel="self" type="application/atom+xml" />
   <link href="http://vacsf.org/" rel="alternate" type="text/html" />
-  <updated>2016-11-07T11:23:12-08:00</updated>
+  <updated>2016-11-13T19:37:49-08:00</updated>
   <id>http://vacsf.org/</id>
 
   <title>VACSF.ORG</title>
@@ -63,6 +63,7 @@
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -86,6 +87,7 @@
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Xuat-E-gyp-to-19-4-25/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -268,6 +270,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -291,6 +294,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;h2 id=&quot;bi-ging-ca-dr-mcgee&quot;&gt;Bài giảng của Dr. McGee&lt;/h2&gt;
 
@@ -464,6 +468,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -487,6 +492,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -608,7 +614,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -627,9 +633,10 @@ The general consensus is the world, whose definition we’ll explore later, is s
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;h2 id=&quot;th-gian-xc-tht-v-ti-li&quot;&gt;Thế gian, xác thịt, và tội lỗi&lt;/h2&gt;
 
@@ -754,6 +761,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -777,6 +785,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Chong-tra-toi-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -947,7 +956,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -966,9 +975,10 @@ The gospel sounds very attractive especially for those who have embarked on a tr
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;Hebrews 12:4. Ý nghĩa của câu Kinh Thánh &quot;Trong cuộc chiến đấu với tội lỗi, anh chị em chống cự chưa đến mức đổ máu.&quot;? Phải chăng mục đích của đời sống tín hữu là chống trả với tội lỗi?&lt;/p&gt;
 
@@ -1146,6 +1156,7 @@ Phúc Âm nghe rất hấp dẫn nhất là đối với những kẻ đã từn
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -1169,6 +1180,7 @@ Phúc Âm nghe rất hấp dẫn nhất là đối với những kẻ đã từn
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dau-Phuc-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
@@ -1334,7 +1346,7 @@ I yield to Thee.&lt;/p&gt;
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1353,9 +1365,10 @@ I yield to Thee.&lt;/p&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;Làm sao chúng ta có thể đầu phục Chúa nếu &lt;em&gt;&quot;xác thịt có những dục vọng trái với Thánh Linh&quot;&lt;/em&gt; (Galatians 5:17) và: &lt;em&gt;&quot;… tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét (Romans 7:15).&quot;&lt;/em&gt;&lt;/p&gt;
 
@@ -1531,6 +1544,7 @@ But I say, live by the Spirit and you will not carry out the desires of the fles
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -1554,6 +1568,7 @@ But I say, live by the Spirit and you will not carry out the desires of the fles
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/O-Trong-Toi-Loi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
@@ -1704,7 +1719,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1723,9 +1738,10 @@ As far as the east is from the west, so far has he removed our transgressions fr
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;sup&gt;1&lt;/sup&gt;Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  &lt;sup&gt;2&lt;/sup&gt;Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;6:1—NET)&lt;/em&gt;.&lt;/p&gt;
 
@@ -1883,6 +1899,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -1906,6 +1923,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Yeu-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
@@ -2049,7 +2067,7 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -2068,9 +2086,10 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;Chúng ta hãy suy gẫm về hai câu Kinh Thánh sau: &lt;em&gt;“Ngươi phải hết lòng, hết linh hồn, hết sức, hết trí mà kính mến Chúa là Ðức Chúa Trời ngươi”&lt;/em&gt; &lt;em&gt;(Luke&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;10:27)&lt;/em&gt;, và &lt;em&gt;“Nầy sự yêu thương ở tại đây: ấy chẳng phải chúng ta đã yêu Ðức Chúa Trời, nhưng Ngài đã yêu chúng ta, và sai Con Ngài làm của lễ chuộc tội chúng ta” (1 John&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;4:10)&lt;/em&gt;. Làm sao chúng ta có thể hoà giải được hai chân lý này về sự yêu thương? Một mệnh lệnh chúng ta phải yêu Chúa cách hết lòng, còn một định nghĩa khác nói rằng tình yêu không phải là của loài người cho Chúa, nhưng là của Chúa yêu loài người.&lt;/p&gt;
 
@@ -2220,6 +2239,7 @@ Mệnh lệnh yêu thương mà Chúa Giê-su đã phán trong Luke 10:27 đã t
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -2243,6 +2263,7 @@ Mệnh lệnh yêu thương mà Chúa Giê-su đã phán trong Luke 10:27 đã t
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they’re serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?&lt;/p&gt;
 
@@ -2373,11 +2394,7 @@ When we talk about someone serving God, we imply that their act of service is so
   
 
   
-    <category term="love" />
-  
-    <category term="luke" />
-  
-    <category term="sin" />
+    <category term="service" />
   
 
   
@@ -2415,7 +2432,7 @@ When we talk about someone serving God, we imply that their act of service is so
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
-&lt;nav class=&quot;js-toc toc&quot;&gt;
+&lt;!-- &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Các Đề Tài Khác&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Đừng làm theo đời này&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Ý nghĩa đúng của &quot;đời này&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -2434,9 +2451,10 @@ When we talk about someone serving God, we imply that their act of service is so
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Quan-Kham-Sai/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Quan Khâm Sai&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Bạn Đang Rao Truyền Phúc Âm Gì?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Làm Buồn Thánh Linh&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Mất Sự Sống Đời Đời?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Phan-thuong-tren-troi/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Phần Thưởng&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&amp;gt;Cứu-Rỗi-&amp;gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Vòng Tròn Đức-Tin-&gt;Cứu-Rỗi-&gt;Việc-Làm&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Một Vòng Tròn Luẩn Quẩn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;Rất nhiều bài vở đã được viết về chủ đề &quot;Hầu Việc Chúa.&quot; Những người đang làm một việc gì đó liên hệ đến đức tin thì nghĩ rằng họ đang hầu việc Chúa. Người viết sách về sự hầu việc Chúa nghĩ rằng họ đang làm công việc đó. Thế còn những người đang nhận lãnh những sự chỉ dạy đó, họ biết phải làm gì để hầu việc Ngài?&lt;/p&gt;
 
@@ -2615,6 +2633,7 @@ Vậy bạn phải hầu việc Chúa như thế nào? Chữ &quot;hầu việc&
   &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
 &lt;/nav&gt;
 
+&lt;!--
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -2638,6 +2657,7 @@ Vậy bạn phải hầu việc Chúa như thế nào? Chữ &quot;hầu việc&
       &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
+--&gt;
 
 &lt;p&gt;&lt;em&gt;“And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7). Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few (Ecclesiastes 5:2). Then the LORD answered Job out of the whirlwind and said, &quot;Who is this that darkens counsel by words without knowledge?&quot; (Job 38:1-2)”&lt;/em&gt;&lt;/p&gt;
 
