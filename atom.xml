@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://vacsf.org/</id>
+	<title>The Whole Bible is About Jesus!</title>
+	<updated>2016-06-29T19:52:49-07:00</updated>
+
+	<subtitle>Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Nghi Nguyen</name>
+			
+			
+				<email>contact@vacsf.org</email>
+			
+			
+				<uri>http://vacsf.org/</uri>
+			
+		</author>
+	
+
+	<link href="http://vacsf.org/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://vacsf.org/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+</feed>
