@@ -6391,7 +6391,7 @@ a:hover, a:focus {
 }
 /* line 230, /home/ubuntu/vacsf.org.dev/_sass/foundation-components/_type.scss */
 a img {
-  border: none;
+  border: 1px solid #aaaaaa;
 }
 
 /* Default paragraph styles */
@@ -7450,19 +7450,19 @@ h2 {
 /* line 99, /home/ubuntu/vacsf.org.dev/_sass/_06_typography.scss */
 h3 {
   font-size: 1.563em;
-  margin: 1.152em 0 0 0;
+  /* margin: 1.152em 0 0 0; */
 }
 
 /* line 103, /home/ubuntu/vacsf.org.dev/_sass/_06_typography.scss */
 h4 {
   font-size: 1.25em;
-  margin: 1.152em 0 0 0;
+  /* margin: 1.152em 0 0 0; */
 }
 
 /* line 107, /home/ubuntu/vacsf.org.dev/_sass/_06_typography.scss */
 h5 {
   font-size: 1.152em;
-  margin: 1em 0 0 0;
+  /* margin: 1em 0 0 0; */
 }
 
 /* Images
@@ -8778,7 +8778,7 @@ button.grey:focus,
 /* line 108, /home/ubuntu/vacsf.org.dev/_sass/_09_elements.scss */
 .side-nav li a:not(.button) {
   border-bottom: 0;
-  padding: 0.4375rem 0rem;
+  padding: 0.4375rem 0rem 0rem 0rem;
 }
 
 /* line 109, /home/ubuntu/vacsf.org.dev/_sass/_09_elements.scss */
