@@ -1,2090 +1,435 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 117 links with priority=0.3, changefreq=monthly -->
-
-	
-	<url>
-	<loc>http://vacsf.org/events/summer-camp-2016/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/404.html</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/purposes/apostle/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/giang/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/chua-gie-su/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/phao-lo/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/su-do/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/ket-luan/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/cuu-roi/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/salvation/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/history/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/purposes/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/summary/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/chiu-dau-don-voi-chua/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/chong-tra-toi-loi/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/dau-phuc-Chua/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/parables/evil-steward/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/the-cycle/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/01/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/02/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/03/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/04/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/05/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/06/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/01/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/02/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/03/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/04/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/05/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-galatians/06/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/ngu-ngon/gieo-giong/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/hau-viec-chua/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/christ-in-me/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/in-whose-name/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/purposes/jesus/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/purposes/john/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/lam-dung-an-dien/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/lich-su/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/loi-cau-nguyen-cua-abraham/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/lukewarm/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/ngu-ngon/luoi-ca/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/ngu-ngon/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/o-trong-toi-loi/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/parables/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/purposes/paul/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/phan-thuong/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/ngu-ngon/quan-gia/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/quan-kham-sai/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/quyen-nang-cua-an-dien/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/rewards/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/01/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/02/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/03/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/04/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/05/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/06/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/07/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/08/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/09/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/10/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/11/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/01/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/02/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/03/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/04/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/05/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/06/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/07/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/08/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/09/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/10/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/book-of-romans/11/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/pages/bible-study/Romans/Romans-Chapter-12/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ga-la-ti/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/sach-ro-ma/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/sanctification/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/parables/sower/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/ngu-ngon/ta-lang/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/parables/talents/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/parables/the-net/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/trat-phan-an-dien/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/bap-tem/trong-danh/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/true-spirituality/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/hoc-kinh-thanh/suy-gam/yeu-Chua/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/archive/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/atom.xml</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/email/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/feed.xml</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/humans.txt</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/info/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/redirect-page/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/robots.txt</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/search/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/sitemap.xml</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/page2/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/page3/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/page4/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/page5/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/blog/page6/</loc>
-	
-		<lastmod>2016-09-13T23:52:20-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-
-<!-- Posts: 26 links with priority=0.5, changefreq=monthly -->
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/resist-unto-blood/</loc>
-	
-		<lastmod>2016-08-08T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/surrender/</loc>
-	
-		<lastmod>2016-07-22T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/remain-in-sin/</loc>
-	
-		<lastmod>2016-04-20T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/loving-god/</loc>
-	
-		<lastmod>2016-04-18T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/serving-god/</loc>
-	
-		<lastmod>2016-04-17T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/abraham-prayer/</loc>
-	
-		<lastmod>2016-04-16T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/abusing-grace/</loc>
-	
-		<lastmod>2016-03-21T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/missing-gods-grace/</loc>
-	
-		<lastmod>2016-03-06T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/suffer-with-christ/</loc>
-	
-		<lastmod>2016-02-28T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/deliberate-sinning/</loc>
-	
-		<lastmod>2016-02-15T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/the-enabling-grace/</loc>
-	
-		<lastmod>2016-02-01T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/put-to-death-the-deeds-of-the-body/</loc>
-	
-		<lastmod>2016-01-19T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/ambassador/</loc>
-	
-		<lastmod>2015-11-30T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/grieving-holy-spirit/</loc>
-	
-		<lastmod>2015-11-19T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/bible-topics/meditations/baptism/</loc>
-	
-		<lastmod>2015-11-16T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Fall-Festival/</loc>
-	
-		<lastmod>2015-10-31T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Baptism-2015/</loc>
-	
-		<lastmod>2015-10-25T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/40th-Anniversary/</loc>
-	
-		<lastmod>2015-10-17T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Coyote-Point-Picnic/</loc>
-	
-		<lastmod>2015-09-20T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Natural-Bridges-Picnic/</loc>
-	
-		<lastmod>2015-08-04T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/VAY-Bay-Area-Camp/</loc>
-	
-		<lastmod>2015-07-02T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Tet-Nguyen-Dan/</loc>
-	
-		<lastmod>2015-02-18T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/MLK-Retreat-Jackson-CA/</loc>
-	
-		<lastmod>2015-01-18T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Christmas-VACSF/</loc>
-	
-		<lastmod>2014-12-21T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Harvest-Festival/</loc>
-	
-		<lastmod>2014-10-31T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://vacsf.org/events/Baptism/</loc>
-	
-		<lastmod>2012-12-02T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://vacsf.org/articles/Immitation-of-Christ/</loc>
+<lastmod>2016-11-13T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Theo-guong-Gie-su/</loc>
+<lastmod>2016-11-13T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Exodus-19-04-25/</loc>
+<lastmod>2016-11-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Xuat-E-gyp-to-19-4-25/</loc>
+<lastmod>2016-11-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Do-not-conform-to-this-world/</loc>
+<lastmod>2016-10-26T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/</loc>
+<lastmod>2016-10-26T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Resist-unto-blood/</loc>
+<lastmod>2016-08-08T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Chong-tra-toi-loi/</loc>
+<lastmod>2016-08-08T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Surrender/</loc>
+<lastmod>2016-07-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Dau-Phuc-Chua/</loc>
+<lastmod>2016-07-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Remain-in-Sin/</loc>
+<lastmod>2016-04-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/O-Trong-Toi-Loi/</loc>
+<lastmod>2016-04-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Loving-God/</loc>
+<lastmod>2016-04-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Yeu-Chua/</loc>
+<lastmod>2016-04-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Serving-God/</loc>
+<lastmod>2016-04-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Hau-Viec-Chua/</loc>
+<lastmod>2016-04-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Abrahams-Prayer/</loc>
+<lastmod>2016-04-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Loi-Cau-Nguyen-cua-Abraham/</loc>
+<lastmod>2016-04-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Abusing-Grace/</loc>
+<lastmod>2016-03-21T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Lam-dung-an-dien/</loc>
+<lastmod>2016-03-21T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Missing-Gods-Grace/</loc>
+<lastmod>2016-03-06T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Trat-phan-an-dien/</loc>
+<lastmod>2016-03-06T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Suffer-with-Christ/</loc>
+<lastmod>2016-02-28T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Chiu-kho-voi-Chua/</loc>
+<lastmod>2016-02-28T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Deliberate-Sin/</loc>
+<lastmod>2016-02-15T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Co-y-pham-toi/</loc>
+<lastmod>2016-02-15T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/The-Enabling-Grace/</loc>
+<lastmod>2016-02-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Quyen-nang-an-dien/</loc>
+<lastmod>2016-02-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/</loc>
+<lastmod>2016-01-19T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Lam-chet-cac-viec-cua-chi-the/</loc>
+<lastmod>2016-01-19T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/The-Ambassador/</loc>
+<lastmod>2015-11-30T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Quan-Kham-Sai/</loc>
+<lastmod>2015-11-30T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Grieve-Holy-Spirit/</loc>
+<lastmod>2015-11-19T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Lam-Buon-Thanh-Linh/</loc>
+<lastmod>2015-11-19T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Rewards-in-heaven/</loc>
+<lastmod>2015-10-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/Phan-thuong-tren-troi/</loc>
+<lastmod>2015-10-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/articles/Faith-Salvation-Work-Cycle/</loc>
+<lastmod>2015-09-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-01/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/parable/Sower/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-01/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-01/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/ngu-ngon/Nguoi-Gieo-Giong/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-01/</loc>
+<lastmod>2015-05-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-02/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/parable/Evil-Steward/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-02/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-02/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/ngu-ngon/Quan-Gia/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-02/</loc>
+<lastmod>2015-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-03/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/parable/Talents/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-03/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-03/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/ngu-ngon/Ta-Lang/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-03/</loc>
+<lastmod>2015-05-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-04/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/parable/The-Net/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-04/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-04/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/ngu-ngon/Luoi-Ca/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-04/</loc>
+<lastmod>2015-05-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-05/</loc>
+<lastmod>2015-05-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-05/</loc>
+<lastmod>2015-05-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-05/</loc>
+<lastmod>2015-05-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-05/</loc>
+<lastmod>2015-05-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-06/</loc>
+<lastmod>2015-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians/Galatians-Chapter-06/</loc>
+<lastmod>2015-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-06/</loc>
+<lastmod>2015-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/galatians-viet/Ga-la-ti-Chuong-06/</loc>
+<lastmod>2015-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-07/</loc>
+<lastmod>2015-05-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-07/</loc>
+<lastmod>2015-05-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-08/</loc>
+<lastmod>2015-05-13T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-08/</loc>
+<lastmod>2015-05-13T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-09/</loc>
+<lastmod>2015-05-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-09/</loc>
+<lastmod>2015-05-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-10/</loc>
+<lastmod>2015-05-11T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-10/</loc>
+<lastmod>2015-05-11T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans/Romans-Chapter-11/</loc>
+<lastmod>2015-05-10T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/romans-viet/Ro-ma-Chuong-11/</loc>
+<lastmod>2015-05-10T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies/Romans/</loc>
+<lastmod>2015-01-17T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies-viet/Ro-ma/</loc>
+<lastmod>2015-01-17T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies/Galatians/</loc>
+<lastmod>2015-01-16T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies-viet/Ga-la-ti/</loc>
+<lastmod>2015-01-16T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies/Parables/</loc>
+<lastmod>2015-01-15T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies-viet/Ngu-Ngon/</loc>
+<lastmod>2015-01-15T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies/Baptism/</loc>
+<lastmod>2015-01-14T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies-viet/Bap-tem/</loc>
+<lastmod>2015-01-14T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/purposes/apostle/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/muc-dich/giang/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/muc-dich/chua-gie-su/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/muc-dich/phao-lo/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/muc-dich/su-do/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/ket-luan/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/cuu-roi/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/essential/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/history/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/purposes/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/summary/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/in-the-name/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/purposes/jesus/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/purposes/john/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/lich-su/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/muc-dich/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/purposes/paul/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/baptism/trong-danh/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/about/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies-viet/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/bible-studies/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/contact/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/sitemap/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/style-guide/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/styling-elements/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/tag/</loc>
+</url>
+<url>
+<loc>http://vacsf.org/viet-studies/</loc>
+</url>
 </urlset>
