@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://localhost:4000/articles-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2016-11-25T10:09:09-08:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://vacsf.org/articles-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
+  <updated>2016-11-25T10:15:07-08:00</updated>
+  <id>http://vacsf.org/</id>
 
   <title>Articles - VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -32,20 +32,20 @@
   
     <entry>
   <title>The Law of Christ</title>
-  <link href="http://localhost:4000/articles/Law-of-Christ/" rel="alternate" type="text/html" title="The Law of Christ" />
+  <link href="http://vacsf.org/articles/Law-of-Christ/" rel="alternate" type="text/html" title="The Law of Christ" />
   <published>2016-11-22T00:00:00-08:00</published>
 
   
     <updated>2016-11-19T08:14:45-08:00</updated>
   
 
-  <id>http://localhost:4000/articles/Law-of-Christ</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Law-of-Christ/">
+  <id>http://vacsf.org/articles/Law-of-Christ</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Law-of-Christ/">
     
     &lt;p&gt;Most people cite Galatians 6:2 as the definition for the new law of Christ: &lt;em&gt;“Carry one another’s burdens, and in this way you will fulfill the law of Christ.”&lt;/em&gt; Some also cite the gospel verses, such as Matthew 12:30-31, where Jesus gave a new commandment as the new law of Christ: &lt;em&gt;“&lt;sup&gt;30&lt;/sup&gt;Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ &lt;sup&gt;31&lt;/sup&gt;The second is: ‘Love your neighbor as yourself.’ There is no other commandment greater than these.”&lt;/em&gt; This article will show why a simplistic interpretation and application of the law of Christ, specifically in the context of Galatians 6:2, is not in accordance with the intended meaning in Scriptures.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-purpose-of-the-law&quot; id=&quot;markdown-toc-the-purpose-of-the-law&quot;&gt;The purpose of the law&lt;/a&gt;&lt;/li&gt;
@@ -55,11 +55,11 @@
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/luat-phap-cua-Dang-Christ/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/luat-phap-cua-Dang-Christ/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-purpose-of-the-law&quot;&gt;The purpose of the law&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/law-of-christ-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/law-of-christ-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The very first set of law governed mankind even before they received the Ten Commandments from mount Sinai. It began to inhabit their conscience in the form of the knowledge of good and evil after they ate of the forbidden fruit. But whether it’s conscience-based law or the Ten Commandments, they served one purpose: &lt;em&gt;“&lt;sup&gt;24&lt;/sup&gt;The law had become our guardian until Christ, so that we could be declared righteous by faith. &lt;sup&gt;25&lt;/sup&gt;But now that faith has come, we are no longer under a guardian. &lt;sup&gt;26&lt;/sup&gt;For in Christ Jesus you are all sons of God through faith.”&lt;/em&gt; (Galatians 3:24-26)&lt;/p&gt;
 
 &lt;h2 id=&quot;jesus-love-commandment&quot;&gt;Jesus’ love commandment&lt;/h2&gt;
@@ -120,7 +120,7 @@ The very first set of law governed mankind even before they received the Ten Com
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Law-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;The Law of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Law-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;The Law of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -131,7 +131,7 @@ The very first set of law governed mankind even before they received the Ten Com
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -154,15 +154,15 @@ The very first set of law governed mankind even before they received the Ten Com
   
     <entry>
   <title>Imitation of Christ</title>
-  <link href="http://localhost:4000/articles/Immitation-of-Christ/" rel="alternate" type="text/html" title="Imitation of Christ" />
+  <link href="http://vacsf.org/articles/Immitation-of-Christ/" rel="alternate" type="text/html" title="Imitation of Christ" />
   <published>2016-11-13T00:00:00-08:00</published>
 
   
     <updated>2016-11-19T08:14:45-08:00</updated>
   
 
-  <id>http://localhost:4000/articles/Immitation-of-Christ</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Immitation-of-Christ/">
+  <id>http://vacsf.org/articles/Immitation-of-Christ</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Immitation-of-Christ/">
     
     &lt;p&gt;CHAPTER I&lt;br /&gt;
 &lt;em&gt;Of the imitation of Christ, and of contempt of the world and all its vanities&lt;/em&gt;&lt;br /&gt;
@@ -171,7 +171,7 @@ The very first set of law governed mankind even before they received the Ten Com
 &lt;p&gt;Above is an excerpt from The Imitation of Christ by Thomas A. Kempis, the first paragraph of chapter 1.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#an-assumption-about-jesus&quot; id=&quot;markdown-toc-an-assumption-about-jesus&quot;&gt;An assumption about Jesus&lt;/a&gt;&lt;/li&gt;
@@ -185,11 +185,11 @@ The very first set of law governed mankind even before they received the Ten Com
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Theo-guong-Gie-su/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Theo-guong-Gie-su/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;an-assumption-about-jesus&quot;&gt;An assumption about Jesus&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/Imitating-Christ-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Imitating-Christ-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
  “Christ teaches us how far we must imitate His life and character,” asserts the author of Imitation of Christ. The author assumes that we can imitate Jesus, and it appears quite a few folks agree with him. But as far as my study of Scriptures has brought me, the idea of imitating Jesus, or him being an example, goes against the biblical message as a whole. I was motivated to write this article after reading an introduction to the gospel of Matthew from a new Vietnamese translation, in which the author, or authors, referred to Jesus as the supreme teacher who had the authority to interprete God’s Law.&lt;/p&gt;
 
 &lt;h2 id=&quot;who-do-you-say-jesus-is&quot;&gt;Who do you say Jesus is?&lt;/h2&gt;
@@ -290,7 +290,7 @@ The very first set of law governed mankind even before they received the Ten Com
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Immitation-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;Imitation of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Immitation-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;Imitation of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -301,7 +301,7 @@ The very first set of law governed mankind even before they received the Ten Com
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -324,20 +324,20 @@ The very first set of law governed mankind even before they received the Ten Com
   
     <entry>
   <title>Exodus 19:4-25</title>
-  <link href="http://localhost:4000/articles/Exodus-19-04-25/" rel="alternate" type="text/html" title="Exodus 19:4-25" />
+  <link href="http://vacsf.org/articles/Exodus-19-04-25/" rel="alternate" type="text/html" title="Exodus 19:4-25" />
   <published>2016-11-01T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Exodus-19-04-25</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Exodus-19-04-25/">
+  <id>http://vacsf.org/articles/Exodus-19-04-25</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Exodus-19-04-25/">
     
     &lt;p&gt;We’ve all heard of the Ten Commandments, but did you know that originally God gave His people a choice between the law and grace? When God brought the Isrealites out of Egypt, He bore them eagles’s wings. In other words, he delivered them by grace. But instead of being contented to live by His grace, they wanted to live by law.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#dr-mcgees-sermon&quot; id=&quot;markdown-toc-dr-mcgees-sermon&quot;&gt;Dr. McGee’s Sermon&lt;/a&gt;&lt;/li&gt;
@@ -359,33 +359,33 @@ The very first set of law governed mankind even before they received the Ten Com
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Xuat-E-gyp-to-19-4-25/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Xuat-E-gyp-to-19-4-25/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;dr-mcgees-sermon&quot;&gt;Dr. McGee’s Sermon&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/law-vs-grace-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/law-vs-grace-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The excerpt in large print above is from the introduction to Dr. J. Vernon McGee’s wonderful sermon on Exodus 19:4-25 which I happened to catch on the radio on Sept 21, 2016. I must have heard this message from Dr. McGee over thirty years ago, once every year for more than a decade, but never really understood it. I came to this understanding of law vs. grace through a different path, but hearing again from Dr. McGee this time, on the date of its re-broadcast on &lt;a href=&quot;http://www.oneplace.com/ministries/thru-the-bible-with-j-vernon-mcgee/listen/exodus-194-25-552552.html&quot; target=&quot;_blank&quot;&gt;September 21, 2016&lt;/a&gt;, is quite a heavenly gift. His sermon inspired me to write this article from my own reflections of what this passage means.&lt;/p&gt;
 
 &lt;h2 id=&quot;delivered-on-eagles-wings&quot;&gt;Delivered on eagles’ wings&lt;/h2&gt;
@@ -499,7 +499,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; rel=&quot;nofollow&quot;&gt;Exodus 19:4-25&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; rel=&quot;nofollow&quot;&gt;Exodus 19:4-25&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -510,7 +510,7 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -531,22 +531,22 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
   
     <entry>
   <title>Do Not Conform</title>
-  <link href="http://localhost:4000/articles/Do-not-conform-to-this-world/" rel="alternate" type="text/html" title="Do Not Conform" />
+  <link href="http://vacsf.org/articles/Do-not-conform-to-this-world/" rel="alternate" type="text/html" title="Do Not Conform" />
   <published>2016-10-26T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Do-not-conform-to-this-world</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Do-not-conform-to-this-world/">
+  <id>http://vacsf.org/articles/Do-not-conform-to-this-world</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Do-not-conform-to-this-world/">
     
     &lt;p style=&quot;padding-left: 2.0em; padding-right: 2.0em; font-style: italic; color: #9d1f20;&quot;&gt;Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God - what is good and well-pleasing and perfect (Romans 12:2)&lt;/p&gt;
 
 &lt;p&gt;The full title for this writing should be: Do not conform to the patterns of this world. This article begs to differ with virtually all known commentaries and messages from pulpits everywhere that it does not mean what they generally propose.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-world-the-flesh-and-sin&quot; id=&quot;markdown-toc-the-world-the-flesh-and-sin&quot;&gt;The world, the flesh, and sin&lt;/a&gt;&lt;/li&gt;
@@ -566,33 +566,33 @@ The excerpt in large print above is from the introduction to Dr. J. Vernon McGee
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Dung-lam-theo-doi-nay/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dung-lam-theo-doi-nay/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-world-the-flesh-and-sin&quot;&gt;The world, the flesh, and sin&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/do-not-conform-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/do-not-conform-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The general consensus is the world, whose definition we’ll explore later, is something negative that we must take care not to conform to its patterns. This negative something is generally accepted as sinful things that we must get rid of from our lives. The more of these sins we can get rid of, the closer we are to God. Oftentimes Hebrews 12:1 is brought into the picture to support the argument that we should make every effort to get rid of &lt;em&gt;“the sin that easily entangles.”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A quick survey of all available commentaries reveals that they also hold the same interpretation, or perhaps they influence the rest of Christianity with their points of views? But people don’t really need commentaries to form this world view, all you need is take a survey of some of the major world’s religions, they all hold the same concept of sins and the need to deal with them in various ways.&lt;/p&gt;
@@ -643,7 +643,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; rel=&quot;nofollow&quot;&gt;Do Not Conform&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; rel=&quot;nofollow&quot;&gt;Do Not Conform&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -654,7 +654,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -677,15 +677,15 @@ The general consensus is the world, whose definition we’ll explore later, is s
   
     <entry>
   <title>Resist Unto Blood</title>
-  <link href="http://localhost:4000/articles/Resist-unto-blood/" rel="alternate" type="text/html" title="Resist Unto Blood" />
+  <link href="http://vacsf.org/articles/Resist-unto-blood/" rel="alternate" type="text/html" title="Resist Unto Blood" />
   <published>2016-08-08T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Resist-unto-blood</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Resist-unto-blood/">
+  <id>http://vacsf.org/articles/Resist-unto-blood</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Resist-unto-blood/">
     
     &lt;!--more--&gt;
 
@@ -696,7 +696,7 @@ The general consensus is the world, whose definition we’ll explore later, is s
 &lt;p&gt;Hebrews 12:4. What is the meaning of &quot;You have not yet resisted unto blood, striving against sin&quot;? Is the goal of Christians to avoid sinning at all cost?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -718,35 +718,35 @@ The general consensus is the world, whose definition we’ll explore later, is s
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Chong-tra-toi-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Chong-tra-toi-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/resist-unto-blood.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/resist-unto-blood.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The gospel sounds very attractive especially for those who have embarked on a treadmill of religion with no hope of salvation in sight. They heard of Jesus&#39; promise of water that satisfies forever, of rest for the weary, of peace that passes understanding, and how He died on the cross one time for all the sins of mankind, they thought there in this wonderful religion is their hope. But once they got into the fold, after an initial honeymoon of joy unspeakable, somehow they found themselves back on the treadmill. They&#39;re confused but couldn&#39;t quite put their fingers on what is going on. The messages they heard from pulpits for decades seemed different from what they heard when they were still in the dark. They used to hear of the forgiveness of sins, now they keep hearing stern warning of sins that they must &quot;resist unto blood.&quot; It seemed to them the Christians haven&#39;t solved their sin problem.
 &lt;/p&gt;
 
@@ -847,7 +847,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; rel=&quot;nofollow&quot;&gt;Resist Unto Blood&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; rel=&quot;nofollow&quot;&gt;Resist Unto Blood&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -858,7 +858,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -881,15 +881,15 @@ The gospel sounds very attractive especially for those who have embarked on a tr
   
     <entry>
   <title>The Art of Surrender</title>
-  <link href="http://localhost:4000/articles/Surrender/" rel="alternate" type="text/html" title="The Art of Surrender" />
+  <link href="http://vacsf.org/articles/Surrender/" rel="alternate" type="text/html" title="The Art of Surrender" />
   <published>2016-07-22T00:00:00-07:00</published>
 
   
     <updated>2016-07-22T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Surrender</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Surrender/">
+  <id>http://vacsf.org/articles/Surrender</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Surrender/">
     
     &lt;!--more--&gt;
 
@@ -898,7 +898,7 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 &lt;p&gt;Surrender. Rest. Peace. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-dilemma&quot; id=&quot;markdown-toc-the-dilemma&quot;&gt;The dilemma&lt;/a&gt;&lt;/li&gt;
@@ -918,29 +918,29 @@ The gospel sounds very attractive especially for those who have embarked on a tr
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Dau-Phuc-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dau-Phuc-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-dilemma&quot;&gt;The dilemma&lt;/h2&gt;
 
@@ -987,7 +987,7 @@ All Christians experience to a varying degree great conflicts between their desi
   &lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;For those who live according to the flesh have their outlook shaped by the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.  &lt;sup&gt;6&lt;/sup&gt;For the outlook of the flesh is death, but the outlook of the Spirit is life and peace,  &lt;sup&gt;7&lt;/sup&gt;because the outlook of the flesh is hostile to God, for it &lt;u&gt;does not submit to the law of God, nor is it able to do so&lt;/u&gt; (Romans 8:5-7—NET).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Here we read that besides the fact that the flesh does not submit to the law of God, it’s unable to do so even if it does desire it. There is a very thorough discussion of the “outlook of the flesh” in the article &lt;a href=&quot;http://localhost:4000/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;&lt;em&gt;“&lt;u&gt;Mortify the Deeds of the Flesh&lt;/u&gt;”&lt;/em&gt;&lt;/a&gt; which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.&lt;/p&gt;
+&lt;p&gt;Here we read that besides the fact that the flesh does not submit to the law of God, it’s unable to do so even if it does desire it. There is a very thorough discussion of the “outlook of the flesh” in the article &lt;a href=&quot;http://vacsf.org/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;&lt;em&gt;“&lt;u&gt;Mortify the Deeds of the Flesh&lt;/u&gt;”&lt;/em&gt;&lt;/a&gt; which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.&lt;/p&gt;
 
 &lt;h2 id=&quot;to-put-jesus-in-control&quot;&gt;To put Jesus in control?&lt;/h2&gt;
 
@@ -1042,7 +1042,7 @@ I yield to Thee.&lt;/p&gt;
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; rel=&quot;nofollow&quot;&gt;The Art of Surrender&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; rel=&quot;nofollow&quot;&gt;The Art of Surrender&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1053,7 +1053,7 @@ I yield to Thee.&lt;/p&gt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1078,15 +1078,15 @@ I yield to Thee.&lt;/p&gt;
   
     <entry>
   <title>Remaining In Sin</title>
-  <link href="http://localhost:4000/articles/Remain-in-Sin/" rel="alternate" type="text/html" title="Remaining In Sin" />
+  <link href="http://vacsf.org/articles/Remain-in-Sin/" rel="alternate" type="text/html" title="Remaining In Sin" />
   <published>2016-04-20T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Remain-in-Sin</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Remain-in-Sin/">
+  <id>http://vacsf.org/articles/Remain-in-Sin</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Remain-in-Sin/">
     
     &lt;!--more--&gt;
 
@@ -1095,7 +1095,7 @@ I yield to Thee.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;What shall we say then? Are we to remain in sin so that grace may increase? Absolutely not! How can we who died to sin still live in it? (Romans_6:1—NET)&lt;/span&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -1115,36 +1115,36 @@ I yield to Thee.&lt;/p&gt;
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/O-Trong-Toi-Loi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/O-Trong-Toi-Loi/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/remain-in-sin.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
-This article is a twin sibbling of the &quot;&lt;a href=&quot;http://localhost:4000/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;Mortify the deeds of the flesh&lt;/a&gt;&quot; article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, &quot;sin&quot; is perhaps the most important.
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/remain-in-sin.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+This article is a twin sibbling of the &quot;&lt;a href=&quot;http://vacsf.org/bible-topics/meditations/put-to-death-the-deeds-of-the-body/&quot;&gt;Mortify the deeds of the flesh&lt;/a&gt;&quot; article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, &quot;sin&quot; is perhaps the most important.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;!-- ##################### PLACEHOLDER ###################--&gt;
@@ -1224,7 +1224,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; rel=&quot;nofollow&quot;&gt;Remaining In Sin&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; rel=&quot;nofollow&quot;&gt;Remaining In Sin&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1235,7 +1235,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1260,15 +1260,15 @@ As far as the east is from the west, so far has he removed our transgressions fr
   
     <entry>
   <title>Can Man Love God?</title>
-  <link href="http://localhost:4000/articles/Loving-God/" rel="alternate" type="text/html" title="Can Man Love God?" />
+  <link href="http://vacsf.org/articles/Loving-God/" rel="alternate" type="text/html" title="Can Man Love God?" />
   <published>2016-04-18T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Loving-God</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Loving-God/">
+  <id>http://vacsf.org/articles/Loving-God</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Loving-God/">
     
     &lt;!--more--&gt;
 
@@ -1277,7 +1277,7 @@ As far as the east is from the west, so far has he removed our transgressions fr
 &lt;p&gt;&lt;em&gt;Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind (Luke_10:27)&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-love-commandment&quot; id=&quot;markdown-toc-the-love-commandment&quot;&gt;The Love Commandment&lt;/a&gt;&lt;/li&gt;
@@ -1298,35 +1298,35 @@ As far as the east is from the west, so far has he removed our transgressions fr
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Yeu-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Yeu-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-love-commandment&quot;&gt;The Love Commandment&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/loving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/loving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The love command that Jesus uttered in Luke 10:27 has become a golden rule for virtually all variations of Bible based religions.  All other teachings from the Bible take a back seat to yield to this venerable command especially that it came from the lips of the Savior. 
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1399,7 +1399,7 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; rel=&quot;nofollow&quot;&gt;Can Man Love God?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; rel=&quot;nofollow&quot;&gt;Can Man Love God?&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1410,7 +1410,7 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1435,22 +1435,22 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
   
     <entry>
   <title>Serving God</title>
-  <link href="http://localhost:4000/articles/Serving-God/" rel="alternate" type="text/html" title="Serving God" />
+  <link href="http://vacsf.org/articles/Serving-God/" rel="alternate" type="text/html" title="Serving God" />
   <published>2016-04-17T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Serving-God</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Serving-God/">
+  <id>http://vacsf.org/articles/Serving-God</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Serving-God/">
     
     &lt;!--more--&gt;
 
 &lt;!-- ##################### PLACEHOLDER ################### --&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -1471,37 +1471,37 @@ For from within the hearts of men come evil thoughts, sexual immorality, theft, 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
 &lt;p&gt;Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they’re serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Hau-Viec-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Hau-Viec-Chua/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/serving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/serving-God.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 So how do you serve God? Just the word &quot;serve&quot; itself implies something to do with spiritual things, or something in service of others, something that demands selfless devotion, that requires a certain level of personal sacrifice.
 When we talk about someone serving God, we imply that their act of service is something self initiated. It is initiated by self because it requires some personal sacrifice. Most biographies are about people who engaged in these noble acts of serving God at great personal cost. The implication also is these folks deserve some types of rewards for their sacrifices.
 &lt;/p&gt;
@@ -1601,7 +1601,7 @@ When we talk about someone serving God, we imply that their act of service is so
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; rel=&quot;nofollow&quot;&gt;Serving God&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; rel=&quot;nofollow&quot;&gt;Serving God&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1612,7 +1612,7 @@ When we talk about someone serving God, we imply that their act of service is so
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1633,15 +1633,15 @@ When we talk about someone serving God, we imply that their act of service is so
   
     <entry>
   <title>Abraham’s Prayer</title>
-  <link href="http://localhost:4000/articles/Abrahams-Prayer/" rel="alternate" type="text/html" title="Abraham&#39;s Prayer" />
+  <link href="http://vacsf.org/articles/Abrahams-Prayer/" rel="alternate" type="text/html" title="Abraham&#39;s Prayer" />
   <published>2016-04-16T00:00:00-07:00</published>
 
   
     <updated>2016-08-08T09:14:45-07:00</updated>
   
 
-  <id>http://localhost:4000/articles/Abrahams-Prayer</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Abrahams-Prayer/">
+  <id>http://vacsf.org/articles/Abrahams-Prayer</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Abrahams-Prayer/">
     
     &lt;!--more--&gt;
 
@@ -1650,7 +1650,7 @@ When we talk about someone serving God, we imply that their act of service is so
 &lt;p&gt;&lt;em&gt;And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7)…&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -1672,37 +1672,37 @@ When we talk about someone serving God, we imply that their act of service is so
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
 &lt;p&gt;&lt;em&gt;“And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7). Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few (Ecclesiastes 5:2). Then the LORD answered Job out of the whirlwind and said, &quot;Who is this that darkens counsel by words without knowledge?&quot; (Job 38:1-2)”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Loi-Cau-Nguyen-cua-Abraham/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Loi-Cau-Nguyen-cua-Abraham/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;div&gt;
 &lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/candle-prayer.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/candle-prayer.jpg&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Though this article is about prayer, its goal is to take the eyes of the one who prays away from himself, from the objects of his prayer, or even the technicalities, the how-to&#39;s of the prayer itself, and focus them on the Person to whom he prays.
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1813,7 +1813,7 @@ Though this article is about prayer, its goal is to take the eyes of the one who
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; rel=&quot;nofollow&quot;&gt;Abraham&#39;s Prayer&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; rel=&quot;nofollow&quot;&gt;Abraham&#39;s Prayer&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1824,7 +1824,7 @@ Though this article is about prayer, its goal is to take the eyes of the one who
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 

@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://localhost:4000/mastering-paper-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2016-11-25T10:09:09-08:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://vacsf.org/mastering-paper-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
+  <updated>2016-11-25T10:15:07-08:00</updated>
+  <id>http://vacsf.org/</id>
 
   <title>Mastering Paper by FiftyThree - VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
