@@ -6,7 +6,7 @@
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
   <link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-04-21T02:56:06+00:00</updated>
+  <updated>2017-04-21T03:11:06+00:00</updated>
   <id>http://localhost:4000/</id>
 
   <title>VACSF.ORG</title>
@@ -131,11 +131,15 @@ April 2017&lt;/em&gt;&lt;/p&gt;
   
 
   
-    <category term="communion" />
+    <category term="error" />
+  
+    <category term="truth" />
+  
+    <category term="antinomianism" />
+  
+    <category term="grace" />
   
     <category term="works" />
-  
-    <category term="passover" />
   
 
   
