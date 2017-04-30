@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://localhost:4000/articles-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-04-21T03:11:06+00:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://vacsf.org/articles-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
+  <updated>2017-04-30T19:02:50+00:00</updated>
+  <id>http://vacsf.org/</id>
 
   <title>Articles - VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -32,29 +32,29 @@
   
     <entry>
   <title>Out Of One Danger, Into Another</title>
-  <link href="http://localhost:4000/articles/Danger-of-Erroneous-Teaching/" rel="alternate" type="text/html" title="Out Of One Danger, Into Another" />
+  <link href="http://vacsf.org/articles/Danger-of-Erroneous-Teaching/" rel="alternate" type="text/html" title="Out Of One Danger, Into Another" />
   <published>2017-04-20T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Danger-of-Erroneous-Teaching</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Danger-of-Erroneous-Teaching/">
+  <id>http://vacsf.org/articles/Danger-of-Erroneous-Teaching</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Danger-of-Erroneous-Teaching/">
     
     &lt;p&gt;Are we ever more in danger of teaching an error, than when we are combatting one? For when a teacher has the ‘antinomians’ in his sights, I find he often becomes a proponent of increased endeavour, talking of the ‘necessities’ required in a ‘holy’ life, instead of rather the holy inevitabilities to be expected in the regenerate.&lt;/p&gt;
 
 &lt;!-- &lt;nav class=&quot;js-toc toc&quot; markdown=&quot;1&quot;&gt;
-&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot;&gt;
+&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot;&gt;
 &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 *  Auto generated table of contents
 {:toc .toc__menu}
 &lt;/nav&gt;
  --&gt;
 
-&lt;!-- a href=&quot;http://localhost:4000/viet-studies/Su-vang-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
+&lt;!-- a href=&quot;http://vacsf.org/viet-studies/Su-vang-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/danger-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/danger-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 He talks about the necessity of obeying God’s Word, instead of the inevitability, in the truly regenerate, of living it.  ‘Only holiness brings full joy’, one says.  But isn’t that putting the cart before the horse?  Isn’t it rather;  ‘Only joy (in believing), brings genuine holiness’?&lt;/p&gt;
 
 &lt;p&gt;Observe how the noted theologian quoted below takes verses of Scripture that describe the intention and purpose of the sovereign God, and render them as being contingent, and thereby provisional, and thereby uncertain, contingent upon the required actions of Man.&lt;/p&gt;
@@ -110,7 +110,7 @@ April 2017&lt;/em&gt;&lt;/p&gt;
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Danger-of-Erroneous-Teaching/&quot; rel=&quot;nofollow&quot;&gt;Out Of One Danger, Into Another&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Danger-of-Erroneous-Teaching/&quot; rel=&quot;nofollow&quot;&gt;Out Of One Danger, Into Another&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -121,7 +121,7 @@ April 2017&lt;/em&gt;&lt;/p&gt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -150,21 +150,21 @@ April 2017&lt;/em&gt;&lt;/p&gt;
   
     <entry>
   <title>Understanding Forgiveness</title>
-  <link href="http://localhost:4000/articles/Understanding-Forgiveness/" rel="alternate" type="text/html" title="Understanding Forgiveness" />
+  <link href="http://vacsf.org/articles/Understanding-Forgiveness/" rel="alternate" type="text/html" title="Understanding Forgiveness" />
   <published>2017-04-05T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Understanding-Forgiveness</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Understanding-Forgiveness/">
+  <id>http://vacsf.org/articles/Understanding-Forgiveness</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Understanding-Forgiveness/">
     
     &lt;!-- &lt;p&gt;What does God’s forgiveness mean to you? Does He still count your sins against you?&lt;/p&gt;
  --&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-different-points-of-view&quot; id=&quot;markdown-toc-the-different-points-of-view&quot;&gt;The different points of view&lt;/a&gt;&lt;/li&gt;
@@ -188,7 +188,7 @@ April 2017&lt;/em&gt;&lt;/p&gt;
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;the-different-points-of-view&quot;&gt;The different points of view&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/forgiveness-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/forgiveness-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 How do we disciple a new believer, one who first discovered that Jesus is their messiah and had come to receive the free gift of eternal life? How do we help them grow and mature? I believe that it should be their goal to discover what Jesus had &lt;u&gt;&lt;em&gt;already&lt;/em&gt;&lt;/u&gt; done for them, what he had &lt;u&gt;&lt;em&gt;already&lt;/em&gt;&lt;/u&gt; given to them, but unfortunately this is not the view point of the majority of Christian leaders. They’re of the point of view that these new believers should start on the basis that they should now begin to live for God though they certainly must be motivated by what Christ had done for them. They must begin with leading a holy life, reducing the amount of sins in their lives, starting doing the things they should be doing, and refraining from doing the things they shouldn’t be doing.&lt;/p&gt;
 
 &lt;p&gt;My point of view is that their focus should not be about what they should do for God, but about what God has done for them. This view is expressed rather extensively in the article &lt;a href=&quot;http://vacsf.org/articles/The-Will-of-God/&quot;&gt;The Will of God&lt;/a&gt; about what we already have in Christ, what we have received from Him as an inheritance.&lt;/p&gt;
@@ -453,7 +453,7 @@ declares the Lord.
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Understanding-Forgiveness/&quot; rel=&quot;nofollow&quot;&gt;Understanding Forgiveness&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Understanding-Forgiveness/&quot; rel=&quot;nofollow&quot;&gt;Understanding Forgiveness&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -464,7 +464,7 @@ declares the Lord.
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -487,15 +487,15 @@ declares the Lord.
   
     <entry>
   <title>The Lord’s Supper</title>
-  <link href="http://localhost:4000/articles/The-Lords-Supper/" rel="alternate" type="text/html" title="The Lord&#39;s Supper" />
+  <link href="http://vacsf.org/articles/The-Lords-Supper/" rel="alternate" type="text/html" title="The Lord&#39;s Supper" />
   <published>2017-02-18T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/The-Lords-Supper</id>
-  <content type="html" xml:base="http://localhost:4000/articles/The-Lords-Supper/">
+  <id>http://vacsf.org/articles/The-Lords-Supper</id>
+  <content type="html" xml:base="http://vacsf.org/articles/The-Lords-Supper/">
     
     &lt;!-- &lt;p&gt;The Lord’s Supper and the Christian Communion. Understanding it from the Passover context.&lt;/p&gt;
  --&gt;
@@ -516,7 +516,7 @@ Jesus answered, “You have said so.”
 &lt;/blockquote&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-2617-30&quot; id=&quot;markdown-toc-matthew-2617-30&quot;&gt;Matthew 26:17-30&lt;/a&gt;&lt;/li&gt;
@@ -533,11 +533,11 @@ Jesus answered, “You have said so.”
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Tiec-Thanh/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Tiec-Thanh/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-communion&quot;&gt;The Communion&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/communion-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/communion-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 This passage along with another passage in 1 Corinthians 11:27-29 are regularly used to prepare the congregation prior to their receiving of the communion bread and wine. There are a few points of emphasis in these passages but perhaps the main focus is placed on &lt;em&gt;“unworthy manner”&lt;/em&gt;, &lt;em&gt;“self examination”&lt;/em&gt; and &lt;em&gt;“judgement”&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -632,7 +632,7 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Lords-Supper/&quot; rel=&quot;nofollow&quot;&gt;The Lord&#39;s Supper&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Lords-Supper/&quot; rel=&quot;nofollow&quot;&gt;The Lord&#39;s Supper&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -643,7 +643,7 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -668,15 +668,15 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
   
     <entry>
   <title>The Parable of the Ten Virgins</title>
-  <link href="http://localhost:4000/articles/Parable-Ten-Virgins/" rel="alternate" type="text/html" title="The Parable of the Ten Virgins" />
+  <link href="http://vacsf.org/articles/Parable-Ten-Virgins/" rel="alternate" type="text/html" title="The Parable of the Ten Virgins" />
   <published>2017-02-09T00:00:00+00:00</published>
 
   
     <updated>2017-02-05T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Parable-Ten-Virgins</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Parable-Ten-Virgins/">
+  <id>http://vacsf.org/articles/Parable-Ten-Virgins</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Parable-Ten-Virgins/">
     
     &lt;!-- &lt;p&gt;This article will show that traditional interpretation of this parable is far from what Jesus had in mind.  The oil in the virgins’ lamps has nothing to do with sins or works.&lt;/p&gt;
  --&gt;
@@ -695,7 +695,7 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
 &lt;/blockquote&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-251-13&quot; id=&quot;markdown-toc-matthew-251-13&quot;&gt;Matthew 25:1-13&lt;/a&gt;&lt;/li&gt;
@@ -708,11 +708,11 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;watchfulness&quot;&gt;Watchfulness&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/ten-virgins-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/ten-virgins-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Let us consider some popular commentaries on the parable of the ten virgins.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -805,7 +805,7 @@ Let us consider some popular commentaries on the parable of the ten virgins.&lt;
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Parable-Ten-Virgins/&quot; rel=&quot;nofollow&quot;&gt;The Parable of the Ten Virgins&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Parable-Ten-Virgins/&quot; rel=&quot;nofollow&quot;&gt;The Parable of the Ten Virgins&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -816,7 +816,7 @@ Let us consider some popular commentaries on the parable of the ten virgins.&lt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -843,15 +843,15 @@ Let us consider some popular commentaries on the parable of the ten virgins.&lt;
   
     <entry>
   <title>The Will of God</title>
-  <link href="http://localhost:4000/articles/The-Will-of-God/" rel="alternate" type="text/html" title="The Will of God" />
+  <link href="http://vacsf.org/articles/The-Will-of-God/" rel="alternate" type="text/html" title="The Will of God" />
   <published>2017-01-04T00:00:00+00:00</published>
 
   
     <updated>2016-11-19T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/The-Will-of-God</id>
-  <content type="html" xml:base="http://localhost:4000/articles/The-Will-of-God/">
+  <id>http://vacsf.org/articles/The-Will-of-God</id>
+  <content type="html" xml:base="http://vacsf.org/articles/The-Will-of-God/">
     
     &lt;!-- &lt;p&gt;The question most often asked by Christians is: What is the will of God for my life? Many books have been written with the express purpose of showing readers how to get an answer to this question.&lt;/p&gt;
  --&gt;
@@ -859,7 +859,7 @@ Let us consider some popular commentaries on the parable of the ten virgins.&lt;
 &lt;p&gt;The question most often asked by Christians is, “What is the will of God for my life?” Many books have been written with the express purpose of showing readers how to get an answer to this question. However most missed the true meaning of the will of God for those who are seeking it for their lives.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#before-i-became-a-christian&quot; id=&quot;markdown-toc-before-i-became-a-christian&quot;&gt;Before I became a Christian&lt;/a&gt;&lt;/li&gt;
@@ -882,9 +882,9 @@ Let us consider some popular commentaries on the parable of the ten virgins.&lt;
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Y-Chua/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Y-Chua/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/the-will-of-God-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/the-will-of-God-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 God creates man with a heart that longs for meaning, for a sense of purpose, and self-worth, reflecting King David’s assessment of himself: &lt;em&gt;“I praise you because I’m fearfully and wonderfully made (Psalm139:14).”&lt;/em&gt; But sadly their hearts are now empty, and there is nothing in this world that can fill that God-shaped vacuum. However this article is not an apologetic about man’s need for God, but about people who already believe in God yet they’re still lost. Perhaps they’re not lost in relation to their place in God’s kingdom, but to the time between the present and when God calls them home; and they found their lives in Christ anything but abundant. Might this also be the reason why many Christians do not have that blessed assurance of their salvation?&lt;/p&gt;
 
 &lt;h2 id=&quot;before-i-became-a-christian&quot;&gt;Before I became a Christian&lt;/h2&gt;
@@ -1048,7 +1048,7 @@ God creates man with a heart that longs for meaning, for a sense of purpose, and
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Will-of-God/&quot; rel=&quot;nofollow&quot;&gt;The Will of God&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Will-of-God/&quot; rel=&quot;nofollow&quot;&gt;The Will of God&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1059,7 +1059,7 @@ God creates man with a heart that longs for meaning, for a sense of purpose, and
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1086,20 +1086,20 @@ God creates man with a heart that longs for meaning, for a sense of purpose, and
   
     <entry>
   <title>Obedience</title>
-  <link href="http://localhost:4000/articles/Obedience/" rel="alternate" type="text/html" title="Obedience" />
+  <link href="http://vacsf.org/articles/Obedience/" rel="alternate" type="text/html" title="Obedience" />
   <published>2016-12-29T00:00:00+00:00</published>
 
   
     <updated>2016-11-19T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Obedience</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Obedience/">
+  <id>http://vacsf.org/articles/Obedience</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Obedience/">
     
     &lt;p&gt;&lt;em&gt;“Trust and obey, for there’s no other way to be happy in Jesus, but to trust and obey.”&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#obedience-and-the-law&quot; id=&quot;markdown-toc-obedience-and-the-law&quot;&gt;Obedience and the law&lt;/a&gt;&lt;/li&gt;
@@ -1108,9 +1108,9 @@ God creates man with a heart that longs for meaning, for a sense of purpose, and
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Su-vang-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Su-vang-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/Obedience-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Obedience-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 There are more than a few dozens of verses in the Bible that contain the word obedience or other forms of it, but none are as well remembered as the refrain of the hymn Trust and Obey. This article aims to show that there are two ways the term is interpreted and applied, one is of the obedience to avoid sins, or to do what is good—this is the most common, and is the type that I call “rudimentary obedience”—, and one of a response to the gospel to enter into a trust relationship with God through Christ—this is rarely taught as an act of obedience as compared to the other.&lt;/p&gt;
 
 &lt;h2 id=&quot;obedience-and-the-law&quot;&gt;Obedience and the law&lt;/h2&gt;
@@ -1163,7 +1163,7 @@ There are more than a few dozens of verses in the Bible that contain the word ob
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Obedience/&quot; rel=&quot;nofollow&quot;&gt;Obedience&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Obedience/&quot; rel=&quot;nofollow&quot;&gt;Obedience&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1174,7 +1174,7 @@ There are more than a few dozens of verses in the Bible that contain the word ob
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1199,20 +1199,20 @@ There are more than a few dozens of verses in the Bible that contain the word ob
   
     <entry>
   <title>The Narrow Path</title>
-  <link href="http://localhost:4000/articles/The-Narrow-Path/" rel="alternate" type="text/html" title="The Narrow Path" />
+  <link href="http://vacsf.org/articles/The-Narrow-Path/" rel="alternate" type="text/html" title="The Narrow Path" />
   <published>2016-12-20T00:00:00+00:00</published>
 
   
     <updated>2016-11-19T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/The-Narrow-Path</id>
-  <content type="html" xml:base="http://localhost:4000/articles/The-Narrow-Path/">
+  <id>http://vacsf.org/articles/The-Narrow-Path</id>
+  <content type="html" xml:base="http://vacsf.org/articles/The-Narrow-Path/">
     
     &lt;p&gt;&lt;em&gt;&lt;sup&gt;13&lt;/sup&gt;Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. &lt;sup&gt;14&lt;/sup&gt;But small is the gate and narrow the road that leads to life, and only a few find it (Matthew 7:13-14).&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#common-interpretationscontradictions&quot; id=&quot;markdown-toc-common-interpretationscontradictions&quot;&gt;Common interpretations/contradictions&lt;/a&gt;    &lt;ul&gt;
@@ -1229,9 +1229,9 @@ There are more than a few dozens of verses in the Bible that contain the word ob
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Duong-Hep/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Duong-Hep/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/The_narrow_way-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/The_narrow_way-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 According to most common interpretations, the narrow gate, or path, denotes troubles and challenges awaiting those who choose to embark on it. However there is curiously a paradoxical expectation that the life of a good Christian is filled with God’s blessings, especially material blessings, great financial rewards and a vibrant family life; a projection of God’s goodness to those who belong to Him as a testimony to the unbelieving world. But there is nothing in the immediate context of these verses that warrants such interpretations, of promises of either difficulties or smooth sailings. Yet this is what one often hears from pulpits everywhere across the entire spectrum.&lt;/p&gt;
 
 &lt;h2 id=&quot;common-interpretationscontradictions&quot;&gt;Common interpretations/contradictions&lt;/h2&gt;
@@ -1285,7 +1285,7 @@ According to most common interpretations, the narrow gate, or path, denotes trou
 
 &lt;p&gt;By defining the narrow path as a difficult road, people change its meaning from grace to works, from the singular trust in Christ to the myriad possibilities of man’s efforts, from the assurance of salvation to the uncertainty of random choices to meet arbitrary man-made standards.&lt;/p&gt;
 
-&lt;p&gt;The true narrow path is in fact the easiest one as it is straight and narrow with no deviations or detours, it leads straight from captivities to the promised land. On it, God takes us home on &lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot;&gt;&lt;em&gt;wings of eagles&lt;/em&gt;&lt;/a&gt; (Exodus 19:4).&lt;/p&gt;
+&lt;p&gt;The true narrow path is in fact the easiest one as it is straight and narrow with no deviations or detours, it leads straight from captivities to the promised land. On it, God takes us home on &lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot;&gt;&lt;em&gt;wings of eagles&lt;/em&gt;&lt;/a&gt; (Exodus 19:4).&lt;/p&gt;
 
 &lt;p&gt;However this narrow path may prove difficult to those who walk by the flesh—keep in mind that it is not about falling into sinful temptations, but about using fleshly efforts to draw near to God—. As this article attempts to show that the difficulties lie not in trying circumstances, but in the choice that one makes. Those who rely on the law, or the works of it, or the obedience of the flesh, have much to lose like the rich young ruler who met Jesus in Matthew 19:16-22. Without works as their trophies they cannot boast from their self righteousness.&lt;/p&gt;
 
@@ -1299,7 +1299,7 @@ According to most common interpretations, the narrow gate, or path, denotes trou
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Narrow-Path/&quot; rel=&quot;nofollow&quot;&gt;The Narrow Path&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Narrow-Path/&quot; rel=&quot;nofollow&quot;&gt;The Narrow Path&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1310,7 +1310,7 @@ According to most common interpretations, the narrow gate, or path, denotes trou
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1337,18 +1337,18 @@ According to most common interpretations, the narrow gate, or path, denotes trou
   
     <entry>
   <title>Justification by Faith, or Faith + Works?</title>
-  <link href="http://localhost:4000/articles/Justification-by-faith-works/" rel="alternate" type="text/html" title="Justification by Faith, or Faith + Works?" />
+  <link href="http://vacsf.org/articles/Justification-by-faith-works/" rel="alternate" type="text/html" title="Justification by Faith, or Faith + Works?" />
   <published>2016-11-25T00:00:00+00:00</published>
 
   
     <updated>2016-11-25T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Justification-by-faith-works</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Justification-by-faith-works/">
+  <id>http://vacsf.org/articles/Justification-by-faith-works</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Justification-by-faith-works/">
     
     &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-two-opposing-views-of-justification&quot; id=&quot;markdown-toc-the-two-opposing-views-of-justification&quot;&gt;The two opposing views of justification&lt;/a&gt;&lt;/li&gt;
@@ -1380,35 +1380,35 @@ According to most common interpretations, the narrow gate, or path, denotes trou
 &lt;nav class=&quot;js-toc toc&quot;&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Other Topics&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Exodus-19-04-25/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Exodus 19:4-25&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What is your choice: Law or Grace?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Do-not-conform-to-this-world/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Do Not Conform&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The correct meaning of &quot;this world&quot;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Resist-unto-blood/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Resist Unto Blood&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Striving against sin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Surrender/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Surrender&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;How to put Jesus in control&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Remain-in-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Remaining In Sin&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What does Paul really mean?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Loving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Loving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Can you really love God?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Serving-God/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Serving God&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A more accurate view&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abrahams-Prayer/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abraham&#39;s Prayer&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A true prayer warrior&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Abusing-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Abusing God&#39;s Grace&amp;mdash;&lt;cite&gt;Romans 6:1&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Is this a valid concern?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Missing-Gods-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Missing God&#39;s Grace&amp;mdash;&lt;cite&gt;Galatians 5:4&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Who misses God&#39;s grace&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Suffer-with-Christ/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Suffering with Christ&amp;mdash;&lt;cite&gt;Romans 8:16-17&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;A false assumption?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Deliberate-Sin/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Deliberate Sin&amp;mdash;&lt;cite&gt;Hebrews 10:26-27&lt;/cite&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The sin of unbelief&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Enabling-Grace/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Enabling Grace&amp;mdash;A Rock Climbing Illustration&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;God&#39;s grace in real life&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Mortify the Deeds of the Body&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;An interpretation of Romans&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;_&lt;/span&gt;:13&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Ambassador/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Nghi&#39;s Parable of the Ambassador&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;What gospel are you proclaiming?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Grieve-Holy-Spirit/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Grieving the Holy Spirit&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Will you lose your salvation?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Rewards-in-heaven/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;Rewards&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;Degrees of rewards in heaven?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vacsf.org/articles/Faith-Salvation-Work-Cycle/&quot; id=&quot;markdown-toc-building-the-style-guide&quot;&gt;The Faith-Salvation-Work Cycle&lt;br /&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;mdash;The cycle of frustration&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 --&gt;
 
 &lt;p&gt;There are two passages in the Bible that appear to be in direct conflict with each other: Romans 3:23-28, with verse 28 which says &lt;em&gt;“One is justified by faith apart from works of the law,”&lt;/em&gt; and James 2:20-26, with verse 24 which says &lt;em&gt;“You see that a person is justified by works and not by faith alone.”&lt;/em&gt;. How do we reconcile these apparent differences?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Xung-cong-binh-boi-duc-tin-va-viec-lam/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Xung-cong-binh-boi-duc-tin-va-viec-lam/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-two-opposing-views-of-justification&quot;&gt;The two opposing views of justification&lt;/h2&gt;
 
-&lt;p&gt;&lt;img style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 300px; padding: 0px; float: left;&quot; src=&quot;http://localhost:4000/assets/images/Faith-Salvation-Works circle.png&quot; alt=&quot;Salvation by faith alone, or faith plus works?&quot; /&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 300px; padding: 0px; float: left;&quot; src=&quot;http://vacsf.org/assets/images/Faith-Salvation-Works circle.png&quot; alt=&quot;Salvation by faith alone, or faith plus works?&quot; /&gt;
 The majority of Christians try to resolve this conflict by citing James 2:22 which says &lt;em&gt;“You see that faith was active along with his works, and faith was completed by his works,”&lt;/em&gt; and the traditional explanation is: what James is really saying is as a person comes to faith in Christ there will be changes in his life that produce good works. This is a reasonable explanation, but is this what James is really saying? Or what he’s really saying is if a person is not performing works of God, not obedience to the law of Moses after they come to the Lord Jesus by faith, then they are not saved at all, and what James is advocating is salvation is completely by works with faith thrown in for good measure.&lt;/p&gt;
 
 &lt;p&gt;Conversely Paul says &lt;em&gt;“And we have come to believe in Christ Jesus, so that we may be justified through faith in Christ and not by the works of the law, because by the works of the law no one will be justified. (&lt;u&gt;Galatians 2:16&lt;/u&gt;)”&lt;/em&gt; There are though many more instances in Scriptures that show their differences, and more importantly they are not trivial. The true meaning of the path that is narrow is not that those who travel on it must endure many trials and tribulations, but it is as narrow as being a very strict definition of how one can reconcile with God. The theology set forth by both Paul and James are different enough they cannot fit on this narrow path.&lt;/p&gt;
@@ -1552,7 +1552,7 @@ The majority of Christians try to resolve this conflict by citing James 2:22 whi
 
 &lt;h2 id=&quot;youre-fully-accepted-by-god&quot;&gt;You’re fully accepted by God&lt;/h2&gt;
 
-&lt;p&gt;In James’ version of justification, though you may be saved through faith, you’re not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn’t fully accepted you yet. There’s more work to do before you become more holy, more sanctified, &lt;a href=&quot;http://localhost:4000/articles/Immitation-of-Christ/&quot;&gt;&lt;em&gt;becoming more like Christ&lt;/em&gt;&lt;/a&gt;. As already discussed earlier, since you cannot meet God without being perfect, when will you be perfect enough to meet God according to James?&lt;/p&gt;
+&lt;p&gt;In James’ version of justification, though you may be saved through faith, you’re not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn’t fully accepted you yet. There’s more work to do before you become more holy, more sanctified, &lt;a href=&quot;http://vacsf.org/articles/Immitation-of-Christ/&quot;&gt;&lt;em&gt;becoming more like Christ&lt;/em&gt;&lt;/a&gt;. As already discussed earlier, since you cannot meet God without being perfect, when will you be perfect enough to meet God according to James?&lt;/p&gt;
 
 &lt;p&gt;On the other hand if justification is entirely by faith, you will know without any doubt your place in the heart of God and His kingdom. Because your perfection is not based on you, but on Christ, and in Him God has given all you need to stand against that day.&lt;/p&gt;
 
@@ -1578,7 +1578,7 @@ The majority of Christians try to resolve this conflict by citing James 2:22 whi
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Justification-by-faith-works/&quot; rel=&quot;nofollow&quot;&gt;Justification by Faith, or Faith + Works?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Justification-by-faith-works/&quot; rel=&quot;nofollow&quot;&gt;Justification by Faith, or Faith + Works?&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1589,7 +1589,7 @@ The majority of Christians try to resolve this conflict by citing James 2:22 whi
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1616,20 +1616,20 @@ The majority of Christians try to resolve this conflict by citing James 2:22 whi
   
     <entry>
   <title>The Law of Christ</title>
-  <link href="http://localhost:4000/articles/Law-of-Christ/" rel="alternate" type="text/html" title="The Law of Christ" />
+  <link href="http://vacsf.org/articles/Law-of-Christ/" rel="alternate" type="text/html" title="The Law of Christ" />
   <published>2016-11-22T00:00:00+00:00</published>
 
   
     <updated>2016-11-19T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Law-of-Christ</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Law-of-Christ/">
+  <id>http://vacsf.org/articles/Law-of-Christ</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Law-of-Christ/">
     
     &lt;p&gt;Most people cite Galatians 6:2 as the definition for the new law of Christ: &lt;em&gt;“Carry one another’s burdens, and in this way you will fulfill the law of Christ.”&lt;/em&gt; Some also cite the gospel verses, such as Matthew 12:30-31, where Jesus gave a new commandment as the new law of Christ: &lt;em&gt;“&lt;sup&gt;30&lt;/sup&gt;Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ &lt;sup&gt;31&lt;/sup&gt;The second is: ‘Love your neighbor as yourself.’ There is no other commandment greater than these.”&lt;/em&gt; This article will show why a simplistic interpretation and application of the law of Christ, specifically in the context of Galatians 6:2, is not in accordance with the intended meaning in Scriptures.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-purpose-of-the-law&quot; id=&quot;markdown-toc-the-purpose-of-the-law&quot;&gt;The purpose of the law&lt;/a&gt;&lt;/li&gt;
@@ -1639,11 +1639,11 @@ The majority of Christians try to resolve this conflict by citing James 2:22 whi
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/luat-phap-cua-Dang-Christ/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/luat-phap-cua-Dang-Christ/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-purpose-of-the-law&quot;&gt;The purpose of the law&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/law-of-christ-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/law-of-christ-teaser.png&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The very first set of law governed mankind even before they received the Ten Commandments from mount Sinai. It began to inhabit their conscience in the form of the knowledge of good and evil after they ate of the forbidden fruit. But whether it’s conscience-based law or the Ten Commandments, they served one purpose: &lt;em&gt;“&lt;sup&gt;24&lt;/sup&gt;The law had become our guardian until Christ, so that we could be declared righteous by faith. &lt;sup&gt;25&lt;/sup&gt;But now that faith has come, we are no longer under a guardian. &lt;sup&gt;26&lt;/sup&gt;For in Christ Jesus you are all sons of God through faith.”&lt;/em&gt; (Galatians 3:24-26)&lt;/p&gt;
 
 &lt;h2 id=&quot;jesus-love-commandment&quot;&gt;Jesus’ love commandment&lt;/h2&gt;
@@ -1710,7 +1710,7 @@ The very first set of law governed mankind even before they received the Ten Com
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Law-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;The Law of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Law-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;The Law of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1721,7 +1721,7 @@ The very first set of law governed mankind even before they received the Ten Com
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1748,15 +1748,15 @@ The very first set of law governed mankind even before they received the Ten Com
   
     <entry>
   <title>Imitation of Christ</title>
-  <link href="http://localhost:4000/articles/Immitation-of-Christ/" rel="alternate" type="text/html" title="Imitation of Christ" />
+  <link href="http://vacsf.org/articles/Immitation-of-Christ/" rel="alternate" type="text/html" title="Imitation of Christ" />
   <published>2016-11-13T00:00:00+00:00</published>
 
   
     <updated>2016-11-19T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Immitation-of-Christ</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Immitation-of-Christ/">
+  <id>http://vacsf.org/articles/Immitation-of-Christ</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Immitation-of-Christ/">
     
     &lt;p&gt;CHAPTER I&lt;br /&gt;
 &lt;em&gt;Of the imitation of Christ, and of contempt of the world and all its vanities&lt;/em&gt;&lt;br /&gt;
@@ -1765,7 +1765,7 @@ The very first set of law governed mankind even before they received the Ten Com
 &lt;p&gt;Above is an excerpt from The Imitation of Christ by Thomas A. Kempis, the first paragraph of chapter 1.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#an-assumption-about-jesus&quot; id=&quot;markdown-toc-an-assumption-about-jesus&quot;&gt;An assumption about Jesus&lt;/a&gt;&lt;/li&gt;
@@ -1779,11 +1779,11 @@ The very first set of law governed mankind even before they received the Ten Com
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Theo-guong-Gie-su/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Theo-guong-Gie-su/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;an-assumption-about-jesus&quot;&gt;An assumption about Jesus&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/Imitating-Christ-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Imitating-Christ-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
  “Christ teaches us how far we must imitate His life and character,” asserts the author of Imitation of Christ. The author assumes that we can imitate Jesus, and it appears quite a few folks agree with him. But as far as my study of Scriptures has brought me, the idea of imitating Jesus, or him being an example, goes against the biblical message as a whole. I was motivated to write this article after reading an introduction to the gospel of Matthew from a new Vietnamese translation, in which the author, or authors, referred to Jesus as the supreme teacher who had the authority to interprete God’s Law.&lt;/p&gt;
 
 &lt;h2 id=&quot;who-do-you-say-jesus-is&quot;&gt;Who do you say Jesus is?&lt;/h2&gt;
@@ -1884,7 +1884,7 @@ The very first set of law governed mankind even before they received the Ten Com
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Immitation-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;Imitation of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Immitation-of-Christ/&quot; rel=&quot;nofollow&quot;&gt;Imitation of Christ&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1895,7 +1895,7 @@ The very first set of law governed mankind even before they received the Ten Com
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
