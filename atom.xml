@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://vacsf.org/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
-  <updated>2017-11-21T21:44:08+00:00</updated>
-  <id>http://vacsf.org/</id>
+  <link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2017-12-15T00:44:07+00:00</updated>
+  <id>http://localhost:4000/</id>
 
   <title>VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
+  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -32,20 +32,20 @@
   
     <entry>
   <title>Why Do You Ask Me What Is Good?</title>
-  <link href="http://vacsf.org/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
+  <link href="http://localhost:4000/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
   <published>2017-11-05T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/What-Is-Good</id>
-  <content type="html" xml:base="http://vacsf.org/articles/What-Is-Good/">
+  <id>http://localhost:4000/articles/What-Is-Good</id>
+  <content type="html" xml:base="http://localhost:4000/articles/What-Is-Good/">
     
     &lt;p&gt;Most people ponder the question “What must I do to inherit the kingdom of God?” Case in point is it is the same question the rich young ruler asked Jesus in Matthew 19:16. It’s a good question, but the answer is not what most folks are looking for.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-assumption&quot; id=&quot;markdown-toc-the-assumption&quot;&gt;The assumption&lt;/a&gt;&lt;/li&gt;
@@ -59,10 +59,10 @@
 
 &lt;/nav&gt;
 
-&lt;!-- a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/What-Is-Good-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-assumption&quot;&gt;The assumption&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Faithful adherents of practically all religions of the world try to solve the problem of what good deeds they must do to get to the place promised in their systems of beliefs. Resisting sins is part of the solution, part of the “good deeds” they must do, but it is still a much narrower aspect of the whole range of good deeds that they must navigate. Thus in asking such question, they’re possessed by a fallacy that they can indeed do all the good deeds required to enter God’s kingdom.&lt;/p&gt;
 
 &lt;p&gt;Let us consider the main Scripture passage of this article.&lt;/p&gt;
@@ -73,22 +73,28 @@ Faithful adherents of practically all religions of the world try to solve the pr
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;what-must-i-do&quot;&gt;What must I do?&lt;/h2&gt;
-&lt;p&gt;The question, posed to Jesus by the rich young ruler in the parable, is representative of the thinking of virtually everyone when it comes to the matter of salvation, or eternal life. It’s an inescapable fact. There are things to be done. There are rituals, practices, and countless methods people conjure up to perhaps satisfy some arbitrary requirements of whichever deities they worship. In my own cultural experience, though people may not possess any notion of eternal life, or any deity, they expect rewards and blessings for good deeds they’ve done in this life, and perhaps in the life beyond. All they need to do is to cross their fingers and do the right thing.&lt;/p&gt;
+&lt;p&gt;The question, posed to Jesus by the rich young ruler in the passage, is representative of the thinking of virtually everyone when it comes to the matter of salvation, or eternal life. It’s an inescapable fact. There are things to be done. There are rituals, practices, and countless methods people conjure up to perhaps satisfy some arbitrary requirements of whichever deities they worship. In my own cultural experience, though people may not possess any notion of eternal life, or any deity, they expect rewards and blessings for good deeds they’ve done in this life, and perhaps in the life beyond. All they need to do is to cross their fingers and do the right thing.&lt;/p&gt;
 
-&lt;p&gt;The young ruler’s question to Jesus is no exception, and likewise has two fundamental problems: 1) the assumption that works, some things they do, can get they into God’s kingdom, and 2) the very reference to &lt;strong&gt;good work&lt;/strong&gt; in the question. The apostle Paul addresses the first problem in most of his letters—salvation is by grace, not works—, while the error in the second problem is indirectly answered by Jesus and further confirmed throughout Scriptures, especially in Paul’s letters.&lt;/p&gt;
+&lt;p&gt;The young ruler’s question to Jesus is no exception, and likewise has two fundamental problems: 1) the assumption that works, some things they do, can get them into God’s kingdom, and 2) the very reference to &lt;strong&gt;good work&lt;/strong&gt; in the question. The apostle Paul addresses the first problem in most of his letters—salvation is by grace, not works—, while the error in the second problem is indirectly answered by Jesus and further confirmed throughout Scriptures, especially in Paul’s letters.&lt;/p&gt;
 
 &lt;h2 id=&quot;works-and-eternal-life&quot;&gt;Works and eternal life&lt;/h2&gt;
 &lt;p&gt;Works are good things all Christians should do. They give them a chance to work out their faith through gifts endowed from above, to feel a sense of personal significance as they participate in God’s works toward His kingdom, plus many other benefits. But works contribute nothing toward our entering into the kingdom of God, and His righteousness. It’s when these works are elevated as if they can make or break our relationship with God, they steal the glory of God.&lt;/p&gt;
 
 &lt;p&gt;Ephesians 2:8-9 says we’re saved by faith and not by works. Additionally, the works that we do are not something we come up with on our own, but are those that God had prepared for each and every one of His children according to His infinite wisdom: &lt;em&gt;“For we are his workmanship, having been created in Christ Jesus for good works that &lt;strong&gt;God prepared beforehand&lt;/strong&gt; so we may do them (Ephesians 2:10).”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Hebrews 10:10 puts this in a different way:
-&amp;gt; By his will we have been made holy through the offering of the body of Jesus Christ once for all (Hebrews 10:10).&lt;/p&gt;
+&lt;p&gt;Hebrews 10:10 puts this in a different way:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By his will we have been made holy through the offering of the body of Jesus Christ once for all (Hebrews 10:10).&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;To be made holy is to be set apart for God’s kingdom, the very thing sought after by the rich young ruler in Matthew 19:16. It’s not any works, even the best of good works, but the offering of the body of Christ that makes the young man holy.&lt;/p&gt;
 
-&lt;p&gt;God clearly insists in Romans 11:6 that salvation can never be based on any works of man but by God, and He gives it freely to those who believe.
-&amp;gt; And if [&lt;em&gt;salvation is&lt;/em&gt;] by grace, then it cannot be based on works; if it were, grace would no longer be grace (Romans 11:6).&lt;/p&gt;
+&lt;p&gt;God clearly insists in Romans 11:6 that salvation can never be based on any works of man but by God, and He gives it freely to those who believe.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And if [&lt;em&gt;salvation is&lt;/em&gt;] by grace, then it cannot be based on works; if it were, grace would no longer be grace (Romans 11:6).&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;I can cite many more verses that will completely demolish any idea that people may enter God’s kingdom through some works of their own, but these should suffice. However the problem with most Christians is not that they don’t believe they’re saved by grace, it’s their utter dependence on works to maintain their relationship with God. They believe that the works that they do after they’re saved will make them more holy, more perfect, until the day they meet God. They call it the sanctification process.&lt;/p&gt;
 
@@ -104,7 +110,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
 &lt;p&gt;The Galatians Christians also committed this egregious error such that the apostle Paul had to scold them: &lt;em&gt;“Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? (Galatians 3:3—KJV)”&lt;/em&gt; There are never supposed to be any works in a Christian’s life; works to earn salvation, works to earn God’s favor. Works that are produced through the believers as a byproduct, an outworking of the indwelling Holy Spirit, is never an issue, unless it is paraded before them so much it becomes dead works of the flesh.&lt;/p&gt;
 
-&lt;p&gt;If faith is the only means through which you can get in God’s kingdom, it alone is the only means for you to live as a child of God. And the works that God has prepared for each individual (Ephesians 2:8-9) is a different kind of work altogether, as God himself will see to it that they get done, &lt;em&gt;“for it is God who works in you &lt;strong&gt;to will and to act&lt;/strong&gt; in order to fulfill his good purpose (Philippians 2:13—NIV).”&lt;/em&gt; These works are gifts from God as He gives them to us along with His Son. These works are never a measure of our standing before Him, because if they are, who among us can judge what works are good enough?&lt;/p&gt;
+&lt;p&gt;If faith is the only means through which you can get in God’s kingdom, it alone is the only means for you to live as a child of God. And the works that God has prepared for each individual (Ephesians 2:10) is a different kind of work altogether, as God himself will see to it that they get done, &lt;em&gt;“for it is God who works in you &lt;strong&gt;to will and to act&lt;/strong&gt; in order to fulfill his good purpose (Philippians 2:13—NIV).”&lt;/em&gt; These works are gifts from God as He gives them to us along with His Son. These works are never a measure of our standing before Him, because if they are, who among us can judge what works are good enough?&lt;/p&gt;
 
 &lt;h2 id=&quot;only-god-is-good&quot;&gt;Only God is good&lt;/h2&gt;
 &lt;p&gt;Do you notice the peculiarity of Jesus’ response to the young man’s question? Don’t you know only God is good? And how can you who are not good produce anything good?&lt;/p&gt;
@@ -115,7 +121,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
 &lt;p&gt;So it’s not only that you cannot through works get to heaven, you don’t even have what it takes to produce good works for that matter. The prophet Isaiah has this assessment of our condition: &lt;em&gt;“All of us have become like one who is unclean, and all our &lt;strong&gt;righteous acts are like filthy rags&lt;/strong&gt;; we all shrivel up like a leaf, and like the wind our sins sweep us away (Isaiah 64:6).”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;However, someone may argue that we have been saved so we we can do all things through Christ who strengthens us (Philippians 4:13). We can indeed do good and righteous things. But is it true, that we can achieve what that was previously impossible? That Jesus’ retort to the young man no longer applies to us? That what He said, &lt;em&gt;“Only God is good,”&lt;/em&gt; no longer holds true? Nothing is further from the truth. God is still the only One who is good, and we’re still sinners saved by grace. We still suffer the consequences of the Fall. We still die, get sick, and sinful thoughts and actions still govern a large part of our lives. The only thing that is certain is our freedom from condemnation and God’s promise of eternal life.&lt;/p&gt;
+&lt;p&gt;However, someone may argue that we have been saved so we we can do all things through Christ who strengthens us (Philippians 4:13). But is it true, that we can achieve what that was previously impossible? That Jesus’ retort to the young man no longer applies to us? That what He said, &lt;em&gt;“Only God is good,”&lt;/em&gt; no longer holds true? Nothing is further from the truth. God is still the only One who is good, and we’re still sinners saved by grace. We still suffer the consequences of the Fall. We still die, get sick, and sinful thoughts and actions still govern a large part of our lives. The only thing that is certain is our freedom from condemnation and God’s promise of eternal life.&lt;/p&gt;
 
 &lt;p&gt;To think otherwise is to set ourselves up for constant failures that ultimately will put doubts in our minds that we may not be saved at all, because if we are, why do we still carry our body of death all day long? (Romans 7:24)&lt;/p&gt;
 
@@ -128,7 +134,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
   &lt;p&gt;“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing (John 15:5).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;To think otherwise is to put the cart before the horse. The bearing of fruit is a natural byproduct of our being attached to the vine. You cannot try to induce the fruit bearing, or good works, through force or threatening, no matter how subtle. It’s the outworking of the vine, not the branches. And how do the branches abide in the vine? Through faith, the only instrument God allows Christians to abide in their Redeemer. Their fruit springs forth they know neither when nor how.&lt;/p&gt;
+&lt;p&gt;To think otherwise is to put the cart before the horse. The bearing of fruit is a natural byproduct of our being attached to the vine. You cannot try to induce the fruit bearing, or good works, through force or threatening, no matter how subtle. It’s the outworking of the vine, not the branches. And how do the branches abide in the vine? Through faith, the only instrument God allows Christians to abide in their Redeemer. Their fruit springs forth they know neither when nor how (John 3:8).&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“&lt;sup&gt;26&lt;/sup&gt;The kingdom of God is like someone who spreads seed on the ground. &lt;sup&gt;27&lt;/sup&gt;He goes to sleep and gets up, night and day, and the seed sprouts and grows, though &lt;strong&gt;he does not know how&lt;/strong&gt;. &lt;sup&gt;28&lt;/sup&gt;&lt;strong&gt;By itself the soil produces a crop&lt;/strong&gt;, first the stalk, then the head, then the full grain in the head. &lt;sup&gt;29&lt;/sup&gt;And when the grain is ripe, he sends in the sickle because the harvest has come.” (Mark 4:26-29)&lt;/p&gt;
@@ -147,7 +153,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -158,7 +164,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -184,21 +190,180 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
   
     <entry>
+  <title>Sao ngươi hỏi ta về việc lành?</title>
+  <link href="http://localhost:4000/viet-studies/What-Is-Good-Viet/" rel="alternate" type="text/html" title="Sao ngươi hỏi ta về việc lành?" />
+  <published>2017-11-05T00:00:00+00:00</published>
+
+  
+    <updated>2017-09-14T16:14:45+00:00</updated>
+  
+
+  <id>http://localhost:4000/viet-studies/What-Is-Good-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/What-Is-Good-Viet/">
+    
+    &lt;p&gt;Nhiều người tự hỏi “Tôi phải làm gì để được hưởng nước Trời?” Bằng chứng là người trẻ tuổi giàu có cũng hỏi Chúa Giê-su về điều đó trong Matthew 19:16. Đây là một câu hỏi chính đáng, nhưng câu trả lời lại không phải là một điều người hỏi đang tìm kiếm.&lt;/p&gt;
+
+&lt;nav class=&quot;js-toc toc&quot;&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-assumption&quot; id=&quot;markdown-toc-the-assumption&quot;&gt;The assumption&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#matthew-1916-22&quot; id=&quot;markdown-toc-matthew-1916-22&quot;&gt;Matthew 19:16-22&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ti-phi-lm-vic-lnh-chi&quot; id=&quot;markdown-toc-ti-phi-lm-vic-lnh-chi&quot;&gt;Tôi phải làm việc lành chi?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vic-lm-v-s-sng-i-i&quot; id=&quot;markdown-toc-vic-lm-v-s-sng-i-i&quot;&gt;Việc làm và sự sống đời đời&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#duy-cha-l-ng-tt-lnh&quot; id=&quot;markdown-toc-duy-cha-l-ng-tt-lnh&quot;&gt;Duy Chúa là Đấng tốt lành&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#kt-qu&quot; id=&quot;markdown-toc-kt-qu&quot;&gt;Kết quả&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ch-cha-l-ng-tt-lnh---phn-2&quot; id=&quot;markdown-toc-ch-cha-l-ng-tt-lnh---phn-2&quot;&gt;Chỉ Chúa là Đấng tốt lành - phần 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;the-assumption&quot;&gt;The assumption&lt;/h2&gt;
+&lt;!-- img alt src=&quot;http://localhost:4000/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; --&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+Những tín đồ trung tín của hầu hết các tôn giáo trên thế giới đều tìm cách giải quyết vấn đề việc lành nào họ phải làm để đạt đến được mục tiêu cao cả nhất trong niềm tin của họ. Chống trả với tội lỗi cũng là một phần trong giải quyết đó, một phần của “việc lành” mà họ phải làm, nhưng đó chỉ là một phần rất nhỏ trong toàn diện các việc lành mà họ phải suy xét cho chính mình. Do đó, khi nêu lên một câu hỏi như vậy, họ mang một ảo tưởng rằng có thể làm được những việc lành để vào nước Chúa.&lt;/p&gt;
+
+&lt;p&gt;Chúng ta hãy đọc và suy gẫm đoạn Kinh thánh chính của bài viết này.&lt;/p&gt;
+
+&lt;h2 id=&quot;matthew-1916-22&quot;&gt;Matthew 19:16-22&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;sup&gt;16&lt;/sup&gt;Nầy, có một người đến hỏi Ngài rằng: Theo thầy, tôi phải làm việc lành chi cho được sự sống đời đời? &lt;sup&gt;17&lt;/sup&gt;Đức Chúa Jêsus đáp rằng: Sao ngươi hỏi ta về việc lành? Chỉ có một Đấng lành mà thôi. Nếu ngươi muốn vào sự sống, thì phải giữ các điều răn. &lt;sup&gt;18&lt;/sup&gt;Người hỏi: Những điều răn gì? Đức Chúa Jêsus phán rằng: Những điều răn nầy: Đừng giết người; đừng phạm tội tà dâm; đừng ăn trộm cắp; đừng làm chứng dối; &lt;sup&gt;19&lt;/sup&gt;Hãy thảo kính cha mẹ; và: Hãy yêu kẻ lân cận như mình. &lt;sup&gt;20&lt;/sup&gt;Người trẻ đó thưa rằng: Tôi đã giữ đủ các điều nầy; còn thiếu chi cho tôi nữa? &lt;sup&gt;21&lt;/sup&gt;Đức Chúa Jêsus phán rằng: Nếu ngươi muốn được trọn vẹn, hãy đi bán hết gia tài mà bố thí cho kẻ nghèo nàn, thì ngươi sẽ có của quí ở trên trời; rồi hãy đến mà theo ta. &lt;sup&gt;22&lt;/sup&gt;Nhưng khi người trẻ nghe xong lời nầy, thì đi, bộ buồn bực; vì chàng có của cải nhiều lắm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;ti-phi-lm-vic-lnh-chi&quot;&gt;Tôi phải làm việc lành chi?&lt;/h2&gt;
+&lt;p&gt;Câu hỏi này, câu mà người trẻ tuổi giàu có đã nêu lên với Chúa Giê-su trong đoạn Kinh thánh, là tiêu biểu cho sự suy tưởng của nhân loại nói chung về sự cứu rỗi, hoặc sự sống đời đời. Đó là một thực thể không chối cãi được. Có những việc phải làm. Có những nghi lễ, những thể thức, và vô số những phương cách người ta tạo nên hầu thỏa mãn những điều kiện nào đó đòi hỏi bởi thần thánh họ thờ phượng. Trong kinh nghiệm từ nguồn gốc văn hóa của riêng tôi, dù một người có thể không có một khái niệm gì về sự sống đời đời, hoặc về một thần thánh nào đó, họ cũng trông đợi những phần thưởng và phước lành cho những việc lành họ làm trong đời này hoặc đời sau.&lt;/p&gt;
+
+&lt;p&gt;Câu hỏi của người trẻ tuổi giàu có cho Chúa Giê-su cũng không phải là ngoại lệ, và cũng đối diện với hai nan đề tương tự: 1) giả luận rằng việc làm của họ có thể cho họ được vào nước thiên đàng, và 2) ý niệm “việc lành” trong câu hỏi của người trẻ đó. Sứ đồ Phao-lô đã làm sáng tỏ vấn đề đầu tiên trong hầu hết các thơ của ông: &lt;em&gt;“chúng ta được cứu bởi ân điển, không phải bởi việc làm,”&lt;/em&gt; còn “việc lành” thì đã được Chúa Giê-su trả lời gián tiếp trong Matthew 19:16-22 và qua toàn bộ Kinh thánh nhất là trong các thư tín của Phao-lô.&lt;/p&gt;
+
+&lt;h2 id=&quot;vic-lm-v-s-sng-i-i&quot;&gt;Việc làm và sự sống đời đời&lt;/h2&gt;
+
+&lt;p&gt;Việc lành là những điều mọi tín hữu đều nên làm. Những việc đó cho họ cơ hội thể hiện đức tin của mình qua những ân tứ Chúa ban, để cảm nhận giá trị của bản thân khi được dự phần vào công việc Chúa cho vương quốc Ngài, cùng nhiều lợi ích khác nữa. Nhưng việc làm không có phần gì trong sự đem chúng ta vào nước Chúa và sự công bình của Ngài. Khi việc làm được nâng lên như thể chúng có ảnh hưởng đến mối liên hệ giữa người và Chúa, thì chúng cướp đi sự vinh hiển của Ngài.&lt;/p&gt;
+
+&lt;p&gt;Ephesians 2:8-9 viết rằng chúng ta được cứu bởi đức tin chứ không phải bởi việc làm. Thêm nữa, việc chúng ta làm không phải là những điều chúng ta tự mình tìm kiếm lấy, nhưng là những sự Chúa đã sắm sẵn từ trước cho mỗi kẻ tin tùy theo sự khôn ngoan vô lượng của Ngài: &lt;em&gt;“vì chúng ta là việc Ngài làm ra, đã được dựng nên trong Đức Chúa Jêsus Christ để làm việc lành mà Đức Chúa Trời đã sắm sẵn trước cho chúng ta làm theo (Ephesians 2:10).”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hebrews 10:10 viết về chân lý này qua một cách khác:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ấy là theo ý muốn đó mà chúng ta được nên thánh nhờ sự dâng thân thể của Đức Chúa Jêsus Christ một lần đủ cả. (Hebrews 10:10).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Được nên thánh nghĩa là được biệt riêng ra cho nước Chúa, là điều mà người trẻ tuổi giàu có đang tìm cầu trong Matthew 19:16. Chẳng bởi một việc làm nào, dù là việc tốt lành nhất, nhưng bởi sự dâng thân thể Chúa một lần đủ cả mà một người được nên thánh.&lt;/p&gt;
+
+&lt;p&gt;Đức Chúa Trời cả quyết trong Romans 11:6 rằng sự cứu rỗi chẳng bao giờ được đặt nền tảng trên việc làm của bất cứ ai trừ Chúa, và Ngài ban cho cách rộng rãi không điều kiện cho bất kỳ ai tin.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nhưng nếu &lt;em&gt;[sự cứu rỗi]&lt;/em&gt; bởi ơn thì chẳng phải bởi việc làm nữa; bằng chẳng, thì ơn không còn phải là ơn. (Romans 11:6).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tôi có thể liệt kê nhiều đoạn Kinh thánh nữa hầu hoàn toàn hủy diệt những ý tưởng rằng người ta có thể nhờ việc làm mà vào được nước Chúa, nhưng thế này cũng đủ rồi. Tuy nhiên, nan đề của nhiều tín hữu không phải là vì họ không tin vào sự cứu rỗi bởi ân điển, nhưng vì họ quá lệ thuộc vào việc làm để duy trì mối tương quan với Chúa. Họ vẫn cậy vào việc làm để được nên thánh hơn, toàn hảo hơn, cho đến ngày họ gặp Chúa. Họ gọi đó là tiến trình của sự nên thánh.&lt;/p&gt;
+
+&lt;p&gt;Nhưng Kinh thánh không nói như vậy. Mà nói rằng chúng ta được cứu, và sống, chỉ bởi ân điển mà thôi.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời. Ấy chẳng phải bởi việc làm đâu, hầu cho không ai khoe mình (Ephesians 2:8-9).&lt;/p&gt;
+
+  &lt;p&gt;Vì trong Tin Lành nầy có bày tỏ sự công bình của Đức Chúa Trời, bởi đức tin mà được, lại dẫn đến đức tin nữa, như có chép rằng: “Người công bình sẽ sống bởi đức tin” (Romans 1:17; Galatians 3:11; Hebrews 10:38)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Việc làm, những việc khơi động và vận dụng bởi xác thịt, không thể nào đưa chúng ta vào nước Chúa vì chúng chẳng làm đẹp lòng Chúa và cũng không thỏa được sự công bình của Ngài. Do đó, những việc làm này không thể làm đẹp lòng Chúa trong đời sống những người đã được cứu cũng là điều hợp lý. Chân lý này được xác nhận trong Romans 1:17 như đã được trích ra ở trên: &lt;em&gt;“sự công bình của Đức Chúa Trời, bởi đức tin mà được, lại dẫn đến đức tin.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Tín hữu Ga-la-ti cũng đã phạm vào lầm lỗi này đến nỗi sứ đồ Phao-lô phải quở mắng họ: &lt;em&gt;“Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt mà làm cho trọn? (Galatians 3:3)”&lt;/em&gt; Không thể nào có một việc làm nào trong đời sống người tín hữu để được sự cứu rỗi, hoặc để được ơn phước Chúa. Những việc làm được thỏa lòng Chúa là những bông trái, là sự tuôn tràn của Thánh Linh trong đời sống người tín hữu. Những việc làm đến từ nơi Chúa chẳng bao giờ cần sự thúc đẩy của loài người, ngoại trừ khi chúng trở thành trọng yếu trong đời sống đức tin để đến nỗi sanh ra bông trái của xác thịt (1 Corinthians 3:10-11).&lt;/p&gt;
+
+&lt;p&gt;Nếu đức tin là phương cách duy nhất để vào nước Chúa, thì đó cũng là phương cách duy nhất để sống đời tin kính. Còn những việc làm mà Chúa đã sắm sẵn cho mỗi cá nhân (Ephesians 2:8-10) thì là một loại việc làm hoàn toàn khác, vì chính Chúa sẽ đích thân đưa dẫn đến khi trọn vẹn, &lt;em&gt;“Vì ấy chính Đức Chúa Trời cảm động lòng anh em vừa muốn vừa làm theo ý tốt Ngài.”&lt;/em&gt; Những việc làm đó là sự ban thêm cùng với Con Một của Ngài. Chúng không thể nào được dùng làm mực thước đo lường chỗ đứng của chúng ta trong Chúa, bằng chẳng vậy, ai trong vòng chúng ta có thể phán đoán việc làm nào là đủ?&lt;/p&gt;
+
+&lt;h2 id=&quot;duy-cha-l-ng-tt-lnh&quot;&gt;Duy Chúa là Đấng tốt lành&lt;/h2&gt;
+&lt;p&gt;Bạn có nhận thấy một điều kỳ lạ trong câu trả lời của Chúa Giê-su cho câu hỏi của người trẻ tuổi giàu có không? Bạn có biết rằng Chúa là Đấng tốt lành duy nhất không? Và hơn nữa, làm sao một người không tốt lành lại có thể làm điều tốt lành?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cây sanh trái xấu không phải là cây tốt, cây sanh trái tốt không phải là cây xấu; (Luke 6:43).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vì thế, bạn không những không thể cậy vào việc làm để vào nước Trời, bạn cũng chẳng có bản chất tốt lành để làm việc lành. Tiên-tri Ê-sai đã tuyên bố như sau về tình trạng chung của nhân loại: &lt;em&gt;“Chúng ta hết thảy đã trở nên như vật ô uế, mọi việc công bình của chúng ta như áo nhớp; chúng ta thảy đều héo như lá, và tội ác chúng ta như gió đùa mình đi.(Isaiah 64:6)”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thế nhưng có thể có người cả quyết rằng vì chúng ta đã được cứu do đó có thể làm được mọi sự nhờ Đấng ban thêm sức cho chúng ta (Philippians 4:13). Nhưng có thực rằng chúng ta bây giờ có thể làm được điều mà trước kia là không tưởng? Rằng lời khích bác của Chúa Giê-su với người trẻ giàu có không áp dụng với chúng ta? Rằng lời tuyên bố của Ngài rằng “chỉ có Chúa là Đấng tốt lành” không còn là một chân lý nữa? Lý luận đó hoàn toàn đi ngược với sự thật. Chúa mãi mãi vẫn là Đấng tốt lành duy nhất, còn chúng ta vẫn là những tội nhân sống nhờ ân điển. Chúng ta vẫn chịu hậu quả của sự sa ngã của loài người. Chúng ta vẫn phải trải qua sự chết, tật bệnh, cưu mang những tư tưởng đen tối trong lòng, và những việc làm thiếu sự vinh hiển Chúa vẫn thống trị phần lớn đời sống chúng ta. Điều duy nhất mà chúng ta biết chắc chắn đó là chúng ta được thoát khỏi sự lên án và được nhận lời hứa về sự sống đời đời.&lt;/p&gt;
+
+&lt;p&gt;Nhưng cái nhìn ngược lại sẽ đưa đến những thất bại triền miên kết cuộc với những ý tưởng nghi ngờ sự cứu rỗi của chính mình, vì nếu quả thực mình đã được cứu thì tại sao thân xác bại hoại vẫn còn cứ đeo đẳng đêm ngày? (Romans 7:24)&lt;/p&gt;
+
+&lt;p&gt;Lời Chúa Giê-su phán, &lt;em&gt;“chỉ có Chúa là Đấng tốt lành,”&lt;/em&gt; với những người tin quyết trong lòng rằng họ không còn cậy vào luật pháp để duy trì mối liên hệ với Chúa, nhưng chỉ hoàn toàn cậy vào sự nhân từ của Ngài, sẽ như được cất khỏi lưng mình một gánh nặng ghê gớm. Một sự thở phào nhẹ nhõm không còn phải cố gắng được &lt;em&gt;“trọn vẹn”&lt;/em&gt; (Matthew 5:48). Được nhìn nhận mình là người có tội, với những bất toàn, thay vì cứ miệt mài theo đuổi vô vọng cố trở nên giống như Đức Chúa Trời.&lt;/p&gt;
+
+&lt;h2 id=&quot;kt-qu&quot;&gt;Kết quả&lt;/h2&gt;
+&lt;p&gt;Người trẻ tuổi trong câu truyện này muốn tìm những việc lành nào đó để được vào nước Trời, nhưng Chúa Giê-su đã phán rằng mọi việc lành đều đến từ Ngài trong đời sống những người được cứu.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được (John 15:5).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Luận lý ngược lại cũng giống như để xe trước mũi lừa. Vì sự sinh bông trái chỉ là một sản phẩm của sự chúng ta được tháp vào thân nho. Chúng ta không thể nào thúc đẩy sự kết quả, sự làm việc lành, bằng sự áp đặt hoặc đe dọa, dù gián tiếp đến đâu chăng nữa. Sự sinh bông trái là do động lực thúc đẩy từ thân nho, không phải bởi các nhánh nho. Còn các nhánh nho thì tháp vào thân nho như thế nào? Bởi đức tin, khí cụ duy nhất Chúa ban cho kẻ tin để được ở trong Đấng Cứu Thế. Các bông trái nẩy sinh trong đời sống họ, họ chẳng biết khi nào và đến từ đâu (John 3:8).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Ngài lại phán rằng: Nước Đức Chúa Trời cũng như một người vải giống xuống đất; người ngủ hay dậy, đêm và ngày, giống cứ nẩy chồi mọc lên, mà người không biết thể nào.” (Mark 4:26-27)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bao nhiêu năng lực được dồn vào việc tăng trưởng qua nhiều hình thức. Nhưng mọi nỗ lực này cuối cùng chỉ khiến người tín hữu càng xa Chúa hơn, nhưng lại đẩy họ đến gần những kẻ mà nhiều người tôn trọng là được nhiều ơn Chúa.&lt;/p&gt;
+
+&lt;h2 id=&quot;ch-cha-l-ng-tt-lnh---phn-2&quot;&gt;Chỉ Chúa là Đấng tốt lành - phần 2&lt;/h2&gt;
+&lt;p&gt;Các tín hữu thường có cùng câu hỏi với người tuổi trẻ giàu có dù qua nhiều dạng thức và duyên cớ khác nhau. Trước khi tin Chúa, họ hỏi để được vào nước Ngài, giờ đây sau khi đã đặt niềm tin nơi Ngài, họ hỏi để được biết làm sao sống cho đẹp ý Ngài, làm sao cho xứng đáng là công dân nước Trời, làm sao để nên thánh hơn, trọn vẹn hơn. Nhưng câu trả lời của Chúa Giê-su vẫn là: duy chỉ Đức Chúa Trời là toàn hảo. Tại sao chúng ta lại hỏi Ngài với những &lt;em&gt;“lời không tri thức?”&lt;/em&gt; (Job 38:2) Phương cách duy nhất đến gần Chúa là &lt;em&gt;“sự dâng thân thể của Đức Chúa Jêsus Christ một lần đủ cả”&lt;/em&gt; (Hebrews 10:10). Còn những câu hỏi như của người trẻ tuổi giàu có chỉ bày tỏ một điều: lòng kiêu ngạo.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
+- Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+
+    
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/What-Is-Good-Viet/&quot; rel=&quot;nofollow&quot;&gt;Sao ngươi hỏi ta về việc lành?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+
+
+  </content>
+
+  
+  <author>
+    
+      <name>Nghi Nguyen</name>
+    
+    
+    <uri>http://localhost:4000/</uri>
+  </author>
+
+
+
+  
+    <category term="viet-studies" />
+  
+
+  
+    <category term="việc-làm" />
+  
+    <category term="đức-tin" />
+  
+    <category term="ân-điển" />
+  
+    <category term="công-bình" />
+  
+
+  
+    <summary type="text">Nhiều người tự hỏi “Tôi phải làm gì để được hưởng nước Trời?” Bằng chứng là người trẻ tuổi giàu có cũng hỏi Chúa Giê-su về điều đó trong Matthew 19:16. Đây là một câu hỏi chính đáng, nhưng câu trả lời lại không phải là một điều người hỏi đang tìm kiếm.</summary>
+  
+</entry>
+
+  
+    <entry>
   <title>Work Out Your Own Salvation</title>
-  <link href="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
+  <link href="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
   <published>2017-10-12T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Work-Out-Your-Own-Salvation</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/">
+  <id>http://localhost:4000/articles/Work-Out-Your-Own-Salvation</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/">
     
     &lt;p&gt;Philippians 2:12 says &lt;em&gt;“work out your own salvation with fear and trembling”&lt;/em&gt;, and Christians roll up their sleeves to get busy. And more than just getting busy, they do it with fear and trembling, too. This article will show that traditional interpretations of &lt;em&gt;“work out”&lt;/em&gt; and &lt;em&gt;“fear and trembling”&lt;/em&gt; are problematic and incongruous with the rest of Scriptures.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#work-out-your-own-salvation&quot; id=&quot;markdown-toc-work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/a&gt;&lt;/li&gt;
@@ -208,10 +373,10 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Now that you have received your salvation from Jesus Christ who died on the cross for your sins, it’s time you work it out, make worthwhile the sacrifice of the Son of God. GotQuestions.dot.org describes this “work out” as “… actively pursuing obedience in the process of &lt;u&gt;sanctification&lt;/u&gt; … ‘straining’ and ‘pressing on’ toward the goal of Christlikeness,” while DesiringGod.dot.org has an article with the title “Why &lt;u&gt;MUST&lt;/u&gt; We Work Out Our Salvation?” It explains the reason why: “the works we do &lt;u&gt;prove&lt;/u&gt; that our faith is real. Works are evidence of election.” Different sources give different reasons, but they all point to the need for a Christian to work out their salvation. These interpretations are also consistent with the messages I’ve heard from varying sources over the years.&lt;/p&gt;
 
 &lt;p&gt;There are two key concepts in the views expressed above that go against my core belief: sanctification as a process, and works that prove our faith.&lt;/p&gt;
@@ -263,7 +428,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -274,7 +439,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -301,20 +466,20 @@ Now that you have received your salvation from Jesus Christ who died on the cros
   
     <entry>
   <title>Làm Nên Sự Cứu Chuôc</title>
-  <link href="http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/" rel="alternate" type="text/html" title="Làm Nên Sự Cứu Chuôc" />
+  <link href="http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/" rel="alternate" type="text/html" title="Làm Nên Sự Cứu Chuôc" />
   <published>2017-10-12T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/">
+  <id>http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/">
     
     &lt;p&gt;Philippians 2:12 khuyên chúng ta &lt;em&gt;“lấy lòng sợ sệt run rẩy làm nên sự cứu chuộc mình”&lt;/em&gt;,  thế là các tín hữu sắn tay áo bận rộn làm việc nọ việc kia. Không những chỉ bận rộn mà thôi, họ còn làm việc trong sự sợ sệt run rẩy nữa. Bài viết này sẽ cho thấy lối giải thích phổ thông về các ý niệm &lt;em&gt;“sợ hãi run rẩy”&lt;/em&gt; và &lt;em&gt;“làm nên sự cứu rỗi”&lt;/em&gt; là không ổn và trái nghịch với nhiều chân lý khác trong Thánh Kinh.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#lm-nn-s-cu-chuc-mnh&quot; id=&quot;markdown-toc-lm-nn-s-cu-chuc-mnh&quot;&gt;Làm nên sự cứu chuộc mình&lt;/a&gt;&lt;/li&gt;
@@ -326,7 +491,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;lm-nn-s-cu-chuc-mnh&quot;&gt;Làm nên sự cứu chuộc mình&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Giờ đây, anh em đã nhận được sự cứu rỗi nhờ Đấng Christ đã chịu chết trên thập giá vì tội lỗi nhân loại, thì hãy nên thể hiện sự cứu rỗi đó cho xứng đáng với sự hy sinh của Con Đức Chúa Trời. GotQuestions.dot.org diễn tả sự &lt;em&gt;“làm nên”&lt;/em&gt; này nghĩa là “… tích cực theo đuổi sự vâng lời về tiến trình &lt;u&gt;nên thánh&lt;/u&gt; … ‘gắng sức’ và ‘kiên trì’ tiến tới mục đích trở nên giống Chúa,” còn DesiringGod.dot.org thì có một bài mang tựa “Tại sao chúng ta PHẢI làm nên sự cứu chuộc mình?” Bài viết đó giải thích: “việc chúng ta làm &lt;u&gt;chứng minh&lt;/u&gt; rằng đức tin chúng ta có là chân thật. Các việc làm đó là bằng chứng sự chúng ta được Chúa chọn.” Các nguồn trưng dẫn các lý do khác nhau, nhưng hầu hết đều hướng về việc người tín hữu cần phải “làm nên sự cứu chuộc mình.” Các nguồn trên cũng đồng quan điểm với những bài giảng tôi đã thường nghe trong nhiều năm qua.&lt;/p&gt;
 
 &lt;p&gt;Có hai ý niệm chính trong các quan điểm trên đi ngược lại với niềm tin của tôi: sự nên thánh như một tiến trình, và việc làm để minh chứng đức tin.&lt;/p&gt;
@@ -404,7 +569,7 @@ cố gắng sống sao cho xứng đáng với ơn cứu rỗi (Vietnamese Bible
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot; rel=&quot;nofollow&quot;&gt;Làm Nên Sự Cứu Chuôc&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot; rel=&quot;nofollow&quot;&gt;Làm Nên Sự Cứu Chuôc&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -415,7 +580,7 @@ cố gắng sống sao cho xứng đáng với ơn cứu rỗi (Vietnamese Bible
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -442,20 +607,20 @@ cố gắng sống sao cho xứng đáng với ơn cứu rỗi (Vietnamese Bible
   
     <entry>
   <title>Repentance From Dead Works</title>
-  <link href="http://vacsf.org/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
+  <link href="http://localhost:4000/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
   <published>2017-09-21T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Repentance-From-Dead-Works</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Repentance-From-Dead-Works/">
+  <id>http://localhost:4000/articles/Repentance-From-Dead-Works</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Repentance-From-Dead-Works/">
     
     &lt;p&gt;What seems to preoccupy most Christians is the issue of sin, both of the things you should do but don’t do, and of the things you should not do but you do. The same thing is also true with the majority of Christian teaching which is dedicated toward solving this perennial problem. But the key verse we’re studying in this article denounces it as elementary teaching while it admonishes us to move on to maturity.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#repentance&quot; id=&quot;markdown-toc-repentance&quot;&gt;Repentance&lt;/a&gt;&lt;/li&gt;
@@ -469,10 +634,10 @@ cố gắng sống sao cho xứng đáng với ơn cứu rỗi (Vietnamese Bible
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;repentance&quot;&gt;Repentance&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The irony is it is the very issue of sin that drives people to Jesus, but it still plagues them years after they came to Christ. In their mind, they believe their sins are forgiven once and for all when they placed their trust in Christ, and through that faith they have eternal life, access to God through prayer, and many other fundamental beliefs. However, there seems to be a great disparity between what they believe in theory—the church’s doctrines that they hold—, and how they live out these beliefs in real life.&lt;/p&gt;
 
 &lt;p&gt;A quick survey on the internet shows the following definition of repentance:&lt;/p&gt;
@@ -574,7 +739,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -585,7 +750,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -610,20 +775,20 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
   
     <entry>
   <title>Từ Bỏ Các Việc Chết</title>
-  <link href="http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/" rel="alternate" type="text/html" title="Từ Bỏ Các Việc Chết" />
+  <link href="http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/" rel="alternate" type="text/html" title="Từ Bỏ Các Việc Chết" />
   <published>2017-09-21T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/">
+  <id>http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/">
     
     &lt;p&gt;Điều dường như chiếm trọn đời sống của người tín hữu là nan đề về tội lỗi, về việc họ không làm những điều nên làm và làm những việc họ không nên làm. Nan đề này cũng được phản ảnh qua đa số những tài liệu dạy dỗ Cơ-đốc nhằm mục đích giải quyết vấn đê dai dẳng này. Nhưng đoạn Kinh thánh chủ đề của bài viết này gọi những nỗ lực đó là điều sơ học dành cho con trẻ, và khuyên chúng ta nên tiến lên mức trưởng thành.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#n-nn-mdash-t-b&quot; id=&quot;markdown-toc-n-nn-mdash-t-b&quot;&gt;Ăn năn — từ bỏ&lt;/a&gt;&lt;/li&gt;
@@ -638,7 +803,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;n-nn-mdash-t-b&quot;&gt;Ăn năn — từ bỏ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Điều oái oăm ở đây là chính vì tội lỗi mà người ta tìm đến Chúa Giê-su để được giải cứu, nhưng rồi nhiều năm sau đó họ vẫn bị vấn đề tội lỗi ám ảnh. Trong trí, họ tin rằng mọi tội lỗi họ đều được Chúa thứ tha kể từ khi họ đặt niềm tin nơi Ngài, và cũng nhờ đức tin đó họ được sự sống đời đời, được đến với Ngài trong những lúc nguyện cầu, và nhiều tín lý căn bản khác. Nhưng trong thực tế, có một sự không đồng nhất giữa điều họ tin trong lý thuyết—các điều họ xưng nhận trong tín lý của hội thánh—, và cách họ bày tỏ những niềm tin đó trong cuộc sống.&lt;/p&gt;
 
 &lt;p&gt;Thăm dò trên mạng cho thấy ngay một định nghĩa của chữ “từ bỏ,” hoặc “ăn năn,” tiêu biểu cho quan điểm chung của đại đa số các tín hữu:&lt;/p&gt;
@@ -735,7 +900,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/&quot; rel=&quot;nofollow&quot;&gt;Từ Bỏ Các Việc Chết&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/&quot; rel=&quot;nofollow&quot;&gt;Từ Bỏ Các Việc Chết&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -746,7 +911,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -771,20 +936,20 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
   
     <entry>
   <title>Self Denial, the Cross, and Following Jesus</title>
-  <link href="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
+  <link href="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
   <published>2017-09-14T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/">
+  <id>http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/">
     
     &lt;p&gt;Almost all Christians must have heard at least more than once sermons that encourage them to deny themselves, take up their cross, and follow Jesus as both a commandment and a promise that they would experience peace, joy, and ultimately a more fulfilling Christian life. Is this what Jesus had in mind when he spoke these words?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-1624&quot; id=&quot;markdown-toc-matthew-1624&quot;&gt;Matthew 16:24&lt;/a&gt;&lt;/li&gt;
@@ -796,9 +961,9 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear to be achievable goals, and Christians set out to achieve these goals with a vengeance. A huge amount of communication is dedicated toward teaching Christians how to achieve a measure of success toward these goals. But is a measure of success good enough? For certainly Jesus was not speaking to those who were already in God’s kingdom, but to the lost world of the requirements for entering it. He is posing an impossible standard that only he could achieve: to deny one’s self, to bear the cross, and to follow in his footstep. This article will show that these are not challenges to see who qualifies for God’s kingdom, but are stern ominous shouts from the One who is going to the cross: “Will you surrender?”. We should not hear it with any less alarm than the terrifying scene around mount Sinai when the law was about to be delivered.&lt;/p&gt;
 
 &lt;p&gt;This article was inspired from a verse that was quoted at the end of an email. This verse, which I had heard sermons on it several times in my decades of sitting in my church pews, over the radio, or through Christian literature that I devoured in my early years as a Christian, became my life’s purpose years before Rick Warren’s Purpose Driven Life was written.&lt;/p&gt;
@@ -850,7 +1015,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -861,7 +1026,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -886,20 +1051,20 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
   
     <entry>
   <title>Tự Bỏ Mình, Vác Thập Tự, Theo Chúa</title>
-  <link href="http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/" rel="alternate" type="text/html" title="Tự Bỏ Mình, Vác Thập Tự, Theo Chúa" />
+  <link href="http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/" rel="alternate" type="text/html" title="Tự Bỏ Mình, Vác Thập Tự, Theo Chúa" />
   <published>2017-09-14T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/">
+  <id>http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/">
     
     &lt;p&gt;Hầu hết các tín hữu đều được nhiều lần nghe giảng về sự tự bỏ mình đi, vác thập tự giá, và theo Chúa Giê-su, phần thì để thỏa một mệnh lệnh, phần thì để được lời hứa rằng nếu làm theo sẽ có một đời sống tin kính vui thỏa. Phải chăng đây là ý Chúa Giê-su khi ngài phán những lời đó?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-1624&quot; id=&quot;markdown-toc-matthew-1624&quot;&gt;Matthew 16:24&lt;/a&gt;&lt;/li&gt;
@@ -911,7 +1076,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Đọc lướt qua, ba khía cạnh của lời phán của Chúa Giê-su trong Matthew 16:24 dường như là những mục tiêu có thể đạt được, thế rồi các tín hữu khởi sự hướng mọi nỗ lực vào những mục tiêu đó. Vô số sách vở được viết ra nhằm mục đích dạy người tín hữu những phương cách hầu đạt được một phần nào điều họ mong muốn. Nhưng họ phải đạt được đến mức độ nào cho đủ? Chắc chắn đối tượng của Chúa Giê-su lúc này không phải là những người tin Chúa, nhưng là thế giới lạc loài trong tối tăm, về những điều kiện để vào nước Ngài. Ngài đã nêu lên một tiêu chuẩn tối cao ngoài khả năng của loài người để đạt tới được: tự bỏ mình, gánh thập tự, và theo bước chân Ngài. Bài viết này sẽ cho thấy đoạn Kinh thánh Matthew 16:24 không phải là một thách thức để xem ai là người có thể thỏa điều kiện để vào nước Chúa, nhưng là một lời cảnh cáo nghiêm trọng từ Đấng đang chuẩn bị hy sinh trên thập giá: “Các ngươi có chịu đầu phục không?” Chúng ta phải đọc đoạn Kinh thánh đố với lòng run sợ như cảnh chung quanh chân núi Si-nai khi Đức Chúa Trời sắp ban luật pháp của Ngài.&lt;/p&gt;
 
@@ -964,7 +1129,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot; rel=&quot;nofollow&quot;&gt;Tự Bỏ Mình, Vác Thập Tự, Theo Chúa&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot; rel=&quot;nofollow&quot;&gt;Tự Bỏ Mình, Vác Thập Tự, Theo Chúa&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -975,7 +1140,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1000,20 +1165,20 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
   
     <entry>
   <title>Putting Off Of The Body Of The Flesh</title>
-  <link href="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
+  <link href="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
   <published>2017-08-24T00:00:00+00:00</published>
 
   
     <updated>2017-08-13T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
+  <id>http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
     
     &lt;p&gt;&lt;em&gt;“In him you also were circumcised - not, however, with a circumcision performed by human hands, but by the removal of the fleshly body, that is, through the circumcision done by Christ.  Having been buried with him in baptism, you also have been raised with him through your faith in the power of God who raised him from the dead (Colossians 2:11-12—NET).”&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#coram-deo&quot; id=&quot;markdown-toc-coram-deo&quot;&gt;Coram Deo&lt;/a&gt;&lt;/li&gt;
@@ -1027,9 +1192,9 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;coram-deo&quot;&gt;Coram Deo&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 An article of a similar topic was written previously under the title &lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot;&gt;“Mortify The Deeds Of The Flesh.”&lt;/a&gt; This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul’s Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul’s Coram Deo on Colossians 2:11-12 showed up as follows:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1148,7 +1313,7 @@ An article of a similar topic was written previously under the title &lt;a href=
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1159,7 +1324,7 @@ An article of a similar topic was written previously under the title &lt;a href=
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1190,20 +1355,20 @@ An article of a similar topic was written previously under the title &lt;a href=
   
     <entry>
   <title>Lột bỏ tánh xác thịt</title>
-  <link href="http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/" rel="alternate" type="text/html" title="Lột bỏ tánh xác thịt" />
+  <link href="http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/" rel="alternate" type="text/html" title="Lột bỏ tánh xác thịt" />
   <published>2017-08-24T00:00:00+00:00</published>
 
   
     <updated>2017-08-13T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/">
+  <id>http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/">
     
     &lt;p&gt;&lt;em&gt;“Anh em cũng chịu cắt bì trong Ngài, không phải phép cắt bì bởi tay người ta làm ra, nhưng là phép cắt bì của Ðấng Christ, là lột bỏ tánh xác thịt của chúng ta.  Anh em đã bởi phép báp-tem được chôn với Ngài, thì cũng được sống lại với Ngài bởi đức tin trong quyền phép Ðức Chúa Trời, là Ðấng đã khiến Ngài từ kẻ chết sống lại (Colossians 2:11-12—NET).”&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#coram-deo&quot; id=&quot;markdown-toc-coram-deo&quot;&gt;Coram Deo&lt;/a&gt;&lt;/li&gt;
@@ -1218,7 +1383,7 @@ An article of a similar topic was written previously under the title &lt;a href=
 
 &lt;h2 id=&quot;coram-deo&quot;&gt;Coram Deo&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Trước kia đã có một bài viết tương tự dưới tựa đề &lt;a href=&quot;http://vacsf.org/viet-studies/Lam-chet-cac-viec-cua-chi-the/&quot;&gt;“Làm Chết Các Việc Của Chi Thể.”&lt;/a&gt; Đây không phải là một bài được viết lại, nhưng là một cái nhìn từ một khía cạnh khác dựa trên một đoạn Kinh thánh khác. Động lực thúc đẩy bài viết này là một bài giảng tôi đã nghe trong một trại Hè dựa trên Colossians 2:11-12. Trong bài giảng, vị giảng sư đã nhắc đến Coram Deo của R. C. Sproul dựa trên cùng đoạn Kinh thánh. Điều đáng ghi nhận là khi tôi lên trên mạng để thăm dò quan niệm chung của quần chúng trên thế giới về đoạn Kinh thánh này, thì tìm thấy bài viết của Rev. Sproul với Coram Deo cho Colossians 2:11-12 như sau:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1340,7 +1505,7 @@ Trước kia đã có một bài viết tương tự dưới tựa đề &lt;a h
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot; rel=&quot;nofollow&quot;&gt;Lột bỏ tánh xác thịt&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot; rel=&quot;nofollow&quot;&gt;Lột bỏ tánh xác thịt&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1351,7 +1516,7 @@ Trước kia đã có một bài viết tương tự dưới tựa đề &lt;a h
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1382,20 +1547,20 @@ Trước kia đã có một bài viết tương tự dưới tựa đề &lt;a h
   
     <entry>
   <title>Entering God’s Rest</title>
-  <link href="http://vacsf.org/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God&#39;s Rest" />
+  <link href="http://localhost:4000/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God&#39;s Rest" />
   <published>2017-08-15T00:00:00+00:00</published>
 
   
     <updated>2017-08-15T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Entering-Gods-Rest</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Entering-Gods-Rest/">
+  <id>http://localhost:4000/articles/Entering-Gods-Rest</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Entering-Gods-Rest/">
     
     &lt;p&gt;Before Jesus took his last breath on the cross, he said: &lt;em&gt;“It’s finished.”&lt;/em&gt; So just as God rested after he completed the work of creation, Jesus rested after he completed the work of saving man. It is his will that we enter this rest, yet so many Christians do not experience it, their walk with God is still weighed down with burdens as they try to achieve what only Jesus could achieve for them, and he had already done so.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-burden-that-man-carries&quot; id=&quot;markdown-toc-the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/a&gt;&lt;/li&gt;
@@ -1407,9 +1572,9 @@ Trước kia đã có một bài viết tương tự dưới tựa đề &lt;a h
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The burden that man must carry is both physical and spiritual, however, Jesus came to address mainly the later. Physical burden must be born by both believers and unbelievers alike, some enjoy a life of ease while others toil for their survival irrespective of spiritual condition. But when Jesus spoke the following well known verse: &lt;em&gt;“Come to me, all you who are weary and burdened, and I will give you rest” (Matthew 11:28)&lt;/em&gt;, was he not also talking about the physical burden, or perhaps at least together with the spiritual as well?&lt;/p&gt;
 
 &lt;p&gt;If it is Jesus’ will to relieve us of our physical burden, such as ill health, financial issues, etc., he would have easily solved them through various physical means. If he could create the universe and everything in it, he could very well restore your good health, and give you resources to fix your financial problems. Jesus didn’t die to provide solutions to man’s physical problems, he died for their sins, and the guilt that weighed them down. Therefore the burden of man that must be lifted is the burden of sin which can only be accomplished by Christ on the cross on our behalf. This burden is uniquely a spiritual one.&lt;/p&gt;
@@ -1479,7 +1644,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God&#39;s Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God&#39;s Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1490,7 +1655,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1517,20 +1682,20 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
   
     <entry>
   <title>Vào Nơi An Nghỉ Chúa</title>
-  <link href="http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/" rel="alternate" type="text/html" title="Vào Nơi An Nghỉ Chúa" />
+  <link href="http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/" rel="alternate" type="text/html" title="Vào Nơi An Nghỉ Chúa" />
   <published>2017-08-15T00:00:00+00:00</published>
 
   
     <updated>2017-07-13T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/">
+  <id>http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/">
     
     &lt;p&gt;Trước khi Chúa-Giê-su trút hơi thở cuối cùng trên thập tự giá, Ngài phán: &lt;em&gt;“Mọi sự đã được trọn.”&lt;/em&gt; Cũng như Đức Chúa Trời đã nghỉ sau khi Ngài hoàn tất công cuộc sáng tạo trời đất, Chúa Giê-su cũng nghỉ sau khi Ngài hoàn tất chương trình cứu rỗi nhân loại. Ý Ngài là mọi người được vào nơi an nghỉ của Ngài, nhưng phần lớn các tín hữu không kinh nghiệm được sự an nghỉ đó, con đường theo Chúa của họ vẫn nặng trĩu với những gánh nặng khi họ cố tìm cách đạt được điều mà không những Chúa Giê-su đã làm trọn cho họ, mà chỉ Ngài mới có quyền năng để làm điều đó.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#nhng-gnh-nng-ca-loi-ngi&quot; id=&quot;markdown-toc-nhng-gnh-nng-ca-loi-ngi&quot;&gt;Những gánh nặng của loài người&lt;/a&gt;&lt;/li&gt;
@@ -1542,7 +1707,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;nhng-gnh-nng-ca-loi-ngi&quot;&gt;Những gánh nặng của loài người&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm linh, tuy nhiên, Chúa Giê-su đến với mục tiêu chính là để giải quyết vấn đề tâm linh. Gánh nặng về thể xác đè nặng trên vai cả người tin kính lẫn người không tin Chúa, người thì được một đời sống nhẹ nhàng trong khi người khác phải vật lộn để sống còn. Nhưng khi Chúa Giê-su phán trong câu Kinh thánh sau: &lt;em&gt;“Hỡi những kẻ mệt mỏi vì gánh nặng, hãy đến cùng ta, các ngươi sẽ được yên nghỉ” (Matthew 11:28)&lt;/em&gt;, chẳng phải ngài cũng đang nói về gánh nặng thể xác, hoặc ít nhất thì cũng bao gồm với gánh nặng tâm linh?&lt;/p&gt;
 
 &lt;p&gt;Nếu quả thực ý Chúa là để cất chúng ta khỏi gánh nặng thể xác, chẳng hạn như bệnh tật, khó khăn về tài chính, v.v., hẳn ngài có thể dễ dàng giải quyết bằng nhiều phương tiện về thể chất. Nếu Chúa đã dựng nên vũ trụ và mọi vật trong đó, thì sự chữa lành bệnh tật và giải quyết vấn đề tài chính chẳng khó khăn gì đối với Ngài. Thật không phải như vậy, Chúa Giê-su đã không trải qua sự chết vì cuộc sống vật chất của nhân loại, nhưng vì tội lỗi của họ, và mặc cảm tội lỗi đè nặng trong lòng họ. Do đó gánh nặng mà nhân loại cần được cởi bỏ là gánh nặng tội lỗi mà chỉ Đấng Christ mới có thể thực hiện được điều đó cho họ trên thập tự giá. Đây thực là một gánh nặng tâm linh.&lt;/p&gt;
@@ -1613,7 +1778,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/&quot; rel=&quot;nofollow&quot;&gt;Vào Nơi An Nghỉ Chúa&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/&quot; rel=&quot;nofollow&quot;&gt;Vào Nơi An Nghỉ Chúa&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1624,7 +1789,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1651,20 +1816,20 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
   
     <entry>
   <title>The Gospel, The Freer The More Sanctifying</title>
-  <link href="http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/" rel="alternate" type="text/html" title="The Gospel, The Freer The More Sanctifying" />
+  <link href="http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/" rel="alternate" type="text/html" title="The Gospel, The Freer The More Sanctifying" />
   <published>2017-06-10T00:00:00+00:00</published>
 
   
     <updated>2017-06-11T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying</id>
-  <content type="html" xml:base="http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/">
+  <id>http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying</id>
+  <content type="html" xml:base="http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/">
     
     &lt;p&gt;Many are concerned that the unlimitted teaching of grace will cause many to fall into antinomianism, and take advantage of the grace of God and find a license to sin. However Dr. Chalmers, an 18th century theologian, attempts to show us in his writing that such is not a case in the Christian experience.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#dr-chalmers-on-the-gospel&quot; id=&quot;markdown-toc-dr-chalmers-on-the-gospel&quot;&gt;Dr. Chalmers on the gospel&lt;/a&gt;&lt;/li&gt;
@@ -1683,7 +1848,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;dr-chalmers-on-the-gospel&quot;&gt;Dr. Chalmers on the gospel&lt;/h2&gt;
 
@@ -1739,7 +1904,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/&quot; rel=&quot;nofollow&quot;&gt;The Gospel, The Freer The More Sanctifying&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/&quot; rel=&quot;nofollow&quot;&gt;The Gospel, The Freer The More Sanctifying&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1750,7 +1915,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1779,20 +1944,20 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
   
     <entry>
   <title>Phúc Âm, Càng Tự Do Càng Nên Thánh</title>
-  <link href="http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/" rel="alternate" type="text/html" title="Phúc Âm, Càng Tự Do Càng Nên Thánh" />
+  <link href="http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/" rel="alternate" type="text/html" title="Phúc Âm, Càng Tự Do Càng Nên Thánh" />
   <published>2017-06-10T00:00:00+00:00</published>
 
   
     <updated>2017-06-11T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/">
+  <id>http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet</id>
+  <content type="html" xml:base="http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/">
     
     &lt;p&gt;Nhiều người e ngại rằng sự giảng dạy không giới hạn về ân điển Chúa sẽ khiến nhiều người lạm dụng nó, và khiến tội lỗi gia tăng. Nhưng Tiến Sĩ Chalmers, một nhà thần học của thế kỷ thứ 18, đã cho thấy thực tế không phải như vậy.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#dr-chalmers-vit-v-phc-m&quot; id=&quot;markdown-toc-dr-chalmers-vit-v-phc-m&quot;&gt;Dr. Chalmers viết về phúc âm&lt;/a&gt;&lt;/li&gt;
@@ -1865,7 +2030,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot; rel=&quot;nofollow&quot;&gt;Phúc Âm, Càng Tự Do Càng Nên Thánh&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot; rel=&quot;nofollow&quot;&gt;Phúc Âm, Càng Tự Do Càng Nên Thánh&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1876,7 +2041,7 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1905,20 +2070,20 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
   
     <entry>
   <title>Ephesians 2:1</title>
-  <link href="http://vacsf.org/articles/Ephesians-2-1/" rel="alternate" type="text/html" title="Ephesians 2:1" />
+  <link href="http://localhost:4000/articles/Ephesians-2-1/" rel="alternate" type="text/html" title="Ephesians 2:1" />
   <published>2017-06-08T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Ephesians-2-1</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Ephesians-2-1/">
+  <id>http://localhost:4000/articles/Ephesians-2-1</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Ephesians-2-1/">
     
     &lt;p&gt;One mistranslated word can completely change the meaning of a verse. The mistranslation though may have been unintentional, it could reflect the theology of the translator; the implication can be profound, as it affects how people view their relationship with God, and consequently leads them astray.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#how-has-someone-become-a-sinner&quot; id=&quot;markdown-toc-how-has-someone-become-a-sinner&quot;&gt;How has someone become a sinner?&lt;/a&gt;&lt;/li&gt;
@@ -1930,10 +2095,10 @@ Làm người ai cũng phải mang gánh nặng thể chất cũng như tâm lin
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/E-phe-so-2-1/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/E-phe-so-2-1/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;how-has-someone-become-a-sinner&quot;&gt;How has someone become a sinner?&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/ephesians21-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/ephesians21-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 There is almost always a great discrepancy between what a Christian believes theologically and what they believe in their heart which is reflected in the outworking of such belief. Their perception of the origin of their sin is what this article will address. This perception will in turn influence their understanding of the forgiveness of God which decidedly will characterize their relationship with God. The issue of sin and death is profoundly intertwined with forgiveness and life; if sin is misunderstood, so will it be with forgiveness.&lt;/p&gt;
 
 &lt;p&gt;In a previous article, &lt;a href=&quot;http://vacsf.org/articles/When-The-Son-Sets-You-Free/&quot;&gt;“When The Son Sets You Free”&lt;/a&gt;, I cited an example of a man who was practically dead in every way from the effect of drug addiction. He contributed nothing toward his eventual deliverance; all his effort to quit ended up in the desire for more, to the point he was so wasted that he was waiting for death to overtake him; if there was an inkling in his mind of a deity somewhere that he could pray to, he would, but he was too far gone to bother; he must have felt completely forsaken. So I quoted Ephesians 2:1 to illustrate God’s salvation to even one at such a dead state as him.&lt;/p&gt;
@@ -1986,7 +2151,7 @@ There is almost always a great discrepancy between what a Christian believes the
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Ephesians-2-1/&quot; rel=&quot;nofollow&quot;&gt;Ephesians 2:1&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Ephesians-2-1/&quot; rel=&quot;nofollow&quot;&gt;Ephesians 2:1&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1997,7 +2162,7 @@ There is almost always a great discrepancy between what a Christian believes the
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -2020,127 +2185,6 @@ There is almost always a great discrepancy between what a Christian believes the
 
   
     <summary type="text">One mistranslated word can completely change the meaning of a verse. The mistranslation though may have been unintentional, it could reflect the theology of the translator; the implication can be profound, as it affects how people view their relationship with God, and consequently leads them astray.</summary>
-  
-</entry>
-
-  
-    <entry>
-  <title>Ê-phê-sô 2:1</title>
-  <link href="http://vacsf.org/viet-studies/E-phe-so-2-1/" rel="alternate" type="text/html" title="Ê-phê-sô 2:1" />
-  <published>2017-06-08T00:00:00+00:00</published>
-
-  
-    <updated>2017-02-11T16:14:45+00:00</updated>
-  
-
-  <id>http://vacsf.org/viet-studies/E-phe-so-2-1</id>
-  <content type="html" xml:base="http://vacsf.org/viet-studies/E-phe-so-2-1/">
-    
-    &lt;p&gt;Một chữ bị dịch sai có thể thay đổi ý nghĩa của cả một đoạn Kinh thánh. Người dịch có thể vô tình, nhưng điều đó phản ảnh tín lý của họ, và có thể gây một ảnh hưởng sâu xa trong mối tương giao với Chúa, và cuối cùng sẽ dẫn người tín hữu đi lầm đường.&lt;/p&gt;
-
-&lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
-  &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
-&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#v-u-mt-ngi-tr-nn-ti-nhn&quot; id=&quot;markdown-toc-v-u-mt-ngi-tr-nn-ti-nhn&quot;&gt;Vì đâu một người trở nên tội nhân?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#nghch-vi-cc-on-kinh-thnh-khc&quot; id=&quot;markdown-toc-nghch-vi-cc-on-kinh-thnh-khc&quot;&gt;Nghịch với các đoạn Kinh thánh khác&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cht-v-sng&quot; id=&quot;markdown-toc-cht-v-sng&quot;&gt;Chết và sống&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quay-v-ng-c&quot; id=&quot;markdown-toc-quay-v-ng-c&quot;&gt;Quay về đường cũ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#dch-ng--ph-s-21&quot; id=&quot;markdown-toc-dch-ng--ph-s-21&quot;&gt;Dịch đúng Ê-phê-sô 2:1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/nav&gt;
-
-&lt;!-- a href=&quot;http://vacsf.org/viet-studies/Su-vang-loi/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
-
-&lt;h2 id=&quot;v-u-mt-ngi-tr-nn-ti-nhn&quot;&gt;Vì đâu một người trở nên tội nhân?&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/ephesians21-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
-Hầu như luôn luôn có một sự khác biệt giữa điều người tín hữu tin về phương diện tín lý và điều người đó cảm nhận trong lòng được phản ảnh qua hành động. Ý niệm của họ về nguồn gốc của tội lỗi là đối tượng chính của bài viết này. Ý niệm đó sẽ đóng một vai trò quan trọng trong sự hiểu biết của họ về sự tha thứ của Chúa, mà sự hiểu biết đó sẽ định đoạt sắc thái của mối tương giao giữa họ và Chúa. Vấn đề tội lỗi và sự chết thì đi song song với sự tha thứ và sự sống; nếu một người có cái nhìn sai về tội lỗi, thì họ cũng hiểu sai về sự tha thứ.&lt;/p&gt;
-
-&lt;p&gt;Trong một bài viết trước kia, &lt;a href=&quot;http://vacsf.org/viet-studies/Khi-Duoc-Chua-Giai-Thoat/&quot;&gt;“Khi Được Chúa Giải Thoát”&lt;/a&gt;, tôi đã trưng dẫn thí dụ về một người kể như đã chết dưới ảnh hưởng của sự nghiện ngập ma túy. Anh đã chẳng đóng góp chút nào về sự anh được giải cứu; mọi nỗ lực của anh chỉ càng tăng thêm sự thèm khát, đến nỗi sự suy bại khiến anh chỉ mong tìm đến sự chết; nếu có chút mảy may nào trong tâm trí anh về một đấng nào đó để anh cầu khẩn, thì chắc có lẽ anh đã khấn vái cầu xin, nhưng anh đã chẳng còn chút hơi nào để làm điều đó; lúc này hẳn anh đã cảm thấy mình là một kẻ cực khốn cùng. Vì vậy tôi trích đoạn Kinh thánh Ephesians 2:1 để nói về sự cứu rỗi của Chúa dành cho những kẻ  khốn cùng như anh.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Còn anh em đã chết &lt;em&gt;“VÌ”&lt;/em&gt; lầm lỗi và tội ác mình. (Ephesians 2:1)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Đến đây tôi chợt thấy có gì không ổn. Đoạn Kinh thánh này, theo bản dịch New International Translation, hoặc các bản khác như King James, New English Translation, mà tôi thường dùng, rất thích hợp để bày tỏ tình trạng khốn cùng của người nghiện ma túy trước khi họ được Chúa giải cứu. Đoạn đó có thể được áp dụng cho toàn thể nhân loại vì &lt;em&gt;“mọi người đều phạm tội và thiếu mất sự vinh hiển của Đức Chúa Trời (Romans 3:23).”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Nhưng trong khi tôi đang thản nhiên dịch bài viết đã nói trên sang tiếng Việt, thì giật mình vì thoáng nhận thấy bản tiếng dịch Việt cho đoạn Ephesians 2:1 dường như mang một ý nghĩa khác với hầu hết các bản tiếng Anh. Chữ &lt;em&gt;“VÌ”&lt;/em&gt; trong bản dịch này hàm ý một người bị chết về tâm linh &lt;em&gt;“VÌ”&lt;/em&gt; những tội lỗi mà họ đã phạm. Nếu các bản tiếng Anh đã được dịch để mang cùng ý nghĩa với bản tiếng Việt thì chúng phải viết như thế này: &lt;em&gt;“As for you, you were dead BECAUSE OF your transgressions and sins.”&lt;/em&gt;  Như vậy thì nếu một người có thể bằng cách nào đó tránh không phạm tội thì người đó không chết về tâm linh? Rằng có thể có một người nào đó vượt ra ngoài định luật rằng mọi người đều phạm tội và thiếu mất sự vinh hiển của Đức Chúa Trời? Tôi đã chưng hửng khi chiêm nghiệm câu Kinh thánh trong bản dịch tiếng Việt này.&lt;/p&gt;
-
-&lt;p&gt;Thực ra tôi phải thú nhận rằng có một chút ý tưởng ranh mãnh trong lòng khi phát giác lỗi lầm lớn trong bản dịch tiếng Việt; nó chứng minh điều tôi thường nhấn mạnh rằng người đọc Kinh thánh có trách nhiệm tra cứu mọi điều họ đọc, so sánh nó với các chân lý nền tảng rõ ràng để tránh những lỗi lầm trong sự giải thích hoặc thông dịch. Các bản tiếng Anh chỉ đơn giản giúp khẳng định lỗi lầm tìm thấy trong bản dịch tiếng Việt, nhưng cho dù không có các bản tiếng Anh chăng nữa, lỗi lầm trong bản dịch Việt ngữ thật dễ để nhận diện nếu người đọc được trang bị vững vàng với một số lượng đầy đủ các chân lý nền tảng căn bản.&lt;/p&gt;
-
-&lt;h2 id=&quot;nghch-vi-cc-on-kinh-thnh-khc&quot;&gt;Nghịch với các đoạn Kinh thánh khác&lt;/h2&gt;
-&lt;p&gt;Rất có thể đây không phải là chủ ý của người dịch, nhưng bản dịch của ông ta đi ngược lại với Romans 3:23 như đã được trích ra ở trên, và kể cả 1 John 1:8,10 như được trích ra dưới đây:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ví bằng chúng ta nói mình không có tội chi hết, ấy là chính chúng ta lừa dối mình, và lẽ thật không ở trong chúng ta. … Nhược bằng chúng ta nói mình chẳng từng phạm tội, ấy là chúng ta cho Ngài là kẻ nói dối, lời Ngài không ở trong chúng ta. (1 John 1:8,10)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nhưng chúng ta hãy tạm ngừng tại đây để đọc lại đoạn Kinh thánh trong bản dịch tiếng Việt để ôn lại nguyên cớ của bài viết này: &lt;em&gt;“Còn anh em đã chết &lt;strong&gt;VÌ&lt;/strong&gt; lầm lỗi và tội ác mình.”&lt;/em&gt;  Chúng ta biết rằng, theo sự hiểu biết căn bản của phúc âm, người ta chết về tâm linh chẳng phải vì những việc họ làm—những việc ác mà họ làm hoặc những việc lành họ không làm—, nhưng vì họ đã mang lấy bản chất hư nát, chết về tâm linh: là những tội nhân cần sự thương xót và lòng nhân từ của Đức Chúa Trời, như được viết trong Romans 5:12-14:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Cho nên, như bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết, thì sự chết đã trải qua trên hết thảy mọi người như vậy, vì mọi người đều phạm tội. Vì, trước khi chưa có luật pháp, tội lỗi đã có trong thế gian, song chưa có luật pháp, thì cũng không kể là tội lỗi. Nhưng từ A-đam cho đến Môi-se, sự chết đã cai trị cả đến những kẻ chẳng phạm tội giống như tội của A-đam, là người làm hình bóng của Ðấng phải đến.” (Romans 5:12-14)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;cht-v-sng&quot;&gt;Chết và sống&lt;/h2&gt;
-&lt;p&gt;Nếu bản dịch tiếng Việt của Ephesians 2:1 là đúng, thì một người chỉ chết trong tâm linh khi họ phạm vào những điều ác, và do đó nếu họ tránh được—ví bằng họ có thể làm được điều đó, hoặc đã trả giá cho tội lỗi mình chẳng hạn bằng sự xưng tội (mặc dù tôi không tin sự xưng tội có thể cất tội lỗi họ)—, thì họ sẽ không mất sự sống. Điều này đi ngược lại với chân lý trong Kinh thánh về sự tái sinh: sự ban cho Thánh Linh vào lòng người tin Chúa. Chúng ta hãy ghi nhớ rằng yếu tố chính mang lại sự sống là đức tin nơi Đấng Christ chứ chẳng phải sự chiến đấu với bản chất tội lỗi.&lt;/p&gt;
-
-&lt;p&gt;Trong nhãn quan của bản dịch tiếng Việt trong câu Ephesians 2:1, đời sống người tín hữu ba chìm bảy nổi giống như một con quay dây, yo-yo, cảm thấy mình sống mạnh khi vượt thắng được những cám dỗ, và ngược lại cảm thấy thất bại, xa Chúa, khi rơi vào trong sự cám dỗ. Nếp sống trầm bổng này là chuyện đương nhiên dưới thời Cựu Ước, nhưng hoàn toàn đi ngược với chương trình cứu rỗi của Chúa trong thời Tân Ước. Dưới giao ước cũ, các của lễ thiêu cứ được lập đi lập lại vì tội lỗi không hoàn toàn bị xóa bỏ, nhưng dưới giao ước mới, Đấng Christ đã được dâng lên chỉ một lần là đủ và không bao giờ còn được tái diễn. Do đó với những người đã được tái sinh, nếu họ &lt;em&gt;“VÌ”&lt;/em&gt; phạm tội mà phải chết, và nếu Chúa không thể bị đóng đinh trên thập giá lần thứ hai, thì làm sao họ được sống lại nữa? Bằng cách xưng tội chăng? Điều này không thể xảy ra vì &lt;em&gt;“nếu không có sự đổ huyết thì không có sự tha tội.”&lt;/em&gt; (Hebrews 9:22).&lt;/p&gt;
-
-&lt;h2 id=&quot;quay-v-ng-c&quot;&gt;Quay về đường cũ&lt;/h2&gt;
-&lt;p&gt;Sự dịch sai đoạn Kinh thánh Ephesians 2:1 không phải chỉ đơn giản là một lỗi nho nhỏ trong vấn đề thông dịch, nhưng nó là biểu tượng của khuynh hướng loài người hay nhờ cậy vào sức mạnh của xác thịt, và cũng vì đó họ ỷ lại vào sự tuân giữ luật pháp để bước đi với Chúa. Điều này cũng được phản ảnh qua sự giải thích sai lầm của nhiều đoạn Kinh thánh cho dù chúng đã được thông dịch cách chính xác.&lt;/p&gt;
-
-&lt;p&gt;Vì Đấng Christ đã chết một lần trọn vẹn cho tội lỗi, nên một kẻ tin cũng sống lại một lần trọn vẹn trong Thánh Linh khi người đó bước vào trong mối tương giao với Chúa đặt căn bản trên đức tin.  Tín lý sai lạc khiến họ nghi ngờ sự cứu rỗi, vì họ tưởng rằng những lầm lỡ vấp phạm không ai tránh khỏi sẽ khiến họ lại phải chết nữa, và vì thế họ quay trở lại trong vòng tròn luẩn quẩn tìm phương thuốc chữa cho tội lỗi mình, và họ dùng sự “xưng tội” như một trong vô số những phương cách khác để làm vơi đi mặc cảm tội lỗi.  Thế là họ quay trở về sa mạc như người Do-thái thuở xưa để đi cho trọn bốn mươi năm đầy dẫy sự vất vả nhọc nhằn.&lt;/p&gt;
-
-&lt;h2 id=&quot;dch-ng--ph-s-21&quot;&gt;Dịch đúng Ê-phê-sô 2:1&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Còn anh em đã chết &lt;em&gt;“TRONG”&lt;/em&gt; lầm lỗi và tội ác mình. (Ephesians 2:1)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Anh em đã chết, như A-đam và Ê-va ngày xưa đã chết, như mọi người sinh ra trong bản tính xác thịt hư mất. Các lầm lỗi và tội ác của anh em là hậu quả đương nhiên mà anh em sẽ ngụp lặn &lt;em&gt;“TRONG”&lt;/em&gt; đó cho đến ngày được Chúa ban cho một thân thể mới (1 Corinthians 15).&lt;/p&gt;
-
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
-- Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-
-
-    
-
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/E-phe-so-2-1/&quot; rel=&quot;nofollow&quot;&gt;Ê-phê-sô 2:1&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
-
-
-  </content>
-
-  
-  <author>
-    
-      <name>Nghi Nguyen</name>
-    
-    
-    <uri>http://vacsf.org/</uri>
-  </author>
-
-
-
-  
-    <category term="viet-studies" />
-  
-
-  
-    <category term="truth" />
-  
-    <category term="interpretation" />
-  
-    <category term="translation" />
-  
-    <category term="sin" />
-  
-    <category term="death" />
-  
-
-  
-    <summary type="text">Một chữ bị dịch sai có thể thay đổi ý nghĩa của cả một đoạn Kinh thánh. Người dịch có thể vô tình, nhưng điều đó phản ảnh tín lý của họ, và có thể gây một ảnh hưởng sâu xa trong mối tương giao với Chúa, và cuối cùng sẽ dẫn người tín hữu đi lầm đường.</summary>
   
 </entry>
 
