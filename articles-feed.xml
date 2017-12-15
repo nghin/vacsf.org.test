@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://localhost:4000/articles-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-12-15T00:44:07+00:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://vacsf.org/articles-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
+  <updated>2017-12-15T07:01:20+00:00</updated>
+  <id>http://vacsf.org/</id>
 
   <title>Articles - VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -32,20 +32,20 @@
   
     <entry>
   <title>Why Do You Ask Me What Is Good?</title>
-  <link href="http://localhost:4000/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
+  <link href="http://vacsf.org/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
   <published>2017-11-05T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/What-Is-Good</id>
-  <content type="html" xml:base="http://localhost:4000/articles/What-Is-Good/">
+  <id>http://vacsf.org/articles/What-Is-Good</id>
+  <content type="html" xml:base="http://vacsf.org/articles/What-Is-Good/">
     
     &lt;p&gt;Most people ponder the question “What must I do to inherit the kingdom of God?” Case in point is it is the same question the rich young ruler asked Jesus in Matthew 19:16. It’s a good question, but the answer is not what most folks are looking for.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-assumption&quot; id=&quot;markdown-toc-the-assumption&quot;&gt;The assumption&lt;/a&gt;&lt;/li&gt;
@@ -59,10 +59,10 @@
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/What-Is-Good-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/What-Is-Good-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-assumption&quot;&gt;The assumption&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Faithful adherents of practically all religions of the world try to solve the problem of what good deeds they must do to get to the place promised in their systems of beliefs. Resisting sins is part of the solution, part of the “good deeds” they must do, but it is still a much narrower aspect of the whole range of good deeds that they must navigate. Thus in asking such question, they’re possessed by a fallacy that they can indeed do all the good deeds required to enter God’s kingdom.&lt;/p&gt;
 
 &lt;p&gt;Let us consider the main Scripture passage of this article.&lt;/p&gt;
@@ -153,7 +153,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -164,7 +164,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -191,20 +191,20 @@ Faithful adherents of practically all religions of the world try to solve the pr
   
     <entry>
   <title>Work Out Your Own Salvation</title>
-  <link href="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
+  <link href="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
   <published>2017-10-12T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Work-Out-Your-Own-Salvation</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/">
+  <id>http://vacsf.org/articles/Work-Out-Your-Own-Salvation</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/">
     
     &lt;p&gt;Philippians 2:12 says &lt;em&gt;“work out your own salvation with fear and trembling”&lt;/em&gt;, and Christians roll up their sleeves to get busy. And more than just getting busy, they do it with fear and trembling, too. This article will show that traditional interpretations of &lt;em&gt;“work out”&lt;/em&gt; and &lt;em&gt;“fear and trembling”&lt;/em&gt; are problematic and incongruous with the rest of Scriptures.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#work-out-your-own-salvation&quot; id=&quot;markdown-toc-work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/a&gt;&lt;/li&gt;
@@ -214,10 +214,10 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Now that you have received your salvation from Jesus Christ who died on the cross for your sins, it’s time you work it out, make worthwhile the sacrifice of the Son of God. GotQuestions.dot.org describes this “work out” as “… actively pursuing obedience in the process of &lt;u&gt;sanctification&lt;/u&gt; … ‘straining’ and ‘pressing on’ toward the goal of Christlikeness,” while DesiringGod.dot.org has an article with the title “Why &lt;u&gt;MUST&lt;/u&gt; We Work Out Our Salvation?” It explains the reason why: “the works we do &lt;u&gt;prove&lt;/u&gt; that our faith is real. Works are evidence of election.” Different sources give different reasons, but they all point to the need for a Christian to work out their salvation. These interpretations are also consistent with the messages I’ve heard from varying sources over the years.&lt;/p&gt;
 
 &lt;p&gt;There are two key concepts in the views expressed above that go against my core belief: sanctification as a process, and works that prove our faith.&lt;/p&gt;
@@ -269,7 +269,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -280,7 +280,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -307,20 +307,20 @@ Now that you have received your salvation from Jesus Christ who died on the cros
   
     <entry>
   <title>Repentance From Dead Works</title>
-  <link href="http://localhost:4000/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
+  <link href="http://vacsf.org/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
   <published>2017-09-21T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Repentance-From-Dead-Works</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Repentance-From-Dead-Works/">
+  <id>http://vacsf.org/articles/Repentance-From-Dead-Works</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Repentance-From-Dead-Works/">
     
     &lt;p&gt;What seems to preoccupy most Christians is the issue of sin, both of the things you should do but don’t do, and of the things you should not do but you do. The same thing is also true with the majority of Christian teaching which is dedicated toward solving this perennial problem. But the key verse we’re studying in this article denounces it as elementary teaching while it admonishes us to move on to maturity.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#repentance&quot; id=&quot;markdown-toc-repentance&quot;&gt;Repentance&lt;/a&gt;&lt;/li&gt;
@@ -334,10 +334,10 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;repentance&quot;&gt;Repentance&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The irony is it is the very issue of sin that drives people to Jesus, but it still plagues them years after they came to Christ. In their mind, they believe their sins are forgiven once and for all when they placed their trust in Christ, and through that faith they have eternal life, access to God through prayer, and many other fundamental beliefs. However, there seems to be a great disparity between what they believe in theory—the church’s doctrines that they hold—, and how they live out these beliefs in real life.&lt;/p&gt;
 
 &lt;p&gt;A quick survey on the internet shows the following definition of repentance:&lt;/p&gt;
@@ -439,7 +439,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -450,7 +450,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -475,20 +475,20 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
   
     <entry>
   <title>Self Denial, the Cross, and Following Jesus</title>
-  <link href="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
+  <link href="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
   <published>2017-09-14T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/">
+  <id>http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/">
     
     &lt;p&gt;Almost all Christians must have heard at least more than once sermons that encourage them to deny themselves, take up their cross, and follow Jesus as both a commandment and a promise that they would experience peace, joy, and ultimately a more fulfilling Christian life. Is this what Jesus had in mind when he spoke these words?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-1624&quot; id=&quot;markdown-toc-matthew-1624&quot;&gt;Matthew 16:24&lt;/a&gt;&lt;/li&gt;
@@ -500,9 +500,9 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear to be achievable goals, and Christians set out to achieve these goals with a vengeance. A huge amount of communication is dedicated toward teaching Christians how to achieve a measure of success toward these goals. But is a measure of success good enough? For certainly Jesus was not speaking to those who were already in God’s kingdom, but to the lost world of the requirements for entering it. He is posing an impossible standard that only he could achieve: to deny one’s self, to bear the cross, and to follow in his footstep. This article will show that these are not challenges to see who qualifies for God’s kingdom, but are stern ominous shouts from the One who is going to the cross: “Will you surrender?”. We should not hear it with any less alarm than the terrifying scene around mount Sinai when the law was about to be delivered.&lt;/p&gt;
 
 &lt;p&gt;This article was inspired from a verse that was quoted at the end of an email. This verse, which I had heard sermons on it several times in my decades of sitting in my church pews, over the radio, or through Christian literature that I devoured in my early years as a Christian, became my life’s purpose years before Rick Warren’s Purpose Driven Life was written.&lt;/p&gt;
@@ -554,7 +554,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -565,7 +565,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -590,20 +590,20 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
   
     <entry>
   <title>Putting Off Of The Body Of The Flesh</title>
-  <link href="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
+  <link href="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
   <published>2017-08-24T00:00:00+00:00</published>
 
   
     <updated>2017-08-13T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
+  <id>http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
     
     &lt;p&gt;&lt;em&gt;“In him you also were circumcised - not, however, with a circumcision performed by human hands, but by the removal of the fleshly body, that is, through the circumcision done by Christ.  Having been buried with him in baptism, you also have been raised with him through your faith in the power of God who raised him from the dead (Colossians 2:11-12—NET).”&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#coram-deo&quot; id=&quot;markdown-toc-coram-deo&quot;&gt;Coram Deo&lt;/a&gt;&lt;/li&gt;
@@ -617,9 +617,9 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;coram-deo&quot;&gt;Coram Deo&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 An article of a similar topic was written previously under the title &lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot;&gt;“Mortify The Deeds Of The Flesh.”&lt;/a&gt; This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul’s Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul’s Coram Deo on Colossians 2:11-12 showed up as follows:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -738,7 +738,7 @@ An article of a similar topic was written previously under the title &lt;a href=
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -749,7 +749,7 @@ An article of a similar topic was written previously under the title &lt;a href=
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -780,20 +780,20 @@ An article of a similar topic was written previously under the title &lt;a href=
   
     <entry>
   <title>Entering God’s Rest</title>
-  <link href="http://localhost:4000/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God&#39;s Rest" />
+  <link href="http://vacsf.org/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God&#39;s Rest" />
   <published>2017-08-15T00:00:00+00:00</published>
 
   
     <updated>2017-08-15T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Entering-Gods-Rest</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Entering-Gods-Rest/">
+  <id>http://vacsf.org/articles/Entering-Gods-Rest</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Entering-Gods-Rest/">
     
     &lt;p&gt;Before Jesus took his last breath on the cross, he said: &lt;em&gt;“It’s finished.”&lt;/em&gt; So just as God rested after he completed the work of creation, Jesus rested after he completed the work of saving man. It is his will that we enter this rest, yet so many Christians do not experience it, their walk with God is still weighed down with burdens as they try to achieve what only Jesus could achieve for them, and he had already done so.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-burden-that-man-carries&quot; id=&quot;markdown-toc-the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/a&gt;&lt;/li&gt;
@@ -805,9 +805,9 @@ An article of a similar topic was written previously under the title &lt;a href=
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The burden that man must carry is both physical and spiritual, however, Jesus came to address mainly the later. Physical burden must be born by both believers and unbelievers alike, some enjoy a life of ease while others toil for their survival irrespective of spiritual condition. But when Jesus spoke the following well known verse: &lt;em&gt;“Come to me, all you who are weary and burdened, and I will give you rest” (Matthew 11:28)&lt;/em&gt;, was he not also talking about the physical burden, or perhaps at least together with the spiritual as well?&lt;/p&gt;
 
 &lt;p&gt;If it is Jesus’ will to relieve us of our physical burden, such as ill health, financial issues, etc., he would have easily solved them through various physical means. If he could create the universe and everything in it, he could very well restore your good health, and give you resources to fix your financial problems. Jesus didn’t die to provide solutions to man’s physical problems, he died for their sins, and the guilt that weighed them down. Therefore the burden of man that must be lifted is the burden of sin which can only be accomplished by Christ on the cross on our behalf. This burden is uniquely a spiritual one.&lt;/p&gt;
@@ -877,7 +877,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God&#39;s Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God&#39;s Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -888,7 +888,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -915,20 +915,20 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
   
     <entry>
   <title>The Gospel, The Freer The More Sanctifying</title>
-  <link href="http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/" rel="alternate" type="text/html" title="The Gospel, The Freer The More Sanctifying" />
+  <link href="http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/" rel="alternate" type="text/html" title="The Gospel, The Freer The More Sanctifying" />
   <published>2017-06-10T00:00:00+00:00</published>
 
   
     <updated>2017-06-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying</id>
-  <content type="html" xml:base="http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/">
+  <id>http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying</id>
+  <content type="html" xml:base="http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/">
     
     &lt;p&gt;Many are concerned that the unlimitted teaching of grace will cause many to fall into antinomianism, and take advantage of the grace of God and find a license to sin. However Dr. Chalmers, an 18th century theologian, attempts to show us in his writing that such is not a case in the Christian experience.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#dr-chalmers-on-the-gospel&quot; id=&quot;markdown-toc-dr-chalmers-on-the-gospel&quot;&gt;Dr. Chalmers on the gospel&lt;/a&gt;&lt;/li&gt;
@@ -947,7 +947,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;dr-chalmers-on-the-gospel&quot;&gt;Dr. Chalmers on the gospel&lt;/h2&gt;
 
@@ -1003,7 +1003,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Godspel-Freer-More-Sanctifying/&quot; rel=&quot;nofollow&quot;&gt;The Gospel, The Freer The More Sanctifying&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Godspel-Freer-More-Sanctifying/&quot; rel=&quot;nofollow&quot;&gt;The Gospel, The Freer The More Sanctifying&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1014,7 +1014,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1043,20 +1043,20 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
   
     <entry>
   <title>Ephesians 2:1</title>
-  <link href="http://localhost:4000/articles/Ephesians-2-1/" rel="alternate" type="text/html" title="Ephesians 2:1" />
+  <link href="http://vacsf.org/articles/Ephesians-2-1/" rel="alternate" type="text/html" title="Ephesians 2:1" />
   <published>2017-06-08T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Ephesians-2-1</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Ephesians-2-1/">
+  <id>http://vacsf.org/articles/Ephesians-2-1</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Ephesians-2-1/">
     
     &lt;p&gt;One mistranslated word can completely change the meaning of a verse. The mistranslation though may have been unintentional, it could reflect the theology of the translator; the implication can be profound, as it affects how people view their relationship with God, and consequently leads them astray.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#how-has-someone-become-a-sinner&quot; id=&quot;markdown-toc-how-has-someone-become-a-sinner&quot;&gt;How has someone become a sinner?&lt;/a&gt;&lt;/li&gt;
@@ -1068,10 +1068,10 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/E-phe-so-2-1/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/E-phe-so-2-1/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;how-has-someone-become-a-sinner&quot;&gt;How has someone become a sinner?&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/ephesians21-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/ephesians21-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 There is almost always a great discrepancy between what a Christian believes theologically and what they believe in their heart which is reflected in the outworking of such belief. Their perception of the origin of their sin is what this article will address. This perception will in turn influence their understanding of the forgiveness of God which decidedly will characterize their relationship with God. The issue of sin and death is profoundly intertwined with forgiveness and life; if sin is misunderstood, so will it be with forgiveness.&lt;/p&gt;
 
 &lt;p&gt;In a previous article, &lt;a href=&quot;http://vacsf.org/articles/When-The-Son-Sets-You-Free/&quot;&gt;“When The Son Sets You Free”&lt;/a&gt;, I cited an example of a man who was practically dead in every way from the effect of drug addiction. He contributed nothing toward his eventual deliverance; all his effort to quit ended up in the desire for more, to the point he was so wasted that he was waiting for death to overtake him; if there was an inkling in his mind of a deity somewhere that he could pray to, he would, but he was too far gone to bother; he must have felt completely forsaken. So I quoted Ephesians 2:1 to illustrate God’s salvation to even one at such a dead state as him.&lt;/p&gt;
@@ -1124,7 +1124,7 @@ There is almost always a great discrepancy between what a Christian believes the
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Ephesians-2-1/&quot; rel=&quot;nofollow&quot;&gt;Ephesians 2:1&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Ephesians-2-1/&quot; rel=&quot;nofollow&quot;&gt;Ephesians 2:1&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1135,7 +1135,7 @@ There is almost always a great discrepancy between what a Christian believes the
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1164,20 +1164,20 @@ There is almost always a great discrepancy between what a Christian believes the
   
     <entry>
   <title>When The Son Sets You Free</title>
-  <link href="http://localhost:4000/articles/When-the-Son-Sets-You-Free/" rel="alternate" type="text/html" title="When The Son Sets You Free" />
+  <link href="http://vacsf.org/articles/When-the-Son-Sets-You-Free/" rel="alternate" type="text/html" title="When The Son Sets You Free" />
   <published>2017-05-11T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/When-the-Son-Sets-You-Free</id>
-  <content type="html" xml:base="http://localhost:4000/articles/When-the-Son-Sets-You-Free/">
+  <id>http://vacsf.org/articles/When-the-Son-Sets-You-Free</id>
+  <content type="html" xml:base="http://vacsf.org/articles/When-the-Son-Sets-You-Free/">
     
     &lt;p&gt;Matthew 5:48 says this about God: &lt;em&gt;‘Be perfect, therefore, as your heavenly Father is perfect.’&lt;/em&gt; Therefore, if Christ hasn’t already made you perfect, when will you be? One more revival meeting? One more communion? One more Bible verse to memorize? One more soul to win for Christ? No, if you aren’t already perfectly acceptable to God, you will never be.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#if-the-son-sets-you-free&quot; id=&quot;markdown-toc-if-the-son-sets-you-free&quot;&gt;If the Son sets you free&lt;/a&gt;&lt;/li&gt;
@@ -1191,11 +1191,11 @@ There is almost always a great discrepancy between what a Christian believes the
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Khi-Duoc-Chua-Giai-Thoat/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Khi-Duoc-Chua-Giai-Thoat/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;if-the-son-sets-you-free&quot;&gt;If the Son sets you free&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/addiction-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/addiction-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 What does a human heart need? What drives a person to seek relief in work, alcohol, drug, gambling, or various other forms of addiction? The mathematician and philosopher Blaise Pascal shared his understanding that there is a God-shaped vacuum in the human heart, which is really not far from the truth.&lt;/p&gt;
 
 &lt;p&gt;The Bible contains roughly 500 instances of an attribute of God that is described as love, grace, mercies, compassion, or other forms of it, and 1 John 4:8 declares that God is Love. Then it stands to reason that what the aforementioned relief seekers really need is love, which is the nature of God, but they found only a temporary relief that not only didn’t last, but may even wreck their lives and the lives of those that love them.&lt;/p&gt;
@@ -1311,7 +1311,7 @@ What does a human heart need? What drives a person to seek relief in work, alcoh
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/When-the-Son-Sets-You-Free/&quot; rel=&quot;nofollow&quot;&gt;When The Son Sets You Free&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/When-the-Son-Sets-You-Free/&quot; rel=&quot;nofollow&quot;&gt;When The Son Sets You Free&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1322,7 +1322,7 @@ What does a human heart need? What drives a person to seek relief in work, alcoh
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
@@ -1353,29 +1353,29 @@ What does a human heart need? What drives a person to seek relief in work, alcoh
   
     <entry>
   <title>Out Of One Danger, Into Another</title>
-  <link href="http://localhost:4000/articles/Danger-of-Erroneous-Teaching/" rel="alternate" type="text/html" title="Out Of One Danger, Into Another" />
+  <link href="http://vacsf.org/articles/Danger-of-Erroneous-Teaching/" rel="alternate" type="text/html" title="Out Of One Danger, Into Another" />
   <published>2017-04-20T00:00:00+00:00</published>
 
   
     <updated>2017-02-11T16:14:45+00:00</updated>
   
 
-  <id>http://localhost:4000/articles/Danger-of-Erroneous-Teaching</id>
-  <content type="html" xml:base="http://localhost:4000/articles/Danger-of-Erroneous-Teaching/">
+  <id>http://vacsf.org/articles/Danger-of-Erroneous-Teaching</id>
+  <content type="html" xml:base="http://vacsf.org/articles/Danger-of-Erroneous-Teaching/">
     
     &lt;p&gt;Are we ever more in danger of teaching an error, than when we are combatting one? For when a teacher has the ‘antinomians’ in his sights, I find he often becomes a proponent of increased endeavour, talking of the ‘necessities’ required in a ‘holy’ life, instead of rather the holy inevitabilities to be expected in the regenerate.&lt;/p&gt;
 
 &lt;!-- &lt;nav class=&quot;js-toc toc&quot; markdown=&quot;1&quot;&gt;
-&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot;&gt;
+&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot;&gt;
 &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 *  Auto generated table of contents
 {:toc .toc__menu}
 &lt;/nav&gt;
  --&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Dieu-Dang-Quan-Tam-Hon/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Dieu-Dang-Quan-Tam-Hon/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/danger-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/danger-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 He talks about the necessity of obeying God’s Word, instead of the inevitability, in the truly regenerate, of living it.  ‘Only holiness brings full joy’, one says.  But isn’t that putting the cart before the horse?  Isn’t it rather;  ‘Only joy (in believing), brings genuine holiness’?&lt;/p&gt;
 
 &lt;p&gt;Observe how the noted theologian quoted below takes verses of Scripture that describe the intention and purpose of the sovereign God, and render them as being contingent, and thereby provisional, and thereby uncertain, contingent upon the required actions of Man.&lt;/p&gt;
@@ -1431,7 +1431,7 @@ April 2017&lt;/em&gt;&lt;/p&gt;
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Danger-of-Erroneous-Teaching/&quot; rel=&quot;nofollow&quot;&gt;Out Of One Danger, Into Another&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Danger-of-Erroneous-Teaching/&quot; rel=&quot;nofollow&quot;&gt;Out Of One Danger, Into Another&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1442,7 +1442,7 @@ April 2017&lt;/em&gt;&lt;/p&gt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://vacsf.org/</uri>
   </author>
 
 
