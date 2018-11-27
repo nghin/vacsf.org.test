@@ -279,7 +279,7 @@ $(document).ready(function(){
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        $('#comment-form-submit').html('Submitted');
+        $('#comment-form-submit').html('Submitted').addClass("btn--disabled");
         $('.post__comments-form .js-notice').removeClass('notice--danger').addClass('notice--success');
         showAlert('<strong>Thanks for your comment!</strong> It will show on the site once it has been approved.');
       },

@@ -3,11 +3,11 @@
 
 
 
-  <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://vacsf.org/articles-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://vacsf.org/" rel="alternate" type="text/html" />
-  <updated>2018-11-26T06:44:30+00:00</updated>
-  <id>http://vacsf.org/</id>
+  <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+  <link href="http://localhost:4000/articles-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-11-27T02:44:15+00:00</updated>
+  <id>http://localhost:4000/</id>
 
   <title>Articles - VACSF.ORG</title>
 
@@ -15,7 +15,7 @@
     <subtitle>A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts</subtitle>
   
 
-  <icon>http://vacsf.org/apple-touch-icon-precomposed.png</icon>
+  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -24,7 +24,7 @@
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -32,20 +32,20 @@
   
     <entry>
   <title>To Be Born Again</title>
-  <link href="http://vacsf.org/articles/To-Be-Born-Again/" rel="alternate" type="text/html" title="To Be Born Again" />
+  <link href="http://localhost:4000/articles/To-Be-Born-Again/" rel="alternate" type="text/html" title="To Be Born Again" />
   <published>2018-06-22T00:00:00+00:00</published>
 
   
     <updated>2018-06-18T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/To-Be-Born-Again</id>
-  <content type="html" xml:base="http://vacsf.org/articles/To-Be-Born-Again/">
+  <id>http://localhost:4000/articles/To-Be-Born-Again</id>
+  <content type="html" xml:base="http://localhost:4000/articles/To-Be-Born-Again/">
     
     &lt;p&gt;You must have heard people refer to themselves as born-again Christians, but what does it really mean to be born again?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#nicodemus&quot; id=&quot;markdown-toc-nicodemus&quot;&gt;Nicodemus&lt;/a&gt;&lt;/li&gt;
@@ -57,10 +57,10 @@
 
 &lt;/nav&gt;
 
-&lt;!-- a href=&quot;http://vacsf.org/viet-studies/The-Old-and-the-New-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/The-Old-and-the-New-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;nicodemus&quot;&gt;Nicodemus&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/born-again-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/born-again-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who was a rabbi of rabbi who taught the law of God to all of Israel. He had always been highly regarded in Isarael all his life, yet something began to gnaw at him since the time he resolved in his heart that he would learn God’s law and keep them the best he could. His photographic memory allowed him to learn and remember things he read, and he kept growing larger in the mind of his contemporary, until one day he became the greatest of them all. But somehow he felt all his effort to reach perfection was not enough, his credentials could fool all his peers but not his own heart that all the accomplishments, though as impressive as they were, would not be enough for him to enter the kingdom of God.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -124,12 +124,12 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/To-Be-Born-Again/&quot; rel=&quot;nofollow&quot;&gt;To Be Born Again&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/To-Be-Born-Again/&quot; rel=&quot;nofollow&quot;&gt;To Be Born Again&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -140,7 +140,7 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -171,20 +171,20 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
   
     <entry>
   <title>7 Days Until Christ Returns</title>
-  <link href="http://vacsf.org/articles/7-Days-Until-Christ-Returns/" rel="alternate" type="text/html" title="7 Days Until Christ Returns" />
+  <link href="http://localhost:4000/articles/7-Days-Until-Christ-Returns/" rel="alternate" type="text/html" title="7 Days Until Christ Returns" />
   <published>2018-06-16T00:00:00+00:00</published>
 
   
     <updated>2018-06-18T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/7-Days-Until-Christ-Returns</id>
-  <content type="html" xml:base="http://vacsf.org/articles/7-Days-Until-Christ-Returns/">
+  <id>http://localhost:4000/articles/7-Days-Until-Christ-Returns</id>
+  <content type="html" xml:base="http://localhost:4000/articles/7-Days-Until-Christ-Returns/">
     
     &lt;p&gt;A well known Bible expositor wrote a book, whose title is borrowed for this article, to help believers prepare themselves against the day of Christ’s return. This article proposes a more certain, and Scripture-based, way to be ready for that day.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-action-guide&quot; id=&quot;markdown-toc-the-action-guide&quot;&gt;The action guide&lt;/a&gt;&lt;/li&gt;
@@ -203,10 +203,10 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/7-Days-Until-Christ-Returns-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/7-Days-Until-Christ-Returns-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-action-guide&quot;&gt;The action guide&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/7-days-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/7-days-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The author appeals to Jesus’ command to believers to be servants of others, and to the gifts God gives to each believer according to the parable of the talents, and other positive things they should do in preparing themselves for the day Christ comes again. This article will examine and rebut several faulty assumptions delivered in the sermon that was used as the basis for the action guide. The article is not written as an attack of the expositor or his ministries, but it sees the topic as emblematic of the common teachings that stunt believer’s growth, putting doubts in their relationship with God, and instead proposes a more Scriptural approach to achieve the readiness with certainty. Here’s the introduction to the “7 Days Until Christ Returns - An Action Guide.”&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -297,16 +297,16 @@ The author appeals to Jesus’ command to believers to be servants of others, an
 
 &lt;p&gt;Last but not least, exhortations such as 7-Days makes a normal Christian life abnormal, it replaces contentment with dissatisfaction, it takes away thanksgiving for what God has given and replace it with yearning for what seems to be greater blessings enjoyed by others.&lt;/p&gt;
 
-&lt;p&gt;In the parable of the &lt;a href=&quot;http://vacsf.org/articles/Parable-Ten-Virgins/&quot;&gt;&lt;em&gt;Ten Virgins&lt;/em&gt;&lt;/a&gt;, all ten virgins, both the wise and the foolish, fell asleep while waiting for the bridegroom who was a long time in coming. There was no indication of any difference in lifestyle, activities, or performance, between the wise and the foolish virgins, except one thing: the oil the virgins should take with them before they embark on their journey. That was the only thing that counts. That was how they should prepare to meet their Lord, for neither servanthood nor talents would get them the oil they needed.&lt;/p&gt;
+&lt;p&gt;In the parable of the &lt;a href=&quot;http://localhost:4000/articles/Parable-Ten-Virgins/&quot;&gt;&lt;em&gt;Ten Virgins&lt;/em&gt;&lt;/a&gt;, all ten virgins, both the wise and the foolish, fell asleep while waiting for the bridegroom who was a long time in coming. There was no indication of any difference in lifestyle, activities, or performance, between the wise and the foolish virgins, except one thing: the oil the virgins should take with them before they embark on their journey. That was the only thing that counts. That was how they should prepare to meet their Lord, for neither servanthood nor talents would get them the oil they needed.&lt;/p&gt;
 
 &lt;h3 id=&quot;notes&quot;&gt;Notes&lt;/h3&gt;
 
-&lt;p&gt;The topic of Christian inheritance is discussed here: &lt;a href=&quot;http://vacsf.org/articles/The-Will-of-God/&quot;&gt;&lt;em&gt;The Will of God&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The topic of Christian inheritance is discussed here: &lt;a href=&quot;http://localhost:4000/articles/The-Will-of-God/&quot;&gt;&lt;em&gt;The Will of God&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk3MzY1NDYzNywtODgzNDM4MjI5LDE5MD
@@ -320,7 +320,7 @@ eyJoaXN0b3J5IjpbMTk0NTg5MjkxN119
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/7-Days-Until-Christ-Returns/&quot; rel=&quot;nofollow&quot;&gt;7 Days Until Christ Returns&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/7-Days-Until-Christ-Returns/&quot; rel=&quot;nofollow&quot;&gt;7 Days Until Christ Returns&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -331,7 +331,7 @@ eyJoaXN0b3J5IjpbMTk0NTg5MjkxN119
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -360,20 +360,20 @@ eyJoaXN0b3J5IjpbMTk0NTg5MjkxN119
   
     <entry>
   <title>The Old and the New</title>
-  <link href="http://vacsf.org/articles/The-Old-and-the-New/" rel="alternate" type="text/html" title="The Old and the New" />
+  <link href="http://localhost:4000/articles/The-Old-and-the-New/" rel="alternate" type="text/html" title="The Old and the New" />
   <published>2018-05-08T00:00:00+00:00</published>
 
   
     <updated>2018-05-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/The-Old-and-the-New</id>
-  <content type="html" xml:base="http://vacsf.org/articles/The-Old-and-the-New/">
+  <id>http://localhost:4000/articles/The-Old-and-the-New</id>
+  <content type="html" xml:base="http://localhost:4000/articles/The-Old-and-the-New/">
     
     &lt;p&gt;Few Christians know that there is an old covenant and there is a new one, but even fewer really know why there are two, and know enough of their differences to experience a transformation by the renewing of their mind, a paradigm shift in how they relate to their God.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#stuck-in-the-old-way&quot; id=&quot;markdown-toc-stuck-in-the-old-way&quot;&gt;Stuck in the old way&lt;/a&gt;&lt;/li&gt;
@@ -383,10 +383,10 @@ eyJoaXN0b3J5IjpbMTk0NTg5MjkxN119
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/The-Old-and-the-New-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/The-Old-and-the-New-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;stuck-in-the-old-way&quot;&gt;Stuck in the old way&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/old-vs-new.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/old-vs-new.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Most Christians relate to God in the same way the people of Israel did under the Old Covenant. While the Israelites offered bulls and goats or other sacrifices for their sins, the Christians offer apologies, acts of penance, myriad forms of pious deeds, in their place. Little did they know, or rather if they read the Bible and understand it they should already know, that these acts are completely worthless toward their attempt to draw near to God.&lt;/p&gt;
 
 &lt;p&gt;In the &lt;a href=&quot;http://vacsf.org/parable/The-Net&quot;&gt;Parable of the Net&lt;/a&gt;, Jesus spoke of the a house owner who brought out new and old things from his treasure. Though Jesus did not elaborate on what the owner was going to do with them, we can safely deduce from the first two examples in this parable in which bad fish were discarded and wicked people were thrown into the fiery furnace, that the house owner would discard the old and keep the new. The theme of the abolishing of the old while ushering in the new is continued in force in the Hebrews passage we’re studying here.&lt;/p&gt;
@@ -444,12 +444,12 @@ Most Christians relate to God in the same way the people of Israel did under the
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/The-Old-and-the-New/&quot; rel=&quot;nofollow&quot;&gt;The Old and the New&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/The-Old-and-the-New/&quot; rel=&quot;nofollow&quot;&gt;The Old and the New&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -460,7 +460,7 @@ Most Christians relate to God in the same way the people of Israel did under the
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -499,20 +499,20 @@ Most Christians relate to God in the same way the people of Israel did under the
   
     <entry>
   <title>Change My Heart Oh God</title>
-  <link href="http://vacsf.org/articles/Change-My-Heart-Oh-God/" rel="alternate" type="text/html" title="Change My Heart Oh God" />
+  <link href="http://localhost:4000/articles/Change-My-Heart-Oh-God/" rel="alternate" type="text/html" title="Change My Heart Oh God" />
   <published>2018-01-12T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Change-My-Heart-Oh-God</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Change-My-Heart-Oh-God/">
+  <id>http://localhost:4000/articles/Change-My-Heart-Oh-God</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Change-My-Heart-Oh-God/">
     
     &lt;p&gt;The title of a popular Christian song that expresses the desire for change in a believer’s heart. This crying out from deep within of large majority of believers is emblematic of their understanding of the gospel. How do they expect their hearts to be changed? This article will show where the real issues are and a real and realizable answer to a yearning that may not need to be.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-initial-joy-of-salvation&quot; id=&quot;markdown-toc-the-initial-joy-of-salvation&quot;&gt;The initial joy of salvation&lt;/a&gt;&lt;/li&gt;
@@ -524,10 +524,10 @@ Most Christians relate to God in the same way the people of Israel did under the
 
 &lt;/nav&gt;
 
-&lt;!-- a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
+&lt;!-- a href=&quot;http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a --&gt;
 
 &lt;h2 id=&quot;the-initial-joy-of-salvation&quot;&gt;The initial joy of salvation&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Change-my-heart-oh-God-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/Change-my-heart-oh-God-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Though I didn’t walk down the aisle to answer the call to place my trust in Christ in the manner commonly observed at evangelistic events, there were tears streaming down my face, there was a lightness of being as I felt my soul being cleansed from the burden of sin, there was a profound sense of being loved by a power external to my heart that caused me to tremble in a strange but wonderful gladness, and a waterfall of joy that flooded my being. But this is by no means more special or valid than the experiences of others that may be more subtle, and perhaps more from the mind than the heart.  I believe God gives each person an entrance into his kingdom in as unique a way as the individuality that he skillfully crafted into them. Yet for those whose conversion to Christianity is less than spectacular, they yearn for the glorious experiences just the same.&lt;/p&gt;
 
 &lt;p&gt;But no matter how glorious the initial joy of salvation might have been, it’s not meant to last forever. Most testimonies only record the mountain top moments, and though they’re far and few in between what commonly experienced by the large majority of Christians, they’re often cited as the standard against which we must measure our faith. Shortly after the glorious moment of conversion, the Christian begins to wonder if their heart might have grown cold, if they might have failed God, that there might be something more that they missed, and there’s more to be done.&lt;/p&gt;
@@ -606,12 +606,12 @@ O Lamb of God, I come, I come (Hymn Just as I Am, Without One Plea)&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Change-My-Heart-Oh-God/&quot; rel=&quot;nofollow&quot;&gt;Change My Heart Oh God&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Change-My-Heart-Oh-God/&quot; rel=&quot;nofollow&quot;&gt;Change My Heart Oh God&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -622,7 +622,7 @@ O Lamb of God, I come, I come (Hymn Just as I Am, Without One Plea)&lt;/p&gt;
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -645,20 +645,20 @@ O Lamb of God, I come, I come (Hymn Just as I Am, Without One Plea)&lt;/p&gt;
   
     <entry>
   <title>Why Do You Ask Me What Is Good?</title>
-  <link href="http://vacsf.org/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
+  <link href="http://localhost:4000/articles/What-Is-Good/" rel="alternate" type="text/html" title="Why Do You Ask Me What Is Good?" />
   <published>2017-11-05T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/What-Is-Good</id>
-  <content type="html" xml:base="http://vacsf.org/articles/What-Is-Good/">
+  <id>http://localhost:4000/articles/What-Is-Good</id>
+  <content type="html" xml:base="http://localhost:4000/articles/What-Is-Good/">
     
     &lt;p&gt;Most people ponder the question “What must I do to inherit the kingdom of God?” Case in point is it is the same question the rich young ruler asked Jesus in Matthew 19:16. It’s a good question, but the answer is not what most folks are looking for.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-assumption&quot; id=&quot;markdown-toc-the-assumption&quot;&gt;The assumption&lt;/a&gt;&lt;/li&gt;
@@ -672,10 +672,10 @@ O Lamb of God, I come, I come (Hymn Just as I Am, Without One Plea)&lt;/p&gt;
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/What-Is-Good-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/What-Is-Good-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-assumption&quot;&gt;The assumption&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/what-is-good-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Faithful adherents of practically all religions of the world try to solve the problem of what good deeds they must do to get to the place promised in their systems of beliefs. Resisting sins is part of the solution, part of the “good deeds” they must do, but it is still a much narrower aspect of the whole range of good deeds that they must navigate. Thus in asking such question, they’re possessed by a fallacy that they can indeed do all the good deeds required to enter God’s kingdom.&lt;/p&gt;
 
 &lt;p&gt;Let us consider the main Scripture passage of this article.&lt;/p&gt;
@@ -761,12 +761,12 @@ Faithful adherents of practically all religions of the world try to solve the pr
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/What-Is-Good/&quot; rel=&quot;nofollow&quot;&gt;Why Do You Ask Me What Is Good?&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -777,7 +777,7 @@ Faithful adherents of practically all religions of the world try to solve the pr
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -804,20 +804,20 @@ Faithful adherents of practically all religions of the world try to solve the pr
   
     <entry>
   <title>Work Out Your Own Salvation</title>
-  <link href="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
+  <link href="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/" rel="alternate" type="text/html" title="Work Out Your Own Salvation" />
   <published>2017-10-12T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Work-Out-Your-Own-Salvation</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Work-Out-Your-Own-Salvation/">
+  <id>http://localhost:4000/articles/Work-Out-Your-Own-Salvation</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Work-Out-Your-Own-Salvation/">
     
     &lt;p&gt;Philippians 2:12 says &lt;em&gt;“work out your own salvation with fear and trembling”&lt;/em&gt;, and Christians roll up their sleeves to get busy. And more than just getting busy, they do it with fear and trembling, too. This article will show that traditional interpretations of &lt;em&gt;“work out”&lt;/em&gt; and &lt;em&gt;“fear and trembling”&lt;/em&gt; are problematic and incongruous with the rest of Scriptures.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#work-out-your-own-salvation&quot; id=&quot;markdown-toc-work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/a&gt;&lt;/li&gt;
@@ -827,10 +827,10 @@ Faithful adherents of practically all religions of the world try to solve the pr
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Work-Out-Your-Own-Salvation-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;work-out-your-own-salvation&quot;&gt;Work out your own salvation&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/work-out-your-own-salvation-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 Now that you have received your salvation from Jesus Christ who died on the cross for your sins, it’s time you work it out, make worthwhile the sacrifice of the Son of God. GotQuestions.dot.org describes this “work out” as “… actively pursuing obedience in the process of &lt;u&gt;sanctification&lt;/u&gt; … ‘straining’ and ‘pressing on’ toward the goal of Christlikeness,” while DesiringGod.dot.org has an article with the title “Why &lt;u&gt;MUST&lt;/u&gt; We Work Out Our Salvation?” It explains the reason why: “the works we do &lt;u&gt;prove&lt;/u&gt; that our faith is real. Works are evidence of election.” Different sources give different reasons, but they all point to the need for a Christian to work out their salvation. These interpretations are also consistent with the messages I’ve heard from varying sources over the years.&lt;/p&gt;
 
 &lt;p&gt;There are two key concepts in the views expressed above that go against my core belief: sanctification as a process, and works that prove our faith.&lt;/p&gt;
@@ -878,12 +878,12 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Work-Out-Your-Own-Salvation/&quot; rel=&quot;nofollow&quot;&gt;Work Out Your Own Salvation&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -894,7 +894,7 @@ Now that you have received your salvation from Jesus Christ who died on the cros
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -921,20 +921,20 @@ Now that you have received your salvation from Jesus Christ who died on the cros
   
     <entry>
   <title>Repentance From Dead Works</title>
-  <link href="http://vacsf.org/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
+  <link href="http://localhost:4000/articles/Repentance-From-Dead-Works/" rel="alternate" type="text/html" title="Repentance From Dead Works" />
   <published>2017-09-21T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Repentance-From-Dead-Works</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Repentance-From-Dead-Works/">
+  <id>http://localhost:4000/articles/Repentance-From-Dead-Works</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Repentance-From-Dead-Works/">
     
     &lt;p&gt;What seems to preoccupy most Christians is the issue of sin, both of the things you should do but don’t do, and of the things you should not do but you do. The same thing is also true with the majority of Christian teaching which is dedicated toward solving this perennial problem. But the key verse we’re studying in this article denounces it as elementary teaching while it admonishes us to move on to maturity.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#repentance&quot; id=&quot;markdown-toc-repentance&quot;&gt;Repentance&lt;/a&gt;&lt;/li&gt;
@@ -950,10 +950,10 @@ Now that you have received your salvation from Jesus Christ who died on the cros
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Repentance-From-Dead-Works-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;repentance&quot;&gt;Repentance&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/repentance-from-dead-works-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The irony is it is the very issue of sin that drives people to Jesus, but it still plagues them years after they came to Christ. In their mind, they believe their sins are forgiven once and for all when they placed their trust in Christ, and through that faith they have eternal life, access to God through prayer, and many other fundamental beliefs. However, there seems to be a great disparity between what they believe in theory—the church’s doctrines that they hold—, and how they live out these beliefs in real life.&lt;/p&gt;
 
 &lt;p&gt;A quick survey on the internet shows the following definition of repentance:&lt;/p&gt;
@@ -1060,12 +1060,12 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Repentance-From-Dead-Works/&quot; rel=&quot;nofollow&quot;&gt;Repentance From Dead Works&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1076,7 +1076,7 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1101,20 +1101,20 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
   
     <entry>
   <title>Self Denial, the Cross, and Following Jesus</title>
-  <link href="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
+  <link href="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/" rel="alternate" type="text/html" title="Self Denial, the Cross, and Following Jesus" />
   <published>2017-09-14T00:00:00+00:00</published>
 
   
     <updated>2017-09-14T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/">
+  <id>http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/">
     
     &lt;p&gt;Almost all Christians must have heard at least more than once sermons that encourage them to deny themselves, take up their cross, and follow Jesus as both a commandment and a promise that they would experience peace, joy, and ultimately a more fulfilling Christian life. Is this what Jesus had in mind when he spoke these words?&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#matthew-1624&quot; id=&quot;markdown-toc-matthew-1624&quot;&gt;Matthew 16:24&lt;/a&gt;&lt;/li&gt;
@@ -1126,9 +1126,9 @@ The irony is it is the very issue of sin that drives people to Jesus, but it sti
 
 &lt;/nav&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/deny-yourself-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear to be achievable goals, and Christians set out to achieve these goals with a vengeance. A huge amount of communication is dedicated toward teaching Christians how to achieve a measure of success toward these goals. But is a measure of success good enough? For certainly Jesus was not speaking to those who were already in God’s kingdom, but to the lost world of the requirements for entering it. He is posing an impossible standard that only he could achieve: to deny one’s self, to bear the cross, and to follow in his footstep. This article will show that these are not challenges to see who qualifies for God’s kingdom, but are stern ominous shouts from the One who is going to the cross: “Will you surrender?”. We should not hear it with any less alarm than the terrifying scene around mount Sinai when the law was about to be delivered.&lt;/p&gt;
 
 &lt;p&gt;This article was inspired from a verse that was quoted at the end of an email. This verse, which I had heard sermons on it several times in my decades of sitting in my church pews, over the radio, or through Christian literature that I devoured in my early years as a Christian, became my life’s purpose years before Rick Warren’s Purpose Driven Life was written.&lt;/p&gt;
@@ -1175,12 +1175,12 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Self-Denial-Cross-Follow-Jesus/&quot; rel=&quot;nofollow&quot;&gt;Self Denial, the Cross, and Following Jesus&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1191,7 +1191,7 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1216,20 +1216,20 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
   
     <entry>
   <title>Putting Off Of The Body Of The Flesh</title>
-  <link href="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
+  <link href="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/" rel="alternate" type="text/html" title="Putting Off Of The Body Of The Flesh" />
   <published>2017-08-24T00:00:00+00:00</published>
 
   
     <updated>2017-08-13T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
+  <id>http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/">
     
     &lt;p&gt;&lt;em&gt;“In him you also were circumcised - not, however, with a circumcision performed by human hands, but by the removal of the fleshly body, that is, through the circumcision done by Christ.  Having been buried with him in baptism, you also have been raised with him through your faith in the power of God who raised him from the dead (Colossians 2:11-12—NET).”&lt;/em&gt;&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#coram-deo&quot; id=&quot;markdown-toc-coram-deo&quot;&gt;Coram Deo&lt;/a&gt;&lt;/li&gt;
@@ -1243,9 +1243,9 @@ At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear t
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;coram-deo&quot;&gt;Coram Deo&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 An article of a similar topic was written previously under the title &lt;a href=&quot;http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/&quot;&gt;“Mortify The Deeds Of The Flesh.”&lt;/a&gt; This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul’s Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul’s Coram Deo on Colossians 2:11-12 showed up as follows:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1359,12 +1359,12 @@ An article of a similar topic was written previously under the title &lt;a href=
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Putting-Off-Of-The-Body-Of-The-Flesh/&quot; rel=&quot;nofollow&quot;&gt;Putting Off Of The Body Of The Flesh&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1375,7 +1375,7 @@ An article of a similar topic was written previously under the title &lt;a href=
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
@@ -1406,20 +1406,20 @@ An article of a similar topic was written previously under the title &lt;a href=
   
     <entry>
   <title>Entering God’s Rest</title>
-  <link href="http://vacsf.org/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God&#39;s Rest" />
+  <link href="http://localhost:4000/articles/Entering-Gods-Rest/" rel="alternate" type="text/html" title="Entering God's Rest" />
   <published>2017-08-15T00:00:00+00:00</published>
 
   
     <updated>2017-08-15T16:14:45+00:00</updated>
   
 
-  <id>http://vacsf.org/articles/Entering-Gods-Rest</id>
-  <content type="html" xml:base="http://vacsf.org/articles/Entering-Gods-Rest/">
+  <id>http://localhost:4000/articles/Entering-Gods-Rest</id>
+  <content type="html" xml:base="http://localhost:4000/articles/Entering-Gods-Rest/">
     
     &lt;p&gt;Before Jesus took his last breath on the cross, he said: &lt;em&gt;“It’s finished.”&lt;/em&gt; So just as God rested after he completed the work of creation, Jesus rested after he completed the work of saving man. It is his will that we enter this rest, yet so many Christians do not experience it, their walk with God is still weighed down with burdens as they try to achieve what only Jesus could achieve for them, and he had already done so.&lt;/p&gt;
 
 &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;http://localhost:4000/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
   &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-burden-that-man-carries&quot; id=&quot;markdown-toc-the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/a&gt;&lt;/li&gt;
@@ -1431,9 +1431,9 @@ An article of a similar topic was written previously under the title &lt;a href=
 &lt;/nav&gt;
 
 &lt;h2 id=&quot;the-burden-that-man-carries&quot;&gt;The burden that man carries&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/viet-studies/Entering-Gods-Rest-Viet/&quot;&gt;&lt;em&gt;(Bấm vào đây để đọc tiếng Việt)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://localhost:4000/assets/images/entering-Gods-rest-teaser.jpg&quot; style=&quot;border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
 The burden that man must carry is both physical and spiritual, however, Jesus came to address mainly the later. Physical burden must be born by both believers and unbelievers alike, some enjoy a life of ease while others toil for their survival irrespective of spiritual condition. But when Jesus spoke the following well known verse: &lt;em&gt;“Come to me, all you who are weary and burdened, and I will give you rest” (Matthew 11:28)&lt;/em&gt;, was he not also talking about the physical burden, or perhaps at least together with the spiritual as well?&lt;/p&gt;
 
 &lt;p&gt;If it is Jesus’ will to relieve us of our physical burden, such as ill health, financial issues, etc., he would have easily solved them through various physical means. If he could create the universe and everything in it, he could very well restore your good health, and give you resources to fix your financial problems. Jesus didn’t die to provide solutions to man’s physical problems, he died for their sins, and the guilt that weighed them down. Therefore the burden of man that must be lifted is the burden of sin which can only be accomplished by Christ on the cross on our behalf. This burden is uniquely a spiritual one.&lt;/p&gt;
@@ -1498,12 +1498,12 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
 - Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church&#39;s theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
 
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://vacsf.org/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God&#39;s Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/Entering-Gods-Rest/&quot; rel=&quot;nofollow&quot;&gt;Entering God's Rest&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -1514,7 +1514,7 @@ The burden that man must carry is both physical and spiritual, however, Jesus ca
       <name>Nghi Nguyen</name>
     
     
-    <uri>http://vacsf.org/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
 
 
