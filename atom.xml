@@ -6,7 +6,7 @@
   <generator uri="http://jekyllrb.com" version="3.9.1">Jekyll</generator>
   <link href="https://vacsf.org/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://vacsf.org/" rel="alternate" type="text/html" />
-  <updated>2023-03-27T21:26:53+00:00</updated>
+  <updated>2023-04-18T04:39:38+00:00</updated>
   <id>https://vacsf.org/</id>
 
   <title>VACSF.ORG</title>
@@ -183,6 +183,153 @@
 
   
     <entry>
+  <title>Romans 7:7-25</title>
+  <link href="https://vacsf.org/romans/Romans-07-v07-25/" rel="alternate" type="text/html" title="Romans 7:7-25" />
+  <published>2022-11-13T00:00:00+00:00</published>
+
+  
+    <updated>2022-11-13T00:00:00+00:00</updated>
+  
+
+  <id>https://vacsf.org/romans/Romans-07-v07-25</id>
+  <content type="html" xml:base="https://vacsf.org/romans/Romans-07-v07-25/">
+    
+    &lt;nav class=&quot;js-toc toc&quot;&gt;
+  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
+  &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-role-of-the-law&quot; id=&quot;markdown-toc-the-role-of-the-law&quot;&gt;THE ROLE OF THE LAW&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#misuse-of-the-law&quot; id=&quot;markdown-toc-misuse-of-the-law&quot;&gt;MISUSE OF THE LAW&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nothing-good-lives-in-me&quot; id=&quot;markdown-toc-nothing-good-lives-in-me&quot;&gt;NOTHING GOOD LIVES IN ME&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#who-will-rescue-me&quot; id=&quot;markdown-toc-who-will-rescue-me&quot;&gt;WHO WILL RESCUE ME?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;nav class=&quot;js-toc toc&quot; style=&quot;border-top: 0px none;&quot;&gt;
+  &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
+&lt;/nav&gt;
+
+&lt;nav class=&quot;js-toc toc&quot;&gt;
+  &lt;h4 class=&quot;toc__title&quot;&gt;Romans Study Notes&lt;br /&gt;&lt;span style=&quot;font-size: 0.6em; color: rgb(159, 29, 33);&quot;&gt;
+&lt;a href=&quot;https://vacsf.org/bible-studies-viet/Ro-ma/&quot;&gt;&lt;em&gt;(&lt;u&gt;Bấm vào đây để đọc tiếng Việt&lt;/u&gt;)&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;/h4&gt;
+  &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-01-v01-16/&quot;&gt;&lt;u&gt;Romans 1:1-16&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Paul was called to be an apostle. The promised gospel. The obedience of faith. Paul's debt. Not ashamed of the gospel.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-01-v17-32/&quot;&gt;&lt;u&gt;Romans 1:17-32&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Living by faith. Condemnation of the unrighteous.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-02-v1-11/&quot;&gt;&lt;u&gt;Romans 2:1-11&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;You must also judge yourself. Hypocrisy. God’s kindness leads to repentance. The law 101.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-02-v12-29/&quot;&gt;&lt;u&gt;Romans 2:12-29&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Gentile sinners. Don't just hear, do. A false sense of righteousness. Law 101.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-03-v01-09/&quot;&gt;&lt;u&gt;Romans 3:1-9&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Israel as God’s channel of peace. I’m speaking in human terms. All under sin.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-03-v10-31/&quot;&gt;&lt;u&gt;Romans 3:10-31&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;No one righteous. Every mouth silenced. Justified freely apart from the law. Where, then, is boasting? We uphold the law.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v01-05/&quot;&gt;&lt;u&gt;Romans 4:1-5&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;According to the flesh. Law &amp;amp; boasting. It’s enough to believe. Grace vs. works.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v05-13/&quot;&gt;&lt;u&gt;Romans 4:5-13&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Declaring the ungodly righteous. True blessing. Blessing apart from the law. Father of all those who believe.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v14-15/&quot;&gt;&lt;u&gt;Romans 4:14-15&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Law, faith, and promise. Law, wrath, and transgression.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v16-18/&quot;&gt;&lt;u&gt;Romans 4:16-18&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Certainty of the promise. To make the dead alive. Abraham’s faith.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v19-24/&quot;&gt;&lt;u&gt;Romans 4:19-24&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Who do you have faith in? Righteousness based on faith. For everyone who believes.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v25-ch05-v05/&quot;&gt;&lt;u&gt;Romans 4:25-5:5&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Why did Christ die? The hope of God’s glory. From sufering to hope. True hope.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-05-v05-10/&quot;&gt;&lt;u&gt;Romans 5:5-10&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Why the Spirit was given. While we were still sinners.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-05-v11-21/&quot;&gt;&lt;u&gt;Romans 5:11-21&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;By one man. Law and transgression.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v01-11/&quot;&gt;&lt;u&gt;Romans 6:1-11&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Remain in sin so that grace may increase? Died to sin. Buried with Christ. No longer enslaved to sin. Death leads to life. Once for all.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;nav class=&quot;js-toc toc&quot; style=&quot;border-top: 0px none;&quot;&gt;
+  &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
+&lt;/nav&gt;
+
+&lt;nav class=&quot;js-toc toc&quot;&gt;
+  &lt;!-- h4 class=&quot;toc__title&quot;&gt;Bible Studies Series&lt;/h4 --&gt;
+  &lt;h4 class=&quot;toc__title&quot;&gt;
+    &lt;a href=&quot;https://vacsf.org/bible-studies&quot;&gt;&lt;u&gt;Bible Study Series&lt;/u&gt;&lt;/a&gt;
+&lt;/h4&gt;
+  &lt;p&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Colossians/&quot;&gt;&lt;u&gt;Colossians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Galatians/&quot;&gt;  &lt;u&gt;Galatians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Philippians/&quot;&gt;  &lt;u&gt;Philippians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Romans/&quot;&gt;  &lt;u&gt;Romans&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/John-Epistles/&quot;&gt;&lt;u&gt;John Epistles&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Parables/&quot;&gt;  &lt;u&gt;Parables&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Baptism/&quot;&gt;  &lt;u&gt;Baptism&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/nav&gt;
+
+&lt;p&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/romans-viet/Romans-07-v07-25-Viet/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-role-of-the-law&quot;&gt;THE ROLE OF THE LAW&lt;/h2&gt;
+&lt;div&gt;
+&lt;p&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Romans-teaser.png&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
+    &lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;&lt;i&gt;&quot;&lt;sup&gt;7&lt;/sup&gt;What shall we say then? Is the law sin? Absolutely not! Certainly, &lt;strong&gt;I would not have known sin except through the law&lt;/strong&gt;. For indeed I would not have known what it means to desire something belonging to someone else if the law had not said, &quot;Do not covet.&quot;&lt;/i&gt;&lt;/span&gt; (Romans 7:7)&lt;br /&gt;This verse clarifies the apparent and immediate function of the law, which is to expose whether an action or inaction constitutes a sin. However, it does not comment on the law's efficacy in diminishing sin or its potential as a deterrent to sin.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Despite this, many individuals assume that by exposing something as a sin, the law will inevitably decrease sinful behavior. Nevertheless, as subsequent verses will demonstrate, this is not the situation, and the law may yield unforeseen outcomes.&lt;/p&gt;
+
+&lt;h2 id=&quot;misuse-of-the-law&quot;&gt;MISUSE OF THE LAW&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
+&lt;i&gt;“&lt;sup&gt;8&lt;/sup&gt;But sin, seizing the opportunity &lt;strong&gt;through the commandment, produced in me all kinds of wrong desires&lt;/strong&gt;. For apart from the law, sin is dead. &lt;sup&gt;9&lt;/sup&gt;And I was once alive apart from the law, but &lt;strong&gt;with the coming of the commandment sin became alive&lt;/strong&gt; &lt;sup&gt;10&lt;/sup&gt;&lt;strong&gt;and I died&lt;/strong&gt;. So I found that &lt;strong&gt;the very commandment that was intended to bring life brought death&lt;/strong&gt;! &lt;sup&gt;11&lt;/sup&gt;For &lt;strong&gt;sin, seizing the opportunity through the commandment, deceived me and through it I died&lt;/strong&gt;. &lt;sup&gt;12&lt;/sup&gt;So then, the law is holy, and the commandment is holy, righteous, and good. &lt;sup&gt;13&lt;/sup&gt;Did that which is good, then, become death to me? Absolutely not! But &lt;strong&gt;sin, so that it would be shown to be sin&lt;/strong&gt;, produced death in me through what is good, so that &lt;strong&gt;through the commandment sin would become utterly sinful&lt;/strong&gt;.&lt;/i&gt;&lt;/span&gt; (Romans 7:8-13)&lt;/p&gt;
+
+&lt;p&gt;In contrast to the commonly held belief, employing the law results in an increase in sinful behavior and, instead of imparting life, it results in death (v. 8-10).&lt;/p&gt;
+
+&lt;p&gt;When an individual assumes that adhering to the law will enable them to attain God’s righteousness and consequently receive eternal life, they are profoundly deceived by sin. In reality, this misguided belief leads to death (v. 11). The truth is that the law should expose those who keep it to their complete depravity (v. 13), causing them to feel worse, rather than better.&lt;/p&gt;
+
+&lt;h2 id=&quot;nothing-good-lives-in-me&quot;&gt;NOTHING GOOD LIVES IN ME&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
+&lt;i&gt;“&lt;sup&gt;14&lt;/sup&gt;For we know that the law is spiritual - but I am unspiritual, sold into slavery to sin. &lt;sup&gt;15&lt;/sup&gt;For I don’t understand what I am doing. For I do not do what I want - instead, I do what I hate. &lt;sup&gt;16&lt;/sup&gt;But if I do what I don’t want, I agree that the law is good. &lt;sup&gt;17&lt;/sup&gt;But now it is no longer me doing it, but sin that lives in me. &lt;sup&gt;18&lt;/sup&gt;For I know that &lt;strong&gt;nothing good lives in me&lt;/strong&gt;, that is, in my flesh. For &lt;strong&gt;I want to do the good, but I cannot do it&lt;/strong&gt;. &lt;sup&gt;19&lt;/sup&gt;For I do not do the good I want, &lt;strong&gt;but I do the very evil I do not want!&lt;/strong&gt; &lt;sup&gt;20&lt;/sup&gt;Now if I do what I do not want, it is no longer me doing it but sin that lives in me. &lt;sup&gt;21&lt;/sup&gt;So, I find the law that when I want to do good, evil is present with me. &lt;sup&gt;22&lt;/sup&gt;For I delight in the law of God in my inner being. &lt;sup&gt;23&lt;/sup&gt;But I see a &lt;strong&gt;different law&lt;/strong&gt; in my members waging war against the law of my mind and &lt;strong&gt;making me captive to the law of sin&lt;/strong&gt; that is in my members.&lt;/i&gt;&lt;/span&gt; (Romans 7:14-23)&lt;/p&gt;
+
+&lt;p&gt;The verses mentioned above illustrate the truth of our corrupted state: &lt;em&gt;“nothing good lives in me (v. 18).”&lt;/em&gt; Although one may have the desire to perform a particular action, they are unable to do so, and they often succumb to the very evil that they wish to avoid. This occurs due to the &lt;em&gt;“law of sin,”&lt;/em&gt; which keeps them in bondage. By referring to it as a law, Paul indicates that attempting to resist it is a fruitless endeavor. This is an unchanging reality about us, that we are incapable of doing good while simultaneously avoiding bad.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-will-rescue-me&quot;&gt;WHO WILL RESCUE ME?&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
+&lt;i&gt;“&lt;sup&gt;24&lt;/sup&gt;&lt;strong&gt;Wretched man that I am! Who will rescue me&lt;/strong&gt; from this body of death? &lt;sup&gt;25&lt;/sup&gt;Thanks be to God through Jesus Christ our Lord! So then, I myself &lt;strong&gt;serve the law of God with my mind, but with my flesh I serve the law of sin&lt;/strong&gt;.&lt;/i&gt;&lt;/span&gt; (Romans 7:24-25)&lt;/p&gt;
+
+&lt;p&gt;The usual guidance given to believers is to pursue good and shun evil. Yet, as we learned from the earlier verses (Romans 7:14-23), these endeavors are ultimately ineffective because of the &lt;em&gt;“law of sin.”&lt;/em&gt; This fact is restated in verse 25.&lt;/p&gt;
+
+&lt;p&gt;Therefore, our solution does not originate from our own efforts, but from an external source, from “&lt;em&gt;Who.”&lt;/em&gt; If the law accomplishes its task of revealing our genuine sinful state, we will exclaim like Paul, &lt;em&gt;“Wretched man that I am!”&lt;/em&gt; At that point, we will cease searching within ourselves for solutions and instead look outside for a rescuer. We will no longer boast of our capacity to obey the law and its commandments, but instead look to the one who initiated and will bring to completion our faith (Hebrews 12:2).&lt;/p&gt;
+
+&lt;p&gt;When we acknowledge the reality of our dire situation, it can guide us towards a genuine faith in Christ and provide tranquility to our spirits. This is because the only path to reconcile our relationship with God is through Christ, not through any actions of our own.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
+- Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+
+    
+
+&lt;p&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot; rel=&quot;nofollow&quot;&gt;Romans 7:7-25&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
+
+
+  </content>
+
+  
+  <author>
+    
+      <name>Nghi Nguyen</name>
+    
+    
+    <uri>https://vacsf.org/</uri>
+  </author>
+
+
+
+  
+    <category term="Romans" />
+  
+
+  
+    <category term="romans" />
+  
+    <category term="bible-studies" />
+  
+
+  
+    <summary type="text">The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?</summary>
+  
+</entry>
+
+  
+    <entry>
   <title>Romans 7:1-6</title>
   <link href="https://vacsf.org/romans/Romans-07-v01-06/" rel="alternate" type="text/html" title="Romans 7:1-6" />
   <published>2022-11-13T00:00:00+00:00</published>
@@ -234,6 +381,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -425,6 +573,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -600,6 +749,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -772,6 +922,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -938,6 +1089,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1076,6 +1228,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1220,6 +1373,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1405,6 +1559,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1553,6 +1708,7 @@
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1710,6 +1866,7 @@ By faith Abraham obeyed when he was called to go out to a place he would later r
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -1863,6 +2020,7 @@ By faith Abraham obeyed when he was called to go out to a place he would later r
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -2027,6 +2185,7 @@ By faith Abraham obeyed when he was called to go out to a place he would later r
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v07-25/&quot;&gt;&lt;u&gt;Romans 7:7-25&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;The role of the law. Misuse of the law. Nothing good lives in me. Who will rescue me?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 
@@ -2136,191 +2295,6 @@ By faith Abraham obeyed when he was called to go out to a place he would later r
 
   
     <summary type="text">According to the flesh. Law &amp;amp; boasting. It’s enough to believe. Grace vs. works.</summary>
-  
-</entry>
-
-  
-    <entry>
-  <title>Romans 3:10-31</title>
-  <link href="https://vacsf.org/romans/Romans-03-v10-31/" rel="alternate" type="text/html" title="Romans 3:10-31" />
-  <published>2022-11-13T00:00:00+00:00</published>
-
-  
-    <updated>2022-11-13T00:00:00+00:00</updated>
-  
-
-  <id>https://vacsf.org/romans/Romans-03-v10-31</id>
-  <content type="html" xml:base="https://vacsf.org/romans/Romans-03-v10-31/">
-    
-    &lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;p&gt;&lt;img style=&quot;padding-top: 0px; width: 30%;&quot; src=&quot;https://vacsf.org/assets/images/Logo%20color%20trnsprnt.png&quot; alt=&quot;Logo color trnsprnt&quot; /&gt;&lt;/p&gt;
-  &lt;h4 class=&quot;toc__title&quot;&gt;Contents&lt;/h4&gt;
-&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#no-one-righteous&quot; id=&quot;markdown-toc-no-one-righteous&quot;&gt;NO ONE RIGHTEOUS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#every-mouth-silenced&quot; id=&quot;markdown-toc-every-mouth-silenced&quot;&gt;EVERY MOUTH SILENCED&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#justified-freely-apart-from-the-law&quot; id=&quot;markdown-toc-justified-freely-apart-from-the-law&quot;&gt;JUSTIFIED FREELY APART FROM THE LAW&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#where-then-is-boasting&quot; id=&quot;markdown-toc-where-then-is-boasting&quot;&gt;WHERE, THEN, IS BOASTING?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#we-uphold-the-law&quot; id=&quot;markdown-toc-we-uphold-the-law&quot;&gt;WE UPHOLD THE LAW&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/nav&gt;
-
-&lt;nav class=&quot;js-toc toc&quot; style=&quot;border-top: 0px none;&quot;&gt;
-  &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
-&lt;/nav&gt;
-
-&lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;h4 class=&quot;toc__title&quot;&gt;Romans Study Notes&lt;br /&gt;&lt;span style=&quot;font-size: 0.6em; color: rgb(159, 29, 33);&quot;&gt;
-&lt;a href=&quot;https://vacsf.org/bible-studies-viet/Ro-ma/&quot;&gt;&lt;em&gt;(&lt;u&gt;Bấm vào đây để đọc tiếng Việt&lt;/u&gt;)&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;/h4&gt;
-  &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-01-v01-16/&quot;&gt;&lt;u&gt;Romans 1:1-16&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Paul was called to be an apostle. The promised gospel. The obedience of faith. Paul's debt. Not ashamed of the gospel.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-01-v17-32/&quot;&gt;&lt;u&gt;Romans 1:17-32&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Living by faith. Condemnation of the unrighteous.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-02-v1-11/&quot;&gt;&lt;u&gt;Romans 2:1-11&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;You must also judge yourself. Hypocrisy. God’s kindness leads to repentance. The law 101.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-02-v12-29/&quot;&gt;&lt;u&gt;Romans 2:12-29&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Gentile sinners. Don't just hear, do. A false sense of righteousness. Law 101.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-03-v01-09/&quot;&gt;&lt;u&gt;Romans 3:1-9&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Israel as God’s channel of peace. I’m speaking in human terms. All under sin.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-03-v10-31/&quot;&gt;&lt;u&gt;Romans 3:10-31&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;No one righteous. Every mouth silenced. Justified freely apart from the law. Where, then, is boasting? We uphold the law.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v01-05/&quot;&gt;&lt;u&gt;Romans 4:1-5&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;According to the flesh. Law &amp;amp; boasting. It’s enough to believe. Grace vs. works.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v05-13/&quot;&gt;&lt;u&gt;Romans 4:5-13&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Declaring the ungodly righteous. True blessing. Blessing apart from the law. Father of all those who believe.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v14-15/&quot;&gt;&lt;u&gt;Romans 4:14-15&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Law, faith, and promise. Law, wrath, and transgression.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v16-18/&quot;&gt;&lt;u&gt;Romans 4:16-18&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Certainty of the promise. To make the dead alive. Abraham’s faith.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v19-24/&quot;&gt;&lt;u&gt;Romans 4:19-24&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Who do you have faith in? Righteousness based on faith. For everyone who believes.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-04-v25-ch05-v05/&quot;&gt;&lt;u&gt;Romans 4:25-5:5&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Why did Christ die? The hope of God’s glory. From sufering to hope. True hope.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-05-v05-10/&quot;&gt;&lt;u&gt;Romans 5:5-10&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Why the Spirit was given. While we were still sinners.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-05-v11-21/&quot;&gt;&lt;u&gt;Romans 5:11-21&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;By one man. Law and transgression.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v01-11/&quot;&gt;&lt;u&gt;Romans 6:1-11&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Remain in sin so that grace may increase? Died to sin. Buried with Christ. No longer enslaved to sin. Death leads to life. Once for all.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v12-14/&quot;&gt;&lt;u&gt;Romans 6:12-14&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Do not let sin reign. You are not under law. The truth will set you free.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-06-v15-23/&quot;&gt;&lt;u&gt;Romans 6:15-23&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;Shall we sin? You are slaves of the one you obey. Present your members. Those things. Freedom from sin. The wages of sin.&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-07-v01-06/&quot;&gt;&lt;u&gt;Romans 7:1-6&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: normal; margin-left: 1em;&quot;&gt;As long as he lives. If her husband dies. You also died to the law. Sins aroused by the law. The new law: life of the Spirit.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-
-&lt;nav class=&quot;js-toc toc&quot; style=&quot;border-top: 0px none;&quot;&gt;
-  &lt;!-- h4 class=&quot;toc__title&quot;&gt;&lt;span style=&quot;color: rgba(0,0,0,0);&quot;&gt;Blank Space&lt;/span&gt;&lt;/h4 --&gt;
-&lt;/nav&gt;
-
-&lt;nav class=&quot;js-toc toc&quot;&gt;
-  &lt;!-- h4 class=&quot;toc__title&quot;&gt;Bible Studies Series&lt;/h4 --&gt;
-  &lt;h4 class=&quot;toc__title&quot;&gt;
-    &lt;a href=&quot;https://vacsf.org/bible-studies&quot;&gt;&lt;u&gt;Bible Study Series&lt;/u&gt;&lt;/a&gt;
-&lt;/h4&gt;
-  &lt;p&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Colossians/&quot;&gt;&lt;u&gt;Colossians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Galatians/&quot;&gt;  &lt;u&gt;Galatians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Philippians/&quot;&gt;  &lt;u&gt;Philippians&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Romans/&quot;&gt;  &lt;u&gt;Romans&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/John-Epistles/&quot;&gt;&lt;u&gt;John Epistles&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Parables/&quot;&gt;  &lt;u&gt;Parables&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://vacsf.org/bible-studies/Baptism/&quot;&gt;  &lt;u&gt;Baptism&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/nav&gt;
-
-&lt;p&gt;No one righteous. Every mouth silenced. Justified freely apart from the law. Where, then, is boasting? We uphold the law.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vacsf.org/romans-viet/Romans-03-v10-31-Viet/&quot;&gt;(&lt;em&gt;Bấm vào đây để đọc tiếng Việt&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;no-one-righteous&quot;&gt;NO ONE RIGHTEOUS&lt;/h2&gt;
-&lt;div&gt;
-&lt;p&gt;
-&lt;img alt=&quot;&quot; src=&quot;http://vacsf.org/assets/images/Romans-teaser.png&quot; style=&quot;border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;&quot; /&gt;
-&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;&lt;i&gt;&quot;&lt;sup&gt;10&lt;/sup&gt;just as it is written: &quot;&lt;strong&gt;There is no one righteous, not even one&lt;/strong&gt;,: &lt;sup&gt;11&lt;/sup&gt;there is no one who understands, there is no one who seeks God. &lt;sup&gt;12&lt;/sup&gt;All have turned away, together they have become worthless; there is no one who shows kindness, not even one.&quot; &lt;sup&gt;13&lt;/sup&gt;&quot;Their throats are open graves, they deceive with their tongues, the poison of asps is under their lips.&quot; &lt;sup&gt;14&lt;/sup&gt;&quot;Their mouths are full of cursing and bitterness.&quot; &lt;sup&gt;15&lt;/sup&gt;&quot;Their feet are swift to shed blood, &lt;sup&gt;16&lt;/sup&gt;ruin and misery are in their paths, &lt;sup&gt;17&lt;/sup&gt;and the way of peace they have not known.&quot; &lt;sup&gt;18&lt;/sup&gt;&quot;There is no fear of God before their eyes.&quot;&lt;/i&gt;&lt;/span&gt; (Romans 3:10-18)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Romans 3:9, which states that &lt;strong&gt;&lt;em&gt;“Jews and Greeks alike are all under sin,”&lt;/em&gt;&lt;/strong&gt; served as the conclusion of our previous bible study. Here, verses 10 through 18 illustrate the depth of humankind’s sins in more detail. Paul is not speaking of “them,” but of all of us, whether you are a Jew or a Greek, a member of a church or not. He covers every end of the human spectrum, from the best to the worst. Nobody is left out.&lt;/p&gt;
-
-&lt;p&gt;As I guided my Sunday school class, I had a hunch that most believed Paul was referring to sinners in the outside world. But nothing is more false than that. He is referring to the readers of this chapter specifically. We are all composed of the materials he is describing. We don’t all look for God. We’ve all turned away and lost all value. Our throats serve as open graves. With our tongues, we lie. And so it continues.&lt;/p&gt;
-
-&lt;p&gt;Why is it the case? &lt;strong&gt;&lt;em&gt;“There is no one righteous, not even one,”&lt;/em&gt;&lt;/strong&gt; it says in Scripture.&lt;/p&gt;
-
-&lt;h2 id=&quot;every-mouth-silenced&quot;&gt;EVERY MOUTH SILENCED&lt;/h2&gt;
-
-&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
-&lt;i&gt;“&lt;sup&gt;19&lt;/sup&gt;Now we know that &lt;strong&gt;whatever the law says&lt;/strong&gt;, it says to those who are under the law, so that &lt;strong&gt;every mouth may be silenced&lt;/strong&gt; and &lt;strong&gt;the whole world may be held accountable to God&lt;/strong&gt;. &lt;sup&gt;20&lt;/sup&gt;For &lt;strong&gt;no one is declared righteous before him by the works of the law&lt;/strong&gt;, for through the law comes the &lt;strong&gt;knowledge of sin&lt;/strong&gt;.”&lt;/i&gt;&lt;/span&gt; (Romans 3:19-20)&lt;/p&gt;
-
-&lt;p&gt;The widely held belief on the function of the law is that it improves people. You eventually grow more sanctified because it helps you distinguish between good and evil. But this is a misunderstanding of the function of the law. It’s not meant to help you accomplish any of the aforementioned goals; rather, it’s meant to highlight your sinfulness and how short of God’s glory you truly are.&lt;/p&gt;
-
-&lt;p&gt;If the law is successful in accomplishing its purpose in your life, it acts as a mirror that shows who you really are: &lt;strong&gt;&lt;em&gt;“because through the law comes the knowledge of sin.”&lt;/em&gt;&lt;/strong&gt; Since the Garden of Eden and the Ten Commandments, such has been the aim of the law. Every one of us has been guilty of misusing the law.&lt;/p&gt;
-
-&lt;p&gt;This should put an end to any attempts to justify oneself using the law: &lt;strong&gt;&lt;em&gt;“every mouth may be silenced.”&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;justified-freely-apart-from-the-law&quot;&gt;JUSTIFIED FREELY APART FROM THE LAW&lt;/h2&gt;
-
-&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
-&lt;i&gt;“&lt;sup&gt;21&lt;/sup&gt;But now &lt;strong&gt;apart from the law&lt;/strong&gt; the righteousness of God (which is attested by the law and the prophets) has been disclosed - &lt;sup&gt;22&lt;/sup&gt;namely, the &lt;strong&gt;righteousness of God through the faithfulness of Jesus Christ for all who believe&lt;/strong&gt;. For there is no distinction, &lt;sup&gt;23&lt;/sup&gt;for all have sinned and fall short of the glory of God. &lt;sup&gt;24&lt;/sup&gt;But they are &lt;strong&gt;justified freely&lt;/strong&gt; by his grace through the &lt;strong&gt;redemption that is in Christ Jesus&lt;/strong&gt;. &lt;sup&gt;25&lt;/sup&gt;God publicly displayed him at his death as the mercy seat accessible through faith. This was to demonstrate his righteousness, because God in his forbearance had passed over the sins previously committed. &lt;sup&gt;26&lt;/sup&gt;This was also to demonstrate his righteousness in the present time, so that &lt;strong&gt;he would be just and the justifier&lt;/strong&gt; of the one who lives &lt;strong&gt;because of Jesus’ faithfulness&lt;/strong&gt;.”&lt;/i&gt;&lt;/span&gt; (Romans 3:21-26)&lt;/p&gt;
-
-&lt;p&gt;The degree of acceptability to a certain audience is what is meant by righteousness. For a Christian, it refers to acceptance by God. However, Philippians 3:9 states that there are two different types of righteousness: my own self-righteousness, which results from upholding the law, and the righteousness of God, which is made available to us through faith in Christ. A Christian should pursue God’s righteousness because it is the only righteousness that has eternal significance.&lt;/p&gt;
-
-&lt;p&gt;Here are distinctive qualities of God’s righteousness:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It is provided separately from the law. This implies that you are not required to follow the law in order to be righteous in God’s eyes.&lt;/li&gt;
-  &lt;li&gt;It is bestowed by way of faith in Christ.&lt;/li&gt;
-  &lt;li&gt;It is given freely.&lt;/li&gt;
-  &lt;li&gt;Nothing else or anybody else, but Christ, serves as the justifier.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Years ago, when I didn’t know as much about the New Covenant as I do now, a fellow Christian in our church challenged me, saying that God’s righteousness is the same as the law and that grace somehow contradicts the law. They believed that since the law is the truth, and Jesus is full of grace and truth, he desires that you live under both grace and the law. I was at a loss. How could I possibly contest that?&lt;/p&gt;
-
-&lt;p&gt;Now that I am wiser.  The law is there to teach you there is no way you can be in God’s presence, and righteousness is when God sees you as perfect enough to be there. This Christian must enroll in this class at this time since Galatians 5:4 issues a strong caution regarding this:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You who are trying to be declared righteous by the law have been alienated from Christ; you have fallen away from grace! (Galatians 5:4)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If the law is effective in a person’s life, such as the person in the preceding example, it would have led them to the same spot where Isaiah encountered God in the temple:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts. (Isaiah 6:5)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The law exposes your sinfulness, not your righteousness.&lt;/p&gt;
-
-&lt;h2 id=&quot;where-then-is-boasting&quot;&gt;WHERE, THEN, IS BOASTING?&lt;/h2&gt;
-
-&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
-&lt;i&gt;“&lt;sup&gt;27&lt;/sup&gt;&lt;strong&gt;Where, then, is boasting?It is excluded!&lt;/strong&gt;  By what principle? Of works? No, but by the &lt;strong&gt;principle of faith&lt;/strong&gt;! &lt;sup&gt;28&lt;/sup&gt;For we consider that a person is &lt;strong&gt;declared righteous by faith apart from the works of the law&lt;/strong&gt;. &lt;sup&gt;29&lt;/sup&gt;Or is God the God of the Jews only? Is he not the God of the Gentiles too? Yes, of the Gentiles too! &lt;sup&gt;30&lt;/sup&gt;Since God is one, he will justify the circumcised by faith and the uncircumcised through faith.”&lt;/i&gt;&lt;/span&gt; (Romans 3:27-30)&lt;/p&gt;
-
-&lt;p&gt;When someone lives their life in accordance with the law, they will unavoidably compare themselves to others and either give in to boasting or an inferiority complex.&lt;/p&gt;
-
-&lt;p&gt;Why is bragging not permitted? This is the case because God grants you righteousness while excluding the law. When you approach God in reliance on your faith in God’s love and mercy, there is no room for boasting. God is adamant that the cross’s work is the only source of your righteousness.&lt;/p&gt;
-
-&lt;h2 id=&quot;we-uphold-the-law&quot;&gt;WE UPHOLD THE LAW&lt;/h2&gt;
-
-&lt;p&gt;&lt;span style=&quot;color: rgb(159, 29, 33);&quot;&gt;
-&lt;i&gt;“&lt;sup&gt;31&lt;/sup&gt;Do we then &lt;strong&gt;nullify the law through faith?&lt;/strong&gt; Absolutely not! Instead &lt;strong&gt;we uphold the law&lt;/strong&gt;.”&lt;/i&gt;&lt;/span&gt; (Romans 3:31)&lt;/p&gt;
-
-&lt;p&gt;Paul can be accused of negating the law because of how much he teaches about faith. These same folks are misinformed about the function of the law. They believe that upholding the law entails keeping all the commandments. However, as we previously learned in verse 20, the purpose of the law is to expose the absolute depravity of those who follow it. When you feel sanctified and proud of yourself for upholding the law, you are the one who breaks it, because it’s purpose is to reveal sins (Romans 3:20). However, when the law looks us in the eye and we raise our hands in surrender and cry, &lt;em&gt;“Woe is me, for I am undone,”&lt;/em&gt; (Isaiah 6:5), we are the ones who uphold the law.&lt;/p&gt;
-
-&lt;p&gt;Faith comes after the law. Only after the law has eliminated all hope that a person may depend on their obedience to achieve God’s righteousness will faith begin to grow. As a result, faith does not make the law invalid; rather, it only emerges when individuals are sufficiently alarmed by the brutality of the law, much like the humans and animals that were present at the foot of Mount Sinai when Moses brought down the two stone tablets.&lt;/p&gt;
-
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #666666;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p abp=&quot;1999&quot; style=&quot;text-align: left;&quot;&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #666666;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;
-- Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;alert-box text radius&quot;&gt;&lt;p&gt;&lt;em abp=&quot;2000&quot; style=&quot;color: #888888;&quot;&gt;&lt;span abp=&quot;2001&quot; style=&quot;font-size: 10pt;&quot;&gt;Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-
-
-    
-
-&lt;p&gt;&lt;a href=&quot;https://vacsf.org/romans/Romans-03-v10-31/&quot; rel=&quot;nofollow&quot;&gt;Romans 3:10-31&lt;/a&gt; was originally published by &lt;a href=&quot;https://vacsf.org/about/&quot; rel=&quot;nofollow&quot;&gt;Nghi Nguyen&lt;/a&gt; on &lt;a href=&quot;https://vacsf.org&quot; rel=&quot;nofollow&quot;&gt;VACSF.ORG&lt;/a&gt;&lt;/p&gt;
-
-
-  </content>
-
-  
-  <author>
-    
-      <name>Nghi Nguyen</name>
-    
-    
-    <uri>https://vacsf.org/</uri>
-  </author>
-
-
-
-  
-    <category term="Romans" />
-  
-
-  
-    <category term="romans" />
-  
-    <category term="bible-studies" />
-  
-
-  
-    <summary type="text">No one righteous. Every mouth silenced. Justified freely apart from the law. Where, then, is boasting? We uphold the law.</summary>
   
 </entry>
 
